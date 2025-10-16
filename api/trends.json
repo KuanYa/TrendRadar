@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T01:02:25.021083+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-17T01:48:48.026211+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 01时48分]"
         },
         {
           "title": "京东汽车“招兵买马”",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 01时48分]"
         },
         {
           "title": "加拿大总理卡尼：欧洲汽车制造商斯泰兰蒂斯集团Stellantis正为Brampton考虑不同的车型。",
@@ -44,7 +44,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "台积电法说会：对人工智能大趋势的信心正在“增强”，上调全年销售预期和资本支出下限",
@@ -54,8 +54,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 01时48分]"
+        },
+        {
+          "title": "甲骨文(ORCL.N)高管：2026财年第一季度人工智能基础设施同比增长117%。",
+          "url": "https://flash.jin10.com/detail/20251017011833855800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "01时48分"
         }
       ]
     }
