@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T21:40:18.029610+08:00",
-  "total_titles_processed": 1875,
+  "generated_at": "2025-10-16T22:28:48.610282+08:00",
+  "total_titles_processed": 1962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "打不开的车门！小米汽车成都事故争议背后：门把手为何再成焦点",
@@ -30,6 +30,33 @@
           "time_info": "[09时56分 ~ 13时24分]"
         },
         {
+          "title": "沪指震荡收涨，全市场成交不足2万亿，红利资产反弹，恒科指跌超1%，新能源汽车股大跌，国债分化，商品上涨",
+          "url": "https://wallstreetcn.com/articles/3757280",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 22时28分]"
+        },
+        {
+          "title": "“十五五”智能网联汽车规划要来了！自动驾驶等标准有望加快制定",
+          "url": "https://www.cls.cn/detail/2171393",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 22时28分]"
+        },
+        {
           "title": "恒生科技指数跌幅扩大至2%，港股新能源汽车股午后持续走低，蔚来跌超11%，小鹏汽车跌近5%，小米集团、零跑汽车跌超3%。",
           "url": "https://wallstreetcn.com/livenews/2988693",
           "source": "华尔街见闻-快讯",
@@ -50,32 +77,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
-        },
-        {
-          "title": "沪指震荡收涨，全市场成交不足2万亿，红利资产反弹，恒科指跌超1%，新能源汽车股大跌，国债分化，商品上涨",
-          "url": "https://wallstreetcn.com/articles/3757280",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时28分 ~ 21时40分]"
-        },
-        {
-          "title": "“十五五”智能网联汽车规划要来了！自动驾驶等标准有望加快制定",
-          "url": "https://www.cls.cn/detail/2171393",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时28分 ~ 21时40分]"
         },
         {
           "title": "雷军：汽车安全是基础",
@@ -115,6 +116,18 @@
           "time_info": "[05时24分 ~ 06时22分]"
         },
         {
+          "title": "京东物流与小鹏汽车深化战略合作",
+          "url": "https://wallstreetcn.com/livenews/2989040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 22时28分]"
+        },
+        {
           "title": "京东宣布联合广汽、宁德时代共同推出一款新车，京东进军汽车赛道可能有哪些考量？前景如何？",
           "url": "https://www.zhihu.com/question/1961478185104400904",
           "source": "知乎",
@@ -137,13 +150,24 @@
           "time_info": "09时56分"
         },
         {
+          "title": "欧洲汽车制造商协会呼吁解决芯片供应短缺问题。",
+          "url": "https://flash.jin10.com/detail/20251016215855894800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "美股开盘，道指涨0.19%，标普500指数涨0.32%，纳指涨0.41%。台积电(TSM.N)涨1.37%，其季度利润再创新高。蔚来汽车(NIO.N)下跌7.7%，公司遭新加坡主权财富基金诉讼，相关指控三年前已澄清。纳斯达克中国金龙指数跌0.16%。",
           "url": "https://flash.jin10.com/detail/20251016213033736800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -201,17 +225,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
-        },
-        {
-          "title": "京东物流与小鹏汽车深化战略合作",
-          "url": "https://wallstreetcn.com/livenews/2989040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
         },
         {
           "title": "雷军：汽车安全是基础",
@@ -472,7 +485,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
