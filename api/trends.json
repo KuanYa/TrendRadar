@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T02:44:35.160269+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2025-10-17T03:20:46.554893+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 03时20分]"
+        },
+        {
+          "title": "甲骨文设法打消投资者对人工智能（AI）利润的恐惧感，称大型AI基础设施项目的利润率可以达到35%。 该公司在拉斯维加斯年度活动上举例称，一个为期六年、600亿美元总收入的AI基建项目利润率就可以达到35%。 CoreWeave上涨6.6%，甲骨文也涨4.7%。",
+          "url": "https://wallstreetcn.com/livenews/2989137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 03时20分]"
         },
         {
           "title": "甲骨文(ORCL.N)高管：2026财年第一季度人工智能基础设施同比增长117%。",
@@ -29,17 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
-        },
-        {
-          "title": "甲骨文设法打消投资者对人工智能（AI）利润的恐惧感，称大型AI基础设施项目的利润率可以达到35%。 该公司在拉斯维加斯年度活动上举例称，一个为期六年、600亿美元总收入的AI基建项目利润率就可以达到35%。 CoreWeave上涨6.6%，甲骨文也涨4.7%。",
-          "url": "https://wallstreetcn.com/livenews/2989137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
         }
       ]
     },
@@ -55,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 03时20分]"
         },
         {
           "title": "京东汽车“招兵买马”",
@@ -64,11 +65,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 03时20分]"
         },
         {
           "title": "加拿大总理卡尼：欧洲汽车制造商斯泰兰蒂斯集团Stellantis正为Brampton考虑不同的车型。",
