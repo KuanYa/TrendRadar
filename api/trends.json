@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T19:23:27.910855+08:00",
-  "total_titles_processed": 1754,
+  "generated_at": "2025-10-17T20:56:59.084841+08:00",
+  "total_titles_processed": 1878,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,19 @@
           "time_info": "[09时59分 ~ 18时30分]"
         },
         {
+          "title": "新能源汽车火灾事故企业报告制度",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BC%81%E4%B8%9A%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时33分 ~ 20时56分]"
+        },
+        {
           "title": "沪指震荡收涨，全市场成交不足2万亿，红利资产反弹，恒科指跌超1%，新能源汽车股大跌，国债分化，商品上涨",
           "url": "https://wallstreetcn.com/articles/3757280",
           "source": "华尔街见闻",
@@ -37,18 +50,6 @@
           "time_info": "[01时02分 ~ 16时35分]"
         },
         {
-          "title": "新能源汽车火灾事故企业报告制度",
-          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E4%BC%81%E4%B8%9A%E6%8A%A5%E5%91%8A%E5%88%B6%E5%BA%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时33分 ~ 19时23分]"
-        },
-        {
           "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
           "url": "https://m.thepaper.cn/newsDetail_forward_31796762",
           "source": "澎湃新闻",
@@ -56,11 +57,12 @@
             16,
             12,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时42分 ~ 19时23分]"
+          "appearance_count": 7,
+          "time_info": "[14时42分 ~ 20时56分]"
         },
         {
           "title": "汽车制造商集团警告称，恩智浦芯片供应商的问题可能迅速扰乱美国汽车生产。",
@@ -242,6 +244,18 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "AH股大调整！沪指跌近2%，全市场超4800只下跌，农业银行逆势创新高，恒科指跌超4%，沪金突破千元大关",
+          "url": "https://wallstreetcn.com/articles/3757363",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 20时56分]"
+        },
+        {
           "title": "A股银行股继续走强，农业银行11连阳，股价再创历史新高，银行板块指数7连阳。",
           "url": "https://wallstreetcn.com/livenews/2989342",
           "source": "华尔街见闻-快讯",
@@ -251,18 +265,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
-        },
-        {
-          "title": "AH股大调整！沪指跌近2%，全市场超4800只下跌，农业银行逆势创新高，恒科指跌超4%，沪金突破千元大关",
-          "url": "https://wallstreetcn.com/articles/3757363",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 19时23分]"
         },
         {
           "title": "农业农村部等部门：加强现代农事综合服务中心建设",
@@ -281,11 +283,12 @@
           "url": "https://www.cls.cn/detail/2172450",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 18时30分]"
+          "appearance_count": 3,
+          "time_info": "[17时30分 ~ 20时56分]"
         },
         {
           "title": "10月17日午间收评：创业板指半日跌2.37%，农业银行股价创新高",
