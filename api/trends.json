@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T02:36:39.113227+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2025-10-18T03:21:20.154658+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,23 @@
           "ranks": [
             7,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时21分]"
+        },
+        {
+          "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31796762",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时21分]"
         },
         {
           "title": "德国大众汽车董事会任命Oliver Blume为首席执行官（CEO），任期持续至2030年年底。",
@@ -31,17 +43,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时23分]"
-        },
-        {
-          "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31796762",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时36分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌1.8%，创7月29日（当天跌4.3%）一来最差单日表现，报352.00点，本周累计下跌将近0.75%。 在十个板块中，北欧医疗保健板块领跌。 沃尔沃汽车集团跌7.8%，在一众北欧个股里表现最差。",
@@ -70,6 +71,56 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "IMF总裁格奥尔基耶娃：各国需对人工智能采取系统性方法。",
+          "url": "https://flash.jin10.com/detail/20251018022938290800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "高盛创建一个侧重于人工智能（AI）融资的团队。 该团队将注重AI基础设施的融资。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/2989806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：我们看到发展中经济体认识到必须加快步伐，以便利用人工智能实现跨越式发展。",
+          "url": "https://flash.jin10.com/detail/20251018022647390800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：我们不希望人工智能成为又一个加剧分歧的工具。",
+          "url": "https://flash.jin10.com/detail/20251018022512322800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "农业",
       "match_count": 1,
       "titles": [
@@ -81,25 +132,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时21分]"
         }
       ]
     },
     {
-      "keyword_group": "人工智能",
+      "keyword_group": "大豆",
       "match_count": 1,
       "titles": [
         {
-          "title": "高盛创建一个侧重于人工智能（AI）融资的团队。 该团队将注重AI基础设施的融资。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/2989806",
-          "source": "华尔街见闻-快讯",
+          "title": "美国一储藏约816吨大豆粮仓倒塌",
+          "url": "https://www.toutiao.com/trending/7561859739697840182/",
+          "source": "今日头条",
           "ranks": [
-            22
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "03时21分"
         }
       ]
     }
