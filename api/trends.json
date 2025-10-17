@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T21:36:02.782223+08:00",
-  "total_titles_processed": 1953,
+  "generated_at": "2025-10-17T22:27:00.755738+08:00",
+  "total_titles_processed": 2020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "新能源汽车火灾事故企业报告制度",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时33分 ~ 21时36分]"
+          "appearance_count": 13,
+          "time_info": "[12时33分 ~ 22时27分]"
         },
         {
           "title": "雷军：汽车安全是基础，共同抵制网络水军和黑公关，营造积极向上的产业发展环境",
@@ -61,8 +61,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时42分 ~ 21时36分]"
+          "appearance_count": 11,
+          "time_info": "[14时42分 ~ 22时27分]"
         },
         {
           "title": "汽车制造商集团警告称，恩智浦芯片供应商的问题可能迅速扰乱美国汽车生产。",
@@ -149,6 +149,18 @@
           "time_info": "[17时30分 ~ 18时30分]"
         },
         {
+          "title": "李乐成在2025世界智能网联汽车大会巡展并调研",
+          "url": "https://wallstreetcn.com/livenews/2989773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时27分]"
+        },
+        {
           "title": "据英国金融时报：法拉利(RACE.N)已减少其在英国的汽车销量。",
           "url": "https://flash.jin10.com/detail/20251017120158449800",
           "source": "金十数据",
@@ -161,6 +173,28 @@
           "time_info": "[12时33分 ~ 13时27分]"
         },
         {
+          "title": "朱江明剧透零跑汽车明年新车规划",
+          "url": "https://www.toutiao.com/trending/7562161594650693166/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 22时27分]"
+        },
+        {
+          "title": "外国老丈人向发小炫耀中国汽车",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E8%80%81%E4%B8%88%E4%BA%BA%E5%90%91%E5%8F%91%E5%B0%8F%E7%82%AB%E8%80%80%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 22时27分]"
+        },
+        {
           "title": "工信部郭守刚：研究制定十五五智能网联新能源汽车产业发展规划，规范企业OTA升级活动",
           "url": "https://wallstreetcn.com/livenews/2989338",
           "source": "华尔街见闻-快讯",
@@ -170,17 +204,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
-        },
-        {
-          "title": "李乐成在2025世界智能网联汽车大会巡展并调研",
-          "url": "https://wallstreetcn.com/livenews/2989773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
         },
         {
           "title": "国家市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度",
@@ -263,8 +286,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时35分 ~ 21时36分]"
+          "appearance_count": 9,
+          "time_info": "[16时35分 ~ 22时27分]"
         },
         {
           "title": "A股银行股继续走强，农业银行11连阳，股价再创历史新高，银行板块指数7连阳。",
