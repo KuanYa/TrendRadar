@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T15:26:28.498774+08:00",
-  "total_titles_processed": 1347,
+  "generated_at": "2025-10-17T16:35:50.901866+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时02分 ~ 15时26分]"
+          "appearance_count": 17,
+          "time_info": "[01时02分 ~ 16时35分]"
         },
         {
           "title": "雷军：汽车安全是基础，共同抵制网络水军和黑公关，营造积极向上的产业发展环境",
@@ -27,11 +28,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 15时26分]"
+          "appearance_count": 7,
+          "time_info": "[09时59分 ~ 16时35分]"
         },
         {
           "title": "汽车制造商集团警告称，恩智浦芯片供应商的问题可能迅速扰乱美国汽车生产。",
@@ -66,8 +68,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时09分 ~ 15时26分]"
+          "appearance_count": 6,
+          "time_info": "[11时09分 ~ 16时35分]"
         },
         {
           "title": "新能源汽车火灾事故企业报告制度",
@@ -77,8 +79,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 15时26分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 16时35分]"
         },
         {
           "title": "周四（10月16日），彭博电动汽车价格回报指数跌0.61%，报3434.18点。 北京时间10:18，指数涨至3482.25点刷新日高，15:00-21:30大致持平，随后持续走低。 成分股普拉格动力公司跌约9.6%，蔚来集团H股收跌8.99%，MP材料跌约6.7%跌幅第三大。 保时捷P911欧股则收涨1.22%涨幅第五大，雅迪集团H股收涨1.74%，印度Sona Blw Precision Ltd.收涨3.60%、Ola Electric Mobility Ltd.收涨4.90%，沃尔沃汽车集团欧股收涨8.24%。",
@@ -93,6 +95,17 @@
           "time_info": "[04时30分 ~ 05时22分]"
         },
         {
+          "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31796762",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 16时35分]"
+        },
+        {
           "title": "据英国金融时报：法拉利(RACE.N)已减少其在英国的汽车销量。",
           "url": "https://flash.jin10.com/detail/20251017120158449800",
           "source": "金十数据",
@@ -103,17 +116,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时33分 ~ 13时27分]"
-        },
-        {
-          "title": "市场监管总局：建立并推动实施新能源汽车火灾事故企业报告制度，加大新型缺陷问题召回监管力度",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31796762",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 15时26分]"
         },
         {
           "title": "工信部郭守刚：研究制定十五五智能网联新能源汽车产业发展规划，规范企业OTA升级活动",
@@ -166,7 +168,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -298,8 +300,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 15时26分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 16时35分]"
         },
         {
           "title": "美国一储藏约816吨大豆粮仓倒塌",
@@ -344,11 +346,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            26
+            26,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 15时26分]"
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 16时35分]"
         },
         {
           "title": "美联储卡什卡利：认真对待对大豆的担忧，但美联储无能为力。",
@@ -365,7 +368,7 @@
     },
     {
       "keyword_group": "农业",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "A股银行股继续走强，农业银行11连阳，股价再创历史新高，银行板块指数7连阳。",
@@ -391,6 +394,17 @@
           "time_info": "[12时33分 ~ 13时27分]"
         },
         {
+          "title": "AH股大调整！沪指跌近2%，全市场超4800只下跌，农业银行逆势创新高，恒科指跌超4%，沪金突破千元大关",
+          "url": "https://wallstreetcn.com/articles/3757363",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "习近平给中国农业大学全体师生回信",
           "url": "https://m.thepaper.cn/newsDetail_forward_31791072",
           "source": "澎湃新闻",
@@ -408,7 +422,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         }
@@ -455,8 +469,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 15时26分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 16时35分]"
         }
       ]
     }
