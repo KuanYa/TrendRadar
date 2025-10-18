@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T17:26:26.388640+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2025-10-18T18:27:31.906909+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
@@ -87,11 +87,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时26分]"
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 18时27分]"
         },
         {
           "title": "德国大众汽车董事会任命Oliver Blume为首席执行官（CEO），任期持续至2030年年底。",
