@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T10:11:41.262301+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2025-10-19T11:52:06.532988+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             11,
             13,
             15,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 10时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 11时52分]"
         },
         {
           "title": "马斯克表示，Grok 5将是通用人工智能（AGI），或者是与AGI难以区分的东西。",
@@ -62,6 +63,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时30分 ~ 03时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大数据",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "贝莱德、英伟达等牵头组成财团，400 亿美元收购 Aligned，如何看待这笔史上最大数据中心交易 ？",
+          "url": "https://www.zhihu.com/question/1962101109016457762",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 11时52分]"
         }
       ]
     }
