@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T01:26:24.613763+08:00",
-  "total_titles_processed": 340,
+  "generated_at": "2025-10-20T02:35:26.414454+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             24,
-            27
+            27,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时35分]"
         }
       ]
     },
@@ -34,8 +35,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时35分]"
         }
       ]
     },
@@ -52,8 +53,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时35分]"
         }
       ]
     }
