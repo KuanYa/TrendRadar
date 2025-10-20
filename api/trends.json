@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T06:29:31.340846+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2025-10-21T07:26:59.390145+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时26分]"
         },
         {
           "title": "7年来首次，9月归零！中国还是没买美国大豆",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时26分]"
         },
         {
           "title": "如何看中美大豆贸易博弈",
@@ -42,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时26分]"
         },
         {
           "title": "美方称将稀土、芬太尼和大豆列为中美经贸磋商的三大问题，外交部回应",
@@ -53,8 +53,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时26分]"
         },
         {
           "title": "芝加哥大豆期货和豆粕涨超1.3%",
@@ -82,11 +82,12 @@
             16,
             12,
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时26分]"
         },
         {
           "title": "周一（10月20日），彭博电动汽车价格回报指数涨1.72%，报3429.12点。 北京时间09:30“跳空”上涨并断线持续走高，10:10刷新日高至3435.56点，日内大部分时间持续高位窄幅震荡。 成分股浙江零跑科技H股收涨6.19%、吉利汽车控股H股收涨4.35%表现第二，沃尔沃汽车集团欧股、极氪ADR涨超4%紧随其后。",
@@ -118,8 +119,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 07时26分]"
         }
       ]
     },
