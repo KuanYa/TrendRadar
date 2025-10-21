@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T07:26:59.390145+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2025-10-21T10:01:46.225139+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "大豆",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美方称将稀土、芬太尼和大豆列为中美经贸磋商的三大问题 外交部回应",
@@ -30,6 +30,18 @@
           "time_info": "[00时33分 ~ 07时26分]"
         },
         {
+          "title": "美方称将稀土、芬太尼和大豆列为中美经贸磋商的三大问题，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31811779",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 10时01分]"
+        },
+        {
           "title": "如何看中美大豆贸易博弈",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E4%B8%AD%E7%BE%8E%E5%A4%A7%E8%B1%86%E8%B4%B8%E6%98%93%E5%8D%9A%E5%BC%88",
           "source": "bilibili 热搜",
@@ -42,19 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时26分]"
-        },
-        {
-          "title": "美方称将稀土、芬太尼和大豆列为中美经贸磋商的三大问题，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31811779",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 10时01分]"
         },
         {
           "title": "芝加哥大豆期货和豆粕涨超1.3%",
@@ -67,6 +68,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时26分]"
+        },
+        {
+          "title": "中国停购美国大豆，一谷仓积压崩塌，豆粒喷涌而出(图)",
+          "url": "https://news.ifeng.com/c/8ncoJZZhKJj",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
@@ -83,11 +95,12 @@
             12,
             9,
             8,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 10时01分]"
         },
         {
           "title": "周一（10月20日），彭博电动汽车价格回报指数涨1.72%，报3429.12点。 北京时间09:30“跳空”上涨并断线持续走高，10:10刷新日高至3435.56点，日内大部分时间持续高位窄幅震荡。 成分股浙江零跑科技H股收涨6.19%、吉利汽车控股H股收涨4.35%表现第二，沃尔沃汽车集团欧股、极氪ADR涨超4%紧随其后。",
@@ -119,8 +132,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 10时01分]"
         }
       ]
     },
