@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T17:30:27.519274+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2025-10-21T18:32:13.224867+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
@@ -74,8 +74,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时01分 ~ 17时30分]"
+          "appearance_count": 11,
+          "time_info": "[10时01分 ~ 18时32分]"
         },
         {
           "title": "中国会重新采购美国大豆吗",
@@ -138,7 +138,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
         },
@@ -149,7 +149,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
         },
@@ -206,8 +206,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 17时30分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 18时32分]"
         },
         {
           "title": "周一（10月20日），彭博电动汽车价格回报指数涨1.72%，报3429.12点。 北京时间09:30“跳空”上涨并断线持续走高，10:10刷新日高至3435.56点，日内大部分时间持续高位窄幅震荡。 成分股浙江零跑科技H股收涨6.19%、吉利汽车控股H股收涨4.35%表现第二，沃尔沃汽车集团欧股、极氪ADR涨超4%紧随其后。",
