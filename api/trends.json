@@ -1,787 +1,106 @@
 {
-  "generated_at": "2025-10-22T23:29:59.667009+08:00",
-  "total_titles_processed": 2124,
+  "generated_at": "2025-10-23T00:37:23.751526+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "汽车",
-      "match_count": 24,
+      "keyword_group": "人工智能",
+      "match_count": 3,
       "titles": [
         {
-          "title": "大众汽车在致员工的信中表示，正在为工厂可能临时关闭做准备。（德国图片报）",
-          "url": "https://wallstreetcn.com/livenews/2991855",
+          "title": "“大空头”查诺斯（Jim Chanos）：信用市场的状态“非常类似1999年”。 人工智能（AI）是本轮周期（资产配置）的“位移”。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/2992018",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时30分"
-        },
-        {
-          "title": "通用汽车计划推出无需视觉关注的驾驶功能。 谷歌AI和其他新兴车内技术将于2028年之前投入应用。",
-          "url": "https://wallstreetcn.com/livenews/2992000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "福特汽车(F.N)：召回涉及配备模拟后视摄像头的2015至2019年款部分车型，相信召回将解决受影响客户所面临的模拟后视摄像头问题。",
-          "url": "https://flash.jin10.com/detail/20251022181327210800",
-          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时30分"
+          "time_info": "00时37分"
         },
         {
-          "title": "福特汽车(F.N)：将为未纳入召回范围、但已配备后视摄像头的其他车型提供全新的15年期后视摄像头延保服务。",
-          "url": "https://flash.jin10.com/detail/20251022181244487800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时30分"
-        },
-        {
-          "title": "网传蔚来汽车单周销量过万，蔚来做对了什么？按这个节奏今年第四季度盈利稳了吗？",
-          "url": "https://www.zhihu.com/question/1963985406870647114",
-          "source": "知乎",
-          "ranks": [
-            20,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时42分 ~ 17时31分]"
-        },
-        {
-          "title": "德国汽车零部件供应商Brose Fahrzeugteile SE & Co.考虑在业务中出售股权。 该公司正与潜在的顾问们讨论可能的交易。 该公司2024年净亏损1.42亿欧元，销售77亿欧元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2991381",
+          "title": "通用汽车在为在曼哈顿下城举行的“GM Forward”活动上宣布，可对话的谷歌公司人工智能（AI）大模型Gemini功能将于2026年开始在其汽车上推出。 在接下来的三年里，还计划推出一种新系统，让司机可以解放双手，不看路，但在他们需要的时候仍然可以控制车辆。 该公司还宣布了其他技术举措。",
+          "url": "https://wallstreetcn.com/livenews/2992000",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 04时32分]"
-        },
-        {
-          "title": "通用汽车收涨15%，创最近五年来最佳单日表现。",
-          "url": "https://wallstreetcn.com/livenews/2991407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时26分]"
-        },
-        {
-          "title": "汽车博主透露蔚来汽车单周销量过万，蔚来做对了什么？按这个节奏今年第四季度盈利稳了吗？",
-          "url": "https://www.zhihu.com/question/1963985406870647114",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时30分 ~ 19时24分]"
-        },
-        {
-          "title": "周二（10月21日），彭博电动汽车价格回报指数跌0.03%，报3427.63点，北京时间10:00之前显著拉升、09:51曾涨至3486.74点。 成分股MP材料跌约10%，普拉格动力公司跌超8%，美国雅宝跌约5%。 蔚来集团H股则收涨2.78%，沃尔沃汽车集团欧股收涨3.16%，吉利汽车控股H股收涨3.23%，小鹏汽车H股收涨3.75%。",
-          "url": "https://wallstreetcn.com/livenews/2991417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时24分]"
-        },
-        {
-          "title": "中汽协：1-9月汽车销量排名前十位的企业（集团）共销售2043.1万辆",
-          "url": "https://wallstreetcn.com/livenews/2991636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 13时28分]"
-        },
-        {
-          "title": "欧洲汽车制造概念股多数收涨，斯泰兰蒂斯集团Stellantis涨4.80%，米其林涨2.09%，保时捷P911、佛瑞亚、法拉利、雷诺、沃尔沃A类股、倍耐力涨1.58%-1%。 德国大众汽车则收跌0.54%，法雷奥跌0.70%，阿斯顿马丁跌1.65%。",
-          "url": "https://wallstreetcn.com/livenews/2991367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时23分]"
-        },
-        {
-          "title": "通用汽车涨幅扩大至16%，报67.55美元，创2010年以来盘中新高。",
-          "url": "https://wallstreetcn.com/livenews/2991364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时23分]"
-        },
-        {
-          "title": "车主买小米汽车被另一品牌销售诅咒",
-          "url": "https://www.toutiao.com/trending/7563446421257650222/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 22时30分]"
-        },
-        {
-          "title": "福特汽车(F.N)：宣布对约140万辆汽车进行安全召回，以解决模拟后视摄像头的潜在问题。",
-          "url": "https://flash.jin10.com/detail/20251022181148800800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时30分"
-        },
-        {
-          "title": "泰国汽车联合会：泰国9月国内汽车销量同比增长23.82%（8月为5.38%）。",
-          "url": "https://flash.jin10.com/detail/20251022115138314800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "百度旗下的阿波罗智行（Apollo Go）与瑞士邮政巴士（PostBus）合作，将在瑞士部署自动驾驶汽车。",
-          "url": "https://flash.jin10.com/detail/20251022160213148800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "汽车开远光 男子反手爆闪回击",
-          "url": "https://www.toutiao.com/trending/7563226393572655146/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "恒指低开0.50%，报25897.62点；恒生科技指数跌0.82%。网易、百度、阿里巴巴、理想汽车等跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2991541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "金十图示：2025年10月22日（周三）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251022110536421800",
-          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "00时37分"
         },
         {
-          "title": "泰国7月汽车产量同比增长4.77%，8月为下降6.11%。",
-          "url": "https://flash.jin10.com/detail/20251022113855047800",
+          "title": "美媒：Meta将削减人工智能部门约600个职位",
+          "url": "https://flash.jin10.com/detail/20251022230938289800",
           "source": "金十数据",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "据德国《图片报》：大众汽车在给员工的信中，让员工为工厂可能暂时关闭做好准备。",
-          "url": "https://flash.jin10.com/detail/20251022174856836800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时30分"
-        },
-        {
-          "title": "斯泰兰蒂斯(STLA.N)通过电子邮件表示，因一家铝厂发生火灾，位于密歇根州沃伦的吉普汽车工厂已停产三周。",
-          "url": "https://flash.jin10.com/detail/20251022031546430800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "通用汽车(GM.N)涨幅扩大至16%，触及2010年以来最高水平。",
-          "url": "https://flash.jin10.com/detail/20251022012051744800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "瑞银：将通用汽车(GM.N)目标价从81美元上调至85美元。",
-          "url": "https://flash.jin10.com/detail/20251022195229337800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "GDP增长5.5%！人工智能、半导体等产业快速增长 上海经济实现奋力一跳",
-          "url": "https://www.cls.cn/detail/2176114",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时48分 ~ 17时31分]"
-        },
-        {
-          "title": "全球IT市场研究和咨询公司Gartner：人工智能基础设施与终端设备将继续推动需求。",
-          "url": "https://flash.jin10.com/detail/20251022203204664800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时59分"
-        },
-        {
-          "title": "深圳：在集成电路、人工智能、新能源等战略性新兴产业领域，支持龙头上市公司等开展上下游并购重组",
-          "url": "https://wallstreetcn.com/livenews/2991850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时30分"
-        },
-        {
-          "title": "广东省国资委：力争到2027年人工智能相关投资超200亿元",
-          "url": "https://wallstreetcn.com/livenews/2991663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-22）",
-          "url": "https://flash.jin10.com/detail/20251022115248161800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 13时28分]"
-        },
-        {
-          "title": "美国商业人工智能公司Uniphore完成2.6亿美元F轮融资，英伟达、AMD等参投",
-          "url": "https://wallstreetcn.com/livenews/2991928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 21时40分]"
-        },
-        {
-          "title": "马斯克：人工智能和机器人将取代所有工作。工作将成为可选项，就像自己种植蔬菜而不是从商店购买一样。",
-          "url": "https://flash.jin10.com/detail/20251022064158770800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "惠誉：尽管消费者疲软和政策风险仍然存在，人工智能热潮正在缓冲美国信贷市场的压力。",
-          "url": "https://flash.jin10.com/detail/20251022224038661800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "扎克伯格旗下Meta Platforms将从人工智能（AI）架构裁员大约600人。 新组建的TBD Lab Group并未受到影响。 Meta将继续为了推动AI业务而招聘。",
-          "url": "https://wallstreetcn.com/livenews/2991983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特（Hassett）：人工智能（AI）生产力繁荣全部来自数据。（福克斯商业新闻）",
-          "url": "https://wallstreetcn.com/livenews/2991412",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "上海前三季度三大先导产业制造业产值同比增长8.5% 其中人工智能制造业增长12.8%",
-          "url": "https://wallstreetcn.com/livenews/2991539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "广东：推动人工智能赋能制造业企业全流程智能化升级",
-          "url": "https://wallstreetcn.com/livenews/2991604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "陈茂波：区块链技术和人工智能正引领数字金融服务快速发展",
-          "url": "https://wallstreetcn.com/livenews/2991596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "欧盟研究：人工智能不是可靠的新闻来源",
-          "url": "https://wallstreetcn.com/livenews/2991773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "英国竞争和市场管理局（CMA）：技术发展，尤其是人工智能领域的进展，不太可能在五年指定期内消除苹果(AAPL.O)或谷歌(GOOG.O)的市场影响力。",
-          "url": "https://flash.jin10.com/detail/20251022210546326800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时40分"
+          "time_info": "00时37分"
         }
       ]
     },
     {
       "keyword_group": "玉米",
-      "match_count": 11,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "当地规劝烤肉店停止玉米做燃料",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BD%93%E5%9C%B0%E8%A7%84%E5%8A%9D%E7%83%A4%E8%82%89%E5%BA%97%E5%81%9C%E6%AD%A2%E7%8E%89%E7%B1%B3%E5%81%9A%E7%87%83%E6%96%99%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D1%26realpos%3D2%26cate%3D5001%26stream_entry_id%3D31%26flag%3D0%26lcate%3D5001%26dgr%3D0%26band_rank%3D2%26c_type%3D31%26filter_type%3Drealtimehot%26q%3D%2523%25E5%25BD%2593%25E5%259C%25B0%25E8%25A7%2584%25E5%258A%259D%25E7%2583%25A4%25E8%2582%2589%25E5%25BA%2597%25E5%2581%259C%25E6%25AD%25A2%25E7%258E%2589%25E7%25B1%25B3%25E5%2581%259A%25E7%2587%2583%25E6%2596%2599%2523%26display_time%3D1761064328%26pre_seqid%3D17610643284720229931946",
-          "source": "微博",
-          "ranks": [
-            2,
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 10时04分]"
-        },
-        {
-          "title": "文玩玉米需求暴涨 价格炒到上万元",
-          "url": "https://www.baidu.com/s?wd=%E6%96%87%E7%8E%A9%E7%8E%89%E7%B1%B3%E9%9C%80%E6%B1%82%E6%9A%B4%E6%B6%A8+%E4%BB%B7%E6%A0%BC%E7%82%92%E5%88%B0%E4%B8%8A%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            22,
-            5,
-            10,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时39分 ~ 21时40分]"
-        },
-        {
-          "title": "烤肉店用玉米做燃料引争议",
-          "url": "https://www.baidu.com/s?wd=%E7%83%A4%E8%82%89%E5%BA%97%E7%94%A8%E7%8E%89%E7%B1%B3%E5%81%9A%E7%87%83%E6%96%99%E5%BC%95%E4%BA%89%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            23,
-            30,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时24分]"
-        },
-        {
-          "title": "烤肉店用玉米粒当燃料 玉米专家发声",
-          "url": "https://www.baidu.com/s?wd=%E7%83%A4%E8%82%89%E5%BA%97%E7%94%A8%E7%8E%89%E7%B1%B3%E7%B2%92%E5%BD%93%E7%87%83%E6%96%99+%E7%8E%89%E7%B1%B3%E4%B8%93%E5%AE%B6%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            6,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时04分 ~ 15时27分]"
-        },
-        {
-          "title": "烤肉店用玉米当燃料 公众为何很敏感",
-          "url": "https://www.toutiao.com/trending/7563588979694505535/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            18,
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时24分 ~ 07时26分]"
-        },
-        {
-          "title": "文玩玉米需求暴涨价格炒到上万元",
-          "url": "https://www.toutiao.com/trending/7563919269663621163/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            2,
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 19时24分]"
-        },
-        {
-          "title": "专家称不赞成不支持玉米粒当柴烧",
-          "url": "https://www.toutiao.com/trending/7563595082231218203/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            21,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 19时24分]"
-        },
-        {
-          "title": "周二（10月21日）纽约尾盘，彭博谷物分类指数跌0.58%，报28.8166点。 CBOT玉米期货跌0.83%，CBOT小麦期货跌0.84%。 CBOT大豆期货跌0.11%，报10.4850美元/蒲式耳，豆粕期货涨0.49%，豆油期货跌1.34%。",
-          "url": "https://wallstreetcn.com/livenews/2991394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 04时32分]"
-        },
-        {
-          "title": "“文玩玉米”为何走红",
-          "url": "https://www.toutiao.com/trending/7563596500626948106/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时30分]"
-        },
         {
           "title": "澎湃漫评｜烤肉店用玉米当燃料，该紧张吗",
           "url": "https://m.thepaper.cn/newsDetail_forward_31823258",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            15
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时39分 ~ 23时29分]"
+          "appearance_count": 1,
+          "time_info": "00时37分"
         },
         {
           "title": "烤肉店回应“使用玉米当燃料”质疑，市监局：正研究相关问题",
           "url": "https://m.thepaper.cn/newsDetail_forward_31822727",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时39分 ~ 23时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大豆",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "报道：高市早苗政府在最终确定对美采购计划，或包括大豆、皮卡和液化天然气",
-          "url": "https://wallstreetcn.com/livenews/2991714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "大豆博弈的历史溯源",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E8%B1%86%E5%8D%9A%E5%BC%88%E7%9A%84%E5%8E%86%E5%8F%B2%E6%BA%AF%E6%BA%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 19时24分]"
-        },
-        {
-          "title": "中国停购美国大豆背后",
-          "url": "https://www.toutiao.com/trending/7563545010948279850/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 11时48分]"
-        },
-        {
-          "title": "贸易战中的中美大豆贸易博弈",
-          "url": "https://www.douyin.com/hot/2277028",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 21时40分]"
-        },
-        {
-          "title": "消息人士称，日本首相高市早苗将在与美国总统特朗普的会谈中表示，日本将购买美国大豆、皮卡和液化天然气，但不会承诺新的国防支出目标。",
-          "url": "https://flash.jin10.com/detail/20251022141926544800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "美国大豆期货价格为何上涨",
-          "url": "https://www.toutiao.com/trending/7563881939891916342/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "00时37分"
         }
       ]
     },
     {
       "keyword_group": "农业",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
           "title": "【焦点复盘】沪指低开回升3900点失而复得，成交额再创2个多月地量，农业银行年内涨近六成",
           "url": "https://www.cls.cn/detail/2177184",
           "source": "财联社热门",
           "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时23分 ~ 23时29分]"
-        },
-        {
-          "title": "创业板跌0.8%，农业银行再创历史新高，恒科指跌超1%，老铺黄金跌超8%，国债反弹，沪金逆势跌4%",
-          "url": "https://wallstreetcn.com/articles/3757615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时30分 ~ 22时30分]"
-        },
-        {
-          "title": "特朗普政府将发放在美国政府关门期间被冻结的农业救济。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/2991427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时24分]"
-        },
-        {
-          "title": "特朗普指示农业部拨款30亿美元 解决农户资金需求",
-          "url": "https://flash.jin10.com/detail/20251022045820804800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时24分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：支持牧场主的农业政策将很快公布。",
-          "url": "https://flash.jin10.com/detail/20251022041611698800",
-          "source": "金十数据",
-          "ranks": [
-            26
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "00时37分"
         }
       ]
     },
     {
-      "keyword_group": "农民",
-      "match_count": 2,
+      "keyword_group": "汽车",
+      "match_count": 1,
       "titles": [
         {
-          "title": "山东烟台一烤肉店用玉米做燃料，店家回应称是帮农民打开销路，这一行为属于浪费吗？玉米做燃料环保吗？",
-          "url": "https://www.zhihu.com/question/1963900499452494848",
-          "source": "知乎",
+          "title": "俄罗斯9月汽车产量同比下降1.7%，至6.65万辆。",
+          "url": "https://flash.jin10.com/detail/20251023000059832800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时04分 ~ 22时30分]"
-        },
-        {
-          "title": "河南农民刚经历罕见干旱又遭遇秋涝",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B2%B3%E5%8D%97%E5%86%9C%E6%B0%91%E5%88%9A%E7%BB%8F%E5%8E%86%E7%BD%95%E8%A7%81%E5%B9%B2%E6%97%B1%E5%8F%88%E9%81%AD%E9%81%87%E7%A7%8B%E6%B6%9D%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D27%26stream_entry_id%3D31%26pos%3D28%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E6%25B2%25B3%25E5%258D%2597%25E5%2586%259C%25E6%25B0%2591%25E5%2588%259A%25E7%25BB%258F%25E5%258E%2586%25E7%25BD%2595%25E8%25A7%2581%25E5%25B9%25B2%25E6%2597%25B1%25E5%258F%2588%25E9%2581%25AD%25E9%2581%2587%25E7%25A7%258B%25E6%25B6%259D%2523%26band_rank%3D27%26dgr%3D0%26flag%3D1%26cate%3D5001%26c_type%3D31%26display_time%3D1761125349%26pre_seqid%3D17611253494400120118991",
-          "source": "微博",
-          "ranks": [
-            27
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时31分"
+          "time_info": "00时37分"
         }
       ]
     }
