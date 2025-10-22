@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T15:27:02.852557+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2025-10-22T16:39:26.615951+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "德国汽车零部件供应商Brose Fahrzeugteile SE & Co.考虑在业务中出售股权。 该公司正与潜在的顾问们讨论可能的交易。 该公司2024年净亏损1.42亿欧元，销售77亿欧元。（彭博）",
@@ -37,11 +37,12 @@
           "url": "https://www.zhihu.com/question/1963985406870647114",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 15时27分]"
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 16时39分]"
         },
         {
           "title": "周二（10月21日），彭博电动汽车价格回报指数跌0.03%，报3427.63点，北京时间10:00之前显著拉升、09:51曾涨至3486.74点。 成分股MP材料跌约10%，普拉格动力公司跌超8%，美国雅宝跌约5%。 蔚来集团H股则收涨2.78%，沃尔沃汽车集团欧股收涨3.16%，吉利汽车控股H股收涨3.23%，小鹏汽车H股收涨3.75%。",
@@ -101,6 +102,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "百度旗下的阿波罗智行（Apollo Go）与瑞士邮政巴士（PostBus）合作，将在瑞士部署自动驾驶汽车。",
+          "url": "https://flash.jin10.com/detail/20251022160213148800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "汽车开远光 男子反手爆闪回击",
@@ -172,7 +184,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "GDP增长5.5%！人工智能、半导体等产业快速增长 上海经济实现奋力一跳",
@@ -182,11 +194,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 15时27分]"
+          "appearance_count": 7,
+          "time_info": "[11时48分 ~ 16时39分]"
         },
         {
           "title": "广东省国资委：力争到2027年人工智能相关投资超200亿元",
@@ -265,12 +278,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
+        },
+        {
+          "title": "欧盟研究：人工智能不是可靠的新闻来源",
+          "url": "https://wallstreetcn.com/livenews/2991773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         }
       ]
     },
     {
       "keyword_group": "玉米",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "当地规劝烤肉店停止玉米做燃料",
@@ -339,12 +363,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 04时32分]"
+        },
+        {
+          "title": "文玩玉米需求暴涨价格炒到上万元",
+          "url": "https://www.toutiao.com/trending/7563919269663621163/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "文玩玉米需求暴涨 价格炒到上万元",
+          "url": "https://www.baidu.com/s?wd=%E6%96%87%E7%8E%A9%E7%8E%89%E7%B1%B3%E9%9C%80%E6%B1%82%E6%9A%B4%E6%B6%A8+%E4%BB%B7%E6%A0%BC%E7%82%92%E5%88%B0%E4%B8%8A%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "专家称不赞成不支持玉米粒当柴烧",
+          "url": "https://www.toutiao.com/trending/7563595082231218203/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         }
       ]
     },
     {
       "keyword_group": "大豆",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "报道：高市早苗政府在最终确定对美采购计划，或包括大豆、皮卡和液化天然气",
@@ -368,6 +425,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时04分 ~ 11时48分]"
+        },
+        {
+          "title": "大豆博弈的历史溯源",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E8%B1%86%E5%8D%9A%E5%BC%88%E7%9A%84%E5%8E%86%E5%8F%B2%E6%BA%AF%E6%BA%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "消息人士称，日本首相高市早苗将在与美国总统特朗普的会谈中表示，日本将购买美国大豆、皮卡和液化天然气，但不会承诺新的国防支出目标。",
@@ -447,8 +515,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时04分 ~ 15时27分]"
+          "appearance_count": 8,
+          "time_info": "[10时04分 ~ 16时39分]"
         }
       ]
     }
