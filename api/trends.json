@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T19:23:20.510296+08:00",
-  "total_titles_processed": 1779,
+  "generated_at": "2025-10-23T20:57:08.835691+08:00",
+  "total_titles_processed": 1900,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "小米汽车副总裁李肖爽否认宣传“SOS 1秒接通”：系造谣诋毁 将追责",
@@ -172,6 +172,17 @@
           "time_info": "[15时30分 ~ 15时31分]"
         },
         {
+          "title": "日汽车协会收到无法保证芯片交付通知",
+          "url": "https://www.toutiao.com/trending/7564326761228943402/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        },
+        {
           "title": "美国总统特朗普：通用汽车(GM.N)首席执行官Mary Barra和福特汽车(F.N)首席执行官Bill Ford刚刚打电话感谢我对中型和大型卡车征收关税。他们的股价已经飙升。他们告诉我，如果没有这些关税，美国的卡车和汽车制造商将面临一场非常艰难、漫长的“挣扎”。",
           "url": "https://flash.jin10.com/detail/20251023005736122800",
           "source": "金十数据",
@@ -236,6 +247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "上海将启动第一轮汽车以旧换新补贴摇号报名",
+          "url": "https://wallstreetcn.com/livenews/2992596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "市场消息：汽车制造商呼吁特朗普政府不要对工厂机器人和工业机械征收新关税。",
@@ -445,7 +467,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -563,8 +585,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时23分]"
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 20时57分]"
         },
         {
           "title": "农业银行“14连阳”背后关键词： 防御性、季节性与差异化",
@@ -692,7 +714,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         }
