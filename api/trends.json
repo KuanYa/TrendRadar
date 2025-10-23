@@ -1,33 +1,57 @@
 {
-  "generated_at": "2025-10-24T04:28:55.867988+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2025-10-24T05:22:37.773926+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
-          "title": "英特尔：三季度业绩大范围地更加强劲。 服务器需求意外地偏正面。 结束Windows 10，和人工智能（AI）提振收入。",
-          "url": "https://wallstreetcn.com/livenews/2992753",
+          "title": "美法官承认使用人工智能导致法院裁决出错",
+          "url": "https://flash.jin10.com/detail/20251024042842055800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "美法官承认：使用人工智能导致法院裁决出错",
+          "url": "https://wallstreetcn.com/livenews/2992773",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时28分"
+          "time_info": "05时22分"
+        },
+        {
+          "title": "英特尔：三季度业绩大范围地更加强劲。 服务器需求意外地偏正面。 结束Windows 10，和人工智能（AI）提振收入。",
+          "url": "https://wallstreetcn.com/livenews/2992753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时22分]"
         },
         {
           "title": "英特尔(INTC.O)Q3数据中心与人工智能营收41亿美元，同比下降1%。",
           "url": "https://flash.jin10.com/detail/20251024040706619800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时22分]"
         },
         {
           "title": "微软(MSFT.O)：取消秋季版Copilot发布计划；推出12项新功能，让人工智能更具个性化、实用性与人性化。",
@@ -55,18 +79,30 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "通用汽车和斯泰兰蒂斯集团Stellantis将部分地丧失加拿大关税豁免。",
+          "url": "https://wallstreetcn.com/livenews/2992779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
         {
           "title": "福特汽车三季度调整后EBIT为15.4亿美元，分析师预期12亿美元。 预计全年调整后Ebit为60亿-65亿美元，公司原本预计65亿-75亿美元。",
           "url": "https://wallstreetcn.com/livenews/2992751",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时22分]"
         },
         {
           "title": "英伟达表示，正与优步开发无人驾驶汽车。 优步（Uber）涨幅迅速扩大至3.1%。",
@@ -79,6 +115,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时28分]"
+        },
+        {
+          "title": "福特汽车CEO：现在，（美国总统特朗普挑起的）关税的影响处于“一个更加合理的水平”。",
+          "url": "https://wallstreetcn.com/livenews/2992761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "周四（10月23日），彭博电动汽车价格回报指数涨1.18%，报3437.72点，北京时间14:00前后出现一波显著的上涨行情，日内剩余时间持续高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/2992757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
         }
       ]
     },
@@ -94,8 +152,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 05时22分]"
         }
       ]
     },
@@ -131,8 +189,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 05时22分]"
         }
       ]
     }
