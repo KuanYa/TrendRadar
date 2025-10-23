@@ -1,12 +1,36 @@
 {
-  "generated_at": "2025-10-24T06:25:02.187467+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2025-10-24T07:23:35.540911+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "据知情人士透露，通用汽车（将因为关闭加拿大工厂）而丧失24%的关税豁免。 斯泰兰蒂斯集团Stellantis将因迁移生产线到美国而丧失50%的加拿大关税豁免。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2992809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "通用汽车和斯泰兰蒂斯集团Stellantis将部分地丧失加拿大关税豁免。",
+          "url": "https://wallstreetcn.com/livenews/2992779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 07时23分]"
+        },
         {
           "title": "福特汽车三季度调整后EBIT为15.4亿美元，分析师预期12亿美元。 预计全年调整后Ebit为60亿-65亿美元，公司原本预计65亿-75亿美元。",
           "url": "https://wallstreetcn.com/livenews/2992751",
@@ -19,18 +43,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 06时25分]"
-        },
-        {
-          "title": "通用汽车和斯泰兰蒂斯集团Stellantis将部分地丧失加拿大关税豁免。",
-          "url": "https://wallstreetcn.com/livenews/2992779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时25分]"
         },
         {
           "title": "英伟达表示，正与优步开发无人驾驶汽车。 优步（Uber）涨幅迅速扩大至3.1%。",
@@ -75,7 +87,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -86,7 +98,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         }
@@ -217,8 +229,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时23分]"
         }
       ]
     }
