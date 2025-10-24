@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T18:31:34.820699+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2025-10-24T19:26:01.947244+08:00",
+  "total_titles_processed": 1732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "安世半导体风波如何影响汽车行业",
@@ -17,11 +17,26 @@
             14,
             21,
             19,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 18时31分]"
+          "appearance_count": 11,
+          "time_info": "[09时55分 ~ 19时26分]"
+        },
+        {
+          "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时40分 ~ 19时26分]"
         },
         {
           "title": "小米汽车购置税补贴方案",
@@ -44,7 +59,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -58,19 +73,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时40分 ~ 18时31分]"
         },
         {
           "title": "通用汽车和斯泰兰蒂斯集团Stellantis将部分地丧失加拿大关税豁免。",
@@ -157,6 +159,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时25分]"
+        },
+        {
+          "title": "美国总统特朗普称福特汽车(F.N)和通用汽车(GM.N)因对来自其他国家的大型和中型卡车征收关税而收益。",
+          "url": "https://flash.jin10.com/detail/20251024190517536800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "福特汽车(F.N)首席执行官：预计2026年的净关税影响将与2025年相似。",
@@ -448,11 +461,12 @@
           "url": "https://www.toutiao.com/trending/7564699195152535081/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 19时26分]"
         },
         {
           "title": "巴西大豆为何敢坐地起价",
@@ -468,6 +482,18 @@
           "time_info": "[15时27分 ~ 18时31分]"
         },
         {
+          "title": "巴西大豆坐地起价影响几何",
+          "url": "https://www.toutiao.com/trending/7564698507546725942/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 19时26分]"
+        },
+        {
           "title": "巴西大豆涨价反遭滞港教训",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B7%B4%E8%A5%BF%E5%A4%A7%E8%B1%86%E6%B6%A8%E4%BB%B7%E5%8F%8D%E9%81%AD%E6%BB%9E%E6%B8%AF%E6%95%99%E8%AE%AD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%25B7%25B4%25E8%25A5%25BF%25E5%25A4%25A7%25E8%25B1%2586%25E6%25B6%25A8%25E4%25BB%25B7%25E5%258F%258D%25E9%2581%25AD%25E6%25BB%259E%25E6%25B8%25AF%25E6%2595%2599%25E8%25AE%25AD%2523%26dgr%3D0%26band_rank%3D18%26filter_type%3Drealtimehot%26flag%3D1%26stream_entry_id%3D31%26realpos%3D18%26cate%3D5001%26c_type%3D31%26pos%3D18%26lcate%3D5001%26display_time%3D1761270908%26pre_seqid%3D176127090810601179051112",
           "source": "微博",
@@ -477,17 +503,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
-        },
-        {
-          "title": "巴西大豆坐地起价影响几何",
-          "url": "https://www.toutiao.com/trending/7564698507546725942/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
         },
         {
           "title": "巴西大豆涨价对中国有何影响",
