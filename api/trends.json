@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T19:26:01.947244+08:00",
-  "total_titles_processed": 1732,
+  "generated_at": "2025-10-24T20:58:02.610250+08:00",
+  "total_titles_processed": 1866,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             15,
             11,
             10,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时40分 ~ 19时26分]"
+          "appearance_count": 9,
+          "time_info": "[14时40分 ~ 20时58分]"
         },
         {
           "title": "小米汽车购置税补贴方案",
@@ -167,7 +168,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
