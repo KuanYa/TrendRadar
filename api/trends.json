@@ -1,12 +1,28 @@
 {
-  "generated_at": "2025-10-24T20:58:02.610250+08:00",
-  "total_titles_processed": 1866,
+  "generated_at": "2025-10-24T21:39:16.955377+08:00",
+  "total_titles_processed": 1939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 23,
       "titles": [
+        {
+          "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            10,
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时40分 ~ 21时39分]"
+        },
         {
           "title": "安世半导体风波如何影响汽车行业",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%A3%8E%E6%B3%A2%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A",
@@ -23,21 +39,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[09时55分 ~ 19时26分]"
-        },
-        {
-          "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11,
-            10,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时40分 ~ 20时58分]"
         },
         {
           "title": "小米汽车购置税补贴方案",
