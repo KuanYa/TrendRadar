@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T15:23:00.708933+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2025-10-25T16:31:56.068098+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
@@ -158,7 +158,7 @@
     },
     {
       "keyword_group": "农业",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国农业现状是如何形成的",
@@ -208,6 +208,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时30分 ~ 07时25分]"
+        },
+        {
+          "title": "中国人能吃饱饭到底是因为引进了农业化肥还是袁隆平的杂交水稻？",
+          "url": "https://www.zhihu.com/question/1935438177490957443",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         }
       ]
     },
@@ -234,11 +245,12 @@
           "source": "金十数据",
           "ranks": [
             15,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 15时23分]"
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 16时31分]"
         },
         {
           "title": "据华尔街日报：南卡罗来纳州大型电力供应商Santee Coope正就出售两座闲置核反应堆与布鲁克菲尔德资产管理公司（Brookfield Asset Management）进行深入谈判，这些反应堆可为支撑人工智能热潮的数据中心供电。",
