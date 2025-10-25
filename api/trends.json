@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T14:36:55.171167+08:00",
-  "total_titles_processed": 941,
+  "generated_at": "2025-10-25T15:23:00.708933+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
@@ -229,6 +229,18 @@
           "time_info": "[12时31分 ~ 14时36分]"
         },
         {
+          "title": "前三季度广西工业人工智能核心产值同比增长超60%",
+          "url": "https://flash.jin10.com/detail/20251025130119719800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 15时23分]"
+        },
+        {
           "title": "据华尔街日报：南卡罗来纳州大型电力供应商Santee Coope正就出售两座闲置核反应堆与布鲁克菲尔德资产管理公司（Brookfield Asset Management）进行深入谈判，这些反应堆可为支撑人工智能热潮的数据中心供电。",
           "url": "https://flash.jin10.com/detail/20251025000316749800",
           "source": "金十数据",
@@ -238,17 +250,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
-        },
-        {
-          "title": "前三季度广西工业人工智能核心产值同比增长超60%",
-          "url": "https://flash.jin10.com/detail/20251025130119719800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
         }
       ]
     },
