@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T19:21:35.803491+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2025-10-25T20:51:17.079143+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
@@ -235,11 +235,12 @@
           "ranks": [
             4,
             10,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 20时51分]"
         },
         {
           "title": "美国总统特朗普：我们在人工智能领域引领所有人。",
@@ -290,11 +291,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 20时51分]"
         }
       ]
     },
