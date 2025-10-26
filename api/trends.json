@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T11:49:59.772356+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2025-10-26T12:31:37.461473+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 11时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 12时31分]"
         },
         {
           "title": "美国农业部：由于政府关门，主要援助计划下的食品福利金将于下个月停止发放。",
           "url": "https://flash.jin10.com/detail/20251026111132766800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 12时31分]"
         },
         {
           "title": "非盟召开高级别会议 启动非洲农业综合发展新路线",
@@ -36,11 +38,12 @@
           "source": "金十数据",
           "ranks": [
             13,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 11时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 12时31分]"
         }
       ]
     }
