@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T13:27:01.289549+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2025-10-26T14:38:50.335219+08:00",
+  "total_titles_processed": 808,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             17,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 13时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 14时38分]"
         },
         {
           "title": "美国农业部：由于政府关门，主要援助计划下的食品福利金将于下个月停止发放。",
