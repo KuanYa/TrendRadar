@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T18:32:59.393547+08:00",
-  "total_titles_processed": 1378,
+  "generated_at": "2025-10-27T19:26:08.533276+08:00",
+  "total_titles_processed": 1487,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -147,11 +147,12 @@
           "ranks": [
             11,
             8,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时30分 ~ 18时32分]"
+          "appearance_count": 8,
+          "time_info": "[13时30分 ~ 19时26分]"
         },
         {
           "title": "全国人大农业与农村委员会原副主任委员蒋超良被“双开”",
@@ -221,7 +222,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         }
