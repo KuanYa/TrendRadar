@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T01:28:20.062896+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2025-10-29T02:40:20.813194+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 02时40分]"
         },
         {
           "title": "英伟达(NVDA.O)：正在与甲骨文(ORCL.N)和美国能源部合作，打造美国能源部用于科学发现的规模最大人工智能超级计算机。",
@@ -26,9 +26,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "英伟达与甲骨文将为美国能源部制造一台人工智能（AI）超算。",
+          "url": "https://wallstreetcn.com/livenews/2995302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
         },
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -38,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 02时40分]"
         },
         {
           "title": "Adobe(ADBE.O)：客户将可访问谷歌(GOOG.O)的先进人工智能模型。",
@@ -64,13 +75,24 @@
           "time_info": "00时38分"
         },
         {
+          "title": "英伟达CEO黄仁勋宣布，与Palantir在运转人工智能（AI）方面构建合作伙伴关系。 将企业数据转化为动态决策智能（DDI）。",
+          "url": "https://wallstreetcn.com/livenews/2995292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
           "title": "英伟达推出NVIDIA Arc Aerial Ran Computer，这是一种为6G准备的通信计算平台。 英伟达与诺基亚将为6G通信技术开拓人工智能（AI）平台。 英伟达将投资10亿美元到诺基亚，从而加速AI-Ran Innovation，并主导从5G向6G过渡。",
           "url": "https://wallstreetcn.com/livenews/2995260",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         },
@@ -81,9 +103,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "礼来(LLY.N)部署全球规模最大、算力最强的药物研发人工智能工厂，该工厂采用基于英伟达(NVDA.O)Blackwell架构的DGX超级集群。",
+          "url": "https://flash.jin10.com/detail/20251029020548036800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
         },
         {
           "title": "英伟达(NVDA.O)：美国能源部将与英伟达合作，建造七台新型人工智能超级计算机。",
@@ -92,7 +125,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         },
@@ -103,7 +136,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         },
@@ -125,7 +158,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         },
@@ -144,19 +177,31 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "Lucid Group与英伟达合作，将向客户交付第一批Level 4无人驾驶汽车产品。",
+          "url": "https://wallstreetcn.com/livenews/2995306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
         {
           "title": "宇树机器人拖动1.4吨汽车",
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8B%96%E5%8A%A81.4%E5%90%A8%E6%B1%BD%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
             17,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 02时40分]"
         },
         {
           "title": "小米汽车送6万配置是诚意还是营销",
@@ -168,6 +213,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 00时38分]"
+        },
+        {
+          "title": "Lucid Group(LCID.O)：计划英伟达合作，向客户交付首批Level 4无人驾驶汽车产品。",
+          "url": "https://flash.jin10.com/detail/20251029020832104800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
         }
       ]
     },
@@ -197,11 +253,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8E%A5%E8%A7%A6%E5%8F%91%E9%9C%89%E7%8E%89%E7%B1%B3%E5%90%8E%E8%82%BA%E9%83%A8%E5%85%A8%E7%99%BD",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 01时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 02时40分]"
         }
       ]
     }
