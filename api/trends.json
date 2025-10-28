@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T17:29:56.328575+08:00",
-  "total_titles_processed": 1498,
+  "generated_at": "2025-10-28T18:31:11.004089+08:00",
+  "total_titles_processed": 1600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "欧洲汽车制造商协会：丰田9月在欧盟的新车注册量增长6.2%。",
@@ -182,6 +182,28 @@
           "time_info": "[05时23分 ~ 06时35分]"
         },
         {
+          "title": "日本经济产业大臣赤泽亮正：5500亿美元对美投资计划中包含汽车项目一事尚未确定。",
+          "url": "https://wallstreetcn.com/livenews/2995030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "日本首席贸易谈判代表赤泽亮正：5500亿美元对美投资计划中包含汽车项目一事尚未确定。",
+          "url": "https://flash.jin10.com/detail/20251028175927607800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "恒指高开0.28%，报26508.75点；恒生科技指数涨0.45%。小鹏汽车涨4.6%，舜宇光学科技涨近2%；小米跌0.9%。网易跌0.7%。",
           "url": "https://wallstreetcn.com/livenews/2994645",
           "source": "华尔街见闻-快讯",
@@ -237,6 +259,17 @@
           "time_info": "07时25分"
         },
         {
+          "title": "据AXIOS网站：耶鲁大学研究发现，马斯克的政治冒险可能导致特斯拉(TSLA.O)在美国损失超过100万辆汽车销量。",
+          "url": "https://flash.jin10.com/detail/20251028175208321800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "小鹏汽车港股盘中市值超过理想汽车",
           "url": "https://wallstreetcn.com/livenews/2994735",
           "source": "华尔街见闻-快讯",
@@ -246,6 +279,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "日本首席贸易谈判代表赤泽亮正：汽车项目可能纳入5500亿美元基金项目。汽车对经济安全也很重要。",
+          "url": "https://flash.jin10.com/detail/20251028174933132800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "日本首席贸易谈判代表赤泽亮正：日本汽车行业对美国的投资将保持在较高水平。",
+          "url": "https://flash.jin10.com/detail/20251028174758315800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "汇天新签约200台飞行汽车采购协议",
@@ -295,7 +350,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -306,8 +361,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时59分 ~ 17时29分]"
+          "appearance_count": 13,
+          "time_info": "[09时59分 ~ 18时31分]"
         },
         {
           "title": "高通推出人工智能芯片后股价大涨20%",
@@ -347,6 +402,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时34分 ~ 07时25分]"
+        },
+        {
+          "title": "“十五五”规划建议全文：加强原始创新和关键核心技术攻关、全面实施“人工智能+”行动、大力提振消费",
+          "url": "https://wallstreetcn.com/articles/3758062",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时31分]"
         },
         {
           "title": "挪威主权财富基金CEO：人工智能终结气候领域招聘需求",
@@ -403,7 +469,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -436,7 +502,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -452,13 +518,46 @@
           "time_info": "01时25分"
         },
         {
+          "title": "道富银行首席执行官：人工智能在银行对账方面存在巨大机遇。",
+          "url": "https://flash.jin10.com/detail/20251028175233244800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "道富银行首席执行官：所有的人工智能投资都流向了硬件，但真正的价值将体现在应用领域。",
+          "url": "https://flash.jin10.com/detail/20251028175103929800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "亚马逊：人工智能是互联网诞生以来最具变革性的技术。",
+          "url": "https://wallstreetcn.com/livenews/2994997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "十五五规划建议：全面实施“人工智能+”行动，抢占人工智能产业应用制高点",
           "url": "https://wallstreetcn.com/livenews/2994948",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
