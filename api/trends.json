@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T21:37:37.367170+08:00",
-  "total_titles_processed": 1909,
+  "generated_at": "2025-10-28T22:29:12.272355+08:00",
+  "total_titles_processed": 1999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时59分 ~ 21时37分]"
+          "appearance_count": 18,
+          "time_info": "[09时59分 ~ 22时29分]"
         },
         {
           "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
@@ -26,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 21时37分]"
+          "appearance_count": 5,
+          "time_info": "[19时22分 ~ 22时29分]"
         },
         {
           "title": "淡水河谷(VALE.N)首席执行官：没有采矿，人工智能公司就无法存在。",
@@ -230,13 +231,24 @@
           "time_info": "19时22分"
         },
         {
+          "title": "医疗健康公司IQVIA：计划到2027年初开发500个高度专业化的人工智能代理，以消除为客户执行任务中的体力劳动。",
+          "url": "https://flash.jin10.com/detail/20251028215653769800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "OpenAI：OpenAI基金会初期将重点投入250亿美元资金，用于健康与疾病治疗领域，以及提升人工智能韧性的技术解决方案。",
           "url": "https://flash.jin10.com/detail/20251028211735940800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -346,7 +358,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -360,6 +372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "古根海姆首席投资官：私募信贷领域目前尚未出现泡沫，诸多利好因素仍在发挥作用，例如美国财政和货币刺激措施以及人工智能投资。",
+          "url": "https://flash.jin10.com/detail/20251028214500525800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "沙特人工智能公司Humain首席执行官：沙特与美国政府之间关于技术出口管制的更广泛讨论的进程仍在进行中。",
@@ -387,7 +410,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "欧洲汽车制造商协会：丰田9月在欧盟的新车注册量增长6.2%。",
@@ -562,6 +585,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时35分]"
+        },
+        {
+          "title": "小米汽车送6万配置是诚意还是营销",
+          "url": "https://www.toutiao.com/trending/7565375544600412202/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 22时29分]"
         },
         {
           "title": "日本经济产业大臣赤泽亮正：5500亿美元对美投资计划中包含汽车项目一事尚未确定。",
@@ -882,11 +916,12 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 21时37分]"
+          "appearance_count": 4,
+          "time_info": "[20时57分 ~ 22时29分]"
         },
         {
           "title": "商丘一女子接触发霉玉米后肺部全白",
