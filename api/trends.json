@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T09:59:42.790107+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2025-10-28T11:16:04.846718+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收涨大约1.6%。 热门中概股里，小马智行涨6.5%，小鹏涨6.4%，百度涨4.8%，京东涨3%，腾讯、拼多多、阿里巴巴、蔚来汽车涨超2%，百胜中国则跌0.6%，理想跌1.8%。 ETF中，YINN初步收涨3.6%，CQQQ涨2.4%，KWEB涨1.9%。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "商务部：中国与东盟首次明确在制定自身标准时可考虑参考对方标准，并优先推进新能源汽车、电子电器等领域标准合作",
+          "url": "https://wallstreetcn.com/livenews/2994714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "加拿大安大略省省长：加拿大汽车行业在美加谈判中已处于不利地位。",
@@ -97,9 +108,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "据韩联社：现代汽车集团董事长郑义宣昨日与沙特王储穆罕默德·本·萨勒曼会面，讨论了现代汽车在当地的发展战略，并探索未来商机。",
+          "url": "https://flash.jin10.com/detail/20251028100358678800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "福特汽车(F.N)股价跌幅扩大至4.2%，此前一交易日一度涨超12%。",
@@ -149,7 +171,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -158,9 +180,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 11时16分]"
         },
         {
           "title": "高通推出人工智能芯片后股价大涨20%",
@@ -232,7 +254,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -259,6 +281,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "人工智能解决方案提供商滴普科技在香港首日挂牌交易，开盘价报56.50港元，较IPO价格26.66港元高出112%；现报54.50港元，涨幅104.4%。",
+          "url": "https://wallstreetcn.com/livenews/2994678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
           "title": "高通涨幅扩大至20%，创2019年以来最大盘中涨幅，该公司推出人工智能（AI）芯片，在数据中心市场与英伟达竞争。",
           "url": "https://wallstreetcn.com/livenews/2994418",
           "source": "华尔街见闻-快讯",
@@ -273,7 +306,7 @@
     },
     {
       "keyword_group": "大豆",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
@@ -298,6 +331,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时21分 ~ 05时23分]"
+        },
+        {
+          "title": "美财长称能感受到中国拒买大豆之痛",
+          "url": "https://www.toutiao.com/trending/7566062494993616390/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
         },
         {
           "title": "芝加哥小麦期货涨超2.6%，大豆期货涨约2.2%",
@@ -326,8 +370,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 09时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时46分 ~ 11时16分]"
         }
       ]
     }
