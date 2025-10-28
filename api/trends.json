@@ -1,12 +1,45 @@
 {
-  "generated_at": "2025-10-28T12:32:07.970224+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2025-10-28T13:29:35.376343+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "欧洲汽车制造商协会：丰田9月在欧盟的新车注册量增长6.2%。",
+          "url": "https://flash.jin10.com/detail/20251028130218086800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：9月份欧盟、英国和欧洲自贸联盟（EFTA）的乘用车注册量同比增长10.7%。",
+          "url": "https://flash.jin10.com/detail/20251028130202767800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：特斯拉(TSLA.O)9月欧盟新车注册量下降19%；比亚迪9月欧盟新车注册量增长272%。",
+          "url": "https://flash.jin10.com/detail/20251028130109340800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
         {
           "title": "纳斯达克金龙中国指数初步收涨大约1.6%。 热门中概股里，小马智行涨6.5%，小鹏涨6.4%，百度涨4.8%，京东涨3%，腾讯、拼多多、阿里巴巴、蔚来汽车涨超2%，百胜中国则跌0.6%，理想跌1.8%。 ETF中，YINN初步收涨3.6%，CQQQ涨2.4%，KWEB涨1.9%。",
           "url": "https://wallstreetcn.com/livenews/2994517",
@@ -114,6 +147,28 @@
           "time_info": "[05时23分 ~ 06时35分]"
         },
         {
+          "title": "据报道，奇瑞汽车对南非工厂进行可行性研究。",
+          "url": "https://wallstreetcn.com/livenews/2994776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "欧洲汽车制造商协会：欧洲9月汽车销量增长11%至124万辆，其中英国和德国分别增长14%和13%。",
+          "url": "https://wallstreetcn.com/livenews/2994773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "恒指高开0.28%，报26508.75点；恒生科技指数涨0.45%。小鹏汽车涨4.6%，舜宇光学科技涨近2%；小米跌0.9%。网易跌0.7%。",
           "url": "https://wallstreetcn.com/livenews/2994645",
           "source": "华尔街见闻-快讯",
@@ -153,7 +208,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -175,7 +230,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -186,7 +241,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -219,7 +274,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         }
@@ -227,7 +282,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -237,8 +292,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 13时29分]"
         },
         {
           "title": "高通推出人工智能芯片后股价大涨20%",
@@ -315,6 +370,17 @@
           "time_info": "09时59分"
         },
         {
+          "title": "高盛计划将沙特员工数量增至三倍，达到60人。高盛正探寻沙特阿拉伯人工智能领域的发展机遇。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2994775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
           "title": "路孚特宣布与Anthropic开展合作，并称这是路孚特人工智能战略中的最大里程碑。",
           "url": "https://flash.jin10.com/detail/20251028000308659800",
           "source": "金十数据",
@@ -335,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-28）",
+          "url": "https://flash.jin10.com/detail/20251028120453645800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         },
         {
           "title": "人工智能解决方案提供商滴普科技在香港首日挂牌交易，开盘价报56.50港元，较IPO价格26.66港元高出112%；现报54.50港元，涨幅104.4%。",
@@ -365,6 +442,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "美财长称能感受到中国拒买大豆之痛",
+          "url": "https://www.toutiao.com/trending/7566062494993616390/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 13时29分]"
+        },
+        {
           "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
           "url": "https://wallstreetcn.com/livenews/2994556",
           "source": "华尔街见闻-快讯",
@@ -375,18 +465,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时25分]"
-        },
-        {
-          "title": "美财长称能感受到中国拒买大豆之痛",
-          "url": "https://www.toutiao.com/trending/7566062494993616390/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 12时32分]"
         },
         {
           "title": "巴西大豆涨价的真相是什么",
