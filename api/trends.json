@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T20:57:42.316486+08:00",
-  "total_titles_processed": 1832,
+  "generated_at": "2025-10-28T21:37:37.367170+08:00",
+  "total_titles_processed": 1909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -13,11 +13,24 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时59分 ~ 20时57分]"
+          "appearance_count": 16,
+          "time_info": "[09时59分 ~ 21时37分]"
+        },
+        {
+          "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
+          "url": "https://wallstreetcn.com/articles/3758062",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 21时37分]"
         },
         {
           "title": "淡水河谷(VALE.N)首席执行官：没有采矿，人工智能公司就无法存在。",
@@ -26,7 +39,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -67,18 +80,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时25分]"
-        },
-        {
-          "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
-          "url": "https://wallstreetcn.com/articles/3758062",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时57分]"
         },
         {
           "title": "高通暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -229,6 +230,17 @@
           "time_info": "19时22分"
         },
         {
+          "title": "OpenAI：OpenAI基金会初期将重点投入250亿美元资金，用于健康与疾病治疗领域，以及提升人工智能韧性的技术解决方案。",
+          "url": "https://flash.jin10.com/detail/20251028211735940800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
           "url": "https://wallstreetcn.com/livenews/2994457",
           "source": "华尔街见闻-快讯",
@@ -290,7 +302,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -328,6 +340,17 @@
           "time_info": "13时29分"
         },
         {
+          "title": "微软(MSFT.O)：微软保留知识产权和ArzureAPI独占权，直到实现AGI（通用人工智能）。",
+          "url": "https://flash.jin10.com/detail/20251028210622482800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "人工智能解决方案提供商滴普科技在香港首日挂牌交易，开盘价报56.50港元，较IPO价格26.66港元高出112%；现报54.50港元，涨幅104.4%。",
           "url": "https://wallstreetcn.com/livenews/2994678",
           "source": "华尔街见闻-快讯",
@@ -345,7 +368,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -730,7 +753,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -741,9 +764,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
+        },
+        {
+          "title": "美国农业部长Rollins：日本将购买玉米、大米和乙醇等商品。",
+          "url": "https://wallstreetcn.com/livenews/2995151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 21时37分]"
         },
         {
           "title": "农业银行涨近2%，再创历史新高，A股总市值突破2.65万亿。",
@@ -758,26 +793,16 @@
           "time_info": "[14时42分 ~ 15时27分]"
         },
         {
-          "title": "美国农业部长Rollins：日本将购买玉米、大米和乙醇等商品。",
-          "url": "https://wallstreetcn.com/livenews/2995151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
           "title": "农业农村部：预计大豆面积连续4年保持在1.5亿亩以上",
           "url": "https://wallstreetcn.com/livenews/2995134",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 21时37分]"
         }
       ]
     },
@@ -841,7 +866,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         }
@@ -856,11 +881,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8E%A5%E8%A7%A6%E5%8F%91%E9%9C%89%E7%8E%89%E7%B1%B3%E5%90%8E%E8%82%BA%E9%83%A8%E5%85%A8%E7%99%BD",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 21时37分]"
         },
         {
           "title": "商丘一女子接触发霉玉米后肺部全白",
