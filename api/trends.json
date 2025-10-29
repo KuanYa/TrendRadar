@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T15:28:57.391161+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2025-10-29T16:38:25.208950+08:00",
+  "total_titles_processed": 1469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时37分 ~ 15时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时37分 ~ 16时38分]"
         },
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -62,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "商务部等5部门：加强人工智能、物联网、云计算、区块链、扩展现实等技术在城市商业体系中集成应用",
+          "url": "https://www.cls.cn/detail/2184527",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "Adobe(ADBE.O)：客户将可访问谷歌(GOOG.O)的先进人工智能模型。",
@@ -213,7 +224,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -262,6 +273,17 @@
           "time_info": "01时28分"
         },
         {
+          "title": "消息人士称，沙特准备调整公共投资基金的战略，不再专注于房地产大型项目。在新战略下，沙特公共投资基金将重点关注物流、矿产、旅游、人工智能和数据中心。",
+          "url": "https://flash.jin10.com/detail/20251029161000553800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "比特币矿商+数据中心运营商TeraWulf（WULF）维持超过23%的涨幅，刷新2021年12月以来盘中最高位。 该公司同意，通过新的168 MW人工智能（AI）计算合资公司拓展与Fluidstack的合作关系。 该合资公司得到谷歌公司13亿美元租赁的支持。 位于美国得州Abernathy园区、长达25年的186 MW关键性IT负荷租赁协议意味着，该合资公司能通过承包产生大约95亿美元收入。",
           "url": "https://wallstreetcn.com/livenews/2995212",
           "source": "华尔街见闻-快讯",
@@ -276,7 +298,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "印度政府：印度与欧盟认为，钢铁、汽车、碳边境调节机制及欧盟法规等相关议题因敏感度较高，需进一步讨论。",
@@ -363,15 +385,37 @@
           "time_info": "[00时37分 ~ 00时38分]"
         },
         {
+          "title": "铃木汽车总裁：在印度价格敏感的小型车市场推出纯电动汽车颇具挑战。",
+          "url": "https://flash.jin10.com/detail/20251029162649283800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "美国国家公路交通安全管理局：福特汽车(F.N)正在召回174,853辆美国车辆，因脱落的导风板可能成为道路隐患，增加发生碰撞的风险。",
           "url": "https://flash.jin10.com/detail/20251029150707085800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "铃木汽车总裁：计划在印度推出8款全新SUV车型，使该市场的产品总数达到28款。",
+          "url": "https://flash.jin10.com/detail/20251029162616829800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "铃木汽车总裁：本财年我们在印度的汽车销量预计将与预期持平或略高于预期。",
@@ -409,6 +453,69 @@
       ]
     },
     {
+      "keyword_group": "大豆",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "布油基金收跌约2.1%，和地产ETF领跌美股大类资产类ETF，大豆基金涨超0.9%",
+          "url": "https://wallstreetcn.com/livenews/2995384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时26分]"
+        },
+        {
+          "title": "芝加哥大豆期货涨0.8%，豆粕涨约2.8%，特朗普降价“呼声”拖累饲牛期货跌约2.9%",
+          "url": "https://wallstreetcn.com/livenews/2995320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时31分]"
+        },
+        {
+          "title": "中国已购买美国大豆？外交部回应",
+          "url": "https://www.toutiao.com/trending/7565724977459118143/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "中方回应是否复购美国大豆",
+          "url": "https://www.douyin.com/hot/2287284",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "中国在本收获季首次从美国购买大豆，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/2995715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "玉米",
       "match_count": 2,
       "titles": [
@@ -434,36 +541,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时37分 ~ 02时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大豆",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "布油基金收跌约2.1%，和地产ETF领跌美股大类资产类ETF，大豆基金涨超0.9%",
-          "url": "https://wallstreetcn.com/livenews/2995384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时26分]"
-        },
-        {
-          "title": "芝加哥大豆期货涨0.8%，豆粕涨约2.8%，特朗普降价“呼声”拖累饲牛期货跌约2.9%",
-          "url": "https://wallstreetcn.com/livenews/2995320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时31分]"
         }
       ]
     },
