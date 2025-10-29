@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T14:41:13.795607+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2025-10-29T15:28:57.391161+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时37分 ~ 14时41分]"
+          "appearance_count": 20,
+          "time_info": "[00时37分 ~ 15时28分]"
         },
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -37,7 +37,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -81,7 +81,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -207,6 +207,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "OpenAI首席财务官：（在被问及人工智能计算交易的高估值时）没有算力就等于没有收入，并且全球计算资源存在巨大瓶颈，因此需要投资。",
+          "url": "https://flash.jin10.com/detail/20251029145808653800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "英伟达(NVDA.O)：美国能源部将与英伟达合作，建造七台新型人工智能超级计算机。",
           "url": "https://flash.jin10.com/detail/20251029003945051800",
           "source": "金十数据",
@@ -265,7 +276,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "印度政府：印度与欧盟认为，钢铁、汽车、碳边境调节机制及欧盟法规等相关议题因敏感度较高，需进一步讨论。",
@@ -350,6 +361,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 00时38分]"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：福特汽车(F.N)正在召回174,853辆美国车辆，因脱落的导风板可能成为道路隐患，增加发生碰撞的风险。",
+          "url": "https://flash.jin10.com/detail/20251029150707085800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "铃木汽车总裁：本财年我们在印度的汽车销量预计将与预期持平或略高于预期。",
