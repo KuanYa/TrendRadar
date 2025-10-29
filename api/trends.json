@@ -1,759 +1,44 @@
 {
-  "generated_at": "2025-10-29T23:31:44.375385+08:00",
-  "total_titles_processed": 2150,
+  "generated_at": "2025-10-30T04:38:55.090268+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 34,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
-          "url": "https://wallstreetcn.com/articles/3758062",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时37分 ~ 16时38分]"
-        },
-        {
-          "title": "商务部等5部门：加强人工智能、物联网、云计算、区块链、扩展现实等技术在城市商业体系中集成应用",
-          "url": "https://www.cls.cn/detail/2184527",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时38分 ~ 20时58分]"
-        },
         {
           "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
           "url": "https://www.cls.cn/detail/2185058",
           "source": "财联社热门",
           "ranks": [
-            5,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时58分 ~ 23时31分]"
+          "appearance_count": 1,
+          "time_info": "04时38分"
         },
         {
-          "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
-          "url": "https://wallstreetcn.com/articles/3758001",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 04时31分]"
-        },
-        {
-          "title": "沙特阿美战略执行副总裁：天然气正定位为推动与人工智能相关需求增长的关键助力。",
-          "url": "https://flash.jin10.com/detail/20251029141540666800",
+          "title": "微软(MSFT.O)CEO：将继续增加我们在人工智能方面的投资，无论是资本还是人才投资，以应对前方巨大的机遇。",
+          "url": "https://flash.jin10.com/detail/20251030041807561800",
           "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时41分"
+          "time_info": "04时38分"
         },
         {
-          "title": "英伟达(NVDA.O)：正在与甲骨文(ORCL.N)和美国能源部合作，打造美国能源部用于科学发现的规模最大人工智能超级计算机。",
-          "url": "https://flash.jin10.com/detail/20251029005905040800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "英伟达将为美国政府打造人工智能超级计算机，量子计算类股盘前上涨，IQNQ上涨2.7%，Rigetti(RGTI.O)上涨2.4%，D-Wave Quantum上涨2.3%，Quantum Computing上涨1.5%。",
-          "url": "https://flash.jin10.com/detail/20251029165943077800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "英伟达与甲骨文将为美国能源部制造一台人工智能（AI）超算。",
-          "url": "https://wallstreetcn.com/livenews/2995302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)：Project Rainier现已完全投入运营。Project Rainier的人工智能计算能力将用于构建和部署Claude的未来版本。",
-          "url": "https://flash.jin10.com/detail/20251029190313573800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "Adobe(ADBE.O)：客户将可访问谷歌(GOOG.O)的先进人工智能模型。",
-          "url": "https://flash.jin10.com/detail/20251029000236073800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "商务部等5部门：完善智能导引、精准营销、云上购物、沉浸体验等智慧商业新模式，推广一批“人工智能+消费”场景",
-          "url": "https://wallstreetcn.com/livenews/2995646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "Adobe(ADBE.O)与谷歌云扩大战略合作伙伴关系，共同推动创意人工智能的未来发展。",
-          "url": "https://flash.jin10.com/detail/20251029000225070800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "Zoom(ZM.O)的联合人工智能平台借助英伟达(NVDA.O)Nemotron模型实现扩展，让每家企业的人工智能更加快速、更加智能。",
-          "url": "https://flash.jin10.com/detail/20251029024236289800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "信用交易员们针对甲骨文债务违约（风险）买入保护产品，债券风险上涨。 摩根士丹利预计，该公司向人工智能（AI）投资（至少）数十亿美元之际，这样的势头将延续下去。",
-          "url": "https://wallstreetcn.com/livenews/2996068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-29）",
-          "url": "https://flash.jin10.com/detail/20251029115936965800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "超微电脑(SMCI.O)：扩大与英伟达(NVDA.O)的合作，并加强合规性、数据完整性以及面向政府应用优化的人工智能基础设施解决方案的美国本土制造质量。",
-          "url": "https://flash.jin10.com/detail/20251029023907703800",
+          "title": "Meta Platforms(META.O)：人工智能模型和产品的进展将使我们能够在未来的几年中抓住新的收入增长机遇。",
+          "url": "https://flash.jin10.com/detail/20251030041058553800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "微软(MSFT.O)和英伟达(NVDA.O)在GTC大会上宣布人工智能领域的最新进展，微软表示将率先在Azure云平台上提供英伟达RTX Pro 6000 Blackwell服务器版GPU。",
-          "url": "https://flash.jin10.com/detail/20251029023844070800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "美国能源部宣布与英伟达(NVDA.O)和甲骨文(ORCL.N)建立新的合作伙伴关系，以打造人工智能超级计算机。",
-          "url": "https://flash.jin10.com/detail/20251029032025208800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋宣布，与Palantir在运转人工智能（AI）方面构建合作伙伴关系。 将企业数据转化为动态决策智能（DDI）。",
-          "url": "https://wallstreetcn.com/livenews/2995292",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "英伟达推出NVIDIA Arc Aerial Ran Computer，这是一种为6G准备的通信计算平台。 英伟达与诺基亚将为6G通信技术开拓人工智能（AI）平台。 英伟达将投资10亿美元到诺基亚，从而加速AI-Ran Innovation，并主导从5G向6G过渡。",
-          "url": "https://wallstreetcn.com/livenews/2995260",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "英伟达与诺基亚建立战略合作伙伴关系 共创6G人工智能平台",
-          "url": "https://flash.jin10.com/detail/20251029004540998800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "礼来(LLY.N)部署全球规模最大、算力最强的药物研发人工智能工厂，该工厂采用基于英伟达(NVDA.O)Blackwell架构的DGX超级集群。",
-          "url": "https://flash.jin10.com/detail/20251029020548036800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "韩国科学部：美国与韩国签署技术繁荣谅解备忘录，包括加快人工智能创新。",
-          "url": "https://flash.jin10.com/detail/20251029091423779800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "OpenAI首席财务官：（在被问及人工智能计算交易的高估值时）没有算力就等于没有收入，并且全球计算资源存在巨大瓶颈，因此需要投资。",
-          "url": "https://flash.jin10.com/detail/20251029145808653800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：美国能源部将与英伟达合作，建造七台新型人工智能超级计算机。",
-          "url": "https://flash.jin10.com/detail/20251029003945051800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：我将讨论人工智能（AI）、6G、量子计算、机器人技术。",
-          "url": "https://wallstreetcn.com/livenews/2995253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "阿波罗高管Scott Kleinman：人工智能（AI）技术取代劳动力是“最重要的问题”。 私募将在好几年的时间内按更慢的速度销售。",
-          "url": "https://wallstreetcn.com/livenews/2995215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "创业黑马：与上海信弘签署战略合作框架协议，围绕NVIDIA的人工智能技术体系能力，基于创业黑马中小企业生态服务体系和上海信弘的技术能力，构建基于中小企业的人工智能应用服务平台，用普惠AI能力帮助中小企业成长。",
-          "url": "https://wallstreetcn.com/livenews/2995956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)和诺基亚(NOK.N)将合作开发面向6G的人工智能平台。",
-          "url": "https://flash.jin10.com/detail/20251029003611201800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "消息人士称，沙特准备调整公共投资基金的战略，不再专注于房地产大型项目。在新战略下，沙特公共投资基金将重点关注物流、矿产、旅游、人工智能和数据中心。",
-          "url": "https://flash.jin10.com/detail/20251029161000553800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "超微电脑(SMCI.O)宣布成立美国联邦实体，进一步拓展联邦市场。针对联邦生态系统的人工智能服务器产品组合将在美国本土进行大规模制造。",
-          "url": "https://flash.jin10.com/detail/20251029210626078800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
-          "title": "上交所副总经理王泊：将以更大力度推动人工智能与交易所核心生产力融合创新",
-          "url": "https://wallstreetcn.com/livenews/2996002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
-          "title": "比特币矿商+数据中心运营商TeraWulf（WULF）维持超过23%的涨幅，刷新2021年12月以来盘中最高位。 该公司同意，通过新的168 MW人工智能（AI）计算合资公司拓展与Fluidstack的合作关系。 该合资公司得到谷歌公司13亿美元租赁的支持。 位于美国得州Abernathy园区、长达25年的186 MW关键性IT负荷租赁协议意味着，该合资公司能通过承包产生大约95亿美元收入。",
-          "url": "https://wallstreetcn.com/livenews/2995212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "IBM(IBM.N)宣布推出以国防为重点的人工智能模型，以加快任务规划和决策支持。",
-          "url": "https://flash.jin10.com/detail/20251029200058220800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "通用汽车将在美国底特律电动汽车工厂裁员1200人。（底特律新闻）",
-          "url": "https://wallstreetcn.com/livenews/2996075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
-        },
-        {
-          "title": "印度政府：印度与欧盟认为，钢铁、汽车、碳边境调节机制及欧盟法规等相关议题因敏感度较高，需进一步讨论。",
-          "url": "https://flash.jin10.com/detail/20251029120839330800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "周二（10月28日），彭博电动汽车价格回报指数跌0.64%，报3515.94点，亚太盘初下跌，北京时间10:00前后跌幅迅速收窄，日内大部分时间持稳于3520点下方。",
-          "url": "https://wallstreetcn.com/livenews/2995355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 06时28分]"
-        },
-        {
-          "title": "Lucid Group与英伟达合作，将向客户交付第一批Level 4无人驾驶汽车产品。",
-          "url": "https://wallstreetcn.com/livenews/2995306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时22分]"
-        },
-        {
-          "title": "据日经新闻：日产汽车即将停止与梅赛德斯奔驰合资的墨西哥工厂的汽车生产。",
-          "url": "https://flash.jin10.com/detail/20251029035747189800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时26分]"
-        },
-        {
-          "title": "日产汽车将停止在墨西哥与梅赛德斯的合资工厂生产（汽车）。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/2995391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时26分]"
-        },
-        {
-          "title": "宇树机器人拖动1.4吨汽车",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8B%96%E5%8A%A81.4%E5%90%A8%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时40分]"
-        },
-        {
-          "title": "小米汽车送6万配置是诚意还是营销",
-          "url": "https://www.toutiao.com/trending/7565375544600412202/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 00时38分]"
-        },
-        {
-          "title": "铃木汽车总裁：在印度价格敏感的小型车市场推出纯电动汽车颇具挑战。",
-          "url": "https://flash.jin10.com/detail/20251029162649283800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "美国国家公路交通安全管理局：福特汽车(F.N)正在召回174,853辆美国车辆，因脱落的导风板可能成为道路隐患，增加发生碰撞的风险。",
-          "url": "https://flash.jin10.com/detail/20251029150707085800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "铃木汽车总裁：计划在印度推出8款全新SUV车型，使该市场的产品总数达到28款。",
-          "url": "https://flash.jin10.com/detail/20251029162616829800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "市场消息：梅赛德斯-奔驰为英国汽车金融业务计提4.22亿欧元的拨备。",
-          "url": "https://flash.jin10.com/detail/20251029215907758800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "铃木汽车总裁：本财年我们在印度的汽车销量预计将与预期持平或略高于预期。",
-          "url": "https://flash.jin10.com/detail/20251029114229037800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "金十图示：2025年10月29日（周三）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251029111103817800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
-          "title": "Lucid Group(LCID.O)：计划英伟达合作，向客户交付首批Level 4无人驾驶汽车产品。",
-          "url": "https://flash.jin10.com/detail/20251029020832104800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "据底特律新闻：通用汽车(GM.N)将裁减底特律电动汽车工厂1200个工作岗位，田纳西州和俄亥俄州电池生产基地也将再裁数百个岗位。",
-          "url": "https://flash.jin10.com/detail/20251029225109082800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
-        },
-        {
-          "title": "韩元兑美元日内涨约0.5%，韩国称和美国就贸易谈判细节达成一致。美国的汽车关税将降至15%。美国将继续对韩国商品全面征收15%的关税。",
-          "url": "https://wallstreetcn.com/livenews/2995882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "欧洲汽车制造商协会：一些汽车制造商预计将因芯片问题而在短期内被迫停产。汽车行业的芯片库存正在迅速减少。",
-          "url": "https://flash.jin10.com/detail/20251029175344627800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "通用汽车(GM.N)：计划继续在加拿大生产汽车。",
-          "url": "https://flash.jin10.com/detail/20251029210251198800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大豆",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "中国已购买美国大豆？外交部回应",
-          "url": "https://www.toutiao.com/trending/7565724977459118143/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            2,
-            5,
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时38分 ~ 23时31分]"
-        },
-        {
-          "title": "中方回应是否复购美国大豆",
-          "url": "https://www.douyin.com/hot/2287284",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时38分 ~ 20时58分]"
-        },
-        {
-          "title": "中方会恢复采购美国大豆吗",
-          "url": "https://www.toutiao.com/trending/7566593352167067179/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时58分 ~ 21时40分]"
-        },
-        {
-          "title": "布油基金收跌约2.1%，和地产ETF领跌美股大类资产类ETF，大豆基金涨超0.9%",
-          "url": "https://wallstreetcn.com/livenews/2995384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时26分]"
-        },
-        {
-          "title": "芝加哥大豆期货涨0.8%，豆粕涨约2.8%，特朗普降价“呼声”拖累饲牛期货跌约2.9%",
-          "url": "https://wallstreetcn.com/livenews/2995320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时31分]"
-        },
-        {
-          "title": "中国在本收获季首次从美国购买大豆，外交部回应",
-          "url": "https://wallstreetcn.com/livenews/2995715",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "墨西哥农业部长：墨西哥玉米价格因供应过剩而走低，种植户受到冲击。",
-          "url": "https://flash.jin10.com/detail/20251029215757433800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "墨西哥农业部长：9万名墨西哥玉米种植户符合每吨950墨西哥比索补贴的资格。",
-          "url": "https://flash.jin10.com/detail/20251029215630799800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "美国众议院议长约翰逊谈及特朗普政府的SNAP计划，称：美国农业部（USDA）的确研究过，但无法提供资金支持。 无法避免美国在11月1日发生食品券悬崖。",
-          "url": "https://wallstreetcn.com/livenews/2995214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "玉米",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "农妇收玉米遇山体垮塌失联超100小时，家属发声(图)",
-          "url": "https://news.ifeng.com/c/8npLaqT1c1o",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时06分 ~ 14时41分]"
-        },
-        {
-          "title": "女子接触发霉玉米后肺部全白",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8E%A5%E8%A7%A6%E5%8F%91%E9%9C%89%E7%8E%89%E7%B1%B3%E5%90%8E%E8%82%BA%E9%83%A8%E5%85%A8%E7%99%BD",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时40分]"
+          "time_info": "04时38分"
         }
       ]
     },
@@ -766,11 +51,45 @@
           "url": "https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E7%AA%81%E5%8F%91%E8%84%91%E6%BA%A2%E8%A1%80+%E4%B8%8A%E7%99%BE%E6%9D%91%E6%B0%91%E5%B8%AE%E5%BF%99%E6%94%B6%E7%8E%89%E7%B1%B3",
           "source": "百度热搜",
           "ranks": [
-            19
+            24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时31分"
+          "time_info": "04时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "玉米",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周三（10月29日）纽约尾盘，彭博谷物分类指数涨0.28%，报30.1836点。 CBOT玉米期货涨0.58%，CBOT小麦期货涨0.85%。 CBOT大豆期货跌0.18%，报10.9325美元/蒲式耳，豆粕期货涨0.72%，豆油期货跌0.30%。",
+          "url": "https://wallstreetcn.com/livenews/2996185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大豆",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国已购买美国大豆？外交部回应",
+          "url": "https://www.toutiao.com/trending/7565724977459118143/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时38分"
         }
       ]
     }
