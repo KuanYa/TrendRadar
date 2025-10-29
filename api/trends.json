@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T12:35:39.760455+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2025-10-29T13:30:52.255777+08:00",
+  "total_titles_processed": 1173,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 12时35分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 13时30分]"
         },
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -92,7 +92,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -252,7 +252,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -336,7 +336,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -376,8 +376,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时06分 ~ 12时35分]"
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 13时30分]"
         },
         {
           "title": "女子接触发霉玉米后肺部全白",
