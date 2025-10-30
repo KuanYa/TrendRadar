@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T16:37:42.650077+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2025-10-30T17:31:51.860079+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "松下到2035年将把电动汽车电池价格砍掉40%。（日刊工业新闻）",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "大众汽车首席财务官：如果美国电动汽车的快速扩张未能如期实现，将调整PowerCo电池工厂的扩建计划。",
+          "url": "https://flash.jin10.com/detail/20251030172615221800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "现代汽车：第三季度美国关税使公司损失1.8万亿韩元。",
@@ -101,6 +112,17 @@
           "time_info": "13时29分"
         },
         {
+          "title": "现代汽车印度：强劲的出口表现有望在2026财年超越目标。",
+          "url": "https://flash.jin10.com/detail/20251030171732851800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "现代汽车：预计美国电动汽车市场不会出现爆发式增长，但2030年之后电动汽车需求将在一定程度上回升。",
           "url": "https://flash.jin10.com/detail/20251030135339152800",
           "source": "金十数据",
@@ -140,7 +162,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
