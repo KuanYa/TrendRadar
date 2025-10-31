@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T19:22:49.582606+08:00",
-  "total_titles_processed": 1729,
+  "generated_at": "2025-10-31T20:57:49.709796+08:00",
+  "total_titles_processed": 1863,
   "failed_sources": [],
   "trends": [
     {
@@ -314,8 +314,19 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "女子退订小米汽车,损五千块换杯具",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时27分 ~ 20时57分]"
+        },
         {
           "title": "新能源汽车出口同比增长52%",
           "url": "https://www.douyin.com/hot/2288899",
@@ -326,28 +337,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时35分 ~ 10时03分]"
-        },
-        {
-          "title": "女子退订小米汽车,损五千块换杯具",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时27分 ~ 19时22分]"
-        },
-        {
-          "title": "小米汽车：10月新增22家门店，11月计划新增17家门店",
-          "url": "https://wallstreetcn.com/livenews/2997668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
         },
         {
           "title": "天奇股份：与富士康新能源汽车产业发展（河南）有限公司签署《战略合作框架协议》，双方拟共同推动具身智能机器人在工业场景的深度应用与技术创新。",
@@ -362,16 +351,41 @@
           "time_info": "[16时35分 ~ 17时29分]"
         },
         {
+          "title": "小米汽车：10月新增22家门店，11月计划新增17家门店",
+          "url": "https://wallstreetcn.com/livenews/2997668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时57分]"
+        },
+        {
           "title": "理想汽车为车辆起火事件致歉",
           "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E4%B8%BA%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6%E8%87%B4%E6%AD%89",
           "source": "百度热搜",
           "ranks": [
             23,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 20时57分]"
+        },
+        {
+          "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31862085",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时22分]"
+          "time_info": "[19时22分 ~ 20时57分]"
         },
         {
           "title": "墨西哥总统辛鲍姆：法国总统马克龙将于11月7日访问墨西哥。 经济部长Ebrard出席亚太经合组织（APEC）会议期间围绕钢铁和汽车关税取得进展。 Ebrard会见了（驻韩国的）美国大使。",
@@ -419,17 +433,6 @@
           "time_info": "14时39分"
         },
         {
-          "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31862085",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
           "title": "据知情人士透露，福特汽车藐视美国总统特朗普的主张，将在印度发动机工厂投资3.70亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/2997100",
           "source": "华尔街见闻-快讯",
@@ -463,6 +466,17 @@
           "time_info": "15时27分"
         },
         {
+          "title": "工信部公开征求对《电动汽车安全要求》强制性国家标准（报批稿）等意见",
+          "url": "https://wallstreetcn.com/livenews/2997703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "市场消息：福特汽车(F.N)将在印度投资3.7亿美元。",
           "url": "https://flash.jin10.com/detail/20251031033719566800",
           "source": "金十数据",
@@ -477,7 +491,7 @@
     },
     {
       "keyword_group": "玉米",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "芝加哥大豆期货涨超1.1%，豆粕涨2%，小麦、大豆油、玉米则至多跌1.5%",
@@ -489,6 +503,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "公路晒粮遇大堵车 玉米被压扁",
+          "url": "https://www.toutiao.com/trending/7566625358553825289/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
