@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-31T13:28:18.877706+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2025-10-31T14:39:45.589745+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 14,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "英伟达与韩国企业达成人工智能协议",
+          "url": "https://flash.jin10.com/detail/20251031142918336800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-31）",
           "url": "https://flash.jin10.com/detail/20251031115715805800",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "英伟达(NVDA.O)与LG合作进行物理人工智能开发，支持创业公司。",
+          "url": "https://flash.jin10.com/detail/20251031142729217800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "中国信通院人工智能所联合发布《大模型一体机应用研究报告（2025年）》",
@@ -113,6 +135,50 @@
           "time_info": "06时26分"
         },
         {
+          "title": "英伟达(NVDA.O)：Naver Cloud正在扩展英伟达人工智能基础设施，配备超过6万块GPU。",
+          "url": "https://flash.jin10.com/detail/20251031142423435800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：与现代汽车集团及韩国政府合作打造人工智能工厂。",
+          "url": "https://flash.jin10.com/detail/20251031141930569800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：SK集团正在建设配备超5万块英伟达GPU的人工智能工厂，打造亚洲首个工业级人工智能云。",
+          "url": "https://flash.jin10.com/detail/20251031141649618800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：将有超过5万台英伟达GPU部署于韩国主权云和人工智能工厂。",
+          "url": "https://flash.jin10.com/detail/20251031141537780800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "亚马逊(AMZN.O)CEO：人工智能购物助手RUFUS今年已有2.5亿活跃客户，月度用户同比增长140%。",
           "url": "https://flash.jin10.com/detail/20251031052114542800",
           "source": "金十数据",
@@ -133,6 +199,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：正与韩国合作，以扩展该国人工智能基础设施。",
+          "url": "https://flash.jin10.com/detail/20251031141420413800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "三星电子今天宣布，计划与英伟达(NVDA.O)合作创建一个新的人工智能超级工厂。通过部署5万多个英伟达GPU，加速下一代半导体、移动设备和机器人的开发和生产。",
+          "url": "https://flash.jin10.com/detail/20251031141053549800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "亚马逊：预计2026年的现金资本支出金额将高于2025年。 上调开支预期至1250亿美元。 亚马逊网络服务（AWS）运营利润率将随投资水平波动 。 Trainium 3将于2025年底进行预览展示。 人工智能（AI）购物助手RUFUS今年已有2.5亿活跃客户，月度用户同比增140%。",
@@ -171,7 +259,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "新能源汽车出口同比增长52%",
@@ -206,6 +294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：与现代汽车及政府相关方合作将带来约30亿美元的投资。",
+          "url": "https://flash.jin10.com/detail/20251031142121490800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "据知情人士透露，福特汽车藐视美国总统特朗普的主张，将在印度发动机工厂投资3.70亿美元。（彭博）",
