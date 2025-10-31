@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T03:22:09.240309+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2025-11-01T04:29:51.720392+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "女子退订小米汽车,损五千块换杯具",
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
@@ -38,19 +38,31 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时29分]"
+        },
+        {
+          "title": "周五（10月31日），彭博电动汽车价格回报指数下跌0.99%，报3521.02点，10月份累计上涨2.35%。",
+          "url": "https://wallstreetcn.com/livenews/2997890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "马斯克透露拟于年内发布飞行汽车 宣称将超越“所有詹姆斯·邦德座驾”",
           "url": "https://flash.jin10.com/detail/20251101030330901800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时29分]"
         },
         {
           "title": "据The Information：马斯克称特斯拉(TSLA.O)今年可能会推出飞行汽车。",
@@ -59,7 +71,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -139,7 +151,7 @@
     },
     {
       "keyword_group": "大豆",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "大豆豆粕价格要变天了吗",
@@ -149,11 +161,23 @@
             10,
             18,
             14,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时29分]"
+        },
+        {
+          "title": "芝加哥大豆期货10月份涨约9.4%，豆粕涨约18%",
+          "url": "https://wallstreetcn.com/livenews/2997877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         }
       ]
     }
