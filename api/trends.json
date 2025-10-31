@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T20:57:49.709796+08:00",
-  "total_titles_processed": 1863,
+  "generated_at": "2025-10-31T21:36:23.494882+08:00",
+  "total_titles_processed": 1946,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "英伟达与韩国企业达成人工智能协议",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "据《福布斯》报道，人工智能公司Humans&正在洽谈以50亿美元估值筹集10亿美元资金。",
+          "url": "https://flash.jin10.com/detail/20251031213350598800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "韩国总统办公室：英伟达(NVDA.O)与现代汽车将成立人工智能合资企业。",
@@ -324,8 +335,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时27分 ~ 20时57分]"
+          "appearance_count": 7,
+          "time_info": "[15时27分 ~ 21时36分]"
         },
         {
           "title": "新能源汽车出口同比增长52%",
@@ -369,11 +380,12 @@
           "ranks": [
             23,
             12,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 20时57分]"
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 21时36分]"
         },
         {
           "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
@@ -381,11 +393,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时57分]"
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 21时36分]"
         },
         {
           "title": "墨西哥总统辛鲍姆：法国总统马克龙将于11月7日访问墨西哥。 经济部长Ebrard出席亚太经合组织（APEC）会议期间围绕钢铁和汽车关税取得进展。 Ebrard会见了（驻韩国的）美国大使。",
@@ -472,7 +485,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -511,7 +524,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         }
