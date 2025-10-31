@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T07:25:48.100258+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2025-10-31T10:03:58.333046+08:00",
+  "total_titles_processed": 828,
   "failed_sources": [],
   "trends": [
     {
@@ -119,7 +119,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         }
@@ -137,8 +137,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 07时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 10时03分]"
         },
         {
           "title": "墨西哥总统辛鲍姆：法国总统马克龙将于11月7日访问墨西哥。 经济部长Ebrard出席亚太经合组织（APEC）会议期间围绕钢铁和汽车关税取得进展。 Ebrard会见了（驻韩国的）美国大使。",
