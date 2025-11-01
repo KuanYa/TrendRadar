@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T14:35:54.354671+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2025-11-01T15:23:43.625766+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "女子退订小米汽车,损五千块换杯具",
@@ -20,8 +20,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 14时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 15时23分]"
         },
         {
           "title": "理想召回超1.1万辆MEGA 2024款电动汽车：冷却液防腐性能不足，极端情况下会造成动力电池热失控",
@@ -35,8 +35,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 14时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 15时23分]"
         },
         {
           "title": "超六成MEGA被召回 理想汽车：希望不再发生自燃事故",
@@ -61,8 +61,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时05分 ~ 14时35分]"
+          "appearance_count": 8,
+          "time_info": "[10时05分 ~ 15时23分]"
         },
         {
           "title": "马斯克透露拟于年内发布飞行汽车 宣称将超越“所有詹姆斯·邦德座驾”",
@@ -264,6 +264,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "辽宁一汽车4S店养了50余只流浪猫狗",
+          "url": "https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E4%B8%80%E6%B1%BD%E8%BD%A64S%E5%BA%97%E5%85%BB%E4%BA%8650%E4%BD%99%E5%8F%AA%E6%B5%81%E6%B5%AA%E7%8C%AB%E7%8B%97",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         }
       ]
     },
@@ -286,6 +297,32 @@
           "time_info": "[10时06分 ~ 13时25分]"
         },
         {
+          "title": "亚太经合组织人工智能倡议：亚太经济体应加大努力，为人工智能弹性基础设施投资营造有利环境。",
+          "url": "https://flash.jin10.com/detail/20251101125245344800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 15时23分]"
+        },
+        {
+          "title": "亚太经合组织人工智能倡议：人工智能在推动解决亚太地区共同优先事项方面具有巨大潜力。",
+          "url": "https://flash.jin10.com/detail/20251101125236158800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 15时23分]"
+        },
+        {
           "title": "韩国总统李在明：希望在人工智能这一共同问题上找到创新性解决方案。",
           "url": "https://flash.jin10.com/detail/20251101090947123800",
           "source": "金十数据",
@@ -297,30 +334,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时06分 ~ 12时29分]"
-        },
-        {
-          "title": "亚太经合组织人工智能倡议：亚太经济体应加大努力，为人工智能弹性基础设施投资营造有利环境。",
-          "url": "https://flash.jin10.com/detail/20251101125245344800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 14时35分]"
-        },
-        {
-          "title": "亚太经合组织人工智能倡议：人工智能在推动解决亚太地区共同优先事项方面具有巨大潜力。",
-          "url": "https://flash.jin10.com/detail/20251101125236158800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 14时35分]"
         },
         {
           "title": "联合国：美国人工智能相关投资激增，但并购活动大幅下降。",
@@ -377,6 +390,19 @@
           "time_info": "[00时33分 ~ 04时29分]"
         },
         {
+          "title": "全球大豆链的“蝴蝶效应”",
+          "url": "https://www.toutiao.com/trending/7567589332861586995/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 15时23分]"
+        },
+        {
           "title": "芝加哥大豆期货10月份涨约9.4%，豆粕涨约18%",
           "url": "https://wallstreetcn.com/livenews/2997877",
           "source": "华尔街见闻-快讯",
@@ -388,18 +414,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时29分 ~ 06时26分]"
-        },
-        {
-          "title": "全球大豆链的“蝴蝶效应”",
-          "url": "https://www.toutiao.com/trending/7567589332861586995/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 14时35分]"
         }
       ]
     },
@@ -412,11 +426,12 @@
           "url": "https://wallstreetcn.com/livenews/2997974",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 15时23分]"
         }
       ]
     }
