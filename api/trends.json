@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T18:34:01.464752+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2025-11-03T19:23:17.701664+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时41分 ~ 18时34分]"
+          "appearance_count": 8,
+          "time_info": "[14时41分 ~ 19时23分]"
         },
         {
           "title": "通用汽车韩国子公司：十月份全球销量同比下降了21%，至39,630辆汽车。",
@@ -126,7 +127,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "李乐成：加快推进人工智能赋能新型工业化",
@@ -140,8 +141,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时35分 ~ 18时34分]"
+          "appearance_count": 12,
+          "time_info": "[12时35分 ~ 19时23分]"
         },
         {
           "title": "阿布扎比国家石油公司、马斯达尔公司、XRG公司与微软达成人工智能部署协议。（彭博）",
@@ -188,11 +189,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 18时34分]"
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 19时23分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-03）",
@@ -217,6 +219,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时54分 ~ 12时36分]"
+        },
+        {
+          "title": "IREN(IREN.O)股价盘前上涨18%，此前该公司与微软(MSFT.O)达成了一项价值97亿美元的人工智能云合同。",
+          "url": "https://flash.jin10.com/detail/20251103190845834800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "阿联酋能源部长：随着人工智能和数据中心的发展，我们肯定需要更多能源。",
@@ -262,8 +275,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时28分 ~ 18时34分]"
+          "appearance_count": 7,
+          "time_info": "[15时28分 ~ 19时23分]"
         }
       ]
     }
