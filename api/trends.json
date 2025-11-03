@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T15:28:32.707690+08:00",
-  "total_titles_processed": 1071,
+  "generated_at": "2025-11-03T16:38:47.104029+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "通用汽车韩国子公司：十月份全球销量同比下降了21%，至39,630辆汽车。",
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -49,11 +49,23 @@
           "source": "知乎",
           "ranks": [
             12,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 15时28分]"
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 16时38分]"
+        },
+        {
+          "title": "瑞典汽车产业协会：特斯拉(TSLA.O)十月份瑞典新注册量同比下降了88.7%。",
+          "url": "https://flash.jin10.com/detail/20251103160211080800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "香港恒生指数开盘上涨0.36%，恒生科技指数涨0.48%。明略科技上市首日开涨98.58%。蔚来、小鹏汽车涨超3%，零跑汽车、长城汽车、小米集团纷纷高开。",
@@ -73,7 +85,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -89,13 +101,24 @@
           "time_info": "11时54分"
         },
         {
+          "title": "现代汽车：10月全球销量同比下降6.9%，至351,753辆。",
+          "url": "https://flash.jin10.com/detail/20251103155345712800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "汇丰银行：将大众汽车目标价从115欧元上调至127欧元。",
           "url": "https://flash.jin10.com/detail/20251103143304382800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         }
@@ -116,8 +139,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时35分 ~ 15时28分]"
+          "appearance_count": 7,
+          "time_info": "[12时35分 ~ 16时38分]"
         },
         {
           "title": "阿布扎比国家石油公司、马斯达尔公司、XRG公司与微软达成人工智能部署协议。（彭博）",
@@ -206,7 +229,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         }
@@ -221,11 +244,12 @@
           "url": "https://www.cls.cn/detail/2189354",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 16时38分]"
         }
       ]
     }
