@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T02:40:09.599387+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2025-11-05T03:22:37.496426+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "农业",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国农业部（USDA）部长Rollins：USDA已于10月4日稍早向多个州发送了食品补助指导意见。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "白宫：农业部周二向各州提供了关于如何发放补充营养协助计划（SNAP）福利的指导。",
+          "url": "https://flash.jin10.com/detail/20251105023630068800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "普渡大学：美国10月农业信心指数129。",
@@ -33,7 +44,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "汽车电池界双寡头垄断超60%市场",
@@ -42,11 +53,12 @@
           "ranks": [
             20,
             19,
-            18
+            18,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 02时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 03时22分]"
         },
         {
           "title": "德国公共充电桩年增16%，汽车工业协会：建得太慢",
@@ -59,6 +71,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时23分]"
+        },
+        {
+          "title": "根据提交给美国贸易代表办公室的文件，通用汽车(GM.N)、特斯拉(TSLA.O)、丰田敦促特朗普政府延长美墨加协定。",
+          "url": "https://flash.jin10.com/detail/20251105030214488800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         }
       ]
     }
