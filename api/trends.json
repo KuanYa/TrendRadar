@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T15:27:24.914601+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2025-11-04T16:38:35.123772+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "何小鹏称10年后中国汽车有5强",
@@ -14,11 +14,12 @@
           "ranks": [
             17,
             14,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 15时27分]"
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 16时38分]"
         },
         {
           "title": "福特和现代电动汽车10月销量大幅下滑，特朗普叫停前美国总统拜登的联邦过车补贴政策",
@@ -111,6 +112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：因电池起火风险，召回Stellantis超32万辆美国市场汽车。",
+          "url": "https://flash.jin10.com/detail/20251104161819762800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "土耳其汽车协会：十月份汽车销量同比增长了19.40%。",
