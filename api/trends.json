@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T21:41:05.162168+08:00",
-  "total_titles_processed": 1900,
+  "generated_at": "2025-11-04T22:30:33.385726+08:00",
+  "total_titles_processed": 1971,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "何小鹏称10年后中国汽车有5强",
@@ -47,6 +47,19 @@
           "time_info": "[00时32分 ~ 07时25分]"
         },
         {
+          "title": "小鹏汽车重启Robotaxi项目，内部转岗进行时",
+          "url": "https://wallstreetcn.com/livenews/2999218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 22时30分]"
+        },
+        {
           "title": "何小鹏称10年后中国汽车有5强",
           "url": "https://www.toutiao.com/trending/7567549548655198250/",
           "source": "今日头条",
@@ -57,18 +70,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时04分 ~ 11时47分]"
-        },
-        {
-          "title": "小鹏汽车重启Robotaxi项目，内部转岗进行时",
-          "url": "https://wallstreetcn.com/livenews/2999218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时41分]"
         },
         {
           "title": "加拿大工业部长Joly：加拿大针对（欧洲汽车制造商）斯泰兰蒂斯Stellantis启动纠纷解决程序。",
@@ -103,6 +104,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "法拉利(RACE.N)发言人：继美国就欧洲汽车进口关税达成新协议后，法拉利已将其部分在美国销售车型的价格涨幅从最高10%下调至最高5%。",
+          "url": "https://flash.jin10.com/detail/20251104220045150800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时30分"
         },
         {
           "title": "舍弗勒集团首席执行官：汽车行业的环境依然充满挑战。",
@@ -251,7 +263,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-04）",
@@ -396,7 +408,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -421,6 +433,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "Shopify(SHOP.N)高管：人工智能助手“正在迅速成为商家完成工作的默认方式”。",
+          "url": "https://flash.jin10.com/detail/20251104214127199800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时30分"
         }
       ]
     },
