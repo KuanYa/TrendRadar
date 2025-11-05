@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-05T12:32:22.419479+08:00",
-  "total_titles_processed": 1096,
+  "generated_at": "2025-11-05T13:29:42.330714+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 5,
       "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-05）",
+          "url": "https://flash.jin10.com/detail/20251105115714525800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 13时29分]"
+        },
         {
           "title": "AMD(AMD.O)：人工智能芯片的机遇超过5000亿美元。",
           "url": "https://flash.jin10.com/detail/20251105065410267800",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-05）",
-          "url": "https://flash.jin10.com/detail/20251105115714525800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
         },
         {
           "title": "AMD(AMD.O)CEO：人工智能业务将在2027年达到数百亿美元，PC业务营收增长速度将超过市场平均水平。",
@@ -167,7 +168,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -195,9 +196,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 13时29分]"
         },
         {
           "title": "中国为何不大规模种植大豆",
