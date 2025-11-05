@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T06:28:06.321390+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2025-11-06T07:27:54.288819+08:00",
+  "total_titles_processed": 682,
   "failed_sources": [],
   "trends": [
     {
@@ -103,11 +103,12 @@
             17,
             7,
             14,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时38分 ~ 06时28分]"
+          "appearance_count": 7,
+          "time_info": "[02时38分 ~ 07时27分]"
         },
         {
           "title": "欧日汽车企业再次陷入缺芯恐惧",
