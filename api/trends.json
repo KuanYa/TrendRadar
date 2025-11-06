@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T02:40:08.794952+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2025-11-07T03:22:49.988324+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
         },
@@ -113,6 +113,34 @@
           "time_info": "00时37分"
         },
         {
+          "title": "小鹏汽车发力人形机器人意欲何为",
+          "url": "https://www.toutiao.com/trending/7569599100031602212/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            10,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时22分]"
+        },
+        {
+          "title": "小鹏汽车是真做机器人还是炒作",
+          "url": "https://www.toutiao.com/trending/7569605442133822985/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            17,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时22分]"
+        },
+        {
           "title": "高通CEO Cristiano Amon：汽车是（本公司业务中）当前增速最快的领域。 对个人AI设备的前景“非常乐观”。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3000659",
           "source": "华尔街见闻-快讯",
@@ -123,32 +151,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 01时26分]"
-        },
-        {
-          "title": "小鹏汽车发力人形机器人意欲何为",
-          "url": "https://www.toutiao.com/trending/7569599100031602212/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时40分]"
-        },
-        {
-          "title": "小鹏汽车是真做机器人还是炒作",
-          "url": "https://www.toutiao.com/trending/7569605442133822985/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时40分]"
         }
       ]
     },
@@ -165,8 +167,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时22分]"
         }
       ]
     }
