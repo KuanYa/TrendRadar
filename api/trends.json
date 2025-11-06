@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T19:24:29.226520+08:00",
-  "total_titles_processed": 1686,
+  "generated_at": "2025-11-06T20:56:34.147593+08:00",
+  "total_titles_processed": 1818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "中国版特斯拉！2026年，小鹏汽车要和高德合作推出Robotaxi，量产人型机器人",
@@ -72,17 +72,6 @@
           "time_info": "16时37分"
         },
         {
-          "title": "豪恩汽电：收到某头部新能源汽车品牌的全景视觉感知系统、AK2超声波雷达系统、DMS、车载视频行驶记录系统产品的定点信。该定点信显示，项目生命周期为2-5年，预估生命周期内总营业额约4.7亿元，预计2025年12月开始陆续量产。",
-          "url": "https://wallstreetcn.com/livenews/3000523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
           "title": "港股小鹏汽车涨超5%，此前小鹏汽车携手高德地图，宣布2026年三款自研Robotaxi车型正式试运营，整合高德叫车平台并开放生态布局，进军海外市场。小鹏同时发布人形机器人IRON，并宣布2026年底目标实现规模量产高阶人形机器人。",
           "url": "https://wallstreetcn.com/livenews/3000332",
           "source": "华尔街见闻-快讯",
@@ -93,6 +82,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时28分 ~ 14时42分]"
+        },
+        {
+          "title": "豪恩汽电：收到某头部新能源汽车品牌的全景视觉感知系统、AK2超声波雷达系统、DMS、车载视频行驶记录系统产品的定点信。该定点信显示，项目生命周期为2-5年，预估生命周期内总营业额约4.7亿元，预计2025年12月开始陆续量产。",
+          "url": "https://wallstreetcn.com/livenews/3000523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时56分]"
         },
         {
           "title": "A股汽车芯片概念震荡反弹，格尔软件涨停，源杰科技、东芯股份、芯原股份、兆易创新、扬杰科技、龙芯中科等跟涨。",
@@ -190,7 +191,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -204,6 +205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "汽车之家：2025年第三季度净利润4.37亿元",
+          "url": "https://wallstreetcn.com/livenews/3000533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         }
       ]
     },
@@ -429,8 +441,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时34分 ~ 19时24分]"
+          "appearance_count": 12,
+          "time_info": "[12时34分 ~ 20时56分]"
         }
       ]
     },
