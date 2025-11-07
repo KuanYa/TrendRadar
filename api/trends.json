@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T20:55:31.523517+08:00",
-  "total_titles_processed": 1805,
+  "generated_at": "2025-11-07T21:34:41.328251+08:00",
+  "total_titles_processed": 1871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "小鹏汽车发力人形机器人意欲何为",
@@ -65,6 +65,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "10月重点商品出海数据出炉：汽车动能拉满，环比增幅居首",
+          "url": "https://www.cls.cn/detail/2193907",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时30分 ~ 21时34分]"
         },
         {
           "title": "小鹏汽车是真做机器人还是炒作",
@@ -127,17 +139,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时41分 ~ 15时26分]"
-        },
-        {
-          "title": "10月重点商品出海数据出炉：汽车动能拉满，环比增幅居首",
-          "url": "https://www.cls.cn/detail/2193907",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时30分 ~ 20时55分]"
         },
         {
           "title": "广汽集团10月汽车销量超17万辆，出口量同比增长69.2%",
@@ -227,7 +228,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -241,6 +242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "日产汽车将出售总部大楼，转为租用，今年 4 至 9 月亏损 2219 亿日元，此前曾官宣全球裁员 2 万人，如何解读？",
+          "url": "https://www.zhihu.com/question/1969886824144023974",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "周四（11月6日），彭博电动汽车价格回报指数涨0.46%，报3446.17点。",
@@ -549,7 +561,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -571,7 +583,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -644,8 +656,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时30分 ~ 20时55分]"
+          "appearance_count": 4,
+          "time_info": "[18时30分 ~ 21时34分]"
         },
         {
           "title": "海关总署：恢复3家美国企业大豆输华资质",
@@ -654,9 +666,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时34分]"
         },
         {
           "title": "海关总署：自2025年11月10日起恢复CHS Inc.等3家企业大豆输华资质",
@@ -669,6 +681,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时23分 ~ 20时55分]"
+        },
+        {
+          "title": "海关总署恢复3家企业大豆输华资质",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E6%81%A2%E5%A4%8D3%E5%AE%B6%E4%BC%81%E4%B8%9A%E5%A4%A7%E8%B1%86%E8%BE%93%E5%8D%8E%E8%B5%84%E8%B4%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时34分]"
         },
         {
           "title": "根据路透估算纪录显示，10月份中国大豆进口量创纪录新高，达948万吨。",
@@ -693,17 +716,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时30分 ~ 18时30分]"
-        },
-        {
-          "title": "海关总署恢复3家企业大豆输华资质",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E6%81%A2%E5%A4%8D3%E5%AE%B6%E4%BC%81%E4%B8%9A%E5%A4%A7%E8%B1%86%E8%BE%93%E5%8D%8E%E8%B5%84%E8%B4%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
         }
       ]
     },
@@ -751,8 +763,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时41分 ~ 20时55分]"
+          "appearance_count": 8,
+          "time_info": "[14时41分 ~ 21时34分]"
         },
         {
           "title": "国办：推动大数据、物联网、脑机接口等新一代信息技术及医疗机器人等智能设备集成应用",
