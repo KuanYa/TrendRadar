@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T10:03:39.179267+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2025-11-07T11:48:08.725805+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "小鹏汽车发力人形机器人意欲何为",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "印度汽车经销商协会联盟（FADA）：10月份整体零售额同比增长40.5%。",
+          "url": "https://flash.jin10.com/detail/20251107113039907800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
         },
         {
           "title": "高通(QCOM.O)CEO：汽车是（本公司业务中）当前增速最快的领域。对个人AI设备的前景“非常乐观”。",
@@ -100,7 +111,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -111,9 +122,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "海关：前10个月机电产品占出口比重超6成，集成电路和汽车出口增长明显",
+          "url": "https://wallstreetcn.com/livenews/3000929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
         },
         {
           "title": "周四（11月6日），彭博电动汽车价格回报指数涨0.46%，报3446.17点。",
@@ -133,7 +155,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -183,7 +205,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -245,6 +267,34 @@
       ]
     },
     {
+      "keyword_group": "农业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "虹桥论坛首次聚焦全球南方农业可持续发展",
+          "url": "https://wallstreetcn.com/livenews/3000872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "特朗普：乌兹别克斯坦将采购和投资近350亿美元，乌兹别克斯坦将投资于美国的基础设施、农业、能源。",
+          "url": "https://wallstreetcn.com/livenews/3000890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "农民",
       "match_count": 1,
       "titles": [
@@ -265,19 +315,19 @@
       ]
     },
     {
-      "keyword_group": "农业",
+      "keyword_group": "大豆",
       "match_count": 1,
       "titles": [
         {
-          "title": "虹桥论坛首次聚焦全球南方农业可持续发展",
-          "url": "https://wallstreetcn.com/livenews/3000872",
+          "title": "根据路透估算纪录显示，10月份中国大豆进口量创纪录新高，达948万吨。",
+          "url": "https://wallstreetcn.com/livenews/3000933",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时03分"
+          "time_info": "11时48分"
         }
       ]
     }
