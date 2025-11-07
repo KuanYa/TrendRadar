@@ -1,738 +1,44 @@
 {
-  "generated_at": "2025-11-07T23:28:56.486971+08:00",
-  "total_titles_processed": 2046,
+  "generated_at": "2025-11-08T00:30:54.055983+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "汽车",
-      "match_count": 30,
-      "titles": [
-        {
-          "title": "10月重点商品出海数据出炉：汽车动能拉满，环比增幅居首",
-          "url": "https://www.cls.cn/detail/2193907",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时30分 ~ 22时29分]"
-        },
-        {
-          "title": "小鹏汽车发力人形机器人意欲何为",
-          "url": "https://www.toutiao.com/trending/7569599100031602212/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            10,
-            17,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时30分]"
-        },
-        {
-          "title": "据英国金融时报：瑞银旗下资产管理和投资部门对美国汽车零部件公司First Brands面临着超过5亿美元的风险敞口。",
-          "url": "https://flash.jin10.com/detail/20251107002116218800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "印度汽车经销商协会联盟（FADA）：10月份整体零售额同比增长40.5%。",
-          "url": "https://flash.jin10.com/detail/20251107113039907800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "高通(QCOM.O)CEO：汽车是（本公司业务中）当前增速最快的领域。对个人AI设备的前景“非常乐观”。",
-          "url": "https://flash.jin10.com/detail/20251107001704444800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "瑞银集团将清算与美国汽车零部件供应商First Brands重大风险敞口相关的那些基金。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3000661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "小鹏汽车是真做机器人还是炒作",
-          "url": "https://www.toutiao.com/trending/7569605442133822985/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            17,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时22分]"
-        },
-        {
-          "title": "从知情人士处获悉，市场监管总局正在讨论“虚假营销认定方法”，后续可能会针对汽车行业的夸大及虚假宣传进行治理。（一财）",
-          "url": "https://wallstreetcn.com/livenews/3000987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 14时41分]"
-        },
-        {
-          "title": "福特汽车考虑放弃开发F-150卡车的电动版。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3000725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 05时25分]"
-        },
-        {
-          "title": "高通CEO Cristiano Amon：汽车是（本公司业务中）当前增速最快的领域。 对个人AI设备的前景“非常乐观”。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3000659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时26分]"
-        },
-        {
-          "title": "本田汽车第二财季经营利润1,939.7亿日元，预估2,198.5亿日元。 第二财季净利润1,151.6亿日元，预估1,437.4亿日元。 第二财季销售净额5.29万亿日元，预估5.31万亿日元。 本田汽车预计全年经营利润5,500.0亿日元，此前预计7,000.0亿日元，市场预估8,687.7亿日元。 本田汽车预计全年销售净额20.70万亿日元，此前预计21.10万亿日元，市场预估21.42万亿日元。 本田汽车预计全年净利润本田汽车预计全年3,000.0亿日元，此前预计4,200.0亿日元，市场预估5,883.1亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3001010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 15时26分]"
-        },
-        {
-          "title": "日产汽车将出售总部大楼，转为租用，今年 4 至 9 月亏损 2219 亿日元，此前曾官宣全球裁员 2 万人，如何解读？",
-          "url": "https://www.zhihu.com/question/1969886824144023974",
-          "source": "知乎",
-          "ranks": [
-            15,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时34分 ~ 23时28分]"
-        },
-        {
-          "title": "广汽集团10月汽车销量超17万辆，出口量同比增长69.2%",
-          "url": "https://wallstreetcn.com/livenews/3001134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 18时30分]"
-        },
-        {
-          "title": "中国汽车工业协会：9月汽车零部件产品进口金额环比下降11.9%，同比下降21.1%",
-          "url": "https://wallstreetcn.com/livenews/3001002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 15时26分]"
-        },
-        {
-          "title": "小鹏汽车宣布，小鹏MONA M03车型累计交付达20万台，仅用时14个月。",
-          "url": "https://wallstreetcn.com/livenews/3000948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时29分]"
-        },
-        {
-          "title": "海关：前10个月机电产品占出口比重超6成，集成电路和汽车出口增长明显",
-          "url": "https://wallstreetcn.com/livenews/3000929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 12时31分]"
-        },
-        {
-          "title": "A股海南自贸区板块高开，海马汽车涨停，海南发展、康芝药业、欣龙控股、凯撒旅业、海峡股份跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3000857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "美国国家公路交通安全管理局（NHTSA）：本田将因车轮脱落问题召回超过 40.6 万辆美国汽车。",
-          "url": "https://wallstreetcn.com/livenews/3001090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "恒指低开0.51%，报26350.74点；恒生科技指数跌0.83%。华虹半导体跌3.9%，蔚来、京东集团跌超2%。小鹏汽车涨4.8%。",
-          "url": "https://wallstreetcn.com/livenews/3000850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "墨西哥10月汽车产量367870辆。",
-          "url": "https://flash.jin10.com/detail/20251107200245531800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "二手新能源汽车涌入交易市场 前三季度新能源汽车拍卖成交量增长超50%",
-          "url": "https://wallstreetcn.com/livenews/3000988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "周四（11月6日），彭博电动汽车价格回报指数涨0.46%，报3446.17点。",
-          "url": "https://wallstreetcn.com/livenews/3000761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "何小鹏发布「机器人揭秘」视频后，小鹏汽车股价盘中一度上涨超 2%，怎样解读机器人业务对小鹏汽车的影响？",
-          "url": "https://www.zhihu.com/question/1969765361600657096",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "特斯拉CEO马斯克：我们立志在明年底前将汽车产量提高约50%。",
-          "url": "https://flash.jin10.com/detail/20251107064805059800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "本田汽车第二季度运营利润下降25% 下调年度利润预期",
-          "url": "https://flash.jin10.com/detail/20251107150145179800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "印度汽车经销商协会联盟（FADA）：未来三个月，节日效应带来的预订将维持零售势头。",
-          "url": "https://flash.jin10.com/detail/20251107113732969800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "印度汽车经销商协会联盟（FADA）：64%的经销商预计市场增长，27%预计持平，8%预计下降。",
-          "url": "https://flash.jin10.com/detail/20251107113602205800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "印度汽车经销商协会联盟（FADA）：二轮车经销商预计，在农村地区流动性的支撑下，需求将保持稳定。",
-          "url": "https://flash.jin10.com/detail/20251107113250634800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "印度汽车经销商协会联盟（FADA）：节日销售热潮的势头将延续至十一月。",
-          "url": "https://flash.jin10.com/detail/20251107113226488800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "本田汽车：在北美地区，混合动力汽车的销售表现相对强劲，我们的盈利能力也得到了提升。",
-          "url": "https://flash.jin10.com/detail/20251107145634012800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 25,
-      "titles": [
-        {
-          "title": "欧盟委员会：欧盟可能在“数字综合法案”中解决对《人工智能法案》的担忧。",
-          "url": "https://flash.jin10.com/detail/20251107191350403800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
-          "title": "阿里巴巴集团CEO吴泳铭：实现“超级人工智能”还需要非常长的时间",
-          "url": "https://wallstreetcn.com/livenews/3000981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
-          "title": "欧盟委员会：听取产业界及欧盟各国对人工智能法案的关切。",
-          "url": "https://flash.jin10.com/detail/20251107191235703800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
-          "title": "欧盟委员会：目前尚未就《人工智能法案》的延期作出决定。",
-          "url": "https://flash.jin10.com/detail/20251107191125319800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
-          "title": "知名投资人麦朴思：人工智能股票料将回调，因为企业支出过高。",
-          "url": "https://wallstreetcn.com/livenews/3000958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时41分]"
-        },
-        {
-          "title": "新兴市场教父麦朴思：人工智能股票料将回调，因为企业支出过高。",
-          "url": "https://flash.jin10.com/detail/20251107121644538800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时29分]"
-        },
-        {
-          "title": "在美国及大型科技公司施压下，欧盟考虑暂停《人工智能法案》部分条款的实施。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3000980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 14时41分]"
-        },
-        {
-          "title": "市场消息：谷歌将在澳大利亚位于印度洋的一个小前哨基地建设新的人工智能数据中心。",
-          "url": "https://flash.jin10.com/detail/20251107130634244800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 14时41分]"
-        },
-        {
-          "title": "福建：遴选人工智能优质企业 给予每个企业一次性最高300万元奖励",
-          "url": "https://wallstreetcn.com/livenews/3001166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 19时23分]"
-        },
-        {
-          "title": "方正科技：子公司拟投资13.64亿元建设重庆生产基地人工智能扩建项目",
-          "url": "https://wallstreetcn.com/livenews/3001190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 20时55分]"
-        },
-        {
-          "title": "国办：打造一批新领域新赛道应用场景，加强人工智能领域关键核心技术攻关和推广应用",
-          "url": "https://wallstreetcn.com/livenews/3001120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 18时30分]"
-        },
-        {
-          "title": "据英国金融时报：面对美国和大型科技公司的压力，欧盟正考虑暂停其具有里程碑意义的《人工智能法案》的部分内容。",
-          "url": "https://flash.jin10.com/detail/20251107130201422800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
-          "title": "英国央行行长贝利：我现在认为通胀风险更加平衡。要提振市场信心，必须让私人市场更加透明。人工智能可能是下一个提升生产力的关键因素，也可能是一个泡沫。",
-          "url": "https://flash.jin10.com/detail/20251107000255306800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "美联储威廉姆斯：美国的大规模人工智能投资正在影响全球对资本的需求。",
-          "url": "https://flash.jin10.com/detail/20251107011124885800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "韩国人工智能初创企业Upstage筹备首次公开募股事宜。",
-          "url": "https://flash.jin10.com/detail/20251107093435383800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-07）",
-          "url": "https://flash.jin10.com/detail/20251107115927369800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "欧盟拟推迟人工智能法案部分内容实施",
-          "url": "https://flash.jin10.com/detail/20251107132838808800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "美联储副主席杰斐逊：现在判断人工智能将如何改变经济还为时过早。",
-          "url": "https://flash.jin10.com/detail/20251107200323591800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "市场消息：英伟达(NVDA.O)与哈萨克斯坦签署谅解备忘录，将为其提供价值高达20亿美元的先进人工智能芯片。",
-          "url": "https://flash.jin10.com/detail/20251107043718600800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "欧盟委员会：听取产业界、欧盟各国对AI法案的关切。 可能通过“数字综合法案”解决对《人工智能法案》的担忧。 现阶段尚未就推迟《人工智能法案》做出决定。",
-          "url": "https://wallstreetcn.com/livenews/3001209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "白宫人工智能事务负责人萨克斯：美国至少有5家主要的人工智能前沿模型公司。如果有一家失败了，其他公司会取而代之。",
-          "url": "https://flash.jin10.com/detail/20251107013905662800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "工信部：扎实推进人工智能产业高质量发展 推动人工智能更好服务全球发展、增进人类福祉",
-          "url": "https://wallstreetcn.com/livenews/3001067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "美联储哈玛克：人工智能是一种结构性经济变革，不太适合通过货币政策来应对。",
-          "url": "https://flash.jin10.com/detail/20251107013445448800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "美联储哈玛克：人工智能的繁荣可能类似于当年互联网基础设施建设时期的情形。",
-          "url": "https://flash.jin10.com/detail/20251107013439983800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "特朗普政府的人工智能官员表示，联邦政府不会对人工智能行业实施救助。",
-          "url": "https://flash.jin10.com/detail/20251107005622900800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "大豆",
-      "match_count": 8,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国大豆出口协会负责人：中国市场无可替代",
           "url": "https://news.ifeng.com/c/8o5f9jML7rk",
           "source": "凤凰网",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时30分 ~ 23时28分]"
+          "appearance_count": 1,
+          "time_info": "00时30分"
         },
         {
           "title": "海关总署：恢复3家美国企业大豆输华资质",
           "url": "https://news.ifeng.com/c/8o5nDUssFwV",
           "source": "凤凰网",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时55分 ~ 23时28分]"
+          "appearance_count": 1,
+          "time_info": "00时30分"
         },
         {
           "title": "海关总署恢复3家企业大豆输华资质",
           "url": "https://search.bilibili.com/all?keyword=%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E6%81%A2%E5%A4%8D3%E5%AE%B6%E4%BC%81%E4%B8%9A%E5%A4%A7%E8%B1%86%E8%BE%93%E5%8D%8E%E8%B5%84%E8%B4%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            7,
-            12
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时55分 ~ 23时28分]"
-        },
-        {
-          "title": "海关总署：自2025年11月10日起恢复CHS Inc.等3家企业大豆输华资质",
-          "url": "https://wallstreetcn.com/livenews/3001205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 20时55分]"
-        },
-        {
-          "title": "根据路透估算纪录显示，10月份中国大豆进口量创纪录新高，达948万吨。",
-          "url": "https://wallstreetcn.com/livenews/3000933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 12时31分]"
-        },
-        {
-          "title": "美国大豆出口协会负责人：中国市场无可替代",
-          "url": "https://wallstreetcn.com/livenews/3001132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 18时30分]"
-        },
-        {
-          "title": "美大豆出口协会：中国市场无可替代",
-          "url": "https://www.toutiao.com/trending/7569420859987722286/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时28分"
+          "time_info": "00时30分"
         },
         {
           "title": "美大豆出口协会：中国市场无可替代",
@@ -741,91 +47,82 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时28分"
+          "time_info": "00时30分"
         }
       ]
     },
     {
-      "keyword_group": "农业",
+      "keyword_group": "农民",
       "match_count": 2,
       "titles": [
         {
-          "title": "虹桥论坛首次聚焦全球南方农业可持续发展",
-          "url": "https://wallstreetcn.com/livenews/3000872",
-          "source": "华尔街见闻-快讯",
+          "title": "盖茨基金会表示，投资将帮助撒哈拉以南非洲和亚洲的农民获得技术，以增强抵御能力。",
+          "url": "https://flash.jin10.com/detail/20251107234553159800",
+          "source": "金十数据",
           "ranks": [
-            1
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时03分"
+          "time_info": "00时30分"
         },
         {
-          "title": "特朗普：乌兹别克斯坦将采购和投资近350亿美元，乌兹别克斯坦将投资于美国的基础设施、农业、能源。",
-          "url": "https://wallstreetcn.com/livenews/3000890",
-          "source": "华尔街见闻-快讯",
+          "title": "盖茨基金会表示，未来四年将投资14亿美元，帮助农民适应极端天气。",
+          "url": "https://flash.jin10.com/detail/20251107234542778800",
+          "source": "金十数据",
           "ranks": [
-            30
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "00时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日产汽车将出售总部大楼，转为租用，今年 4 至 9 月亏损 2219 亿日元，此前曾官宣全球裁员 2 万人，如何解读？",
+          "url": "https://www.zhihu.com/question/1969886824144023974",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "以军召回中国产汽车意欲何为",
+          "url": "https://www.toutiao.com/trending/7569901734055644714/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
         }
       ]
     },
     {
       "keyword_group": "大数据",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "马上评｜庆大霉素上餐桌：用大数据斩断“毒利益链”",
           "url": "https://m.thepaper.cn/newsDetail_forward_31914593",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            19,
-            16,
-            17,
-            15,
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时41分 ~ 23时28分]"
-        },
-        {
-          "title": "国办：推动大数据、物联网、脑机接口等新一代信息技术及医疗机器人等智能设备集成应用",
-          "url": "https://wallstreetcn.com/livenews/3001127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 18时30分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农民",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么东北农民很乐观，如《刘老根》《乡村爱情》，而东北工人很悲观，如漫长的季节、钢的琴、平原的摩西？",
-          "url": "https://www.zhihu.com/question/1964481471877198216",
-          "source": "知乎",
-          "ranks": [
-            8,
-            19,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 07时31分]"
+          "appearance_count": 1,
+          "time_info": "00时30分"
         }
       ]
     }
