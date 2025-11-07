@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T05:20:53.425583+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2025-11-08T06:29:45.640738+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时29分]"
         },
         {
           "title": "海关总署：恢复3家美国企业大豆输华资质",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时29分]"
         },
         {
           "title": "海关总署恢复3家企业大豆输华资质",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时29分]"
         },
         {
           "title": "芝加哥小麦期货周五跌约1.6%，大豆油本周涨超1.9%",
@@ -47,11 +47,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时20分]"
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时29分]"
         },
         {
           "title": "美大豆出口协会：中国市场无可替代",
@@ -63,8 +64,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时38分 ~ 05时20分]"
+          "appearance_count": 4,
+          "time_info": "[02时38分 ~ 06时29分]"
         },
         {
           "title": "美大豆出口协会：中国市场无可替代",
@@ -150,8 +151,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时29分]"
         },
         {
           "title": "以军召回中国产汽车意欲何为",
@@ -162,11 +163,12 @@
             15,
             18,
             8,
-            26
+            26,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 05时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 06时29分]"
         }
       ]
     },
@@ -183,8 +185,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时29分]"
         }
       ]
     }
