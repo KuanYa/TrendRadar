@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T07:31:28.781143+08:00",
-  "total_titles_processed": 685,
+  "generated_at": "2025-11-07T10:03:39.179267+08:00",
+  "total_titles_processed": 846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "小鹏汽车发力人形机器人意欲何为",
@@ -94,6 +94,28 @@
           "time_info": "[00时37分 ~ 01时26分]"
         },
         {
+          "title": "A股海南自贸区板块高开，海马汽车涨停，海南发展、康芝药业、欣龙控股、凯撒旅业、海峡股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3000857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "恒指低开0.51%，报26350.74点；恒生科技指数跌0.83%。华虹半导体跌3.9%，蔚来、京东集团跌超2%。小鹏汽车涨4.8%。",
+          "url": "https://wallstreetcn.com/livenews/3000850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "周四（11月6日），彭博电动汽车价格回报指数涨0.46%，报3446.17点。",
           "url": "https://wallstreetcn.com/livenews/3000761",
           "source": "华尔街见闻-快讯",
@@ -105,13 +127,24 @@
           "time_info": "06时26分"
         },
         {
+          "title": "何小鹏发布「机器人揭秘」视频后，小鹏汽车股价盘中一度上涨超 2%，怎样解读机器人业务对小鹏汽车的影响？",
+          "url": "https://www.zhihu.com/question/1969765361600657096",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "特斯拉CEO马斯克：我们立志在明年底前将汽车产量提高约50%。",
           "url": "https://flash.jin10.com/detail/20251107064805059800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         }
@@ -119,7 +152,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "英国央行行长贝利：我现在认为通胀风险更加平衡。要提振市场信心，必须让私人市场更加透明。人工智能可能是下一个提升生产力的关键因素，也可能是一个泡沫。",
@@ -142,6 +175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "韩国人工智能初创企业Upstage筹备首次公开募股事宜。",
+          "url": "https://flash.jin10.com/detail/20251107093435383800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "市场消息：英伟达(NVDA.O)与哈萨克斯坦签署谅解备忘录，将为其提供价值高达20亿美元的先进人工智能芯片。",
@@ -217,6 +261,23 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时37分 ~ 07时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "虹桥论坛首次聚焦全球南方农业可持续发展",
+          "url": "https://wallstreetcn.com/livenews/3000872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     }
