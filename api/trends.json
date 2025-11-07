@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T19:23:45.592685+08:00",
-  "total_titles_processed": 1694,
+  "generated_at": "2025-11-07T20:55:31.523517+08:00",
+  "total_titles_processed": 1805,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "小鹏汽车发力人形机器人意欲何为",
@@ -136,8 +136,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时30分 ~ 19时23分]"
+          "appearance_count": 4,
+          "time_info": "[17时30分 ~ 20时55分]"
         },
         {
           "title": "广汽集团10月汽车销量超17万辆，出口量同比增长69.2%",
@@ -219,6 +219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "墨西哥10月汽车产量367870辆。",
+          "url": "https://flash.jin10.com/detail/20251107200245531800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "二手新能源汽车涌入交易市场 前三季度新能源汽车拍卖成交量增长超50%",
@@ -334,7 +345,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "欧盟委员会：欧盟可能在“数字综合法案”中解决对《人工智能法案》的担忧。",
@@ -343,7 +354,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -365,7 +376,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -376,7 +387,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -440,6 +451,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时30分 ~ 19时23分]"
+        },
+        {
+          "title": "方正科技：子公司拟投资13.64亿元建设重庆生产基地人工智能扩建项目",
+          "url": "https://wallstreetcn.com/livenews/3001190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 20时55分]"
         },
         {
           "title": "国办：打造一批新领域新赛道应用场景，加强人工智能领域关键核心技术攻关和推广应用",
@@ -520,15 +543,15 @@
           "time_info": "14时41分"
         },
         {
-          "title": "方正科技：子公司拟投资13.64亿元建设重庆生产基地人工智能扩建项目",
-          "url": "https://wallstreetcn.com/livenews/3001190",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储副主席杰斐逊：现在判断人工智能将如何改变经济还为时过早。",
+          "url": "https://flash.jin10.com/detail/20251107200323591800",
+          "source": "金十数据",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时23分"
+          "time_info": "20时55分"
         },
         {
           "title": "市场消息：英伟达(NVDA.O)与哈萨克斯坦签署谅解备忘录，将为其提供价值高达20亿美元的先进人工智能芯片。",
@@ -540,6 +563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "欧盟委员会：听取产业界、欧盟各国对AI法案的关切。 可能通过“数字综合法案”解决对《人工智能法案》的担忧。 现阶段尚未就推迟《人工智能法案》做出决定。",
+          "url": "https://wallstreetcn.com/livenews/3001209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "白宫人工智能事务负责人萨克斯：美国至少有5家主要的人工智能前沿模型公司。如果有一家失败了，其他公司会取而代之。",
@@ -600,7 +634,7 @@
     },
     {
       "keyword_group": "大豆",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国大豆出口协会负责人：中国市场无可替代",
@@ -610,19 +644,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 19时23分]"
+          "appearance_count": 3,
+          "time_info": "[18时30分 ~ 20时55分]"
+        },
+        {
+          "title": "海关总署：恢复3家美国企业大豆输华资质",
+          "url": "https://news.ifeng.com/c/8o5nDUssFwV",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "海关总署：自2025年11月10日起恢复CHS Inc.等3家企业大豆输华资质",
           "url": "https://wallstreetcn.com/livenews/3001205",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 20时55分]"
         },
         {
           "title": "根据路透估算纪录显示，10月份中国大豆进口量创纪录新高，达948万吨。",
@@ -647,6 +693,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时30分 ~ 18时30分]"
+        },
+        {
+          "title": "海关总署恢复3家企业大豆输华资质",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E6%81%A2%E5%A4%8D3%E5%AE%B6%E4%BC%81%E4%B8%9A%E5%A4%A7%E8%B1%86%E8%BE%93%E5%8D%8E%E8%B5%84%E8%B4%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         }
       ]
     },
@@ -690,11 +747,12 @@
             18,
             19,
             16,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时41分 ~ 19时23分]"
+          "appearance_count": 7,
+          "time_info": "[14时41分 ~ 20时55分]"
         },
         {
           "title": "国办：推动大数据、物联网、脑机接口等新一代信息技术及医疗机器人等智能设备集成应用",
