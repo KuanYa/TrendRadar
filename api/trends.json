@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T16:41:29.687624+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2025-11-07T17:30:27.399063+08:00",
+  "total_titles_processed": 1537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "小鹏汽车发力人形机器人意欲何为",
@@ -176,13 +176,35 @@
           "time_info": "10时03分"
         },
         {
+          "title": "广汽集团10月汽车销量超17万辆，出口量同比增长69.2%",
+          "url": "https://wallstreetcn.com/livenews/3001134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
+        },
+        {
+          "title": "10月重点商品出海数据出炉：汽车动能拉满，环比增幅居首",
+          "url": "https://www.cls.cn/detail/2193907",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
+        },
+        {
           "title": "美国国家公路交通安全管理局（NHTSA）：本田将因车轮脱落问题召回超过 40.6 万辆美国汽车。",
           "url": "https://wallstreetcn.com/livenews/3001090",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
         },
@@ -311,7 +333,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "阿里巴巴集团CEO吴泳铭：实现“超级人工智能”还需要非常长的时间",
@@ -440,6 +462,17 @@
           "time_info": "14时41分"
         },
         {
+          "title": "国办：打造一批新领域新赛道应用场景，加强人工智能领域关键核心技术攻关和推广应用",
+          "url": "https://wallstreetcn.com/livenews/3001120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
+        },
+        {
           "title": "市场消息：英伟达(NVDA.O)与哈萨克斯坦签署谅解备忘录，将为其提供价值高达20亿美元的先进人工智能芯片。",
           "url": "https://flash.jin10.com/detail/20251107043718600800",
           "source": "金十数据",
@@ -468,7 +501,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
         },
@@ -536,6 +569,64 @@
       ]
     },
     {
+      "keyword_group": "大豆",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "根据路透估算纪录显示，10月份中国大豆进口量创纪录新高，达948万吨。",
+          "url": "https://wallstreetcn.com/livenews/3000933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 12时31分]"
+        },
+        {
+          "title": "美国大豆出口协会负责人：中国市场无可替代",
+          "url": "https://wallstreetcn.com/livenews/3001132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大数据",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马上评｜庆大霉素上餐桌：用大数据斩断“毒利益链”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914593",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 17时30分]"
+        },
+        {
+          "title": "国办：推动大数据、物联网、脑机接口等新一代信息技术及医疗机器人等智能设备集成应用",
+          "url": "https://wallstreetcn.com/livenews/3001127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
+        }
+      ]
+    },
+    {
       "keyword_group": "农民",
       "match_count": 1,
       "titles": [
@@ -552,42 +643,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时37分 ~ 07时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大豆",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "根据路透估算纪录显示，10月份中国大豆进口量创纪录新高，达948万吨。",
-          "url": "https://wallstreetcn.com/livenews/3000933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 12时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大数据",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马上评｜庆大霉素上餐桌：用大数据斩断“毒利益链”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914593",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 16时41分]"
         }
       ]
     }
