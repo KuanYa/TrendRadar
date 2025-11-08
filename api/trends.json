@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T17:25:14.678983+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2025-11-08T18:27:31.597139+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
@@ -97,8 +97,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时25分 ~ 17时25分]"
+          "appearance_count": 17,
+          "time_info": "[07时25分 ~ 18时27分]"
         },
         {
           "title": "Meta Platforms(META.O)：到2028年，将在美国投入超过6000亿美元，以支持人工智能技术、基础设施和员工队伍的扩展。",
@@ -117,11 +117,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 17时25分]"
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 18时27分]"
         },
         {
           "title": "美国总统特朗普：我完全支持人工智能。",
@@ -138,7 +139,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "日产汽车将出售总部大楼，转为租用，今年 4 至 9 月亏损 2219 亿日元，此前曾官宣全球裁员 2 万人，如何解读？",
@@ -185,6 +186,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时12分 ~ 14时38分]"
+        },
+        {
+          "title": "分析｜基数因素影响10月出口同比增速转负，汽车、集成电路等出口保持韧性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31918130",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         }
       ]
     },
