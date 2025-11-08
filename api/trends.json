@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T13:27:00.960195+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2025-11-08T14:38:10.450249+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
@@ -97,8 +97,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时25分 ~ 13时27分]"
+          "appearance_count": 10,
+          "time_info": "[07时25分 ~ 14时38分]"
         },
         {
           "title": "Meta Platforms(META.O)：到2028年，将在美国投入超过6000亿美元，以支持人工智能技术、基础设施和员工队伍的扩展。",
@@ -167,11 +167,12 @@
           "ranks": [
             10,
             19,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 14时38分]"
         }
       ]
     },
@@ -214,11 +215,12 @@
           "ranks": [
             11,
             20,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 14时38分]"
         },
         {
           "title": "碳达峰碳中和的中国行动白皮书：深化人工智能、大数据、云计算等在电力系统、工农业生产、交通运输、建筑建设运行等领域应用",
