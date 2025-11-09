@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T11:48:20.726271+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2025-11-09T12:30:37.161903+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,25 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 11时48分]"
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 12时30分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农民",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么东北农民很乐观，如《刘老根》《乡村爱情》，而东北工人很悲观，如漫长的季节、钢的琴、平原的摩西？",
+          "url": "https://www.zhihu.com/question/1964481471877198216",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         }
       ]
     },
@@ -44,11 +61,12 @@
           "source": "金十数据",
           "ranks": [
             15,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时08分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[10时08分 ~ 12时30分]"
         }
       ]
     }
