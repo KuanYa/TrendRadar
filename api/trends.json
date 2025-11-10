@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T21:38:30.155430+08:00",
-  "total_titles_processed": 1660,
+  "generated_at": "2025-11-10T22:28:37.596810+08:00",
+  "total_titles_processed": 1770,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "4.99万起售,京东汽车卷死同行",
@@ -15,11 +15,12 @@
             7,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时27分 ~ 21时38分]"
+          "appearance_count": 10,
+          "time_info": "[15时27分 ~ 22时28分]"
         },
         {
           "title": "安世恢复部分芯片供应，日德汽车制造商迎首批供货",
@@ -76,6 +77,17 @@
           "time_info": "[14时42分 ~ 18时33分]"
         },
         {
+          "title": "最新消息称，印度德里红堡附近发生的爆炸事件造成至少一人死亡，多人受伤，火势蔓延至多辆汽车。",
+          "url": "https://flash.jin10.com/detail/20251110221339361800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "中国乘联分会：比亚迪10月汽车出口量为80,108辆。",
           "url": "https://flash.jin10.com/detail/20251110161742303800",
           "source": "金十数据",
@@ -96,6 +108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        },
+        {
+          "title": "印度德里红堡附近发生汽车爆炸，调查正在进行中。警犬小组、法医小组和德里警方均以赶赴在现场。",
+          "url": "https://flash.jin10.com/detail/20251110221209015800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "中国乘联分会：中国1月至10月新能源汽车零售销量同比增长22%。",
@@ -199,7 +222,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -229,7 +252,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-10）",
@@ -298,6 +321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
+        },
+        {
+          "title": "美联储戴利：资产估值反映了更高的生产力预期，无论人工智能最终是否具有变革性。",
+          "url": "https://flash.jin10.com/detail/20251110214107714800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         }
       ]
     },
@@ -313,19 +347,37 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 21时38分]"
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 22时28分]"
         },
         {
           "title": "农民歌手李根去世 因魔性唱法走红",
           "url": "https://www.toutiao.com/trending/7570492884844740658/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 21时38分]"
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 22时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大豆",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国采购美国大豆点燃期货市场",
+          "url": "https://www.toutiao.com/trending/7571042754159971903/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         }
       ]
     },
