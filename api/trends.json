@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T22:28:37.596810+08:00",
-  "total_titles_processed": 1770,
+  "generated_at": "2025-11-10T23:37:26.202088+08:00",
+  "total_titles_processed": 1860,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "4.99万起售,京东汽车卷死同行",
@@ -19,8 +19,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时27分 ~ 22时28分]"
+          "appearance_count": 11,
+          "time_info": "[15时27分 ~ 23时37分]"
         },
         {
           "title": "安世恢复部分芯片供应，日德汽车制造商迎首批供货",
@@ -83,7 +83,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -116,7 +116,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -214,6 +214,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "印度德里地区汽车爆炸事件已致超10人死伤",
+          "url": "https://flash.jin10.com/detail/20251110225825531800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "大众汽车全面启动成本削减计划 核心品牌利润率获得有效支撑",
@@ -329,7 +340,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         }
@@ -344,11 +355,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E6%AD%8C%E6%89%8B%E6%9D%8E%E6%A0%B9%E5%8E%BB%E4%B8%96+%E5%B9%B4%E4%BB%8543%E5%B2%81",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时57分 ~ 22时28分]"
+          "appearance_count": 4,
+          "time_info": "[20时57分 ~ 23时37分]"
         },
         {
           "title": "农民歌手李根去世 因魔性唱法走红",
@@ -356,11 +368,12 @@
           "source": "今日头条",
           "ranks": [
             13,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时57分 ~ 22时28分]"
+          "appearance_count": 4,
+          "time_info": "[20时57分 ~ 23时37分]"
         }
       ]
     },
@@ -375,7 +388,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         }
