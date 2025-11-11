@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T01:25:36.967923+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2025-11-12T02:38:18.470185+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时38分]"
         },
         {
           "title": "印度新德里汽车爆炸事件致多人死亡 ，莫迪发出严厉警告",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时38分]"
         },
         {
           "title": "保持较高增长！10月我国新能源汽车销量首次超总销量50%",
@@ -37,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时38分]"
         },
         {
           "title": "印度首都汽车爆炸已致12死",
@@ -46,11 +46,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时38分]"
         },
         {
           "title": "4.99万起售,京东汽车卷死同行",
@@ -60,8 +61,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时38分]"
         },
         {
           "title": "小米汽车交付周期最快提至22周",
