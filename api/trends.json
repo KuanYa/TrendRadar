@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T00:35:54.037037+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-12T01:25:36.967923+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时25分]"
         },
         {
           "title": "印度新德里汽车爆炸事件致多人死亡 ，莫迪发出严厉警告",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时25分]"
         },
         {
           "title": "保持较高增长！10月我国新能源汽车销量首次超总销量50%",
@@ -37,24 +37,36 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "小米汽车交付周期最快提至22周",
-          "url": "https://www.toutiao.com/trending/7570992913396957227/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时25分]"
         },
         {
           "title": "印度首都汽车爆炸已致12死",
           "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%A6%96%E9%83%BD%E6%B1%BD%E8%BD%A6%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B412%E6%AD%BB",
           "source": "百度热搜",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时25分]"
+        },
+        {
+          "title": "4.99万起售,京东汽车卷死同行",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346932&amp;topic_name=4.99%E4%B8%87%E8%B5%B7%E5%94%AE%2C%E4%BA%AC%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%8D%B7%E6%AD%BB%E5%90%8C%E8%A1%8C",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时25分]"
+        },
+        {
+          "title": "小米汽车交付周期最快提至22周",
+          "url": "https://www.toutiao.com/trending/7570992913396957227/",
+          "source": "今日头条",
           "ranks": [
             20
           ],
@@ -72,17 +84,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
-        },
-        {
-          "title": "4.99万起售,京东汽车卷死同行",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346932&amp;topic_name=4.99%E4%B8%87%E8%B5%B7%E5%94%AE%2C%E4%BA%AC%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%8D%B7%E6%AD%BB%E5%90%8C%E8%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
         }
       ]
     },
@@ -95,22 +96,24 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%94%B7%E5%AD%90%E6%94%B6%E5%89%B2%E7%8E%89%E7%B1%B3%E7%AA%81%E5%8F%91%E6%84%8F%E5%A4%96%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E5%8E%BB%E4%B8%96%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26stream_entry_id%3D31%26band_rank%3D16%26lcate%3D5001%26filter_type%3Drealtimehot%26cate%3D5001%26realpos%3D16%26c_type%3D31%26q%3D%2523%25E7%2594%25B7%25E5%25AD%2590%25E6%2594%25B6%25E5%2589%25B2%25E7%258E%2589%25E7%25B1%25B3%25E7%25AA%2581%25E5%258F%2591%25E6%2584%258F%25E5%25A4%2596%25E6%258A%25A2%25E6%2595%2591%25E6%2597%25A0%25E6%2595%2588%25E5%258E%25BB%25E4%25B8%2596%2523%26dgr%3D0%26pos%3D17%26display_time%3D1762878246%26pre_seqid%3D176287824648503042033&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时25分]"
         },
         {
           "title": "男子收割玉米时被收割机割到去世",
           "url": "https://www.toutiao.com/trending/7571119961742082091/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时25分]"
         }
       ]
     },
@@ -123,11 +126,12 @@
           "url": "https://flash.jin10.com/detail/20251112001329847800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时25分]"
         }
       ]
     },
@@ -140,11 +144,12 @@
           "url": "https://wallstreetcn.com/livenews/3002880",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时25分]"
         }
       ]
     }
