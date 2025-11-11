@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T17:32:05.864524+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2025-11-11T18:31:40.106324+08:00",
+  "total_titles_processed": 1588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "4.99万起售,京东汽车卷死同行",
@@ -19,11 +19,12 @@
             22,
             24,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时36分 ~ 17时32分]"
+          "appearance_count": 24,
+          "time_info": "[00时36分 ~ 18时31分]"
         },
         {
           "title": "“每个人都在奔跑逃离”目击者讲述印度首都汽车爆炸瞬间",
@@ -62,6 +63,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时36分 ~ 04时32分]"
+        },
+        {
+          "title": "摩托、汽车、步行，俄军借大雾掩护进入红军城(图)",
+          "url": "https://v.ifeng.com/c/8oCJypfQOqh",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "金十图示：2025年11月11日（周二）全球汽车制造商市值变化",
@@ -118,11 +130,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 17时32分]"
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 18时31分]"
         },
         {
           "title": "保持较高增长！10月我国新能源汽车销量首次超总销量50%",
@@ -133,8 +146,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 17时32分]"
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 18时31分]"
         },
         {
           "title": "印度新德里汽车爆炸事件致多人死亡 ，莫迪发出严厉警告",
@@ -144,8 +157,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时32分]"
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时31分]"
         },
         {
           "title": "印度新德里发生汽车爆炸事件，已致10人死亡",
@@ -340,7 +353,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -418,7 +431,7 @@
     },
     {
       "keyword_group": "玉米",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "早盘收盘，国内期货主力合约涨跌互现。沪银、沪金涨超3%，菜油、集运欧线涨超2%，棕榈油、花生、玉米涨超1%；跌幅方面，焦煤跌超2%，焦炭、玻璃跌超1%。",
@@ -430,6 +443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "男子收割玉米时被收割机割到去世",
+          "url": "https://www.toutiao.com/trending/7571119961742082091/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         }
       ]
     },
