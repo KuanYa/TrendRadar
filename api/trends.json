@@ -1,595 +1,84 @@
 {
-  "generated_at": "2025-11-12T23:33:40.600334+08:00",
-  "total_titles_processed": 2064,
+  "generated_at": "2025-11-13T00:37:47.849471+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "工信部就《人工智能 安全治理 安全威胁情报共享技术要求》等325项行业标准、22项行业标准外文版、55项推荐性国家标准和3项推荐性国家标准外文版计划项目公开征集意见。",
-          "url": "https://wallstreetcn.com/livenews/3003388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "鸿海：人工智能将成为我们明年最大的增长动力。",
-          "url": "https://flash.jin10.com/detail/20251112151535290800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "鸿海：预计第四季度人工智能服务器收入将环比增长。",
-          "url": "https://flash.jin10.com/detail/20251112142110257800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "鸿海董事长：对2026年人工智能发展前景非常乐观。 对2026年的业务非常看好。 人工智能将是公司2026年最重要的增长力。",
-          "url": "https://wallstreetcn.com/livenews/3003264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 16时37分]"
-        },
-        {
-          "title": "亚马逊：自今日起，美国亚马逊商用用户可免费使用Amazon Business Assistant。 Amazon Business、AWS和德勤合作推出两项人工智能驱动的解决方案，帮助企业高效应对供应链中断。",
-          "url": "https://wallstreetcn.com/livenews/3003457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 22时31分]"
-        },
-        {
-          "title": "美联储理事巴尔在新加坡就人工智能提前准备的讲话中，未对货币政策和经济前景发表评论。",
-          "url": "https://flash.jin10.com/detail/20251112112600840800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时33分]"
-        },
-        {
-          "title": "美联储理事Barr：人工智能可能改变经济格局。",
-          "url": "https://wallstreetcn.com/livenews/3003138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时33分]"
-        },
-        {
-          "title": "周二（11月11日），降息赢家指数涨0.77%，报97.56点。 “特朗普关税输家”指数涨0.24%，报104.77点。 散户抱团概念股指数/迷因股（meme stock）指数涨0.86%，报18.11点。 人工智能（AI）赢家指数跌1.76%，AI软件先驱指数跌0.44%，AI风险敞口半导体跌2.77%。",
-          "url": "https://wallstreetcn.com/livenews/3002989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时25分]"
-        },
-        {
-          "title": "上海市新增9款已完成备案的生成式人工智能服务",
-          "url": "https://wallstreetcn.com/livenews/3003310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 18时31分]"
-        },
-        {
-          "title": "NeoCloud（新云）供应商Nebius Group NV下跌超5.6%，Meta Platforms跌1.5%。 两家公司签署人工智能（AI）基础设施协议，Nebius三季度销售同比激增355%至1.46亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3002880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时25分]"
-        },
-        {
-          "title": "鸿海董事长：对2026年人工智能产业发展持非常乐观态度。",
-          "url": "https://flash.jin10.com/detail/20251112151503187800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "美联储理事巴尔将于十分钟后在新加坡金融科技节前参加“人工智能与创新”讨论会。",
-          "url": "https://flash.jin10.com/detail/20251112111500000800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-12）",
-          "url": "https://flash.jin10.com/detail/20251112115354459800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "鸿海：人工智能的重要性日益提升，2026年前景一片大好。",
-          "url": "https://flash.jin10.com/detail/20251112151041604800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "商汤在沙特共建人工智能创新中心",
-          "url": "https://flash.jin10.com/detail/20251112124229582800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "德国大型能源公司莱茵集团（RWE）首席财务官：人工智能的蓬勃发展推动了全球对电力的需求，进而带动了可再生能源的发展，这为我们的业务带来了良好的前景。",
-          "url": "https://flash.jin10.com/detail/20251112140043328800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
-          "title": "澳洲联储副主席豪泽：我们不知道是否正处于人工智能泡沫中，目前的中心情形并非市场即将崩盘。",
-          "url": "https://flash.jin10.com/detail/20251112110640547800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
-          "title": "英国金融行为监管局（FCA）：与新加坡金融管理局建立人工智能战略合作伙伴关系，进一步拓展国际布局。将在新加坡设立新机构。",
-          "url": "https://flash.jin10.com/detail/20251112175420485800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "AMD首席执行官苏姿丰：推理业务增长速度快于训练业务。人工智能加速器并未导致CPU市场放缓。",
-          "url": "https://flash.jin10.com/detail/20251112022626987800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "AMD首席执行官苏姿丰：客户对人工智能的投资并未“趋于平稳”。",
-          "url": "https://flash.jin10.com/detail/20251112022441940800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "AMD首席执行官苏姿丰：市场对人工智能计算基础设施的需求永无止境。",
-          "url": "https://flash.jin10.com/detail/20251112022400327800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "汽车",
-      "match_count": 19,
+      "match_count": 2,
       "titles": [
         {
-          "title": "摩托、汽车、步行，俄军借大雾掩护进入红军城(图)",
-          "url": "https://v.ifeng.com/c/8oCJypfQOqh",
-          "source": "凤凰网",
+          "title": "公安部将限制汽车百公里加速小于5秒",
+          "url": "https://www.toutiao.com/trending/7571318160410968118/",
+          "source": "今日头条",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时25分]"
-        },
-        {
-          "title": "印度新德里汽车爆炸事件致多人死亡 ，莫迪发出严厉警告",
-          "url": "https://news.ifeng.com/c/8oCGaiGtA9j",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时25分]"
-        },
-        {
-          "title": "保持较高增长！10月我国新能源汽车销量首次超总销量50%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31940420",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 13时28分]"
-        },
-        {
-          "title": "印度首都汽车爆炸已致12死",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E9%A6%96%E9%83%BD%E6%B1%BD%E8%BD%A6%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B412%E6%AD%BB",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            18,
-            13,
-            16,
-            19,
-            14,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时25分]"
-        },
-        {
-          "title": "4.99万起售,京东汽车卷死同行",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346932&amp;topic_name=4.99%E4%B8%87%E8%B5%B7%E5%94%AE%2C%E4%BA%AC%E4%B8%9C%E6%B1%BD%E8%BD%A6%E5%8D%B7%E6%AD%BB%E5%90%8C%E8%A1%8C",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时25分]"
+          "appearance_count": 1,
+          "time_info": "00时37分"
         },
         {
           "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
           "url": "https://www.zhihu.com/question/1971857868463502728",
           "source": "知乎",
           "ranks": [
-            19,
-            16,
-            17,
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时37分 ~ 23时33分]"
-        },
-        {
-          "title": "国产汽车真的超越了合资车吗？",
-          "url": "https://www.zhihu.com/question/666875463",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时28分 ~ 15时27分]"
-        },
-        {
-          "title": "莫迪就印度汽车爆炸事件发出严厉警告",
-          "url": "https://www.toutiao.com/trending/7571422348454068267/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时05分 ~ 12时33分]"
-        },
-        {
-          "title": "中国汽车工程学会理事长张进华：预计到2030年前后全固态电池将小批量装车应用",
-          "url": "https://wallstreetcn.com/livenews/3003263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 16时37分]"
-        },
-        {
-          "title": "通用汽车中国宣布管理层人事变动：任命Steve Hill（何思文）为负责全球出口与零售创新高级副总裁（SVP）。 任命John Roth为通用汽车中国总裁，接替Steve Hill。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3002941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时22分 ~ 05时26分]"
-        },
-        {
-          "title": "俄罗斯一高楼塌方 超百辆汽车受损",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%80%E9%AB%98%E6%A5%BC%E5%A1%8C%E6%96%B9+%E8%B6%85%E7%99%BE%E8%BE%86%E6%B1%BD%E8%BD%A6%E5%8F%97%E6%8D%9F",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时58分 ~ 22时31分]"
-        },
-        {
-          "title": "规模化制造 首个飞行汽车工厂落地广州",
-          "url": "https://wallstreetcn.com/livenews/3003286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 17时30分]"
-        },
-        {
-          "title": "恒指高开0.22%，报26754.93点；恒生科技指数涨0.26%。小鹏汽车涨超2%，京东健康、携程、网易等涨超1%；蔚来跌超4%，阿里巴巴跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3003075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "外交部回应印度汽车爆炸事件",
-          "url": "https://www.douyin.com/hot/2302626",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "金十图示：2025年11月12日（周三）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251112110549677800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
-          "title": "小米汽车交付周期最快提至22周",
-          "url": "https://www.toutiao.com/trending/7570992913396957227/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "中国汽车正式进入“电车过半”时代",
-          "url": "https://www.toutiao.com/trending/7571797670088412714/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时33分"
-        },
-        {
-          "title": "本田汽车将在美国北卡罗来纳州制造工厂投资96.58亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3002877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "公安部将限制汽车百公里加速小于5秒",
-          "url": "https://www.toutiao.com/trending/7571318160410968118/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时33分"
+          "time_info": "00时37分"
         }
       ]
     },
     {
       "keyword_group": "农业",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "【每日收评】三大指数探底回升小幅收跌，防御性板块走强，农业银行再创新高",
           "url": "https://www.cls.cn/detail/2198413",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时30分 ~ 23时33分]"
-        },
-        {
-          "title": "农业银行拉升涨超3%，股价再创历史新高，总市值突破3万亿元。",
-          "url": "https://wallstreetcn.com/livenews/3003118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
-          "title": "俄罗斯农业部长：仍将2025年粮食作物产量预测维持在超1.35亿吨。",
-          "url": "https://flash.jin10.com/detail/20251112173843548800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
+          "time_info": "00时37分"
         }
       ]
     },
     {
-      "keyword_group": "玉米",
-      "match_count": 3,
+      "keyword_group": "人工智能",
+      "match_count": 1,
       "titles": [
         {
-          "title": "男子收割玉米时被收割机割到去世",
-          "url": "https://www.toutiao.com/trending/7571119961742082091/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            22,
-            25,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 07时25分]"
-        },
-        {
-          "title": "男子收割玉米突发意外抢救无效去世",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%94%B7%E5%AD%90%E6%94%B6%E5%89%B2%E7%8E%89%E7%B1%B3%E7%AA%81%E5%8F%91%E6%84%8F%E5%A4%96%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E5%8E%BB%E4%B8%96%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26stream_entry_id%3D31%26band_rank%3D16%26lcate%3D5001%26filter_type%3Drealtimehot%26cate%3D5001%26realpos%3D16%26c_type%3D31%26q%3D%2523%25E7%2594%25B7%25E5%25AD%2590%25E6%2594%25B6%25E5%2589%25B2%25E7%258E%2589%25E7%25B1%25B3%25E7%25AA%2581%25E5%258F%2591%25E6%2584%258F%25E5%25A4%2596%25E6%258A%25A2%25E6%2595%2591%25E6%2597%25A0%25E6%2595%2588%25E5%258E%25BB%25E4%25B8%2596%2523%26dgr%3D0%26pos%3D17%26display_time%3D1762878246%26pre_seqid%3D176287824648503042033&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            16,
-            24,
-            22,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 07时25分]"
-        },
-        {
-          "title": "芝加哥玉米期货涨超0.5%，大豆油涨0.9%，豆粕跌1%",
-          "url": "https://wallstreetcn.com/livenews/3002958",
+          "title": "雪佛龙选择美国得州为旗下首个人工智能（AI）数据中心电力（供应）项目（的地址）。",
+          "url": "https://wallstreetcn.com/livenews/3003523",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时26分"
+          "time_info": "00时37分"
         }
       ]
     },
     {
-      "keyword_group": "大豆",
+      "keyword_group": "大数据",
       "match_count": 1,
       "titles": [
         {
-          "title": "官方数据显示，截至11月9日，欧盟2025/26年度大豆进口量为415万吨，去年同期497万吨。",
-          "url": "https://flash.jin10.com/detail/20251112001329847800",
+          "title": "微软(MSFT.O)正通过“超级工厂”园区扩大数据中心建设。",
+          "url": "https://flash.jin10.com/detail/20251113000243675800",
           "source": "金十数据",
           "ranks": [
-            4,
-            22
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时25分]"
+          "appearance_count": 1,
+          "time_info": "00时37分"
         }
       ]
     }
