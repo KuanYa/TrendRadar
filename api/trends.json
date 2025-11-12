@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T19:24:47.406501+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2025-11-12T20:58:21.262983+08:00",
+  "total_titles_processed": 1777,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -237,7 +237,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "摩托、汽车、步行，俄军借大雾掩护进入红军城(图)",
@@ -319,6 +319,19 @@
           "time_info": "[13时28分 ~ 15时27分]"
         },
         {
+          "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
+          "url": "https://www.zhihu.com/question/1971857868463502728",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 20时58分]"
+        },
+        {
           "title": "莫迪就印度汽车爆炸事件发出严厉警告",
           "url": "https://www.toutiao.com/trending/7571422348454068267/",
           "source": "今日头条",
@@ -342,19 +355,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时27分 ~ 16时37分]"
-        },
-        {
-          "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
-          "url": "https://www.zhihu.com/question/1971857868463502728",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 19时24分]"
         },
         {
           "title": "通用汽车中国宣布管理层人事变动：任命Steve Hill（何思文）为负责全球出口与零售创新高级副总裁（SVP）。 任命John Roth为通用汽车中国总裁，接替Steve Hill。（彭博）",
@@ -435,6 +435,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "俄罗斯一高楼塌方 超百辆汽车受损",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%80%E9%AB%98%E6%A5%BC%E5%A1%8C%E6%96%B9+%E8%B6%85%E7%99%BE%E8%BE%86%E6%B1%BD%E8%BD%A6%E5%8F%97%E6%8D%9F",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
@@ -451,8 +462,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时30分 ~ 19时24分]"
+          "appearance_count": 4,
+          "time_info": "[17时30分 ~ 20时58分]"
         },
         {
           "title": "农业银行拉升涨超3%，股价再创历史新高，总市值突破3万亿元。",
