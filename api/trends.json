@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T01:27:06.363160+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2025-11-13T02:37:18.068592+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 02时37分]"
         },
         {
           "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
@@ -25,11 +25,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 02时37分]"
         }
       ]
     },
@@ -42,11 +43,12 @@
           "url": "https://www.cls.cn/detail/2198413",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 02时37分]"
         }
       ]
     },
