@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T19:25:10.614992+08:00",
-  "total_titles_processed": 1725,
+  "generated_at": "2025-11-13T20:58:38.539746+08:00",
+  "total_titles_processed": 1835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "公安部将限制汽车百公里加速小于5秒",
@@ -73,6 +73,17 @@
           "time_info": "[10时06分 ~ 14时40分]"
         },
         {
+          "title": "恒大汽车：法院已受理债权人对公司相关附属公司的破产及清算呈请",
+          "url": "https://wallstreetcn.com/livenews/3004196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
           "url": "https://www.zhihu.com/question/1971857868463502728",
           "source": "知乎",
@@ -110,6 +121,32 @@
           "time_info": "15时27分"
         },
         {
+          "title": "贵州汽车置换补贴政策优化致部分车主不能享受，商务厅：无法溯及以往",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31956124",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时30分 ~ 20时58分]"
+        },
+        {
+          "title": "马上评｜奇瑞测试“翻车”，汽车营销多一些诚实吧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31956603",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时30分 ~ 20时58分]"
+        },
+        {
           "title": "中国汽车技术研究中心公开明确：将电池分为固态电池、固液混合电池、液态电池三大类",
           "url": "https://wallstreetcn.com/livenews/3003860",
           "source": "华尔街见闻-快讯",
@@ -132,31 +169,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时28分 ~ 14时40分]"
-        },
-        {
-          "title": "贵州汽车置换补贴政策优化致部分车主不能享受，商务厅：无法溯及以往",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31956124",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时30分 ~ 19时25分]"
-        },
-        {
-          "title": "马上评｜奇瑞测试“翻车”，汽车营销多一些诚实吧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31956603",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时30分 ~ 19时25分]"
         },
         {
           "title": "莫迪就印度汽车爆炸事件发出严厉警告",
@@ -299,7 +311,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "诺贝尔经济学奖得主迈克尔·斯宾塞：中美人工智能发展“基本不相上下”",
@@ -358,6 +370,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "据华尔街日报：人工智能编码初创公司Cursor融资23亿美元，估值293亿美元。",
+          "url": "https://flash.jin10.com/detail/20251113200430334800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
@@ -374,8 +397,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时36分 ~ 19时25分]"
+          "appearance_count": 7,
+          "time_info": "[16时36分 ~ 20时58分]"
         },
         {
           "title": "事关安世半导体问题，中美大豆贸易等，商务部最新发声",
@@ -387,8 +410,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时30分 ~ 19时25分]"
+          "appearance_count": 5,
+          "time_info": "[17时30分 ~ 20时58分]"
         },
         {
           "title": "芝加哥豆粕期货涨约1.6%，大豆油跌1%",
@@ -449,7 +472,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         }
