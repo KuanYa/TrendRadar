@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T21:40:19.514210+08:00",
-  "total_titles_processed": 1940,
+  "generated_at": "2025-11-13T22:27:07.585981+08:00",
+  "total_titles_processed": 2029,
   "failed_sources": [],
   "trends": [
     {
@@ -73,6 +73,22 @@
           "time_info": "[10时06分 ~ 14时40分]"
         },
         {
+          "title": "马上评｜奇瑞测试“翻车”，汽车营销多一些诚实吧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31956603",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            17,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时30分 ~ 22时27分]"
+        },
+        {
           "title": "我国新能源汽车月度新车销量占比首超 50%，反超燃油车，这是偶然还是大势所趋？双方差距会越来越大吗？",
           "url": "https://www.zhihu.com/question/1971857868463502728",
           "source": "知乎",
@@ -86,21 +102,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时37分 ~ 07时26分]"
-        },
-        {
-          "title": "马上评｜奇瑞测试“翻车”，汽车营销多一些诚实吧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31956603",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            17,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时30分 ~ 21时40分]"
         },
         {
           "title": "内蒙古：到2027年新增汽车（不含货车）中新能源汽车占比达到35%",
@@ -171,6 +172,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时28分 ~ 14时40分]"
+        },
+        {
+          "title": "多个账号恶意诋毁汽车企业被处置",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E8%B4%A6%E5%8F%B7%E6%81%B6%E6%84%8F%E8%AF%8B%E6%AF%81%E6%B1%BD%E8%BD%A6%E4%BC%81%E4%B8%9A%E8%A2%AB%E5%A4%84%E7%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 22时27分]"
         },
         {
           "title": "莫迪就印度汽车爆炸事件发出严厉警告",
@@ -244,17 +256,6 @@
           "time_info": "18时31分"
         },
         {
-          "title": "多个账号恶意诋毁汽车企业被处置",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E8%B4%A6%E5%8F%B7%E6%81%B6%E6%84%8F%E8%AF%8B%E6%AF%81%E6%B1%BD%E8%BD%A6%E4%BC%81%E4%B8%9A%E8%A2%AB%E5%A4%84%E7%BD%AE",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
           "title": "咋看奇瑞汽车天门山测试发生意外",
           "url": "https://www.toutiao.com/trending/7571806799817424922/",
           "source": "今日头条",
@@ -324,7 +325,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "Core AI宣布启动一项价值50亿美元的全球人工智能数据中心计划。",
@@ -333,9 +334,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
+        },
+        {
+          "title": "迪士尼(DIS.N)CEO：通过部署人工智能能够带来效率提升的机会，而不仅仅局限于生产流程。",
+          "url": "https://flash.jin10.com/detail/20251113221119713800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "诺贝尔经济学奖得主迈克尔·斯宾塞：中美人工智能发展“基本不相上下”",
@@ -372,6 +384,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时27分]"
+        },
+        {
+          "title": "迪士尼(DIS.N)CEO：正寻求保护创意内容，并利用人工智能技术与消费者互动。",
+          "url": "https://flash.jin10.com/detail/20251113221100451800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
+          "title": "迪士尼(DIS.N)CEO：公司已与人工智能公司展开了一些有趣的讨论。",
+          "url": "https://flash.jin10.com/detail/20251113221049068800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "雪佛龙选择美国得州为旗下首个人工智能（AI）数据中心电力（供应）项目（的地址）。",
@@ -421,8 +455,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时36分 ~ 21时40分]"
+          "appearance_count": 10,
+          "time_info": "[16时36分 ~ 22时27分]"
         },
         {
           "title": "事关安世半导体问题，中美大豆贸易等，商务部最新发声",
@@ -434,8 +468,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时30分 ~ 21时40分]"
+          "appearance_count": 8,
+          "time_info": "[17时30分 ~ 22时27分]"
         },
         {
           "title": "芝加哥豆粕期货涨约1.6%，大豆油跌1%",
