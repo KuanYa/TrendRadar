@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T18:31:21.984012+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2025-11-14T19:24:07.010367+08:00",
+  "total_titles_processed": 1670,
   "failed_sources": [],
   "trends": [
     {
@@ -59,6 +59,19 @@
           "time_info": "15时26分"
         },
         {
+          "title": "实探哪吒汽车桐乡工厂：无复工迹象、管理人驻厂办公 第二次债权人会议即将召开",
+          "url": "https://www.cls.cn/detail/2200848",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 19时24分]"
+        },
+        {
           "title": "金十图示：2025年11月14日（周五）富时中国A50指数成分股午盘收盘行情一览：酿酒、半导体、汽车、煤炭等多个板块表现低迷，银行股逆势普涨",
           "url": "https://flash.jin10.com/detail/20251114113324835800",
           "source": "金十数据",
@@ -95,17 +108,16 @@
           "time_info": "[00时34分 ~ 01时26分]"
         },
         {
-          "title": "实探哪吒汽车桐乡工厂：无复工迹象、管理人驻厂办公 第二次债权人会议即将召开",
-          "url": "https://www.cls.cn/detail/2200848",
-          "source": "财联社热门",
+          "title": "塔塔汽车乘用车部门第二季度利润为7617亿印度卢比（包括一次性收益）。",
+          "url": "https://wallstreetcn.com/livenews/3004803",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
             8,
-            7
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 18时31分]"
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时24分]"
         },
         {
           "title": "印度确认首都汽车爆炸案嫌疑人身份，是一名大学医生，或系恐怖团体成员",
@@ -129,17 +141,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
-        },
-        {
-          "title": "塔塔汽车乘用车部门第二季度利润为7617亿印度卢比（包括一次性收益）。",
-          "url": "https://wallstreetcn.com/livenews/3004803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
         },
         {
           "title": "白宫：美国将把对韩国汽车、汽车零部件、木材、锯材及木制品的232条款行业关税降至15%。",
@@ -285,7 +286,7 @@
     },
     {
       "keyword_group": "农业",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国农业部长Rollins承认：特朗普咖啡关税（威胁）已经推高（美国市场的咖啡）价格。",
@@ -309,6 +310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "联合国粮农组织：过去30多年全球农业因灾损失超3万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3004812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "美国农业部长：大多数SNAP参保人最迟周一可获11月福利",
