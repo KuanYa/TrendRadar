@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T10:05:38.958285+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2025-11-14T11:49:42.197456+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "马上评｜奇瑞测试“翻车”，汽车营销多一些诚实吧",
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             11,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 10时05分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 11时49分]"
         },
         {
           "title": "多个账号恶意诋毁汽车企业被处置",
@@ -44,6 +45,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时34分 ~ 07时26分]"
+        },
+        {
+          "title": "金十图示：2025年11月14日（周五）富时中国A50指数成分股午盘收盘行情一览：酿酒、半导体、汽车、煤炭等多个板块表现低迷，银行股逆势普涨",
+          "url": "https://flash.jin10.com/detail/20251114113324835800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
         },
         {
           "title": "据报道，以色列国防军否认今天早些时候在黎巴嫩南部对一辆汽车发动空袭，并称爆炸实际上是真主党试图走私武器所致。",
@@ -82,13 +94,24 @@
           "time_info": "[00时34分 ~ 01时26分]"
         },
         {
+          "title": "金十图示：2025年11月14日（周五）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20251114110529836800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
+        },
+        {
           "title": "白宫：美国将把对韩国汽车、汽车零部件、木材、锯材及木制品的232条款行业关税降至15%。",
           "url": "https://flash.jin10.com/detail/20251114093500864800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -99,7 +122,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -110,7 +133,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         }
@@ -194,7 +217,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         }
