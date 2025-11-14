@@ -1,438 +1,44 @@
 {
-  "generated_at": "2025-11-14T23:25:51.125665+08:00",
-  "total_titles_processed": 2057,
+  "generated_at": "2025-11-15T00:36:19.904149+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 19,
+      "match_count": 3,
       "titles": [
         {
-          "title": "马上评｜奇瑞测试“翻车”，汽车营销多一些诚实吧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31956603",
-          "source": "澎湃新闻",
+          "title": "理想汽车发布两起质量事故处理公告，共 18 名员工被问责，能挽回消费者信任吗？哪些后续保障更值得关注？",
+          "url": "https://www.zhihu.com/question/1972723249331864758",
+          "source": "知乎",
           "ranks": [
-            13,
-            11,
-            8,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 13时27分]"
-        },
-        {
-          "title": "多个账号恶意诋毁汽车企业被处置",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E8%B4%A6%E5%8F%B7%E6%81%B6%E6%84%8F%E8%AF%8B%E6%AF%81%E6%B1%BD%E8%BD%A6%E4%BC%81%E4%B8%9A%E8%A2%AB%E5%A4%84%E7%BD%AE",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 10时05分]"
-        },
-        {
-          "title": "懂车帝对话起诉小米汽车车主",
-          "url": "https://www.douyin.com/hot/2303506",
-          "source": "抖音",
-          "ranks": [
-            16,
-            17,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时26分]"
-        },
-        {
-          "title": "实探哪吒汽车桐乡工厂：无复工迹象、管理人驻厂办公 第二次债权人会议即将召开",
-          "url": "https://www.cls.cn/detail/2200848",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时36分 ~ 22时28分]"
-        },
-        {
-          "title": "国芯科技：中高端汽车电子芯片量产销售正处于爬坡攀升阶段",
-          "url": "https://wallstreetcn.com/livenews/3004674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时26分"
+          "time_info": "00时36分"
         },
         {
           "title": "受汽车和家电拖累，中国10月社零同比增速放缓至2.9%，金银珠宝零售同比增长37.6%",
           "url": "https://wallstreetcn.com/articles/3759365",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            9,
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时55分 ~ 23时25分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         },
         {
-          "title": "金十图示：2025年11月14日（周五）富时中国A50指数成分股午盘收盘行情一览：酿酒、半导体、汽车、煤炭等多个板块表现低迷，银行股逆势普涨",
-          "url": "https://flash.jin10.com/detail/20251114113324835800",
-          "source": "金十数据",
+          "title": "理想汽车内部问责处理18人",
+          "url": "https://www.toutiao.com/trending/7572410670306807315/",
+          "source": "今日头条",
           "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时32分]"
-        },
-        {
-          "title": "据报道，以色列国防军否认今天早些时候在黎巴嫩南部对一辆汽车发动空袭，并称爆炸实际上是真主党试图走私武器所致。",
-          "url": "https://flash.jin10.com/detail/20251114060742635800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时26分]"
-        },
-        {
-          "title": "巴西汽车制造商协会：巴西10月汽车产量达到247,770辆，出口降至40,600辆。 10月新车销售达到260,717辆。",
-          "url": "https://wallstreetcn.com/livenews/3004289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时26分]"
-        },
-        {
-          "title": "理想汽车发布两起质量事故处理公告，共 18 名员工被问责，能挽回消费者信任吗？哪些后续保障更值得关注？",
-          "url": "https://www.zhihu.com/question/1972723249331864758",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时27分 ~ 23时25分]"
-        },
-        {
-          "title": "塔塔汽车乘用车部门第二季度利润为7617亿印度卢比（包括一次性收益）。",
-          "url": "https://wallstreetcn.com/livenews/3004803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时24分]"
-        },
-        {
-          "title": "禾赛科技获理想汽车独家定点",
-          "url": "https://wallstreetcn.com/livenews/3004881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 22时28分]"
-        },
-        {
-          "title": "印度确认首都汽车爆炸案嫌疑人身份，是一名大学医生，或系恐怖团体成员",
-          "url": "https://wallstreetcn.com/livenews/3004273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时26分]"
-        },
-        {
-          "title": "理想汽车针对2起质量事故处理18人",
-          "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E9%92%88%E5%AF%B92%E8%B5%B7%E8%B4%A8%E9%87%8F%E4%BA%8B%E6%95%85%E5%A4%84%E7%90%8618%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 23时25分]"
-        },
-        {
-          "title": "金十图示：2025年11月14日（周五）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251114110529836800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
-          "title": "白宫：美国将把对韩国汽车、汽车零部件、木材、锯材及木制品的232条款行业关税降至15%。",
-          "url": "https://flash.jin10.com/detail/20251114093500864800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "白宫：美韩协议包括美国批准的韩国在造船业1,500亿美元的投资。 该协议包括根据战略投资谅解备忘录所承诺的2,000亿美元额外韩国投资。 美国将把对韩国汽车、汽车零部件、木材、木材及其衍生性商品征收的第232条产业关税降至15%。 韩国也承诺到2030年向美国采购250亿美元军备。 韩国已提交计划，将根据韩国法律要求，向驻韩美军提供总额达330亿美元的全面支持，尽快将国防支出提高到GDP的3.5%。 韩国将与美国共同努力，解决影响食品和农产品贸易的非关税壁垒。",
-          "url": "https://wallstreetcn.com/livenews/3004501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "理想汽车针对2起批量质量事故进行内部问责，处理18人",
-          "url": "https://wallstreetcn.com/livenews/3004743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时30分"
-        },
-        {
-          "title": "韩国将向汽车零部件制造商提供财政支持，以帮助其应对美国关税。韩国计划到2026年将乘用车电动汽车补贴提高20%，达到9360亿韩元。",
-          "url": "https://flash.jin10.com/detail/20251114093132371800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "沙特王储将前往美国华盛顿，讨论人工智能（AI）芯片与核技术等议题。",
-          "url": "https://wallstreetcn.com/livenews/3004921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时28分 ~ 23时25分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-14）",
-          "url": "https://flash.jin10.com/detail/20251114115348256800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 13时27分]"
-        },
-        {
-          "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：从联系人处得知，通胀过高，且正朝着错误的方向发展。 在特朗普政府停摆期间，非官方数据（Anecdotal Data）一直很重要。 美国经济一直表现出惊人的韧性。 随着就业市场的疲软，美联储的就业目标（即双重使命中的就业方面）正面临挑战。 当前失业率徘徊在最高水平附近。 部分通胀可能由关税推动，但服务业通胀是一个真正的担忧。 对FOMC货币政策而言，这是一个困难的时期。 美联储政策需要保持一定的限制性，以抑制通胀压力。 预计关税将推高通胀，并持续到明年初。 目前就业市场看起来平衡，但仍有值得担忧的原因。 美联储的独立性对于实现就业和通胀目标至关重要。 政治在制定货币政策中不发挥任何作用。 现在断言人工智能（A.I.）会发生什么为时过早。 人工智能公司的估值是否合理，需要时间来证明。",
-          "url": "https://wallstreetcn.com/livenews/3004318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时38分 ~ 03时22分]"
-        },
-        {
-          "title": "美联储哈玛克：时间将证明人工智能公司的估值是否合理。",
-          "url": "https://flash.jin10.com/detail/20251114020002971800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "美联储哈玛克：现在就说人工智能会怎样还为时过早。",
-          "url": "https://flash.jin10.com/detail/20251114015816771800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "市场消息：Cognizant将收购3Cloud，打造微软Azure服务和企业人工智能转型领域的领先力量。",
-          "url": "https://flash.jin10.com/detail/20251114005555049800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "美联储穆萨莱姆：怀疑大多数已宣布的裁员与人工智能无关，更可能是普通的自动化技术。",
-          "url": "https://flash.jin10.com/detail/20251114024141963800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "美联储穆萨莱姆：人工智能似乎正在提高生产力，同时取代工人。",
-          "url": "https://flash.jin10.com/detail/20251114024049855800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "韩国称，已经与美国敲定事实清单。 韩国和美国将在造船、人工智能、核工业方面建立新的伙伴关系。 韩国和美国同意，韩国在美投资将仅限于商业上可行的项目。 韩国和美国同意推进核动力潜艇建造。 韩国赢得美国支持，以扩大韩国的铀浓缩权。 韩国称，全球不确定性短期内不会缓解。 韩国表示，将加强与英伟达这类公司的联系。",
-          "url": "https://wallstreetcn.com/livenews/3004482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美国农业部长Rollins承认：特朗普咖啡关税（威胁）已经推高（美国市场的咖啡）价格。",
-          "url": "https://wallstreetcn.com/livenews/3004286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时26分]"
-        },
-        {
-          "title": "美国高级官员：与阿根廷、厄瓜多尔、萨尔瓦多和危地马拉达成的协议为美国的农业和工业产品打开了市场。预计与这些国家中的大多数将在未来两周内敲定全部协议。四国同意暂不征收数字服务税。",
-          "url": "https://flash.jin10.com/detail/20251114054141482800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "联合国粮农组织：过去30多年全球农业因灾损失超3万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3004812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "美国农业部长：大多数SNAP参保人最迟周一可获11月福利",
-          "url": "https://flash.jin10.com/detail/20251114020416704800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时38分"
-        },
-        {
-          "title": "美国农业部日度销售报告自9月30日起同步暂停更新",
-          "url": "https://wallstreetcn.com/livenews/3004266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大豆",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "涉中美大豆贸易，商务部最新发声",
-          "url": "https://news.ifeng.com/c/8oFWtudEQJD",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时26分]"
-        },
-        {
-          "title": "芝加哥大豆期货涨约1.1%，豆粕涨2.4%",
-          "url": "https://wallstreetcn.com/livenews/3004359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时25分]"
+          "time_info": "00时36分"
         }
       ]
     },
@@ -441,16 +47,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "中国牛羊肉贵因为中国自然环境不适合生长牧草，那么是否可以只喂牛羊玉米大豆等饲料以增加国人牛羊肉消费？",
-          "url": "https://www.zhihu.com/question/632377656",
-          "source": "知乎",
+          "title": "玉米地窜出3头野猪 收割机追截2小时",
+          "url": "https://www.toutiao.com/trending/7572559775284920358/",
+          "source": "今日头条",
           "ranks": [
-            16,
-            18
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 21时36分]"
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     }
