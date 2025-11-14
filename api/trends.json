@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T20:55:53.561598+08:00",
-  "total_titles_processed": 1806,
+  "generated_at": "2025-11-14T21:36:57.888019+08:00",
+  "total_titles_processed": 1885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "马上评｜奇瑞测试“翻车”，汽车营销多一些诚实吧",
@@ -54,11 +54,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时36分 ~ 20时55分]"
+          "appearance_count": 7,
+          "time_info": "[16时36分 ~ 21时36分]"
         },
         {
           "title": "国芯科技：中高端汽车电子芯片量产销售正处于爬坡攀升阶段",
@@ -108,6 +109,18 @@
           "time_info": "[00时34分 ~ 01时26分]"
         },
         {
+          "title": "受汽车和家电拖累，中国10月社零同比增速放缓至2.9%，金银珠宝零售同比增长37.6%",
+          "url": "https://wallstreetcn.com/articles/3759365",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时36分]"
+        },
+        {
           "title": "塔塔汽车乘用车部门第二季度利润为7617亿印度卢比（包括一次性收益）。",
           "url": "https://wallstreetcn.com/livenews/3004803",
           "source": "华尔街见闻-快讯",
@@ -132,17 +145,6 @@
           "time_info": "[00时34分 ~ 01时26分]"
         },
         {
-          "title": "受汽车和家电拖累，中国10月社零同比增速放缓至2.9%，金银珠宝零售同比增长37.6%",
-          "url": "https://wallstreetcn.com/articles/3759365",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
           "title": "金十图示：2025年11月14日（周五）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20251114110529836800",
           "source": "金十数据",
@@ -152,6 +154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
+        },
+        {
+          "title": "禾赛科技获理想汽车独家定点",
+          "url": "https://wallstreetcn.com/livenews/3004881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "白宫：美国将把对韩国汽车、汽车零部件、木材、锯材及木制品的232条款行业关税降至15%。",
@@ -204,7 +217,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         }
@@ -406,11 +419,12 @@
           "url": "https://www.zhihu.com/question/632377656",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时36分]"
         }
       ]
     }
