@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T07:24:37.133708+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2025-11-16T10:11:02.748176+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
@@ -39,6 +39,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时30分 ~ 07时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大豆",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一粒大豆二十年博弈",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E7%B2%92%E5%A4%A7%E8%B1%86%E4%BA%8C%E5%8D%81%E5%B9%B4%E5%8D%9A%E5%BC%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 10时11分]"
         }
       ]
     },
