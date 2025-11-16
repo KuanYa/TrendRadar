@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T21:30:13.550051+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2025-11-16T22:23:38.426451+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
@@ -47,11 +47,12 @@
           "ranks": [
             15,
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时26分 ~ 21时30分]"
+          "appearance_count": 7,
+          "time_info": "[18时26分 ~ 22时23分]"
         },
         {
           "title": "韩国总统办公室：现代汽车集团董事长表示，计划从2026年至2030年在韩国投资125万亿韩元。",
@@ -157,11 +158,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 21时30分]"
+          "appearance_count": 3,
+          "time_info": "[20时50分 ~ 22时23分]"
         }
       ]
     }
