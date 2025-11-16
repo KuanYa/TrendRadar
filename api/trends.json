@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T14:38:13.903907+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2025-11-16T15:25:03.954318+08:00",
+  "total_titles_processed": 847,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,19 @@
     },
     {
       "keyword_group": "大豆",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "港媒关注中美“大豆外交”：手握遥控器的是中国",
+          "url": "https://news.ifeng.com/c/8oKM9NtXMbs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 15时25分]"
+        },
         {
           "title": "一粒大豆二十年博弈",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E7%B2%92%E5%A4%A7%E8%B1%86%E4%BA%8C%E5%8D%81%E5%B9%B4%E5%8D%9A%E5%BC%88",
