@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T07:24:24.312720+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2025-11-17T10:06:13.634452+08:00",
+  "total_titles_processed": 636,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特斯拉要求美产汽车避用中国零部件",
@@ -20,13 +20,24 @@
           "time_info": "[00时30分 ~ 04时29分]"
         },
         {
+          "title": "广西一汽车撞护栏侧翻致3死1伤",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E8%A5%BF%E4%B8%80%E6%B1%BD%E8%BD%A6%E6%92%9E%E6%8A%A4%E6%A0%8F%E4%BE%A7%E7%BF%BB%E8%87%B43%E6%AD%BB1%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
           "title": "以军无人机空袭黎巴嫩南部一汽车",
           "url": "https://flash.jin10.com/detail/20251117062144173800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         }
