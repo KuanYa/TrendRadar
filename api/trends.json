@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T21:38:42.354147+08:00",
-  "total_titles_processed": 1716,
+  "generated_at": "2025-11-17T22:28:59.312160+08:00",
+  "total_titles_processed": 1804,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             20,
             15,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时38分 ~ 21时38分]"
+          "appearance_count": 7,
+          "time_info": "[16时38分 ~ 22时28分]"
         },
         {
           "title": "吉利汽车桂生悦：预计极氪与吉利汽车今年底前完成合并交割",
@@ -146,7 +147,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -286,7 +287,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "现代汽车集团：公司计划到2030年实现每年从韩国交付247万辆车。 集团计划同期实现每年交付176万辆EVs、PHEVs、HEVs、以及FCEVs，而当前为69万。 公司将修建一座机器人制造工厂和代工设施。 公司还考虑成立一个高功率人工智能（AI）数据中心。",
@@ -313,6 +314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
+        },
+        {
+          "title": "市场消息：戴尔(DELL.N)携手英伟达(NVDA.O)推动企业人工智能创新。",
+          "url": "https://flash.jin10.com/detail/20251117220138899800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "湖北省委书记王忠林：着力构建“北斗+低空经济”“北斗+人形机器人”“北斗+人工智能”等新场景",
