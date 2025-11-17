@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T20:56:43.644918+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2025-11-17T21:38:42.354147+08:00",
+  "total_titles_processed": 1716,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特斯拉要求美产汽车避用中国零部件",
@@ -25,11 +25,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            15
+            15,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时38分 ~ 20时56分]"
+          "appearance_count": 6,
+          "time_info": "[16时38分 ~ 21时38分]"
         },
         {
           "title": "吉利汽车桂生悦：预计极氪与吉利汽车今年底前完成合并交割",
@@ -116,6 +117,18 @@
           "time_info": "[17时33分 ~ 18时31分]"
         },
         {
+          "title": "小米汽车湿滑路面超车时突然侧滑",
+          "url": "https://www.toutiao.com/trending/7572860166506151978/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 21时38分]"
+        },
+        {
           "title": "零跑汽车：第三季度净利润为1.5亿元",
           "url": "https://wallstreetcn.com/livenews/3005824",
           "source": "华尔街见闻-快讯",
@@ -125,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
+        },
+        {
+          "title": "比亚迪欧洲区域高管达维诺：欧洲汽车市场没有增长，传统汽车制造商和新品牌之间的竞争加剧。",
+          "url": "https://flash.jin10.com/detail/20251117210852401800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "金十图示：2025年11月17日（周一）全球汽车制造商市值变化",
@@ -226,17 +250,6 @@
           "time_info": "17时33分"
         },
         {
-          "title": "小米汽车湿滑路面超车时突然侧滑",
-          "url": "https://www.toutiao.com/trending/7572860166506151978/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
           "title": "小鹏汽车(09868.HK)：第四季度营收展望为人民币215亿至230亿元。",
           "url": "https://flash.jin10.com/detail/20251117170213875800",
           "source": "金十数据",
@@ -308,7 +321,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         }
