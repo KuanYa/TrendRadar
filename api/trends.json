@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T17:33:44.192382+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2025-11-17T18:31:47.373593+08:00",
+  "total_titles_processed": 1437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特斯拉要求美产汽车避用中国零部件",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时30分 ~ 04时29分]"
+        },
+        {
+          "title": "汽车开到「报废」和「开 8 年」卖掉，哪个更划算？",
+          "url": "https://www.zhihu.com/question/630375759",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 18时31分]"
         },
         {
           "title": "广西一汽车撞护栏侧翻致3死1伤",
@@ -44,6 +56,18 @@
           "time_info": "[12时35分 ~ 13时28分]"
         },
         {
+          "title": "小鹏汽车盘前跌超3%，此前公布三季度业绩。",
+          "url": "https://wallstreetcn.com/livenews/3005766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时31分]"
+        },
+        {
           "title": "吉利汽车第三季度净利润38.2亿元人民币，同比增长59%",
           "url": "https://wallstreetcn.com/livenews/3005562",
           "source": "华尔街见闻-快讯",
@@ -56,27 +80,27 @@
           "time_info": "[12时35分 ~ 13时28分]"
         },
         {
-          "title": "汽车开到「报废」和「开 8 年」卖掉，哪个更划算？",
-          "url": "https://www.zhihu.com/question/630375759",
-          "source": "知乎",
+          "title": "小鹏汽车：第三季度营收203.8亿元人民币，市场预估204.5亿元人民币。 第三季度交付量116007辆，市场预估116289辆。 第三季度净亏损3.809亿元人民币，市场预估亏损5.699亿元人民币。 预计第四季度营收215亿元人民币至230亿元人民币，市场预估253.6亿元人民币。 预计第四季度交付量125000至132000辆，市场预估135984辆。 小鹏汽车美股盘前跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3005756",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            15
+            15,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时38分 ~ 17时33分]"
+          "time_info": "[17时33分 ~ 18时31分]"
         },
         {
-          "title": "小鹏汽车盘前跌超3%，此前公布三季度业绩。",
-          "url": "https://wallstreetcn.com/livenews/3005766",
+          "title": "乘联分会崔东树：10月汽车消费额4255亿元，同比降7%",
+          "url": "https://wallstreetcn.com/livenews/3005790",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时33分"
+          "time_info": "18时31分"
         },
         {
           "title": "金十图示：2025年11月17日（周一）全球汽车制造商市值变化",
@@ -96,7 +120,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -140,18 +164,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
-          "title": "小鹏汽车：第三季度营收203.8亿元人民币，市场预估204.5亿元人民币。 第三季度交付量116007辆，市场预估116289辆。 第三季度净亏损3.809亿元人民币，市场预估亏损5.699亿元人民币。 预计第四季度营收215亿元人民币至230亿元人民币，市场预估253.6亿元人民币。 预计第四季度交付量125000至132000辆，市场预估135984辆。 小鹏汽车美股盘前跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3005756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -162,7 +175,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -173,7 +186,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
