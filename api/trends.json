@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T22:28:47.761024+08:00",
-  "total_titles_processed": 1725,
+  "generated_at": "2025-11-19T23:29:38.115288+08:00",
+  "total_titles_processed": 1802,
   "failed_sources": [],
   "trends": [
     {
@@ -140,7 +140,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -195,7 +195,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         }
@@ -230,8 +230,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时48分 ~ 22时28分]"
+          "appearance_count": 17,
+          "time_info": "[11时48分 ~ 23时29分]"
         },
         {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
