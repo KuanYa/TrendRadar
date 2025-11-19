@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T21:39:02.997795+08:00",
-  "total_titles_processed": 1649,
+  "generated_at": "2025-11-19T22:28:47.761024+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "一个名为“人工智能基础设施联盟”的科技友好型组织将于周三晚在美国白宫附近举行招待会，正式启动。",
@@ -134,13 +134,24 @@
           "time_info": "07时25分"
         },
         {
+          "title": "市场消息：OpenText深化与谷歌的合作，加速人工智能创新、数据安全及主权云解决方案的推进。",
+          "url": "https://flash.jin10.com/detail/20251119220402180800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "欧盟司法部门负责人：欧盟数据保护法的修改将允许人工智能开发者使用部分用户数据进行训练。",
           "url": "https://flash.jin10.com/detail/20251119210215899800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         },
@@ -176,6 +187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "Perplexity协议将以折扣价向政府机构提供人工智能服务。",
+          "url": "https://flash.jin10.com/detail/20251119215039509800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         }
       ]
     },
@@ -208,8 +230,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时48分 ~ 21时39分]"
+          "appearance_count": 16,
+          "time_info": "[11时48分 ~ 22时28分]"
         },
         {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
