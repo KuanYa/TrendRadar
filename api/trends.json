@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-21T06:25:06.735998+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2025-11-21T07:25:24.143229+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "富士康：公司将每年投入20亿至30亿美元用于人工智能领域。",
+          "url": "https://flash.jin10.com/detail/20251121070156697800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
         {
           "title": "Merck KGaA与Valo将利用人工智能（AI）技术，针对帕金森疾病开发药物。",
           "url": "https://wallstreetcn.com/livenews/3008126",
@@ -33,6 +44,28 @@
           "time_info": "[02时39分 ~ 03时22分]"
         },
         {
+          "title": "富士康：正与日本政府商谈潜在的人工智能和电动汽车投资事宜。",
+          "url": "https://flash.jin10.com/detail/20251121070128399800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "富士康：富士康与OpenAI合作，以加强美国在人工智能供应链上的制造业实力。将在美国生产人工智能数据中心的关键设备。",
+          "url": "https://flash.jin10.com/detail/20251121065116546800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "美联储理事库克：生成式人工智能在交易中的应用引发担忧，但也可能带来益处，必须谨慎关注。",
           "url": "https://flash.jin10.com/detail/20251121000022143800",
           "source": "金十数据",
@@ -49,6 +82,34 @@
           "source": "金十数据",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "长城汽车董事长魏建军称「电动车专属底盘全是谎言」，怎样看这一言论？电动车专属底盘又专属在哪里？",
+          "url": "https://www.zhihu.com/question/1974853096925524498",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "福特汽车(F.N)下跌1.9%；该公司的铝供应商Novelis再次发生火灾。",
+          "url": "https://flash.jin10.com/detail/20251121000730343800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -104,25 +165,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 06时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "福特汽车(F.N)下跌1.9%；该公司的铝供应商Novelis再次发生火灾。",
-          "url": "https://flash.jin10.com/detail/20251121000730343800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时25分]"
         }
       ]
     }
