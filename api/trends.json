@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T12:32:37.182482+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2025-11-21T13:28:44.270463+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
@@ -17,17 +17,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-21）",
-          "url": "https://flash.jin10.com/detail/20251121120040841800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
         },
         {
           "title": "Merck KGaA与Valo将利用人工智能（AI）技术，针对帕金森疾病开发药物。",
@@ -53,6 +42,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时22分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-21）",
+          "url": "https://flash.jin10.com/detail/20251121120040841800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 13时28分]"
         },
         {
           "title": "富士康：正与日本政府商谈潜在的人工智能和电动汽车投资事宜。",
@@ -83,7 +84,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -124,7 +125,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "长城汽车董事长魏建军称「电动车专属底盘全是谎言」，怎样看这一言论？电动车专属底盘又专属在哪里？",
@@ -137,8 +138,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时25分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[07时25分 ~ 13时28分]"
         },
         {
           "title": "如何看待华为乾崑生态大会正式发布的启境汽车，能否像问界一样在境系列中引领潮头？",
@@ -148,8 +149,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 12时32分]"
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 13时28分]"
         },
         {
           "title": "汽车业新增两位院士 比亚迪廉玉波、宁德时代吴凯入选",
@@ -157,22 +158,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 13时28分]"
         },
         {
           "title": "鸿海电动车执行长关润在科技日活动中展示了“Model A”电动汽车。",
           "url": "https://flash.jin10.com/detail/20251121115749030800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 13时28分]"
         },
         {
           "title": "福特汽车(F.N)下跌1.9%；该公司的铝供应商Novelis再次发生火灾。",
@@ -195,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "是年轻人在定义汽车品牌，还是汽车品牌在定义年轻人？",
+          "url": "https://www.zhihu.com/question/1974869254722588742",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "小米汽车长沙一门店中央空调现明火",
@@ -294,8 +308,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 12时32分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 13时28分]"
         }
       ]
     }
