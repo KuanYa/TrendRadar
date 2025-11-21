@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T16:37:54.756955+08:00",
-  "total_titles_processed": 1498,
+  "generated_at": "2025-11-21T17:29:27.809765+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "长城汽车董事长魏建军称「电动车专属底盘全是谎言」，怎样看这一言论？电动车专属底盘又专属在哪里？",
@@ -70,6 +70,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "小米汽车公布车辆漂移新专利，可提升漂移安全性和稳定性",
+          "url": "https://wallstreetcn.com/livenews/3008562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "分析师称宁德时代和小鹏汽车或被纳入恒生指数 医疗保健公司也有可能",
           "url": "https://wallstreetcn.com/livenews/3008470",
           "source": "华尔街见闻-快讯",
@@ -131,7 +142,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -142,7 +153,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -347,6 +358,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "【午报】创业板指低开低走跌超3%，全市场近5000股下跌，农业种植板块逆势活跃",
+          "url": "https://www.cls.cn/detail/2207122",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 17时29分]"
+        },
+        {
           "title": "农业股逆势拉升，荃银高科涨超15%，康农种业、农发种业、秋乐种业、敦煌种业、万向德农等纷纷走强。",
           "url": "https://wallstreetcn.com/livenews/3008319",
           "source": "华尔街见闻-快讯",
@@ -356,17 +379,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
-        },
-        {
-          "title": "【午报】创业板指低开低走跌超3%，全市场近5000股下跌，农业种植板块逆势活跃",
-          "url": "https://www.cls.cn/detail/2207122",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
         }
       ]
     },
