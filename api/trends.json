@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T17:26:42.091594+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2025-11-23T18:27:43.059225+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "小米汽车「未交车催收尾款」案一审宣判，相关公司返还消费者双倍定金，怎样解读？这一判罚具有哪些意义？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时24分 ~ 17时26分]"
+          "appearance_count": 11,
+          "time_info": "[10时24分 ~ 18时27分]"
         },
         {
           "title": "小米辟谣所谓“小米汽车工厂内电池产线起火”",
@@ -27,11 +27,12 @@
             4,
             5,
             12,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时01分 ~ 17时26分]"
+          "appearance_count": 8,
+          "time_info": "[12时01分 ~ 18时27分]"
         },
         {
           "title": "小米汽车被判返还双倍定金",
@@ -52,11 +53,37 @@
           "source": "今日头条",
           "ranks": [
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时26分]"
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 18时27分]"
+        },
+        {
+          "title": "小米回应 “汽车工厂电池产线起火” ：并非电池本身有设计缺陷、材料问题或制造瑕疵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32025210",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时37分 ~ 18时27分]"
+        },
+        {
+          "title": "新型汽车扎堆亮相车展",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%9E%8B%E6%B1%BD%E8%BD%A6%E6%89%8E%E5%A0%86%E4%BA%AE%E7%9B%B8%E8%BD%A6%E5%B1%95%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "小米汽车开始赚钱了 但雷军还有点烦",
@@ -70,19 +97,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时00分 ~ 13时27分]"
-        },
-        {
-          "title": "小米回应 “汽车工厂电池产线起火” ：并非电池本身有设计缺陷、材料问题或制造瑕疵",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32025210",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时37分 ~ 17时26分]"
         },
         {
           "title": "小米汽车开始赚钱了 但雷军还有点烦",
@@ -128,11 +142,12 @@
             11,
             12,
             19,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 17时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 18时27分]"
         },
         {
           "title": "中欧专家呼吁加强人工智能领域务实合作",
@@ -155,11 +170,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时26分]"
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 18时27分]"
         },
         {
           "title": "加拿大政府：卡尼总理与德国总理默茨讨论了在关键矿物、清洁能源、人工智能、航空航天和国防领域的伙伴关系。重申对乌克兰的支持，并强调任何解决方案都必须有乌克兰的参与。",
@@ -169,11 +185,12 @@
             2,
             12,
             18,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时38分 ~ 17时26分]"
+          "appearance_count": 5,
+          "time_info": "[14时38分 ~ 18时27分]"
         }
       ]
     }
