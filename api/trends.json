@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T02:36:21.353092+08:00",
-  "total_titles_processed": 355,
+  "generated_at": "2025-11-24T03:21:42.233386+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时21分]"
         },
         {
           "title": "小米汽车「未交车催收尾款」案一审宣判，相关公司返还消费者双倍定金，怎样解读？这一判罚具有哪些意义？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时21分]"
         },
         {
           "title": "小米汽车每辆赚6.65万",
@@ -38,8 +39,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 03时21分]"
         }
       ]
     },
@@ -56,19 +57,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时21分]"
         },
         {
           "title": "财政部农业农村司原司长吴奇修被双开",
           "url": "https://www.toutiao.com/trending/7575845395134218276/",
           "source": "今日头条",
           "ranks": [
-            29
+            29,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 03时21分]"
         }
       ]
     }
