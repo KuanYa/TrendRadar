@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T18:32:46.721765+08:00",
-  "total_titles_processed": 1381,
+  "generated_at": "2025-11-24T19:25:18.011249+08:00",
+  "total_titles_processed": 1469,
   "failed_sources": [],
   "trends": [
     {
@@ -260,11 +260,12 @@
             13,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 18时32分]"
+          "appearance_count": 21,
+          "time_info": "[00时33分 ~ 19时25分]"
         },
         {
           "title": "财政部农业农村司原司长吴奇修被双开",
