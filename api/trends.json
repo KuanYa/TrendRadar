@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T10:12:30.131412+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2025-11-24T12:00:57.751848+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "小米回应 “汽车工厂电池产线起火” ：并非电池本身有设计缺陷、材料问题或制造瑕疵",
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时29分 ~ 07时25分]"
+        },
+        {
+          "title": "金十图示：2025年11月24日（周一）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20251124110735639800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时00分"
         }
       ]
     },
@@ -75,11 +86,12 @@
           "ranks": [
             17,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 10时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 12时00分]"
         },
         {
           "title": "财政部农业农村司原司长吴奇修被双开",
@@ -94,6 +106,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时33分 ~ 06时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-24）",
+          "url": "https://flash.jin10.com/detail/20251124115246431800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时00分"
+        },
+        {
+          "title": "瑞银：人工智能和科技将推动全球股市上涨至2026年。",
+          "url": "https://flash.jin10.com/detail/20251124093604664800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         }
       ]
     },
@@ -115,19 +155,19 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
+      "keyword_group": "玉米",
       "match_count": 1,
       "titles": [
         {
-          "title": "瑞银：人工智能和科技将推动全球股市上涨至2026年。",
-          "url": "https://flash.jin10.com/detail/20251124093604664800",
+          "title": "早盘收盘，国内期货主力合约跌多涨少，碳酸锂、纯苯、低硫燃料油（LU）跌超2%，液化石油气（LPG）、苯乙烯（EB）、SC原油跌近2%。涨幅方面，甲醇涨超3%，玉米、多晶硅、沪锡、乙二醇（EG）涨超1%。",
+          "url": "https://flash.jin10.com/detail/20251124113034138800",
           "source": "金十数据",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "12时00分"
         }
       ]
     }
