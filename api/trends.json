@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T02:40:27.836935+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2025-11-25T03:21:01.295347+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 02时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时21分]"
         },
         {
           "title": "美国银行：与人工智能（AI）相关的（股票）抛售“过头了”。",
@@ -67,20 +68,21 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 03时21分]"
         },
         {
           "title": "中国固态电动汽车电池下线",
           "url": "https://www.toutiao.com/trending/7576281115334282793/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 03时21分]"
         }
       ]
     },
