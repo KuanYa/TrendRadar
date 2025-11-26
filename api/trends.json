@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T15:27:15.786046+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2025-11-26T16:37:16.857912+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -124,7 +124,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "国内首条大容量全固态电池产线建成，电车续航有望翻倍，这会对新能源汽车行业带来哪些影响？",
@@ -138,8 +138,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时05分 ~ 15时27分]"
+          "appearance_count": 10,
+          "time_info": "[10时05分 ~ 16时37分]"
         },
         {
           "title": "立讯精密：预计2027年将成为最大的中国汽车连接器厂商",
@@ -200,15 +200,37 @@
           "time_info": "10时06分"
         },
         {
+          "title": "AI为小米汽车带来出行新体验",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E4%B8%BA%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B8%A6%E6%9D%A5%E5%87%BA%E8%A1%8C%E6%96%B0%E4%BD%93%E9%AA%8C%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "特斯拉印度高管：汽车无需定期保养，多数问题可通过OTA软件更新解决。",
           "url": "https://flash.jin10.com/detail/20251126145540358800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：日产北美公司正在召回41,797辆美国车辆，现代汽车美国正在召回143,472辆美国车辆。",
+          "url": "https://flash.jin10.com/detail/20251126160515723800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
