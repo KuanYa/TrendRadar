@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T19:25:20.866077+08:00",
-  "total_titles_processed": 1677,
+  "generated_at": "2025-11-26T20:59:19.365939+08:00",
+  "total_titles_processed": 1815,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             10,
             9,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时05分 ~ 19时25分]"
+          "appearance_count": 17,
+          "time_info": "[10时05分 ~ 20时59分]"
         },
         {
           "title": "立讯精密：预计2027年将成为最大的中国汽车连接器厂商",
@@ -177,7 +178,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
