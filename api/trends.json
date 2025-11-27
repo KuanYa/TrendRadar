@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T15:28:30.381564+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2025-11-27T16:37:47.921064+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "理想汽车第三季度净亏损 6.24 亿元，总交付量同比减少 39.0%，问题出在哪里？出海和 AI 能解吗？",
@@ -29,11 +29,12 @@
           "ranks": [
             9,
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 15时28分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 16时37分]"
         },
         {
           "title": "周三（11月26日），彭博电动汽车价格回报指数涨1.64%，报3369.06点，亚太早盘持续上涨，之后维持高位震荡状态。",
@@ -192,6 +193,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "伯恩斯坦：将理想汽车(02015.HK)目标价由98.00港元下调至78.00港元。",
+          "url": "https://flash.jin10.com/detail/20251127154056918800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "伯恩斯坦：将理想汽车(LI.O)目标价从25.00美元下调至20.00美元。",
+          "url": "https://flash.jin10.com/detail/20251127154043468800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
