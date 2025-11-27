@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T12:33:58.046683+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2025-11-27T13:29:35.782858+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 12,
       "titles": [
         {
           "title": "理想汽车第三季度净亏损 6.24 亿元，总交付量同比减少 39.0%，问题出在哪里？出海和 AI 能解吗？",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 12时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 13时29分]"
         },
         {
           "title": "周三（11月26日），彭博电动汽车价格回报指数涨1.64%，报3369.06点，亚太早盘持续上涨，之后维持高位震荡状态。",
@@ -34,6 +34,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时25分 ~ 07时25分]"
+        },
+        {
+          "title": "商务部：将推进汽车流通消费改革试点 全链条扩大汽车消费",
+          "url": "https://www.cls.cn/detail/2212351",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时29分]"
         },
         {
           "title": "金十图示：2025年11月27日（周四）全球汽车制造商市值变化",
@@ -60,32 +72,110 @@
           "time_info": "[11时49分 ~ 12时33分]"
         },
         {
-          "title": "商务部：将推进汽车流通消费改革试点 全链条扩大汽车消费",
-          "url": "https://www.cls.cn/detail/2212351",
-          "source": "财联社热门",
+          "title": "市场消息：越南VinFast(VFS.O)与五家合作伙伴携手，加强在印度尼西亚的电动汽车售后服务。",
+          "url": "https://flash.jin10.com/detail/20251127124537283800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "丰田汽车(TM.N)：10月销量增长由美国市场引领。",
+          "url": "https://flash.jin10.com/detail/20251127124436217800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时33分"
+          "time_info": "13时29分"
+        },
+        {
+          "title": "丰田汽车(TM.N)：10月日本对美出口量同比增长34%，达57,445辆。",
+          "url": "https://flash.jin10.com/detail/20251127124208627800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "丰田汽车(TM.N)：10月集团全球产量同比增长3.1%，达到105万辆。",
+          "url": "https://flash.jin10.com/detail/20251127124002213800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "丰田汽车(TM.N)：10月集团全球销量同比增长3.0%，达到100万辆。",
+          "url": "https://flash.jin10.com/detail/20251127123758836800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "丰田汽车(TM.N)：10月份仅面向日本市场的汽车产量同比增长6.8%，达到326,832辆。10月份仅面向海外市场的汽车产量同比增长2.2%，达到600,155辆。10月份全球仅面向经销商的销量同比增长2.1%，达到922,087辆。10月份全球仅面向经销商的汽车产量同比增长3.8%，达到926,987辆。",
+          "url": "https://flash.jin10.com/detail/20251127123112027800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "印度汽车制造商马恒达推出电动SUV",
+          "url": "https://flash.jin10.com/detail/20251127123016003800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-27）",
-          "url": "https://flash.jin10.com/detail/20251127115301613800",
+          "title": "市场消息：马来西亚计划通过人工智能技能提升计划创造50万个新就业岗位。",
+          "url": "https://flash.jin10.com/detail/20251127130943837800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时33分"
+          "time_info": "13时29分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-27）",
+          "url": "https://flash.jin10.com/detail/20251127115301613800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时29分]"
         },
         {
           "title": "麦肯锡：人工智能支出或将限制美联储在2026年的降息幅度",
