@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T00:34:57.325188+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-28T01:24:05.385458+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,29 @@
           "url": "https://www.toutiao.com/trending/7577060909135347766/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            27
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英国央行货币政策委员格林：（就人工智能权重问题）修正可能会蔓延。",
+          "url": "https://flash.jin10.com/detail/20251128005350230800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "01时24分"
         }
       ]
     }
