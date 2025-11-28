@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T06:26:08.519241+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2025-11-29T07:25:28.855481+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 07时25分]"
         },
         {
           "title": "周五（11月28日），彭博电动汽车价格回报指数涨1.16%，报3418.76点，11月份累跌2.20%，整体呈现出W形走势。",
@@ -31,11 +31,12 @@
             4,
             12,
             20,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时22分 ~ 06时26分]"
+          "appearance_count": 5,
+          "time_info": "[03时22分 ~ 07时25分]"
         },
         {
           "title": "取消汽车物理按键是功能进步还是失败",
@@ -127,11 +128,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时26分]"
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时25分]"
         }
       ]
     }
