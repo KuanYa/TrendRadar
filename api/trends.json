@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-02T06:27:33.567274+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2025-12-02T07:29:00.302564+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "人脑优于人工智能的关键机制揭示",
+          "url": "https://wallstreetcn.com/livenews/3013258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
           "url": "https://wallstreetcn.com/livenews/3013202",
@@ -69,11 +80,12 @@
             9,
             14,
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 05时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 07时29分]"
         },
         {
           "title": "周一（12月1日），彭博电动汽车价格回报指数大致持平，报3418.80点，北京时间09:30之前开始一波短线拉升行情、10:05涨至3450.54点刷新日高，随后快速回吐这一波涨幅，日内大部分时间持稳于3425点一线。",
@@ -88,6 +100,18 @@
           "time_info": "[05时23分 ~ 06时27分]"
         },
         {
+          "title": "美国商务部长卢特尼克：美国自11月1日起对韩国汽车的关税降至15%。",
+          "url": "https://flash.jin10.com/detail/20251202052715237800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时29分]"
+        },
+        {
           "title": "葡萄牙11月特斯拉汽车新注册量同比下滑46.9%，1月至11月累计下滑23.9%。",
           "url": "https://flash.jin10.com/detail/20251202011157970800",
           "source": "金十数据",
@@ -97,17 +121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
-        },
-        {
-          "title": "美国商务部长卢特尼克：美国自11月1日起对韩国汽车的关税降至15%。",
-          "url": "https://flash.jin10.com/detail/20251202052715237800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时27分"
         }
       ]
     },
@@ -143,8 +156,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 07时29分]"
         }
       ]
     }
