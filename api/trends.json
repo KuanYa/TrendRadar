@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T20:59:42.727764+08:00",
-  "total_titles_processed": 1599,
+  "generated_at": "2025-12-01T21:43:10.394107+08:00",
+  "total_titles_processed": 1683,
   "failed_sources": [],
   "trends": [
     {
@@ -408,7 +408,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -430,7 +430,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时59分"
         },
@@ -493,8 +493,19 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "OpenAI入股Thrive Holdings，以加速企业对人工智能的采用。",
+          "url": "https://flash.jin10.com/detail/20251201212133290800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
         {
           "title": "北京：加强“人工智能+政务服务”统筹建设，强化政务领域大模型顶层设计",
           "url": "https://wallstreetcn.com/livenews/3012849",
@@ -542,6 +553,17 @@
           "time_info": "16时41分"
         },
         {
+          "title": "OpenAI与埃森哲携手，以先进人工智能加速企业重塑。",
+          "url": "https://flash.jin10.com/detail/20251201205933747800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "中国聚变能源公司：与同方股份探讨“人工智能赋能聚变研发”等议题",
           "url": "https://wallstreetcn.com/livenews/3012731",
           "source": "华尔街见闻-快讯",
@@ -585,11 +607,12 @@
           "url": "https://www.cls.cn/detail/2216228",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时59分 ~ 21时43分]"
         }
       ]
     }
