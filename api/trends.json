@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-02T12:38:14.948852+08:00",
-  "total_titles_processed": 957,
+  "generated_at": "2025-12-02T13:28:44.398555+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 7,
       "titles": [
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-02）",
-          "url": "https://flash.jin10.com/detail/20251202115850736800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时38分"
-        },
         {
           "title": "人脑优于人工智能的关键机制揭示",
           "url": "https://wallstreetcn.com/livenews/3013258",
@@ -28,6 +17,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-02）",
+          "url": "https://flash.jin10.com/detail/20251202115850736800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 13时28分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
