@@ -1,11 +1,100 @@
 {
-  "generated_at": "2025-12-02T10:07:46.031961+08:00",
-  "total_titles_processed": 768,
+  "generated_at": "2025-12-02T11:56:20.281422+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "汽车",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "小米汽车月销破4万辆 订单还够用吗",
+          "url": "https://www.toutiao.com/trending/7578838517380288027/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            14,
+            25,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 07时29分]"
+        },
+        {
+          "title": "周一（12月1日），彭博电动汽车价格回报指数大致持平，报3418.80点，北京时间09:30之前开始一波短线拉升行情、10:05涨至3450.54点刷新日高，随后快速回吐这一波涨幅，日内大部分时间持稳于3425点一线。",
+          "url": "https://wallstreetcn.com/livenews/3013215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时27分]"
+        },
+        {
+          "title": "美国商务部长卢特尼克：美国自11月1日起对韩国汽车的关税降至15%。",
+          "url": "https://flash.jin10.com/detail/20251202052715237800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时29分]"
+        },
+        {
+          "title": "恒指高开0.6%，报26188.55点；恒生科技指数涨0.76%。阿里巴巴、快手涨超3%，网易涨1.8%；蔚来跌超6%，小鹏汽车跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3013340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "金十图示：2025年12月02日（周二）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20251202110602619800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "葡萄牙11月特斯拉汽车新注册量同比下滑46.9%，1月至11月累计下滑23.9%。",
+          "url": "https://flash.jin10.com/detail/20251202011157970800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时45分"
+        },
+        {
+          "title": "小米汽车交付量已超全年目标",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BA%A4%E4%BB%98%E9%87%8F%E5%B7%B2%E8%B6%85%E5%85%A8%E5%B9%B4%E7%9B%AE%E6%A0%87%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "人脑优于人工智能的关键机制揭示",
@@ -65,73 +154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "小米汽车月销破4万辆 订单还够用吗",
-          "url": "https://www.toutiao.com/trending/7578838517380288027/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            14,
-            25,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 07时29分]"
         },
         {
-          "title": "周一（12月1日），彭博电动汽车价格回报指数大致持平，报3418.80点，北京时间09:30之前开始一波短线拉升行情、10:05涨至3450.54点刷新日高，随后快速回吐这一波涨幅，日内大部分时间持稳于3425点一线。",
-          "url": "https://wallstreetcn.com/livenews/3013215",
+          "title": "工信部电子信息司就筹备中国人工智能终端行业协会听取意见",
+          "url": "https://wallstreetcn.com/livenews/3013427",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时27分]"
-        },
-        {
-          "title": "美国商务部长卢特尼克：美国自11月1日起对韩国汽车的关税降至15%。",
-          "url": "https://flash.jin10.com/detail/20251202052715237800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 07时29分]"
-        },
-        {
-          "title": "恒指高开0.6%，报26188.55点；恒生科技指数涨0.76%。阿里巴巴、快手涨超3%，网易涨1.8%；蔚来跌超6%，小鹏汽车跌1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3013340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "葡萄牙11月特斯拉汽车新注册量同比下滑46.9%，1月至11月累计下滑23.9%。",
-          "url": "https://flash.jin10.com/detail/20251202011157970800",
-          "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时45分"
+          "time_info": "11时56分"
         }
       ]
     },
