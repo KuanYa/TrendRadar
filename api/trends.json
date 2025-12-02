@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-02T19:26:54.731125+08:00",
-  "total_titles_processed": 1570,
+  "generated_at": "2025-12-02T21:03:59.181395+08:00",
+  "total_titles_processed": 1687,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 14,
       "titles": [
+        {
+          "title": "小米汽车罕见自谦,冲欧自评不够格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347668&amp;topic_name=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%BD%95%E8%A7%81%E8%87%AA%E8%B0%A6%2C%E5%86%B2%E6%AC%A7%E8%87%AA%E8%AF%84%E4%B8%8D%E5%A4%9F%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 21时03分]"
+        },
         {
           "title": "小米汽车月销破4万辆 订单还够用吗",
           "url": "https://www.toutiao.com/trending/7578838517380288027/",
@@ -23,29 +35,18 @@
           "time_info": "[00时38分 ~ 07时29分]"
         },
         {
-          "title": "小米汽车罕见自谦,冲欧自评不够格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347668&amp;topic_name=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%BD%95%E8%A7%81%E8%87%AA%E8%B0%A6%2C%E5%86%B2%E6%AC%A7%E8%87%AA%E8%AF%84%E4%B8%8D%E5%A4%9F%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时26分]"
-        },
-        {
           "title": "吉利汽车 11 月销量达到 310428 辆，这一业绩对国内汽车市场意味着什么？",
           "url": "https://www.zhihu.com/question/1978879849037837003",
           "source": "知乎",
           "ranks": [
             15,
             19,
-            14
+            14,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时29分 ~ 19时26分]"
+          "appearance_count": 6,
+          "time_info": "[15时29分 ~ 21时03分]"
         },
         {
           "title": "中国汽车动力电池联盟赴北京人形机器人创新中心调研交流",
@@ -311,7 +312,7 @@
     },
     {
       "keyword_group": "大豆",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "芝加哥大豆期货跌超1.2%，小麦跌超1.8%",
@@ -325,6 +326,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 06时27分]"
+        },
+        {
+          "title": "详解巴西大豆扩张引发的争议",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E5%B7%B4%E8%A5%BF%E5%A4%A7%E8%B1%86%E6%89%A9%E5%BC%A0%E5%BC%95%E5%8F%91%E7%9A%84%E4%BA%89%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
+          "title": "中国买大豆毁掉巴西雨林？假的！",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B9%B0%E5%A4%A7%E8%B1%86%E6%AF%81%E6%8E%89%E5%B7%B4%E8%A5%BF%E9%9B%A8%E6%9E%97%EF%BC%9F%E5%81%87%E7%9A%84%EF%BC%81",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         }
       ]
     },
