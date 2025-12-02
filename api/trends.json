@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T06:31:42.856070+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2025-12-03T07:26:19.170398+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时26分]"
         },
         {
           "title": "吉利汽车 11 月销量达到 310428 辆，这一业绩对国内汽车市场意味着什么？",
@@ -26,11 +26,12 @@
             4,
             10,
             12,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 07时26分]"
         },
         {
           "title": "据日经新闻：三菱汽车或将与日产和本田合作，在美国联合生产汽车。",
@@ -110,8 +111,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时26分]"
         },
         {
           "title": "外媒称中国买大豆毁掉巴西雨林真相",
@@ -120,11 +121,12 @@
           "ranks": [
             25,
             24,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时33分 ~ 06时31分]"
+          "appearance_count": 5,
+          "time_info": "[04时33分 ~ 07时26分]"
         },
         {
           "title": "中国买大豆毁掉巴西雨林？假的！",
