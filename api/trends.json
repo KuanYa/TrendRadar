@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T18:32:44.836773+08:00",
-  "total_titles_processed": 1471,
+  "generated_at": "2025-12-02T19:26:54.731125+08:00",
+  "total_titles_processed": 1570,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,25 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347668&amp;topic_name=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%BD%95%E8%A7%81%E8%87%AA%E8%B0%A6%2C%E5%86%B2%E6%AC%A7%E8%87%AA%E8%AF%84%E4%B8%8D%E5%A4%9F%E6%A0%BC",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 19时26分]"
+        },
+        {
+          "title": "吉利汽车 11 月销量达到 310428 辆，这一业绩对国内汽车市场意味着什么？",
+          "url": "https://www.zhihu.com/question/1978879849037837003",
+          "source": "知乎",
+          "ranks": [
+            15,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时29分 ~ 19时26分]"
         },
         {
           "title": "中国汽车动力电池联盟赴北京人形机器人创新中心调研交流",
@@ -56,18 +70,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时27分]"
-        },
-        {
-          "title": "吉利汽车 11 月销量达到 310428 辆，这一业绩对国内汽车市场意味着什么？",
-          "url": "https://www.zhihu.com/question/1978879849037837003",
-          "source": "知乎",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时29分 ~ 18时32分]"
         },
         {
           "title": "恒生指数收盘涨0.24%，恒生科技指数跌0.37%。万科企业涨约4%，小鹏汽车跌约6%，中兴通讯跌约6%，蔚来跌约7%。",
@@ -279,7 +281,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
