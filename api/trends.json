@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T16:39:01.901577+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2025-12-03T17:33:24.825066+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             13,
             14,
             16,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时39分 ~ 16时39分]"
+          "appearance_count": 19,
+          "time_info": "[00时39分 ~ 17时33分]"
         },
         {
           "title": "吉利汽车 11 月销量达到 310428 辆，这一业绩对国内汽车市场意味着什么？",
@@ -140,7 +141,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -249,6 +250,17 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "中国买大豆毁掉巴西雨林？假的",
+          "url": "https://www.toutiao.com/trending/7579264574307074075/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时07分 ~ 17时33分]"
+        },
+        {
           "title": "详解巴西大豆扩张引发的争议",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E5%B7%B4%E8%A5%BF%E5%A4%A7%E8%B1%86%E6%89%A9%E5%BC%A0%E5%BC%95%E5%8F%91%E7%9A%84%E4%BA%89%E8%AE%AE",
           "source": "bilibili 热搜",
@@ -263,17 +275,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时39分 ~ 10时07分]"
-        },
-        {
-          "title": "中国买大豆毁掉巴西雨林？假的",
-          "url": "https://www.toutiao.com/trending/7579264574307074075/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时07分 ~ 16时39分]"
         },
         {
           "title": "外媒称中国买大豆毁掉巴西雨林真相",
