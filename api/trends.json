@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T19:26:22.829870+08:00",
-  "total_titles_processed": 1638,
+  "generated_at": "2025-12-03T21:01:11.547590+08:00",
+  "total_titles_processed": 1740,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "小米汽车罕见自谦,冲欧自评不够格",
@@ -20,11 +20,12 @@
             16,
             17,
             20,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时39分 ~ 19时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时39分 ~ 21时01分]"
         },
         {
           "title": "吉利汽车 11 月销量达到 310428 辆，这一业绩对国内汽车市场意味着什么？",
@@ -102,6 +103,18 @@
           "time_info": "[03时26分 ~ 05时27分]"
         },
         {
+          "title": "特斯拉11月德国汽车销量下降五分之一",
+          "url": "https://wallstreetcn.com/livenews/3014412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 21时01分]"
+        },
+        {
           "title": "美国总统特朗普：（被问及马斯克相关问题时）我只是不希望只有电动汽车。",
           "url": "https://flash.jin10.com/detail/20251203025043007800",
           "source": "金十数据",
@@ -114,15 +127,15 @@
           "time_info": "[03时26分 ~ 04时34分]"
         },
         {
-          "title": "特斯拉11月德国汽车销量下降五分之一",
-          "url": "https://wallstreetcn.com/livenews/3014412",
+          "title": "超20个地市已暂停或调整汽车国补",
+          "url": "https://wallstreetcn.com/livenews/3014446",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时26分"
+          "time_info": "21时01分"
         },
         {
           "title": "恒指低开0.44%，报25980.89点；恒生科技指数跌0.51%。小鹏汽车跌2.6%，蔚来跌1.8%，网易、快手、哔哩哔哩跌超1%。",
@@ -142,7 +155,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -183,7 +196,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
@@ -195,6 +208,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "贝莱德称流入亚洲的ETF资金主要流向韩国 人工智能是主因",
+          "url": "https://wallstreetcn.com/livenews/3014450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "印度数据中心运营商 Sify Infinit Spaces 押注人工智能热潮，但对泡沫保持警惕",
