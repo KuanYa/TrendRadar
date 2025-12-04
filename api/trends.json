@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T17:33:37.447563+08:00",
-  "total_titles_processed": 1453,
+  "generated_at": "2025-12-04T18:34:21.499333+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "小米汽车罕见自谦,冲欧自评不够格",
@@ -21,17 +21,6 @@
           "time_info": "[00时39分 ~ 13时29分]"
         },
         {
-          "title": "哪吒汽车招募共益债投资人 计划融资不超1亿元",
-          "url": "https://wallstreetcn.com/livenews/3015086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
           "title": "骑摩托车跟开汽车什么区别？",
           "url": "https://www.zhihu.com/question/268250514",
           "source": "知乎",
@@ -43,6 +32,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时42分 ~ 05时25分]"
+        },
+        {
+          "title": "哪吒汽车招募共益债投资人 计划融资不超1亿元",
+          "url": "https://wallstreetcn.com/livenews/3015086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时34分]"
         },
         {
           "title": "美国总统特朗普赞赏福特汽车的F-150车型。",
@@ -182,7 +183,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -218,6 +219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
+        },
+        {
+          "title": "理想汽车首款 AI 眼镜 Livis 发布，国补后 1699 元起，有哪些功能亮点，实际体验如何？",
+          "url": "https://www.zhihu.com/question/1979645846510335630",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "美国总统特朗普：美国将允许生产微型汽车。",
@@ -303,17 +315,6 @@
       "match_count": 13,
       "titles": [
         {
-          "title": "消息人士称，Meta将因在WhatsApp中使用人工智能面临欧盟反垄断调查。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3015081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
           "title": "据英国金融时报：欧盟正计划针对Meta Platforms(META.O)在WhatsApp内部推出人工智能功能展开新的反垄断调查。",
           "url": "https://flash.jin10.com/detail/20251204130712785800",
           "source": "金十数据",
@@ -347,6 +348,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时30分 ~ 03时25分]"
+        },
+        {
+          "title": "消息人士称，Meta将因在WhatsApp中使用人工智能面临欧盟反垄断调查。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3015081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时34分]"
         },
         {
           "title": "英伟达CEO黄仁勋：能源成为人工智能的下一个全球瓶颈；人工智能的发展给电力供应带来压力；预测未来十年内，小型核反应堆将被广泛用于为人工智能系统供电。",
@@ -403,7 +416,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -490,6 +503,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印度贸易部长：预计俄罗斯将放宽农业领域认证和标准，以促进印度出口。",
+          "url": "https://flash.jin10.com/detail/20251204181416301800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         }
       ]
     }
