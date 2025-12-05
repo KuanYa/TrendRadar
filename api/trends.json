@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T14:48:28.035260+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2025-12-05T15:29:19.730188+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
@@ -72,7 +72,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -100,11 +100,12 @@
           "ranks": [
             7,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时08分 ~ 14时48分]"
+          "appearance_count": 7,
+          "time_info": "[10时08分 ~ 15时29分]"
         },
         {
           "title": "美国SEC主席驳斥要求企业加强人工智能报告的提议",
@@ -215,7 +216,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         }
