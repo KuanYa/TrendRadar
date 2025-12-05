@@ -1,8 +1,163 @@
 {
-  "generated_at": "2025-12-05T22:30:27.848564+08:00",
-  "total_titles_processed": 1950,
+  "generated_at": "2025-12-05T23:31:12.761472+08:00",
+  "total_titles_processed": 2045,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "车评人陈震偷税被查，多个平台被禁言，这对以人设信誉为生的车评人意味着什么？如何看待汽车自媒体行业现状？",
+          "url": "https://www.zhihu.com/question/1980256801569130289",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时37分 ~ 23时31分]"
+        },
+        {
+          "title": "蔚来乐道汽车发布全国换电站电池翻倍计划：将增投超8000块全新电池包",
+          "url": "https://wallstreetcn.com/livenews/3015623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "恒生指数收涨0.58%，恒生科技指数涨0.84%。保险股领涨，中国平安涨近7%，中国人寿涨超5%。百度集团涨逾5%，领涨科网股；新能源车概念股反弹，小鹏汽车、蔚来涨逾2%。",
+          "url": "https://wallstreetcn.com/livenews/3015750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "金十图示：2025年12月05日（周五）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20251205110604497800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 12时37分]"
+        },
+        {
+          "title": "周四（12月4日），彭博电动汽车价格回报指数涨0.09%，报3390.91点。 成分股中，MP材料涨超5%，沃尔沃汽车、Lucid集团、保时捷P911涨超4%，美国雅宝则跌约6%。",
+          "url": "https://wallstreetcn.com/livenews/3015356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时26分]"
+        },
+        {
+          "title": "本田中国11月终端汽车销量同比下降33.8%。",
+          "url": "https://wallstreetcn.com/livenews/3015552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 12时37分]"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：福特汽车(F.N)正在召回11,852辆美国车辆。",
+          "url": "https://flash.jin10.com/detail/20251205160508277800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "商务部部长王文涛：促进大宗耐用商品消费，推进汽车流通消费改革试点，全链条扩大汽车消费",
+          "url": "https://wallstreetcn.com/livenews/3015856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "蓝思科技切入小米汽车供应链，明年车载玻璃产能或达150万套",
+          "url": "https://wallstreetcn.com/livenews/3015900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "现代汽车股价涨超7%，触及历史新高。",
+          "url": "https://flash.jin10.com/detail/20251205092414780800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "现代汽车股价延续早盘涨势，最新上涨11%，触及历史新高，报315,000韩元。",
+          "url": "https://flash.jin10.com/detail/20251205135814783800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "美国总统特朗普敦促立即制造紧凑型汽车（tiny cars）。",
+          "url": "https://wallstreetcn.com/livenews/3016010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
+          "title": "欧洲股市收涨超0.4%，雷诺、奔驰、保时捷、宝马等汽车概念股至少涨超4%",
+          "url": "https://wallstreetcn.com/livenews/3015291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能",
       "match_count": 12,
@@ -27,11 +182,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时57分 ~ 22时30分]"
+          "appearance_count": 6,
+          "time_info": "[20时57分 ~ 23时31分]"
         },
         {
           "title": "据AXIOS网站：目前尚不清楚（美国）可能出台的人工智能行政命令是否与之前的草案相同。",
@@ -148,152 +304,8 @@
       ]
     },
     {
-      "keyword_group": "汽车",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "车评人陈震偷税被查，多个平台被禁言，这对以人设信誉为生的车评人意味着什么？如何看待汽车自媒体行业现状？",
-          "url": "https://www.zhihu.com/question/1980256801569130289",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时37分 ~ 22时30分]"
-        },
-        {
-          "title": "蔚来乐道汽车发布全国换电站电池翻倍计划：将增投超8000块全新电池包",
-          "url": "https://wallstreetcn.com/livenews/3015623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
-          "title": "恒生指数收涨0.58%，恒生科技指数涨0.84%。保险股领涨，中国平安涨近7%，中国人寿涨超5%。百度集团涨逾5%，领涨科网股；新能源车概念股反弹，小鹏汽车、蔚来涨逾2%。",
-          "url": "https://wallstreetcn.com/livenews/3015750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "金十图示：2025年12月05日（周五）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251205110604497800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 12时37分]"
-        },
-        {
-          "title": "周四（12月4日），彭博电动汽车价格回报指数涨0.09%，报3390.91点。 成分股中，MP材料涨超5%，沃尔沃汽车、Lucid集团、保时捷P911涨超4%，美国雅宝则跌约6%。",
-          "url": "https://wallstreetcn.com/livenews/3015356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时26分]"
-        },
-        {
-          "title": "本田中国11月终端汽车销量同比下降33.8%。",
-          "url": "https://wallstreetcn.com/livenews/3015552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 12时37分]"
-        },
-        {
-          "title": "美国国家公路交通安全管理局：福特汽车(F.N)正在召回11,852辆美国车辆。",
-          "url": "https://flash.jin10.com/detail/20251205160508277800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "商务部部长王文涛：促进大宗耐用商品消费，推进汽车流通消费改革试点，全链条扩大汽车消费",
-          "url": "https://wallstreetcn.com/livenews/3015856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "蓝思科技切入小米汽车供应链，明年车载玻璃产能或达150万套",
-          "url": "https://wallstreetcn.com/livenews/3015900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "现代汽车股价涨超7%，触及历史新高。",
-          "url": "https://flash.jin10.com/detail/20251205092414780800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "现代汽车股价延续早盘涨势，最新上涨11%，触及历史新高，报315,000韩元。",
-          "url": "https://flash.jin10.com/detail/20251205135814783800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时48分"
-        },
-        {
-          "title": "欧洲股市收涨超0.4%，雷诺、奔驰、保时捷、宝马等汽车概念股至少涨超4%",
-          "url": "https://wallstreetcn.com/livenews/3015291",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "玉米",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "芝加哥玉米期货涨约0.7%",
@@ -306,6 +318,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时26分]"
+        },
+        {
+          "title": "截至23:00收盘，国内期货主力合约涨跌互现。低硫燃料油（LU）涨超1%，纯苯、豆二、棕榈油、苯乙烯（EB）涨近1%；跌幅方面，焦煤跌超5%，焦炭跌近5%，双胶纸、乙二醇（EG）、淀粉、玉米、甲醇跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251205230111850800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "早盘开盘，国内期货主力合约跌多涨少。集运欧线涨超3%，燃料油、玉米、焦炭涨超1%。跌幅方面，沪银跌超2%，双胶纸、烧碱、氧化铝、乙二醇跌超1%。",
