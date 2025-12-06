@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T15:25:29.519725+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2025-12-06T16:34:26.671579+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
@@ -50,11 +50,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时25分]"
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 16时34分]"
         },
         {
           "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo自愿向美国国家公路交通安全管理局（NHTSA）申请软件召回。",
