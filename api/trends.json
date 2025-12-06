@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T21:33:01.767022+08:00",
-  "total_titles_processed": 1469,
+  "generated_at": "2025-12-06T22:24:40.284792+08:00",
+  "total_titles_processed": 1528,
   "failed_sources": [],
   "trends": [
     {
@@ -165,11 +165,24 @@
           "url": "https://flash.jin10.com/detail/20251206203209145800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时24分]"
+        },
+        {
+          "title": "对人工智能感到焦虑的人，到底在怕什么？",
+          "url": "https://www.zhihu.com/question/1975522650878124126",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 22时24分]"
         },
         {
           "title": "卡塔尔能源部长：人工智能的能源需求将推动天然气需求增长。我对未来天然气需求完全不担心。",
@@ -195,17 +208,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时26分]"
-        },
-        {
-          "title": "对人工智能感到焦虑的人，到底在怕什么？",
-          "url": "https://www.zhihu.com/question/1975522650878124126",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 21时33分]"
         }
       ]
     },
