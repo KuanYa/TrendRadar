@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T06:25:49.831314+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2025-12-08T07:24:55.406744+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 07时24分]"
         },
         {
           "title": "消息人士：欧盟委员会可能会在12月16日宣布一项支持汽车行业的一揽子计划。",
@@ -57,11 +57,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时25分]"
+          "appearance_count": 3,
+          "time_info": "[05时23分 ~ 07时24分]"
         }
       ]
     }
