@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T04:33:04.000246+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2025-12-09T05:23:48.556418+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
@@ -56,6 +56,18 @@
           "time_info": "[00时38分 ~ 01时28分]"
         },
         {
+          "title": "奈飞(NFLX.O)首席执行官：公司计划利用人工智能提升流媒体平台的个性化推荐和广告效果。",
+          "url": "https://flash.jin10.com/detail/20251209034031634800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时23分]"
+        },
+        {
           "title": "据CNBC：桥水基金创始人瑞·达利欧表示，中东正迅速崛起为世界上最强大的人工智能中心之一，他将该地区的崛起与硅谷对所有科技领域的吸引力进行了比较。",
           "url": "https://flash.jin10.com/detail/20251209010947789800",
           "source": "金十数据",
@@ -76,34 +88,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
-        },
-        {
-          "title": "奈飞(NFLX.O)首席执行官：公司计划利用人工智能提升流媒体平台的个性化推荐和广告效果。",
-          "url": "https://flash.jin10.com/detail/20251209034031634800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
         }
       ]
     },
     {
       "keyword_group": "农民",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国总统特朗普在一场圆桌会议上声称：将把一部分关税“收入”用于救济农民经济。 针对拖拉机行业撤销环境监管。 立即对卡车行业降低环境限制。 拖拉机行业必须立即降价。",
           "url": "https://wallstreetcn.com/livenews/3017134",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时23分]"
+        },
+        {
+          "title": "美国将为受关税政策影响农民提供120亿美元救助",
+          "url": "https://wallstreetcn.com/livenews/3017145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时33分"
+          "time_info": "05时23分"
         },
         {
           "title": "美国总统特朗普：我们将向农民提供120亿美元的援助。",
@@ -112,7 +125,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
         },
@@ -123,7 +136,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
         },
@@ -134,7 +147,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
         }
@@ -149,22 +162,24 @@
           "url": "https://flash.jin10.com/detail/20251209041235978800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时23分]"
         },
         {
           "title": "美国总统特朗普：农业设备已经变得太贵了。",
           "url": "https://flash.jin10.com/detail/20251209034915212800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时23分]"
         }
       ]
     },
@@ -177,11 +192,29 @@
           "url": "https://wallstreetcn.com/livenews/3017136",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3017165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时33分"
+          "time_info": "05时23分"
         }
       ]
     }
