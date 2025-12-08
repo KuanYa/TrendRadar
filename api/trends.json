@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T14:47:03.002936+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2025-12-08T15:31:31.550509+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时09分 ~ 14时47分]"
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 15时31分]"
         },
         {
           "title": "中国汽车何以重塑全球价值链",
@@ -53,8 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时09分 ~ 14时47分]"
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 15时31分]"
         },
         {
           "title": "净网：网民造谣汽车造成8杀被查处",
@@ -64,8 +64,24 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时09分 ~ 14时47分]"
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 15时31分]"
+        },
+        {
+          "title": "央视曝光汽车智驾神器成夺命陷阱",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E7%A5%9E%E5%99%A8%E6%88%90%E5%A4%BA%E5%91%BD%E9%99%B7%E9%98%B1",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            7,
+            12,
+            17,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 15时31分]"
         },
         {
           "title": "消息人士：欧盟委员会可能会在12月16日宣布一项支持汽车行业的一揽子计划。",
@@ -79,21 +95,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时31分 ~ 05时23分]"
-        },
-        {
-          "title": "央视曝光汽车智驾神器成夺命陷阱",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E7%A5%9E%E5%99%A8%E6%88%90%E5%A4%BA%E5%91%BD%E9%99%B7%E9%98%B1",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            7,
-            12,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时09分 ~ 14时47分]"
         },
         {
           "title": "网警查处编造汽车造成8杀网络谣言案",
