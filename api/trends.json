@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T03:21:15.293059+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2025-12-10T04:34:16.218925+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 04时34分]"
         },
         {
           "title": "橡树资本联合创始人Howard Marks：人工智能（AI）已经给就业市场营造一个“令人恐怖的”前景。",
@@ -37,7 +37,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         },
@@ -134,8 +134,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 04时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "玉米",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "芝加哥玉米期货涨超0.9%，大豆期货跌超0.5%，豆粕跌超1.3%",
+          "url": "https://wallstreetcn.com/livenews/3017869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         }
       ]
     },
