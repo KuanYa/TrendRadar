@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T18:34:23.924228+08:00",
-  "total_titles_processed": 1645,
+  "generated_at": "2025-12-10T19:26:58.782323+08:00",
+  "total_titles_processed": 1723,
   "failed_sources": [],
   "trends": [
     {
@@ -148,9 +148,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 19时26分]"
+        },
+        {
+          "title": "警方通报“小鹏汽车车展不雅视频”",
+          "url": "https://www.toutiao.com/trending/7582161338932186634/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 19时26分]"
         },
         {
           "title": "周二（12月9日），彭博电动汽车价格回报指数跌0.76%，报3438.75点，亚太早盘持续下跌，后续低位震荡。",
@@ -175,17 +187,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 10时10分]"
-        },
-        {
-          "title": "警方通报“小鹏汽车车展不雅视频”",
-          "url": "https://www.toutiao.com/trending/7582161338932186634/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
         },
         {
           "title": "新能源汽车购置税政策调整在即，车市消费热度持续上升",
@@ -216,7 +217,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -323,8 +324,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 18时34分]"
+          "appearance_count": 5,
+          "time_info": "[16时38分 ~ 19时26分]"
         },
         {
           "title": "特朗普政府：维持大豆库存等预期不变",
