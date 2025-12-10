@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T22:32:03.142729+08:00",
-  "total_titles_processed": 1986,
+  "generated_at": "2025-12-10T23:34:05.585477+08:00",
+  "total_titles_processed": 2066,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
@@ -42,7 +42,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -59,6 +59,18 @@
           "time_info": "[12时42分 ~ 13时30分]"
         },
         {
+          "title": "国家药监局局长李利：推进“人工智能+药品监管”，探索实施人工智能辅助审评",
+          "url": "https://wallstreetcn.com/livenews/3018489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时32分 ~ 23时34分]"
+        },
+        {
           "title": "橡树资本联合创始人Howard Marks：人工智能（AI）已经给就业市场营造一个“令人恐怖的”前景。",
           "url": "https://wallstreetcn.com/livenews/3017838",
           "source": "华尔街见闻-快讯",
@@ -70,15 +82,15 @@
           "time_info": "02时38分"
         },
         {
-          "title": "国家药监局局长李利：推进“人工智能+药品监管”，探索实施人工智能辅助审评",
-          "url": "https://wallstreetcn.com/livenews/3018489",
+          "title": "GE Vernova上涨11%，创盘中历史新高，人工智能（AI）繁荣刺激该公司将派息力度翻倍、扩大股票回购规模。",
+          "url": "https://wallstreetcn.com/livenews/3018509",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时32分"
+          "time_info": "23时34分"
         },
         {
           "title": "日产汽车：致力于在广泛车型细分市场中大规模部署Wayve人工智能系统。",
@@ -159,11 +171,12 @@
           "ranks": [
             2,
             4,
-            10
+            10,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时34分 ~ 22时32分]"
+          "appearance_count": 9,
+          "time_info": "[18时34分 ~ 23时34分]"
         },
         {
           "title": "警方通报“小鹏汽车车展不雅视频”",
@@ -173,11 +186,12 @@
             11,
             4,
             8,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时34分 ~ 22时32分]"
+          "appearance_count": 9,
+          "time_info": "[18时34分 ~ 23时34分]"
         },
         {
           "title": "充“劣质电”致汽车自燃？谣言",
@@ -388,8 +402,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时38分 ~ 22时32分]"
+          "appearance_count": 12,
+          "time_info": "[16时38分 ~ 23时34分]"
         },
         {
           "title": "特朗普政府：维持大豆库存等预期不变",
