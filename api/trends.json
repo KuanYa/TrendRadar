@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T17:27:41.608796+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2025-12-13T18:28:11.449942+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             3,
             5,
             6,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时40分 ~ 17时27分]"
+          "appearance_count": 5,
+          "time_info": "[14时40分 ~ 18时28分]"
         },
         {
           "title": "上海浦东：未来三年，浦东将新增人工智能企业1000家",
@@ -41,11 +42,12 @@
             5,
             7,
             8,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时40分 ~ 17时27分]"
+          "appearance_count": 5,
+          "time_info": "[14时40分 ~ 18时28分]"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
