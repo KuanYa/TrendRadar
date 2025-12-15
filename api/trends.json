@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T00:41:33.980448+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-16T01:32:19.839346+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3021098",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时32分]"
         },
         {
           "title": "美联储威廉姆斯：目前对人工智能对就业的影响表示怀疑。",
@@ -43,8 +44,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时32分]"
         }
       ]
     }
