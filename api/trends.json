@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T17:41:50.787073+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2025-12-15T18:36:37.201351+08:00",
+  "total_titles_processed": 1419,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时33分 ~ 17时41分]"
+          "appearance_count": 7,
+          "time_info": "[13时33分 ~ 18时36分]"
         },
         {
           "title": "赛力斯：积极响应《汽车行业价格行为合规指南》",
@@ -49,7 +49,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -175,8 +175,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 17时41分]"
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 18时36分]"
         },
         {
           "title": "法国农民又使出喷粪抗议大法",
