@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T19:28:01.829035+08:00",
-  "total_titles_processed": 1491,
+  "generated_at": "2025-12-15T21:13:06.576466+08:00",
+  "total_titles_processed": 1621,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时33分 ~ 19时28分]"
+          "appearance_count": 11,
+          "time_info": "[13时33分 ~ 21时13分]"
         },
         {
           "title": "赛力斯：积极响应《汽车行业价格行为合规指南》",
@@ -38,7 +38,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -134,8 +134,19 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "花旗将2026年标普500指数目标定为7700点，料人工智能仍将是关键主题",
+          "url": "https://flash.jin10.com/detail/20251215204232786800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
         {
           "title": "据华尔街日报：咨询公司Teneo的调查显示，80%的小型企业首席执行官和31%的大型企业首席执行官预计2026年上半年全球经济将有所改善。首席执行官们将继续在人工智能上投入资金，尽管回报参差不齐。",
           "url": "https://flash.jin10.com/detail/20251215053618409800",
@@ -159,6 +170,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时48分 ~ 15时32分]"
+        },
+        {
+          "title": "人工智能药物研发公司Chai Discovery融资1.3亿美元",
+          "url": "https://flash.jin10.com/detail/20251215203744718800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-15）",
