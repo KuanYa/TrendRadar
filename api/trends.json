@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T12:01:42.647593+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2025-12-16T13:31:48.458968+08:00",
+  "total_titles_processed": 1088,
   "failed_sources": [],
   "trends": [
     {
@@ -71,7 +71,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -115,7 +115,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -167,7 +167,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国纽约联储主席威廉姆斯：就业市场近期出现周期动态，而非受到人工智能（AI）的冲击。 的确认为美国处于所谓的K型经济。",
@@ -180,6 +180,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 01时32分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-16）",
+          "url": "https://flash.jin10.com/detail/20251216120200843800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "美联储威廉姆斯：目前对人工智能对就业的影响表示怀疑。",
