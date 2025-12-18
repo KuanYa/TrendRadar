@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T10:08:28.023870+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2025-12-18T11:59:31.442341+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
@@ -48,7 +48,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -59,7 +59,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -89,8 +89,43 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "金十图示：2025年12月18日（周四）富时中国A50指数成分股午盘收盘行情一览：银行、石油、煤炭板块走强，消费电子、汽车、电池、通信设备等板块走弱",
+          "url": "https://flash.jin10.com/detail/20251218113258825800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "分析师警告：特斯拉股价高度押注自动驾驶 汽车业务仅值每股30美元",
+          "url": "https://www.cls.cn/detail/2232805",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 11时59分]"
+        },
+        {
+          "title": "炒作新能源汽车负面信息团伙被打掉",
+          "url": "https://www.baidu.com/s?wd=%E7%82%92%E4%BD%9C%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%B4%9F%E9%9D%A2%E4%BF%A1%E6%81%AF%E5%9B%A2%E4%BC%99%E8%A2%AB%E6%89%93%E6%8E%89",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 11时59分]"
+        },
         {
           "title": "标普全球评级：预计中国高端汽车市场持续严峻的市场环境将拖累大众汽车的盈利能力和自由现金流。预计大众汽车在短期内缺乏有效手段抵消美国进口关税的影响。",
           "url": "https://flash.jin10.com/detail/20251218022645812800",
@@ -104,26 +139,15 @@
           "time_info": "[03时26分 ~ 04时34分]"
         },
         {
-          "title": "分析师警告：特斯拉股价高度押注自动驾驶 汽车业务仅值每股30美元",
-          "url": "https://www.cls.cn/detail/2232805",
-          "source": "财联社热门",
+          "title": "金十图示：2025年12月18日（周四）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20251218110525617800",
+          "source": "金十数据",
           "ranks": [
-            12
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "炒作新能源汽车负面信息团伙被打掉",
-          "url": "https://www.baidu.com/s?wd=%E7%82%92%E4%BD%9C%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%B4%9F%E9%9D%A2%E4%BF%A1%E6%81%AF%E5%9B%A2%E4%BC%99%E8%A2%AB%E6%89%93%E6%8E%89",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
+          "time_info": "11时59分"
         },
         {
           "title": "香港恒生指数开盘跌0.5%，恒生科技指数跌1.1%。商汤跌逾3%，小米集团、小鹏汽车跌逾2%。中金公司涨逾7%，拟换股吸收合并东兴证券与信达证券。",
@@ -132,9 +156,38 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "玉米",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周三（12月17日）纽约尾盘，彭博谷物分类指数涨0.15%，报29.0534点。 CBOT玉米期货涨0.97%，CBOT小麦期货跌0.64%。 CBOT大豆期货跌0.29%，豆粕期货跌1.44%，豆油期货涨0.36%。 CBOT瘦肉猪期货跌1.95%，活牛期货跌0.53%，饲牛期货跌0.21%。",
+          "url": "https://wallstreetcn.com/livenews/3022591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时29分]"
+        },
+        {
+          "title": "中国海关：中国11月份玉米及玉米粉进口56万吨 同比增87.5%。 今年累计玉米及玉米粉进口185万吨，同比降86.1%。 11月份小麦及小麦粉进口25万吨，同比增278.6%。 今年累计小麦及小麦粉进口340万吨，同比降69.1%。",
+          "url": "https://wallstreetcn.com/livenews/3022820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         }
       ]
     },
@@ -149,27 +202,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         }
       ]
     },
     {
-      "keyword_group": "玉米",
+      "keyword_group": "农业",
       "match_count": 1,
       "titles": [
         {
-          "title": "周三（12月17日）纽约尾盘，彭博谷物分类指数涨0.15%，报29.0534点。 CBOT玉米期货涨0.97%，CBOT小麦期货跌0.64%。 CBOT大豆期货跌0.29%，豆粕期货跌1.44%，豆油期货涨0.36%。 CBOT瘦肉猪期货跌1.95%，活牛期货跌0.53%，饲牛期货跌0.21%。",
-          "url": "https://wallstreetcn.com/livenews/3022591",
+          "title": "自主选育品种占比超95% 我国农业用种安全有保障、风险可管控",
+          "url": "https://wallstreetcn.com/livenews/3022783",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            21
+            27
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         }
       ]
     }
