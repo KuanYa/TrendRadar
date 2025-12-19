@@ -1,22 +1,22 @@
 {
-  "generated_at": "2025-12-19T20:58:18.421297+08:00",
-  "total_titles_processed": 1940,
+  "generated_at": "2025-12-19T21:39:58.526677+08:00",
+  "total_titles_processed": 2022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
-          "title": "张玉卓：接续发力新能源、新能源汽车、新材料、航空航天、低空经济等重点领域，积极发展平台经济",
-          "url": "https://wallstreetcn.com/livenews/3023966",
+          "title": "理想汽车整合供应链相关部门，原零部件负责人离职",
+          "url": "https://wallstreetcn.com/livenews/3023991",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "21时39分"
         },
         {
           "title": "周四（12月18日），彭博电动汽车价格回报指数跌0.47%，报3377.67点。",
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时28分]"
+        },
+        {
+          "title": "张玉卓：接续发力新能源、新能源汽车、新材料、航空航天、低空经济等重点领域，积极发展平台经济",
+          "url": "https://wallstreetcn.com/livenews/3023966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 21时39分]"
         },
         {
           "title": "为什么我国没有推出太阳能用于汽车上的技术?",
