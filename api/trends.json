@@ -1,12 +1,28 @@
 {
-  "generated_at": "2025-12-21T17:28:46.474916+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2025-12-21T18:29:07.163648+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 6,
       "titles": [
+        {
+          "title": "日本将启动耗资190亿美元的国家人工智能项目",
+          "url": "https://flash.jin10.com/detail/20251221125612562800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            8,
+            13,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时30分 ~ 18时29分]"
+        },
         {
           "title": "国家人工智能应用中试基地（医疗）浙江开园",
           "url": "https://flash.jin10.com/detail/20251221104217092800",
@@ -22,21 +38,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时04分 ~ 17时28分]"
-        },
-        {
-          "title": "日本将启动耗资190亿美元的国家人工智能项目",
-          "url": "https://flash.jin10.com/detail/20251221125612562800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            8,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时30分 ~ 17时28分]"
         },
         {
           "title": "浙江：加快推动人工智能创新发展高地建设，全面实施“人工智能+”行动",
@@ -215,8 +216,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 17时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 18时29分]"
         }
       ]
     }
