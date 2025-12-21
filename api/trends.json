@@ -1,25 +1,12 @@
 {
-  "generated_at": "2025-12-21T15:26:51.828549+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2025-12-21T16:35:27.474163+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 6,
       "titles": [
-        {
-          "title": "日本将启动耗资190亿美元的国家人工智能项目",
-          "url": "https://flash.jin10.com/detail/20251221125612562800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时30分 ~ 15时26分]"
-        },
         {
           "title": "国家人工智能应用中试基地（医疗）浙江开园",
           "url": "https://flash.jin10.com/detail/20251221104217092800",
@@ -28,11 +15,26 @@
             5,
             12,
             17,
-            19
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时04分 ~ 16时35分]"
+        },
+        {
+          "title": "日本将启动耗资190亿美元的国家人工智能项目",
+          "url": "https://flash.jin10.com/detail/20251221125612562800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            8,
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时04分 ~ 15时26分]"
+          "time_info": "[13时30分 ~ 16时35分]"
         },
         {
           "title": "浙江：加快推动人工智能创新发展高地建设，全面实施“人工智能+”行动",
@@ -143,11 +145,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 15时26分]"
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 16时35分]"
         },
         {
           "title": "为什么我国没有推出太阳能用于汽车上的技术?",
@@ -209,8 +212,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 15时26分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 16时35分]"
         }
       ]
     }
