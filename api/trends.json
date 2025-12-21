@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-21T13:30:18.256094+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2025-12-21T14:41:01.429251+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 6,
       "titles": [
-        {
-          "title": "日本将启动耗资190亿美元的国家人工智能项目",
-          "url": "https://flash.jin10.com/detail/20251221125612562800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时30分"
-        },
         {
           "title": "浙江：加快推动人工智能创新发展高地建设，全面实施“人工智能+”行动",
           "url": "https://wallstreetcn.com/livenews/3024278",
@@ -30,16 +19,42 @@
           "time_info": "[00时32分 ~ 04时29分]"
         },
         {
+          "title": "日本将启动耗资190亿美元的国家人工智能项目",
+          "url": "https://flash.jin10.com/detail/20251221125612562800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时30分 ~ 14时41分]"
+        },
+        {
           "title": "国家人工智能应用中试基地（医疗）浙江开园",
           "url": "https://flash.jin10.com/detail/20251221104217092800",
           "source": "金十数据",
           "ranks": [
             5,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 13时30分]"
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 14时41分]"
+        },
+        {
+          "title": "国家人工智能应用中试基地（医疗）浙江开园",
+          "url": "https://wallstreetcn.com/livenews/3024366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 14时41分]"
         },
         {
           "title": "世贸报告：人工智能到2040年或推动全球贸易增长近四成",
@@ -65,24 +80,12 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时24分 ~ 07时26分]"
-        },
-        {
-          "title": "国家人工智能应用中试基地（医疗）浙江开园",
-          "url": "https://wallstreetcn.com/livenews/3024366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 13时30分]"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "日本一列车与汽车发生碰撞，汽车起火",
@@ -123,11 +126,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 13时30分]"
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 14时41分]"
         },
         {
           "title": "为什么我国没有推出太阳能用于汽车上的技术?",
@@ -140,6 +144,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 06时26分]"
+        },
+        {
+          "title": "韩国11月汽车出口额同比增13.7%创同期第二高",
+          "url": "https://wallstreetcn.com/livenews/3024386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         }
       ]
     },
@@ -189,8 +204,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 13时30分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 14时41分]"
         }
       ]
     }
