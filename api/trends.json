@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T18:29:07.163648+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2025-12-21T19:23:29.077635+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             8,
             13,
             16,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时30分 ~ 18时29分]"
+          "appearance_count": 7,
+          "time_info": "[13时30分 ~ 19时23分]"
         },
         {
           "title": "国家人工智能应用中试基地（医疗）浙江开园",
@@ -213,11 +214,12 @@
             5,
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 18时29分]"
+          "appearance_count": 23,
+          "time_info": "[00时32分 ~ 19时23分]"
         }
       ]
     }
