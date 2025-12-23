@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T21:44:05.389939+08:00",
-  "total_titles_processed": 1878,
+  "generated_at": "2025-12-23T22:30:35.464625+08:00",
+  "total_titles_processed": 1971,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "ranks": [
             15,
             17,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时33分 ~ 21时44分]"
+          "appearance_count": 8,
+          "time_info": "[17时33分 ~ 22时30分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，阿特斯太阳能初步收涨10.7%，小马智行、携程、亚朵、晶科能源、名创优品、汽车之家涨超1%，阿里巴巴涨0.8%。",
