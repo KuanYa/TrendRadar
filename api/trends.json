@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T19:26:58.753459+08:00",
-  "total_titles_processed": 1685,
+  "generated_at": "2025-12-23T21:01:28.241204+08:00",
+  "total_titles_processed": 1785,
   "failed_sources": [],
   "trends": [
     {
@@ -76,8 +76,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时33分 ~ 18时33分]"
+          "appearance_count": 4,
+          "time_info": "[17时33分 ~ 21时01分]"
         },
         {
           "title": "欧洲汽车制造商协会：欧洲11月汽车销量同比增长2.4%，达108万辆。",
@@ -390,7 +390,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         }
