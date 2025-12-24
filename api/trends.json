@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T06:28:33.221915+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2025-12-25T07:27:47.480217+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时27分]"
         },
         {
           "title": "汽车角度分析COD之父车祸",
@@ -84,11 +84,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时28分]"
+          "appearance_count": 3,
+          "time_info": "[05时26分 ~ 07时27分]"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：未来12到18个月内（美国）将实现两位数（百分比）的GDP增长。若将人工智能的落地应用视为经济增长的替代指标（这理应成立），那么约五年内实现三位数增长是可能实现的。",
@@ -118,8 +119,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时27分]"
         }
       ]
     }
