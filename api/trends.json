@@ -1,29 +1,12 @@
 {
-  "generated_at": "2025-12-24T23:30:51.966578+08:00",
-  "total_titles_processed": 1891,
+  "generated_at": "2025-12-25T00:35:25.558649+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "汽车角度分析COD之父车祸",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%A7%92%E5%BA%A6%E5%88%86%E6%9E%90COD%E4%B9%8B%E7%88%B6%E8%BD%A6%E7%A5%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            3,
-            1,
-            16,
-            17,
-            30,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 17时32分]"
-        },
         {
           "title": "河南许昌汽车站倒闭系谣言",
           "url": "https://www.toutiao.com/trending/7586977710678622214/",
@@ -32,336 +15,36 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[19时26分 ~ 23时30分]"
-        },
-        {
-          "title": "美国汽车安全机构调查特斯拉Model 3紧急车门释放情况",
-          "url": "https://wallstreetcn.com/livenews/3026225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时58分 ~ 22时29分]"
-        },
-        {
-          "title": "长安汽车声明：网传公司废轻铁拍卖疑致国有资产流失等为不实信息",
-          "url": "https://wallstreetcn.com/livenews/3026221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时58分 ~ 22时29分]"
-        },
-        {
-          "title": "星源卓镁：获新能源汽车项目定点通知 预计未来4年销售总金额约5.75亿元",
-          "url": "https://wallstreetcn.com/livenews/3026132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时31分]"
-        },
-        {
-          "title": "随着竞争加剧，西方汽车制造商开始进行文化变革，以大幅缩短开发时间和降低成本。",
-          "url": "https://flash.jin10.com/detail/20251224131040613800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时33分 ~ 14时45分]"
-        },
-        {
-          "title": "评判一辆智能汽车的价值，关键看它的「硬件」还是「软件」？",
-          "url": "https://www.zhihu.com/question/1972374354886136143",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时45分 ~ 17时32分]"
-        },
-        {
-          "title": "理想汽车合并第一、二产品线",
-          "url": "https://wallstreetcn.com/livenews/3026185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 20时58分]"
-        },
-        {
-          "title": "周二（12月23日），彭博电动汽车价格回报指数涨0.03%，报3464.12点。 亚太早盘显著波动，北京时间09:35小幅下跌、刷新日低至3455.20点，10:49开始显著拉升、11:22刷新日高至3479.94点。",
-          "url": "https://wallstreetcn.com/livenews/3025769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时28分]"
-        },
-        {
-          "title": "多地部署2026“新国补” 汽车以旧换新有望延续",
-          "url": "https://wallstreetcn.com/livenews/3026243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时29分 ~ 23时30分]"
-        },
-        {
-          "title": "众泰汽车：与两家银行债权人达成和解",
-          "url": "https://wallstreetcn.com/livenews/3026177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 20时58分]"
-        },
-        {
-          "title": "俄罗斯调查委员会：莫斯科汽车爆炸致两名警察及另一人身亡。",
-          "url": "https://flash.jin10.com/detail/20251224135853314800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时45分"
+          "time_info": "00时35分"
         },
         {
-          "title": "金十图示：2025年12月24日（周三）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20251224110534154800",
-          "source": "金十数据",
+          "title": "亚马逊旗下自动驾驶汽车公司Zoox因软件问题召回332辆车",
+          "url": "https://wallstreetcn.com/livenews/3026274",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "俄罗斯莫斯科南部发生汽车爆炸 致两人受伤",
-          "url": "https://flash.jin10.com/detail/20251224092514235800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "科技公司已利用华尔街投资者资助的特殊目的实体，将超过1200亿美元的数据中心支出从资产负债表上转移出去，这加剧了人们对他们在人工智能领域巨额投资所带来的财务风险的担忧。",
-          "url": "https://flash.jin10.com/detail/20251224130558797800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时33分 ~ 14时45分]"
-        },
-        {
-          "title": "上海市新增9款已完成登记的生成式人工智能服务",
-          "url": "https://wallstreetcn.com/livenews/3025990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时33分 ~ 14时45分]"
-        },
-        {
-          "title": "北京市新增2款已完成备案的生成式人工智能服务",
-          "url": "https://wallstreetcn.com/livenews/3026060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：美国经济数据显示人工智能生产力正在蓬勃发展。",
-          "url": "https://flash.jin10.com/detail/20251224000430869800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-24）",
-          "url": "https://flash.jin10.com/detail/20251224115857022800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
+          "time_info": "00时35分"
         }
       ]
     },
     {
       "keyword_group": "农民",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "辽宁给农民评职称 拟设4个级别",
           "url": "https://www.toutiao.com/trending/7586746209667288595/",
           "source": "今日头条",
           "ranks": [
-            21,
-            22,
-            16,
-            23,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时33分 ~ 23时30分]"
-        },
-        {
-          "title": "辽宁给农民评职称 拟设四个级别",
-          "url": "https://www.baidu.com/s?wd=%E8%BE%BD%E5%AE%81%E7%BB%99%E5%86%9C%E6%B0%91%E8%AF%84%E8%81%8C%E7%A7%B0+%E6%8B%9F%E8%AE%BE%E5%9B%9B%E4%B8%AA%E7%BA%A7%E5%88%AB",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时33分 ~ 15时31分]"
-        },
-        {
-          "title": "遭到农民强烈抵制后，英国首相在遗产税问题上做出让步",
-          "url": "https://wallstreetcn.com/livenews/3025739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "我国农业社会化服务体系不断完善",
-          "url": "https://www.toutiao.com/trending/7586614233757057033/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时33分 ~ 16时39分]"
-        },
-        {
-          "title": "国家发改委：加力实施农机装备补短板行动 拓展大数据、农业机器人、人工智能等在农业农村领域应用场景",
-          "url": "https://wallstreetcn.com/livenews/3025901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "玉米",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周二（12月23日）纽约尾盘，彭博谷物分类指数涨0.18%，报29.3763点。 CBOT玉米期货涨0.06%，CBOT小麦期货涨0.44%。 CBOT大豆期货跌0.12%，报10.63美元/蒲式耳，豆粕期货涨0.10%，豆油期货跌0.63%。 CBOT瘦肉猪期货涨0.82%，活牛期货跌0.61%，饲牛期货跌0.51%。",
-          "url": "https://wallstreetcn.com/livenews/3025755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时27分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：12月16日当周，投机者所持COMEX黄金净多头头寸增加9,493份合约，至134,130份合约。 COMEX白银净多头头寸削减3,681份合约，至24,297份合约。 COMEX铜净多头头寸增加4,904份合约，至75,987份合约。 CBOT玉米净多头头寸下降62,390手合约。 NYMEX天然气净多头头寸下降34,860手合约。",
-          "url": "https://wallstreetcn.com/livenews/3025758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大数据",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "6成Top 10券商将大数据平台迁移至腾讯云",
-          "url": "https://wallstreetcn.com/livenews/3026003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时33分 ~ 14时45分]"
+          "time_info": "00时35分"
         }
       ]
     }
