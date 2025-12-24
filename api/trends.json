@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T04:31:58.254348+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2025-12-25T05:26:35.053462+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 05时26分]"
         },
         {
           "title": "汽车角度分析COD之父车祸",
@@ -25,11 +25,12 @@
           "ranks": [
             1,
             6,
-            29
+            29,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 04时31分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 05时26分]"
         },
         {
           "title": "周三（12月24日），彭博电动汽车价格回报指数涨0.65%，报3485.54点。",
@@ -38,11 +39,12 @@
           "ranks": [
             8,
             11,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 04时31分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时26分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.07%，报7633.83点。 热门中概股里，再鼎医药初步收涨约6.2%，阿特斯太阳能涨2.1%，汽车之家涨1.3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.20%，中国科技指数ETF（CQQQ）收涨0.66%。 德银嘉实沪深300指数ETF（ASHR）收涨0.31%，XtrackersHarvest中证50（ASHS）收涨0.98%。",
@@ -51,11 +53,12 @@
           "ranks": [
             9,
             12,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 04时31分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时26分]"
         },
         {
           "title": "亚马逊旗下自动驾驶汽车公司Zoox因软件问题召回332辆车",
@@ -72,6 +75,35 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据CNBC：英伟达(NVDA.O)将以大约200亿美元收购人工智能芯片初创公司Groq，成为其有史以来最大的一笔收购交易。",
+          "url": "https://flash.jin10.com/detail/20251225045906463800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：未来12到18个月内（美国）将实现两位数（百分比）的GDP增长。若将人工智能的落地应用视为经济增长的替代指标（这理应成立），那么约五年内实现三位数增长是可能实现的。",
+          "url": "https://flash.jin10.com/detail/20251225030848051800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时26分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "农民",
       "match_count": 1,
       "titles": [
@@ -84,25 +116,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特斯拉CEO埃隆·马斯克：未来12到18个月内（美国）将实现两位数（百分比）的GDP增长。若将人工智能的落地应用视为经济增长的替代指标（这理应成立），那么约五年内实现三位数增长是可能实现的。",
-          "url": "https://flash.jin10.com/detail/20251225030848051800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 05时26分]"
         }
       ]
     }
