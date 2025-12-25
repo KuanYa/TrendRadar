@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T01:25:55.674993+08:00",
-  "total_titles_processed": 354,
+  "generated_at": "2025-12-26T02:39:53.690921+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时39分]"
         },
         {
           "title": "卢伟冰发布小米汽车最新交付成绩",
