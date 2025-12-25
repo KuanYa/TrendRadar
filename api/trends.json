@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T18:31:29.882298+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2025-12-25T19:26:07.802986+08:00",
+  "total_titles_processed": 1522,
   "failed_sources": [],
   "trends": [
     {
@@ -70,11 +70,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时31分]"
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 19时26分]"
         },
         {
           "title": "亚马逊旗下自动驾驶汽车公司Zoox因软件问题召回332辆车",
