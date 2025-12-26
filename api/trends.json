@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T02:39:59.570525+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2025-12-27T03:23:25.131482+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             6,
-            19
+            19,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时23分]"
         },
         {
           "title": "全球销量前十电动汽车8款来自中国",
@@ -29,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时23分]"
         },
         {
           "title": "汽车坠河一家5口遇难，知情人：车主能吃苦，前几年才在广州买房",
@@ -40,8 +41,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时23分]"
         },
         {
           "title": "小鹏汽车(XPEV.N)涨超8%。",
@@ -89,6 +90,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时34分 ~ 02时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大数据",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "我被汽水的大数据戳中了",
+          "url": "https://www.douyin.com/hot/2348543",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         }
       ]
     }
