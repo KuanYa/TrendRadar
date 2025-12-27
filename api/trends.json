@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T18:29:41.430339+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2025-12-27T19:23:33.412136+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
@@ -121,11 +121,12 @@
           "ranks": [
             3,
             8,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时26分 ~ 18时29分]"
+          "appearance_count": 5,
+          "time_info": "[15时26分 ~ 19时23分]"
         },
         {
           "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
@@ -207,8 +208,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 18时29分]"
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时23分]"
         }
       ]
     },
