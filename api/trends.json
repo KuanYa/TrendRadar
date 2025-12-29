@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T14:48:47.956608+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2025-12-29T15:33:55.615892+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
@@ -71,7 +71,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -159,6 +159,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "玉米",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌互现。钯、铂封跌停板，跌幅均为10%；碳酸锂跌超7%，多晶硅跌超4%，PX、PTA跌超2%。涨幅方面，铁矿石涨超2%，双胶纸、玉米、淀粉、生猪、塑料、塑料月均价涨超1%。",
+          "url": "https://flash.jin10.com/detail/20251229150103651800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         }
       ]
     }
