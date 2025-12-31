@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T22:28:46.115882+08:00",
-  "total_titles_processed": 1821,
+  "generated_at": "2025-12-31T23:30:10.691300+08:00",
+  "total_titles_processed": 1906,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "2026年国补方案出炉：新增智能产品，剔除家装、电动自行车，调整家电、汽车补贴标准",
@@ -43,8 +43,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时33分 ~ 22时28分]"
+          "appearance_count": 10,
+          "time_info": "[17时33分 ~ 23时30分]"
         },
         {
           "title": "2026年我国将扩大汽车报废更新补贴支持范围",
@@ -56,11 +56,12 @@
             10,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时04分 ~ 22时28分]"
+          "appearance_count": 15,
+          "time_info": "[12时04分 ~ 23时30分]"
         },
         {
           "title": "汽车以旧换新国补将按车价比例补贴",
@@ -323,6 +324,17 @@
           "time_info": "12时04分"
         },
         {
+          "title": "美股开盘，道指涨0.01%，标普500指数涨0.04%，纳指涨0.01%。热门中概股涨跌分化，小鹏汽车(XPEV.N)跌4%，理想汽车(LI.O)跌超3%，台积电(TSM.N)涨1.4%。",
+          "url": "https://flash.jin10.com/detail/20251231223019762800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "网友吐槽智慧停车地锁顶到汽车电池",
           "url": "https://www.toutiao.com/trending/7589469402819985446/",
           "source": "今日头条",
@@ -370,7 +382,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "新加坡总理黄循财：经济受益于与人工智能相关的芯片和电子产品需求激增。",
@@ -394,6 +406,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时45分 ~ 15时31分]"
+        },
+        {
+          "title": "据The Information：英伟达(NVDA.O)正投资布鲁克菲尔德人工智能基础设施基金。",
+          "url": "https://flash.jin10.com/detail/20251231224446710800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         },
         {
           "title": "印度已邀请中国参加全球人工智能峰会",
