@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T03:22:54.987365+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-01-01T04:32:10.199211+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时32分]"
         },
         {
           "title": "2026 年汽车「国补」来了，按车价比例进行补贴，最高不超 2 万元，将如何影响车市？",
@@ -26,8 +26,25 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "法国总统马克龙马呼吁欧洲在人工智能和量子技术领域保持独立。",
+          "url": "https://flash.jin10.com/detail/20260101031526181800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
         }
       ]
     }
