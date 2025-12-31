@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T00:36:06.614589+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-01T01:26:20.757369+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 00时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 01时26分]"
         },
         {
           "title": "2026 年汽车「国补」来了，按车价比例进行补贴，最高不超 2 万元，将如何影响车市？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 00时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 01时26分]"
         }
       ]
     }
