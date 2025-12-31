@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T17:33:40.304225+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2025-12-31T18:31:34.512331+08:00",
+  "total_titles_processed": 1496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "2026年国补方案出炉：新增智能产品，剔除家装、电动自行车，调整家电、汽车补贴标准",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时04分 ~ 17时33分]"
+          "appearance_count": 7,
+          "time_info": "[12时04分 ~ 18时31分]"
         },
         {
           "title": "汽车以旧换新国补将按车价比例补贴",
@@ -62,6 +62,36 @@
           "time_info": "[00时38分 ~ 07时27分]"
         },
         {
+          "title": "2026年汽车国补细则",
+          "url": "https://www.douyin.com/hot/2352698",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            12,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时19分 ~ 18时31分]"
+        },
+        {
+          "title": "2026年我国将扩大汽车报废更新补贴支持范围",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32289197",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时04分 ~ 18时31分]"
+        },
+        {
           "title": "【早报】2026年“国补”政策来了；汽车以旧换新补贴实施细则出炉",
           "url": "https://www.cls.cn/detail/2244743",
           "source": "财联社热门",
@@ -71,20 +101,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时19分 ~ 12时04分]"
-        },
-        {
-          "title": "2026年汽车国补细则",
-          "url": "https://www.douyin.com/hot/2352698",
-          "source": "抖音",
-          "ranks": [
-            10,
-            11,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时19分 ~ 17时33分]"
         },
         {
           "title": "2026年汽车“国补”细则来了",
@@ -100,29 +116,27 @@
           "time_info": "[10时19分 ~ 15时31分]"
         },
         {
-          "title": "2026年我国将扩大汽车报废更新补贴支持范围",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32289197",
-          "source": "澎湃新闻",
+          "title": "2026 年汽车「国补」来了，按车价比例进行补贴，最高不超 2 万元，将如何影响车市？",
+          "url": "https://www.zhihu.com/question/1989627854183483240",
+          "source": "知乎",
           "ranks": [
-            15,
-            11,
-            10,
-            7
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时04分 ~ 17时33分]"
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时31分]"
         },
         {
-          "title": "小米汽车明年拟推4款新车，包含2款增程",
-          "url": "https://wallstreetcn.com/livenews/3029237",
+          "title": "恒大汽车：继续停牌",
+          "url": "https://wallstreetcn.com/livenews/3029276",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时33分"
+          "time_info": "18时31分"
         },
         {
           "title": "美国国家公路交通安全管理局：保时捷北美公司正在美国召回 173,538 辆汽车，原因是后视摄像头图像问题。",
@@ -136,17 +150,6 @@
           "time_info": "16时39分"
         },
         {
-          "title": "长安福特汽车有限公司召回部分福睿斯汽车，共计38473辆",
-          "url": "https://wallstreetcn.com/livenews/3029235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
           "title": "2026汽车以旧换新补贴细则",
           "url": "https://s.weibo.com/weibo?q=%232026%E6%B1%BD%E8%BD%A6%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E8%A1%A5%E8%B4%B4%E7%BB%86%E5%88%99%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -156,17 +159,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时19分"
-        },
-        {
-          "title": "2026 年汽车「国补」来了，按车价比例进行补贴，最高不超 2 万元，将如何影响车市？",
-          "url": "https://www.zhihu.com/question/1989627854183483240",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
         },
         {
           "title": "商务部等8部门办公厅印发《2026年汽车以旧换新补贴实施细则》通知",
@@ -194,6 +186,18 @@
           "time_info": "[00时38分 ~ 01时28分]"
         },
         {
+          "title": "小米汽车明年拟推4款新车，包含2款增程",
+          "url": "https://wallstreetcn.com/livenews/3029237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时31分]"
+        },
+        {
           "title": "2026汽车报废置换补贴解读",
           "url": "https://search.bilibili.com/all?keyword=2026%E6%B1%BD%E8%BD%A6%E6%8A%A5%E5%BA%9F%E7%BD%AE%E6%8D%A2%E8%A1%A5%E8%B4%B4%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
@@ -204,6 +208,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时04分 ~ 13时33分]"
+        },
+        {
+          "title": "长安福特汽车有限公司召回部分福睿斯汽车，共计38473辆",
+          "url": "https://wallstreetcn.com/livenews/3029235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时31分]"
         },
         {
           "title": "2026年将扩大汽车报废更新补贴范围",
@@ -264,6 +280,17 @@
           "time_info": "12时04分"
         },
         {
+          "title": "工业和信息化部开展汽车动力电池碳足迹申报",
+          "url": "https://wallstreetcn.com/livenews/3029254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "网友吐槽智慧停车地锁顶到汽车电池",
           "url": "https://www.toutiao.com/trending/7589469402819985446/",
           "source": "今日头条",
@@ -292,7 +319,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         }
@@ -324,8 +351,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时04分 ~ 16时39分]"
+          "appearance_count": 6,
+          "time_info": "[12时04分 ~ 18时31分]"
         },
         {
           "title": "【多家国有大行公告：明年1月1日起数字人民币实名钱包余额将按照活期存款挂牌利率计息】12月31日，中国工商银行、中国农业银行、中国建设银行等陆续发布公告称，自2026年1月1日起，将为客户开立在上述银行的数字人民币实名钱包余额按照活期存款挂牌利率计付利息，计结息规则与活期存款一致。 （澎湃新闻）",
