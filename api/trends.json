@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T18:31:34.512331+08:00",
-  "total_titles_processed": 1496,
+  "generated_at": "2025-12-31T19:26:11.659122+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时04分 ~ 18时31分]"
+          "appearance_count": 9,
+          "time_info": "[12时04分 ~ 19时26分]"
         },
         {
           "title": "汽车以旧换新国补将按车价比例补贴",
@@ -47,6 +47,38 @@
           "time_info": "[00时38分 ~ 10时19分]"
         },
         {
+          "title": "2026年汽车国补细则",
+          "url": "https://www.douyin.com/hot/2352698",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            12,
+            15,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时19分 ~ 19时26分]"
+        },
+        {
+          "title": "2026年我国将扩大汽车报废更新补贴支持范围",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32289197",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时04分 ~ 19时26分]"
+        },
+        {
           "title": "汽车以旧换新国补将按车价比例补贴",
           "url": "https://www.toutiao.com/trending/7589611017433517578/",
           "source": "今日头条",
@@ -62,34 +94,16 @@
           "time_info": "[00时38分 ~ 07时27分]"
         },
         {
-          "title": "2026年汽车国补细则",
-          "url": "https://www.douyin.com/hot/2352698",
-          "source": "抖音",
+          "title": "2026 年汽车「国补」来了，按车价比例进行补贴，最高不超 2 万元，将如何影响车市？",
+          "url": "https://www.zhihu.com/question/1989627854183483240",
+          "source": "知乎",
           "ranks": [
-            10,
-            11,
-            12,
-            15,
-            17
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时19分 ~ 18时31分]"
-        },
-        {
-          "title": "2026年我国将扩大汽车报废更新补贴支持范围",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32289197",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11,
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时04分 ~ 18时31分]"
+          "appearance_count": 4,
+          "time_info": "[17时33分 ~ 19时26分]"
         },
         {
           "title": "【早报】2026年“国补”政策来了；汽车以旧换新补贴实施细则出炉",
@@ -116,27 +130,17 @@
           "time_info": "[10时19分 ~ 15时31分]"
         },
         {
-          "title": "2026 年汽车「国补」来了，按车价比例进行补贴，最高不超 2 万元，将如何影响车市？",
-          "url": "https://www.zhihu.com/question/1989627854183483240",
-          "source": "知乎",
+          "title": "2026汽车报废置换补贴解读",
+          "url": "https://search.bilibili.com/all?keyword=2026%E6%B1%BD%E8%BD%A6%E6%8A%A5%E5%BA%9F%E7%BD%AE%E6%8D%A2%E8%A1%A5%E8%B4%B4%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
           "ranks": [
-            5,
-            2
+            4,
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 18时31分]"
-        },
-        {
-          "title": "恒大汽车：继续停牌",
-          "url": "https://wallstreetcn.com/livenews/3029276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 19时26分]"
         },
         {
           "title": "美国国家公路交通安全管理局：保时捷北美公司正在美国召回 173,538 辆汽车，原因是后视摄像头图像问题。",
@@ -186,6 +190,18 @@
           "time_info": "[00时38分 ~ 01时28分]"
         },
         {
+          "title": "恒大汽车：继续停牌",
+          "url": "https://wallstreetcn.com/livenews/3029276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时26分]"
+        },
+        {
           "title": "小米汽车明年拟推4款新车，包含2款增程",
           "url": "https://wallstreetcn.com/livenews/3029237",
           "source": "华尔街见闻-快讯",
@@ -196,18 +212,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时33分 ~ 18时31分]"
-        },
-        {
-          "title": "2026汽车报废置换补贴解读",
-          "url": "https://search.bilibili.com/all?keyword=2026%E6%B1%BD%E8%BD%A6%E6%8A%A5%E5%BA%9F%E7%BD%AE%E6%8D%A2%E8%A1%A5%E8%B4%B4%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 13时33分]"
         },
         {
           "title": "长安福特汽车有限公司召回部分福睿斯汽车，共计38473辆",
@@ -246,6 +250,18 @@
           "time_info": "[05时27分 ~ 06时28分]"
         },
         {
+          "title": "工业和信息化部开展汽车动力电池碳足迹申报",
+          "url": "https://wallstreetcn.com/livenews/3029254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时26分]"
+        },
+        {
           "title": "明年汽车报废更新最高补2万",
           "url": "https://www.douyin.com/hot/2352667",
           "source": "抖音",
@@ -280,17 +296,6 @@
           "time_info": "12时04分"
         },
         {
-          "title": "工业和信息化部开展汽车动力电池碳足迹申报",
-          "url": "https://wallstreetcn.com/livenews/3029254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
           "title": "网友吐槽智慧停车地锁顶到汽车电池",
           "url": "https://www.toutiao.com/trending/7589469402819985446/",
           "source": "今日头条",
@@ -322,6 +327,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "新加坡总理黄循财：经济受益于与人工智能相关的芯片和电子产品需求激增。",
+          "url": "https://flash.jin10.com/detail/20251231185319931800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "报道：人工智能公司MiniMax香港IPO吸引数倍申购",
+          "url": "https://wallstreetcn.com/livenews/3029124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 15时31分]"
+        },
+        {
+          "title": "印度已邀请中国参加全球人工智能峰会",
+          "url": "https://wallstreetcn.com/livenews/3028952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-31）",
+          "url": "https://flash.jin10.com/detail/20251231120016489800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
+          "title": "英伟达正就收购以色列人工智能初创公司AI21 Labs展开深入谈判，交易金额预计至高达30亿美元。",
+          "url": "https://flash.jin10.com/detail/20251231011253846800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         }
       ]
     },
@@ -376,57 +443,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "报道：人工智能公司MiniMax香港IPO吸引数倍申购",
-          "url": "https://wallstreetcn.com/livenews/3029124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 15时31分]"
-        },
-        {
-          "title": "印度已邀请中国参加全球人工智能峰会",
-          "url": "https://wallstreetcn.com/livenews/3028952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-31）",
-          "url": "https://flash.jin10.com/detail/20251231120016489800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
-          "title": "英伟达正就收购以色列人工智能初创公司AI21 Labs展开深入谈判，交易金额预计至高达30亿美元。",
-          "url": "https://flash.jin10.com/detail/20251231011253846800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时42分"
         }
       ]
     }
