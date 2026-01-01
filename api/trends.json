@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T17:33:31.988934+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-01-01T18:32:58.369907+08:00",
+  "total_titles_processed": 1273,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "2026年我国将扩大汽车报废更新补贴支持范围",
@@ -53,6 +53,17 @@
           "time_info": "16时38分"
         },
         {
+          "title": "吉利汽车：2025年12月的汽车总销量为236,817部，较去年同期增长约13%；2025年全年汽车总销量为3,024,567部，较去年同期增长约39%。",
+          "url": "https://wallstreetcn.com/livenews/3029602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "蔚来汽车：2025年12月交付48,135辆汽车，同比增长54.6%。2025年第四季度交付124,807辆汽车，同比增长71.7%。",
           "url": "https://flash.jin10.com/detail/20260101160110608800",
           "source": "金十数据",
@@ -62,28 +73,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
-        },
-        {
-          "title": "日本一铁路道口发生汽车与列车相撞",
-          "url": "https://flash.jin10.com/detail/20260101161448468800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
-          "title": "塔塔汽车：2026财年第三季度销量达171,013辆，较139,829辆有所增长。",
-          "url": "https://wallstreetcn.com/livenews/3029597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
         },
         {
           "title": "智己汽车：2025年销量81,017台，全年销量再创新高。",
@@ -108,28 +97,42 @@
           "time_info": "10时31分"
         },
         {
-          "title": "小鹏汽车2025年全年交付量达42.94万台 同比增长126%",
-          "url": "https://flash.jin10.com/detail/20260101160134689800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
           "title": "极氪汽车：2025年12月交付新车30267台，月销首次超过3万台，创历史新高，同比增长11.3%，环比增长4.9%。2025全年极氪总计交付224133台，较2024年实现同比增长。",
           "url": "https://wallstreetcn.com/livenews/3029587",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
             9,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 17时33分]"
+          "appearance_count": 4,
+          "time_info": "[15时31分 ~ 18时32分]"
+        },
+        {
+          "title": "塔塔汽车：2026财年第三季度销量达171,013辆，较139,829辆有所增长。",
+          "url": "https://wallstreetcn.com/livenews/3029597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时32分]"
+        },
+        {
+          "title": "日本一铁路道口发生汽车与列车相撞",
+          "url": "https://flash.jin10.com/detail/20260101161448468800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时32分]"
         },
         {
           "title": "周三（12月31日），彭博电动汽车价格回报指数跌0.40%，报3444.85点。 12月份累涨0.76%呈现出W形走势，四季度累涨0.14%，2025年累计上涨超43.84%。",
@@ -150,11 +153,25 @@
           "source": "金十数据",
           "ranks": [
             4,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 17时33分]"
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 18时32分]"
+        },
+        {
+          "title": "小鹏汽车：2025年12月交付37,508辆汽车，同比增长2%。2025年交付429,445辆汽车，同比增长126%。",
+          "url": "https://wallstreetcn.com/livenews/3029592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 18时32分]"
         },
         {
           "title": "岚图汽车2025年交付超15万辆，同比增87%",
@@ -169,16 +186,16 @@
           "time_info": "[10时31分 ~ 12时14分]"
         },
         {
-          "title": "小鹏汽车：2025年12月交付37,508辆汽车，同比增长2%。2025年交付429,445辆汽车，同比增长126%。",
-          "url": "https://wallstreetcn.com/livenews/3029592",
-          "source": "华尔街见闻-快讯",
+          "title": "小鹏汽车2025年全年交付量达42.94万台 同比增长126%",
+          "url": "https://flash.jin10.com/detail/20260101160134689800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            8
+            4,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时38分 ~ 17时33分]"
+          "time_info": "[17时33分 ~ 18时32分]"
         },
         {
           "title": "2026 年 1 月 1 日起至次年购置的新能源汽车将减半征收车辆购置税，哪些信息值得关注？",
@@ -206,6 +223,19 @@
           "time_info": "[10时31分 ~ 12时14分]"
         },
         {
+          "title": "极氪汽车：2025年12月交付新车30267台，月销首次超过3万台，创历史新高，同比增长11.3%，环比增长4.9%。2025全年极氪总计交付224133台，较2024年实现同比增长。",
+          "url": "https://flash.jin10.com/detail/20260101151421908800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 18时32分]"
+        },
+        {
           "title": "理想汽车2025年12月交付44,246辆汽车。 截至2025年12月31日，理想汽车累计交付量已达1,540,215辆。",
           "url": "https://wallstreetcn.com/livenews/3029536",
           "source": "华尔街见闻-快讯",
@@ -228,18 +258,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时28分]"
-        },
-        {
-          "title": "极氪汽车：2025年12月交付新车30267台，月销首次超过3万台，创历史新高，同比增长11.3%，环比增长4.9%。2025全年极氪总计交付224133台，较2024年实现同比增长。",
-          "url": "https://flash.jin10.com/detail/20260101151421908800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 17时33分]"
         },
         {
           "title": "小米汽车12月交付量超5万台",
