@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T10:21:50.150844+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2026-01-02T12:08:05.756489+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "“新汽车”放榜2025",
@@ -28,9 +28,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时21分 ~ 12时08分]"
+        },
+        {
+          "title": "日媒：中国汽车全球销量将超日本",
+          "url": "https://www.toutiao.com/trending/7589511310690353158/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 12时08分]"
         },
         {
           "title": "【2026年第一个交易日，港股高开】香港恒生指数开盘涨0.34%，恒生科技指数涨0.58%。携程集团、网易涨超2%，理想汽车、京东健康等涨超1%。",
@@ -39,9 +50,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260102110545552800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "比亚迪：12月新能源汽车销量42.04万辆",
@@ -53,6 +75,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-02）",
+          "url": "https://flash.jin10.com/detail/20260102115528113800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     }
