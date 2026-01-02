@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T19:26:00.146057+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-01-02T20:57:34.398333+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
@@ -34,37 +34,16 @@
           "time_info": "[10时21分 ~ 13时34分]"
         },
         {
-          "title": "西班牙汽车制造商协会（ANFAC）：2025年，西班牙特斯拉(TSLA.O)新车注册量同比下降4%，电动汽车整体注册量则增长94.6%。",
-          "url": "https://flash.jin10.com/detail/20260102190757202800",
-          "source": "金十数据",
+          "title": "“停靠在八楼的2路汽车”具象化了",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%81%9C%E9%9D%A0%E5%9C%A8%E5%85%AB%E6%A5%BC%E7%9A%842%E8%B7%AF%E6%B1%BD%E8%BD%A6%E2%80%9D%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "西班牙汽车制造商协会（ANFAC）：西班牙特斯拉(TSLA.O)新车注册量在12月同比下降44.2%，至1794辆。",
-          "url": "https://flash.jin10.com/detail/20260102190626728800",
-          "source": "金十数据",
-          "ranks": [
+            27,
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
-          "title": "西班牙汽车制造商协会（ANFAC）：西班牙12月新车销量同比下滑2.2%。",
-          "url": "https://flash.jin10.com/detail/20260102190458966800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 20时57分]"
         },
         {
           "title": "西班牙汽车制造商协会（ANFAC）：西班牙2025年新车销量同比增长12.9%。",
@@ -73,9 +52,45 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
+        },
+        {
+          "title": "西班牙汽车制造商协会（ANFAC）：2025年，西班牙特斯拉(TSLA.O)新车注册量同比下降4%，电动汽车整体注册量则增长94.6%。",
+          "url": "https://flash.jin10.com/detail/20260102190757202800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时57分]"
+        },
+        {
+          "title": "西班牙汽车制造商协会（ANFAC）：西班牙特斯拉(TSLA.O)新车注册量在12月同比下降44.2%，至1794辆。",
+          "url": "https://flash.jin10.com/detail/20260102190626728800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时57分]"
+        },
+        {
+          "title": "西班牙汽车制造商协会（ANFAC）：西班牙12月新车销量同比下滑2.2%。",
+          "url": "https://flash.jin10.com/detail/20260102190458966800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时57分]"
         },
         {
           "title": "日媒：中国汽车全球销量将超日本",
@@ -122,17 +137,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时31分 ~ 15时32分]"
-        },
-        {
-          "title": "“停靠在八楼的2路汽车”具象化了",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%81%9C%E9%9D%A0%E5%9C%A8%E5%85%AB%E6%A5%BC%E7%9A%842%E8%B7%AF%E6%B1%BD%E8%BD%A6%E2%80%9D%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 19时26分]"
         },
         {
           "title": "【2026年第一个交易日，港股高开】香港恒生指数开盘涨0.34%，恒生科技指数涨0.58%。携程集团、网易涨超2%，理想汽车、京东健康等涨超1%。",
@@ -182,7 +186,7 @@
     },
     {
       "keyword_group": "农民",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "暖气用不起,河北农民硬扛过冬",
@@ -194,12 +198,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时25分 ~ 19时26分]"
+        },
+        {
+          "title": "胡锡进：支持大规模降低出口退税，省下来几千亿提升农民养老金",
+          "url": "https://news.ifeng.com/c/8pVcqaADFcp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-02）",
@@ -213,6 +228,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时08分 ~ 14时45分]"
+        },
+        {
+          "title": "印度市场监管机构主席：正在开发用于市场中介机构风险监管的人工智能工具。",
+          "url": "https://flash.jin10.com/detail/20260102193205213800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
