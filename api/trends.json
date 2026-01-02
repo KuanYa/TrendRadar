@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T22:29:33.035857+08:00",
-  "total_titles_processed": 1562,
+  "generated_at": "2026-01-02T23:31:29.989052+08:00",
+  "total_titles_processed": 1645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "“新汽车”放榜2025",
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时25分 ~ 22时29分]"
+          "appearance_count": 6,
+          "time_info": "[19时25分 ~ 23时31分]"
         },
         {
           "title": "一条视频看懂2026汽车国补",
@@ -52,18 +52,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
-          "title": "特斯拉第四季度交付量418227辆，同比下降16%，预估440907辆。 第四季度Model 3/Y 交付量406585辆，同比下降14%，预估421796辆。 第四季度汽车产量434358辆，同比下降5.5%，预估470780辆。 第四季度Model 3/Y 产量422652辆，同比下降3.2%，预估452494辆。 特斯拉全年交付量164万，同比下降8.6%，预估160万。 特斯拉美股盘前涨近2%。",
-          "url": "https://wallstreetcn.com/livenews/3029850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
@@ -125,6 +114,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时39分 ~ 22时29分]"
+        },
+        {
+          "title": "特斯拉第四季度交付量418227辆，同比下降16%，预估440907辆。 第四季度Model 3/Y 交付量406585辆，同比下降14%，预估421796辆。 第四季度汽车产量434358辆，同比下降5.5%，预估470780辆。 第四季度Model 3/Y 产量422652辆，同比下降3.2%，预估452494辆。 特斯拉全年交付量164万，同比下降8.6%，预估160万。 特斯拉美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3029850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时31分]"
         },
         {
           "title": "美国电动汽车公司Rivian(RIVN.O)第四季度生产10,974辆汽车，交付9,745辆汽车。",
@@ -203,7 +204,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
@@ -225,7 +226,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
         },
@@ -250,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
+        },
+        {
+          "title": "美股热门中概股普涨，网易(NTES.O)、哔哩哔哩(BILI.O)涨近7%，蔚来汽车(NIO.N)、阿里巴巴(BABA.N)涨超4%，台积电(TSM.N)涨超3%，理想汽车(LI.O)、拼多多(PDD.O)涨超2.5%。",
+          "url": "https://flash.jin10.com/detail/20260102223256927800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "比亚迪：12月新能源汽车销量42.04万辆",
@@ -287,8 +299,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时57分 ~ 22时29分]"
+          "appearance_count": 4,
+          "time_info": "[20时57分 ~ 23时31分]"
         }
       ]
     },
