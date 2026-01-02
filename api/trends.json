@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T07:28:33.595741+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-01-02T10:21:50.150844+08:00",
+  "total_titles_processed": 641,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "“新汽车”放榜2025",
@@ -20,6 +20,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时37分 ~ 07时28分]"
+        },
+        {
+          "title": "一条视频看懂2026汽车国补",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E6%9D%A1%E8%A7%86%E9%A2%91%E7%9C%8B%E6%87%822026%E6%B1%BD%E8%BD%A6%E5%9B%BD%E8%A1%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时21分"
+        },
+        {
+          "title": "【2026年第一个交易日，港股高开】香港恒生指数开盘涨0.34%，恒生科技指数涨0.58%。携程集团、网易涨超2%，理想汽车、京东健康等涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3029693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时21分"
         },
         {
           "title": "比亚迪：12月新能源汽车销量42.04万辆",
