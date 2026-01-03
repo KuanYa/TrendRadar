@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T21:35:29.163918+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2026-01-03T22:27:05.521963+08:00",
+  "total_titles_processed": 1497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "“停靠在八楼的2路汽车”具象化了",
@@ -91,6 +91,17 @@
           "time_info": "[17时29分 ~ 18时29分]"
         },
         {
+          "title": "雷军公开小米汽车年交付量",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%85%AC%E5%BC%80%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B9%B4%E4%BA%A4%E4%BB%98%E9%87%8F%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 22时27分]"
+        },
+        {
           "title": "雷军直播回应拆小米YU7汽车",
           "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94%E6%8B%86%E5%B0%8F%E7%B1%B3YU7%E6%B1%BD%E8%BD%A6",
           "source": "百度热搜",
@@ -164,7 +175,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
