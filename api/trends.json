@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T16:36:57.341387+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-01-03T17:29:02.360571+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "“停靠在八楼的2路汽车”具象化了",
@@ -28,11 +28,12 @@
             8,
             9,
             16,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时09分 ~ 16时36分]"
+          "appearance_count": 8,
+          "time_info": "[10时09分 ~ 17时29分]"
         },
         {
           "title": "周五（1月2日），彭博电动汽车价格回报指数涨1.09%，报3481.40点，本周累计上涨0.01%，整体呈现出平坦的V形走势。 成分股中，普拉格动力公司涨约13.9%，小马智行涨10.6%，MP材料涨9%表现第三，“特斯拉劲敌”Rivian则跌1.7%，特斯拉跌2.6%，智利化学矿业公司（SQM）跌2.6%。",
@@ -76,6 +77,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时40分 ~ 07时27分]"
+        },
+        {
+          "title": "起亚美国：2025年汽车销量达852,155辆。",
+          "url": "https://flash.jin10.com/detail/20260103172020693800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "停靠在8楼的2路汽车具象化",
