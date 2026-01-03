@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T13:31:05.769289+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-01-03T14:42:25.511157+08:00",
+  "total_titles_processed": 890,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
           "ranks": [
             1,
             4,
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 13时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 14时42分]"
         },
         {
           "title": "10大汽车集团12月及全年成绩单来了",
@@ -68,11 +69,12 @@
             5,
             7,
             8,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时09分 ~ 13时31分]"
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 14时42分]"
         },
         {
           "title": "停靠在8楼的2路汽车具象化",
