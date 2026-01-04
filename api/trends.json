@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-01-05T06:28:52.535051+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-01-05T07:27:34.885894+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "农民",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "同江作废农民《土地证》引争议",
+          "url": "https://www.baidu.com/s?wd=%E5%90%8C%E6%B1%9F%E4%BD%9C%E5%BA%9F%E5%86%9C%E6%B0%91%E3%80%8A%E5%9C%9F%E5%9C%B0%E8%AF%81%E3%80%8B%E5%BC%95%E4%BA%89%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        }
+      ]
+    },
     {
       "keyword_group": "农业",
       "match_count": 1,
@@ -12,11 +29,12 @@
           "url": "https://www.cls.cn/detail/2246888",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 07时27分]"
         }
       ]
     },
@@ -33,11 +51,12 @@
             19,
             23,
             26,
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 07时27分]"
         }
       ]
     }
