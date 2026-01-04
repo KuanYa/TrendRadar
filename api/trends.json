@@ -1,211 +1,39 @@
 {
-  "generated_at": "2026-01-04T23:27:41.452633+08:00",
-  "total_titles_processed": 1565,
+  "generated_at": "2026-01-05T00:34:35.570690+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "汽车",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "两名中国公民在日本被汽车严重撞伤",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%B1%BD%E8%BD%A6%E4%B8%A5%E9%87%8D%E6%92%9E%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时32分 ~ 16时38分]"
-        },
-        {
-          "title": "据上汽集团，2025年上汽集团销售整车450.7万辆，同比增长12.3%；新能源汽车销售164.3万辆，同比增长33.1%。",
-          "url": "https://flash.jin10.com/detail/20260104151614055800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 18时29分]"
-        },
-        {
-          "title": "国务院：引导电器电子产品、汽车、动力电池等生产企业参与回收利用",
-          "url": "https://wallstreetcn.com/livenews/3030281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 19时23分]"
-        },
-        {
-          "title": "比亚迪：2025年新能源汽车销量累计同比增长7.73%",
-          "url": "https://wallstreetcn.com/livenews/3030275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 19时23分]"
-        },
-        {
-          "title": "日本栃木县10余辆汽车相撞致1死3伤",
-          "url": "https://www.toutiao.com/trending/7591369777101471795/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 15时29分]"
-        },
-        {
-          "title": "特斯拉电动汽车年销量被比亚迪超越",
-          "url": "https://www.toutiao.com/trending/7590811655605616659/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时25分]"
-        },
-        {
-          "title": "雷军公开小米汽车年交付量",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%85%AC%E5%BC%80%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B9%B4%E4%BA%A4%E4%BB%98%E9%87%8F%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
-        },
-        {
-          "title": "小鹏汽车发布消息称，新款小鹏P7+和G7正式开启一车双能时代，1月8日将在中国正式上市，1月9日正式在欧洲上市。",
-          "url": "https://flash.jin10.com/detail/20260104090622804800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "雷军：2026年小米汽车交付目标55万辆",
-          "url": "https://wallstreetcn.com/livenews/3030084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美联储保尔森：人工智能的潜在应用可能导致强劲增长和就业创造乏力。",
-          "url": "https://flash.jin10.com/detail/20260104033259033800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时31分 ~ 07时27分]"
-        },
-        {
-          "title": "交通运输部：推动交通运输公共数据与企业数据融合应用，支撑“人工智能+交通运输”应用",
-          "url": "https://wallstreetcn.com/livenews/3030206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 14时42分]"
-        },
-        {
-          "title": "贵州：实施“人工智能+”行动，推动酱香白酒、化工、能源等行业领域大模型应用",
-          "url": "https://wallstreetcn.com/livenews/3030286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时23分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "农业",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "农业机器人迎政策暖风，多地布局差异化路径，企业探索技术、标准出海",
           "url": "https://www.cls.cn/detail/2246888",
           "source": "财联社热门",
           "ranks": [
-            11,
-            10
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时56分 ~ 23时27分]"
-        },
-        {
-          "title": "农业农村部：2025年三大粮食作物化肥利用率达43.3%",
-          "url": "https://wallstreetcn.com/livenews/3030310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时56分 ~ 21时36分]"
+          "appearance_count": 1,
+          "time_info": "00时34分"
         }
       ]
     },
     {
-      "keyword_group": "玉米",
+      "keyword_group": "汽车",
       "match_count": 1,
       "titles": [
         {
-          "title": "娜扎把玉茗茶骨叫玉米排骨",
-          "url": "https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E6%8A%8A%E7%8E%89%E8%8C%97%E8%8C%B6%E9%AA%A8%E5%8F%AB%E7%8E%89%E7%B1%B3%E6%8E%92%E9%AA%A8&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "雷军带网友参观小米汽车实验室",
+          "url": "https://www.douyin.com/hot/2357448",
+          "source": "抖音",
           "ranks": [
-            7
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时33分 ~ 13时34分]"
+          "appearance_count": 1,
+          "time_info": "00时34分"
         }
       ]
     }
