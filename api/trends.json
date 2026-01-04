@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T16:38:16.778976+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2026-01-04T17:28:05.890463+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "两名中国公民在日本被汽车严重撞伤",
@@ -21,15 +21,27 @@
           "time_info": "[10时32分 ~ 16时38分]"
         },
         {
-          "title": "据上汽集团，2025年上汽集团销售整车450.7万辆，同比增长12.3%；新能源汽车销售164.3万辆，同比增长33.1%。",
-          "url": "https://flash.jin10.com/detail/20260104151614055800",
-          "source": "金十数据",
+          "title": "国务院：引导电器电子产品、汽车、动力电池等生产企业参与回收利用",
+          "url": "https://wallstreetcn.com/livenews/3030281",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时38分"
+          "time_info": "17时28分"
+        },
+        {
+          "title": "据上汽集团，2025年上汽集团销售整车450.7万辆，同比增长12.3%；新能源汽车销售164.3万辆，同比增长33.1%。",
+          "url": "https://flash.jin10.com/detail/20260104151614055800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 17时28分]"
         },
         {
           "title": "日本栃木县10余辆汽车相撞致1死3伤",
@@ -65,6 +77,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 00时35分]"
+        },
+        {
+          "title": "比亚迪：2025年新能源汽车销量累计同比增长7.73%",
+          "url": "https://wallstreetcn.com/livenews/3030275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "小鹏汽车发布消息称，新款小鹏P7+和G7正式开启一车双能时代，1月8日将在中国正式上市，1月9日正式在欧洲上市。",
