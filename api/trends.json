@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T12:16:05.792088+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-01-04T13:34:13.382631+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%B1%BD%E8%BD%A6%E4%B8%A5%E9%87%8D%E6%92%9E%E4%BC%A4",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 12时16分]"
+          "appearance_count": 5,
+          "time_info": "[10时32分 ~ 13时34分]"
         },
         {
           "title": "特斯拉电动汽车年销量被比亚迪超越",
@@ -87,11 +88,29 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            18
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 13时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "玉米",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "娜扎把玉茗茶骨叫玉米排骨",
+          "url": "https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E6%8A%8A%E7%8E%89%E8%8C%97%E8%8C%B6%E9%AA%A8%E5%8F%AB%E7%8E%89%E7%B1%B3%E6%8E%92%E9%AA%A8&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时32分 ~ 12时16分]"
+          "time_info": "[13时33分 ~ 13时34分]"
         }
       ]
     }
