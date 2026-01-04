@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T01:25:34.258991+08:00",
-  "total_titles_processed": 340,
+  "generated_at": "2026-01-05T02:38:59.479396+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时38分]"
         }
       ]
     },
@@ -30,11 +30,12 @@
           "source": "抖音",
           "ranks": [
             20,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时25分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时38分]"
         }
       ]
     }
