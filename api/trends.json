@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T03:27:51.730361+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-01-06T04:35:03.654923+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 04时35分]"
         },
         {
           "title": "通用汽车：2025财年美国销量为285万辆，同比增长6%.",
@@ -85,6 +85,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
+          "url": "https://www.cls.cn/detail/2248455",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 04时35分]"
+        },
+        {
           "title": "桥水基金创始人达利欧表示，人工智能热潮正处于早期泡沫阶段。",
           "url": "https://flash.jin10.com/detail/20260106002257023800",
           "source": "金十数据",
@@ -94,18 +106,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
-          "url": "https://www.cls.cn/detail/2248455",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时27分]"
         },
         {
           "title": "博世计划在2027年底前在人工智能领域投资逾25亿欧元。",
