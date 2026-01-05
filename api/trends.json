@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T16:45:49.136581+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2026-01-05T17:42:16.148678+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "雷军带网友参观小米汽车实验室",
@@ -36,11 +36,12 @@
             12,
             13,
             5,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时31分 ~ 16时45分]"
+          "appearance_count": 8,
+          "time_info": "[10时31分 ~ 17时42分]"
         },
         {
           "title": "九部门：促进汽车绿色消费 支持消费者购买新能源汽车",
@@ -48,11 +49,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时41分 ~ 16时45分]"
+          "appearance_count": 5,
+          "time_info": "[13时41分 ~ 17时42分]"
         },
         {
           "title": "现代汽车：2026年全球销量目标为416万辆。",
@@ -72,9 +74,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
+        },
+        {
+          "title": "乘联分会：特斯拉(TSLA.O)2025年12月在中国市场售出97,171辆国产汽车。",
+          "url": "https://flash.jin10.com/detail/20260105164651738800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "小米汽车今年想交付55万辆车要过几关",
@@ -174,6 +187,35 @@
       ]
     },
     {
+      "keyword_group": "农民",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "同江作废农民《土地证》引争议",
+          "url": "https://www.baidu.com/s?wd=%E5%90%8C%E6%B1%9F%E4%BD%9C%E5%BA%9F%E5%86%9C%E6%B0%91%E3%80%8A%E5%9C%9F%E5%9C%B0%E8%AF%81%E3%80%8B%E5%BC%95%E4%BA%89%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时27分 ~ 10时32分]"
+        },
+        {
+          "title": "农民日报：河北农村取暖问题，不能再耽搁了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32317895",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "农业",
       "match_count": 2,
       "titles": [
@@ -194,29 +236,12 @@
           "url": "https://wallstreetcn.com/livenews/3030722",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农民",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "同江作废农民《土地证》引争议",
-          "url": "https://www.baidu.com/s?wd=%E5%90%8C%E6%B1%9F%E4%BD%9C%E5%BA%9F%E5%86%9C%E6%B0%91%E3%80%8A%E5%9C%9F%E5%9C%B0%E8%AF%81%E3%80%8B%E5%BC%95%E4%BA%89%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            22
+            3,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 10时32分]"
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 17时42分]"
         }
       ]
     }
