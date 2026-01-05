@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T00:36:48.696316+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-06T01:31:37.836471+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "桥水基金创始人达利欧表示，人工智能热潮正处于早期泡沫阶段。",
@@ -23,28 +23,63 @@
           "url": "https://www.cls.cn/detail/2248455",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
+        },
+        {
+          "title": "博世计划在2027年底前在人工智能领域投资逾25亿欧元。",
+          "url": "https://flash.jin10.com/detail/20260106010034651800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "01时31分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "通用汽车：2025财年美国销量为285万辆，同比增长6%.",
+          "url": "https://flash.jin10.com/detail/20260106011722667800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "通用汽车第四季度美国销量总计703,001辆。",
+          "url": "https://flash.jin10.com/detail/20260106011643882800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
         {
           "title": "雷军聊小米汽车试验室",
           "url": "https://www.douyin.com/hot/2358389",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
         }
       ]
     }
