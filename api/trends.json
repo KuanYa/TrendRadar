@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T04:35:03.654923+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-01-06T05:29:58.542124+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "雷军聊小米汽车试验室",
@@ -18,8 +18,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 05时29分]"
+        },
+        {
+          "title": "现代汽车2028年将在美国佐治亚州Savannah工厂部署人形机器人。",
+          "url": "https://wallstreetcn.com/livenews/3031099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "周一（1月5日），彭博电动汽车价格回报指数涨1.12%，报3523.49点，全天持续上涨。",
+          "url": "https://wallstreetcn.com/livenews/3031097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "通用汽车：2025财年美国销量为285万辆，同比增长6%.",
@@ -93,8 +115,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 04时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 05时29分]"
         },
         {
           "title": "桥水基金创始人达利欧表示，人工智能热潮正处于早期泡沫阶段。",
@@ -117,6 +139,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "玉米",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "芝加哥玉米期货、大豆期货涨约1.6%",
+          "url": "https://wallstreetcn.com/livenews/3031087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         }
       ]
     }
