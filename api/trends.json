@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T14:51:57.880362+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-01-05T15:36:19.814045+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-05）",
@@ -62,12 +62,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "四川：加快关键核心数智技术攻关，实施人工智能等重大科技专项",
+          "url": "https://wallstreetcn.com/livenews/3030631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "雷军带网友参观小米汽车实验室",
@@ -85,8 +96,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 14时51分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 15时36分]"
         },
         {
           "title": "比亚迪超越特斯拉，成为 2025 年纯电汽车全球销冠，这意味着什么？你觉得未来电动汽车市场拼的是什么？",
@@ -99,8 +110,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时31分 ~ 14时51分]"
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 15时36分]"
         },
         {
           "title": "九部门：促进汽车绿色消费 支持消费者购买新能源汽车",
@@ -110,8 +121,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 14时51分]"
+          "appearance_count": 3,
+          "time_info": "[13时41分 ~ 15时36分]"
+        },
+        {
+          "title": "现代汽车：2026年全球销量目标为416万辆。",
+          "url": "https://flash.jin10.com/detail/20260105145949583800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "小米汽车今年想交付55万辆车要过几关",
