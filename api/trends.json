@@ -1,74 +1,40 @@
 {
-  "generated_at": "2026-01-05T23:33:38.227330+08:00",
-  "total_titles_processed": 1866,
+  "generated_at": "2026-01-06T00:36:48.696316+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "汽车",
-      "match_count": 14,
+      "keyword_group": "人工智能",
+      "match_count": 2,
       "titles": [
         {
-          "title": "比亚迪超越特斯拉，成为 2025 年纯电汽车全球销冠，这意味着什么？你觉得未来电动汽车市场拼的是什么？",
-          "url": "https://www.zhihu.com/question/1990770031445942920",
-          "source": "知乎",
-          "ranks": [
-            15,
-            12,
-            13,
-            5,
-            8,
-            10,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时31分 ~ 21时03分]"
-        },
-        {
-          "title": "雷军带网友参观小米汽车实验室",
-          "url": "https://www.douyin.com/hot/2357448",
-          "source": "抖音",
-          "ranks": [
-            20,
-            19,
-            23,
-            26,
-            24,
-            18,
-            25,
-            27,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 16时45分]"
-        },
-        {
-          "title": "马杜罗及其妻子乘坐的汽车抵达纽约法院。",
-          "url": "https://flash.jin10.com/detail/20260105203934818800",
+          "title": "桥水基金创始人达利欧表示，人工智能热潮正处于早期泡沫阶段。",
+          "url": "https://flash.jin10.com/detail/20260106002257023800",
           "source": "金十数据",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时03分"
+          "time_info": "00时36分"
         },
         {
-          "title": "九部门：促进汽车绿色消费 支持消费者购买新能源汽车",
-          "url": "https://www.cls.cn/detail/2247462",
+          "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
+          "url": "https://www.cls.cn/detail/2248455",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10,
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时41分 ~ 17时42分]"
-        },
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
         {
           "title": "雷军聊小米汽车试验室",
           "url": "https://www.douyin.com/hot/2358389",
@@ -77,274 +43,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时34分 ~ 23时33分]"
-        },
-        {
-          "title": "吉利汽车在港交所公告显示，1月5日以每股17.520港元至17.900港元的价格回购342.00万股，回购金额达6031.47万港元。",
-          "url": "https://wallstreetcn.com/livenews/3030825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "现代汽车：2026年全球销量目标为416万辆。",
-          "url": "https://flash.jin10.com/detail/20260105145949583800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "马杜罗乘坐的汽车停在一架直升机旁。",
-          "url": "https://flash.jin10.com/detail/20260105202130762800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "港股收盘：恒生指数收涨0.03%，恒生科技指数收涨0.09%。快手涨超11%，蔚来跌近6%，小鹏汽车跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3030702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "马杜罗戴着手铐走出联邦调查局的车辆，被转移到汽车上。",
-          "url": "https://flash.jin10.com/detail/20260105201749638800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "乘联分会：特斯拉(TSLA.O)2025年12月在中国市场售出97,171辆国产汽车。",
-          "url": "https://flash.jin10.com/detail/20260105164651738800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "小米汽车今年想交付55万辆车要过几关",
-          "url": "https://www.toutiao.com/trending/7591475606379351593/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "赛力斯：12月新能源汽车销量60,981辆，同比增长63.40%；其中赛力斯汽车销量53,733辆，同比增长77.99%。",
-          "url": "https://wallstreetcn.com/livenews/3030773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "金十图示：2026年01月05日（周一）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260105110523508800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-01-05）",
-          "url": "https://flash.jin10.com/detail/20260105115209696800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "人工智能投资助推亚洲新兴股市创2021年初以来新高",
-          "url": "https://flash.jin10.com/detail/20260105133147761800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "人工智能AI大模型公司MiniMax据悉计划将IPO价格定在指导价区间高端，并提前结束认购。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3030486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "韩国总统李在明：韩国与中国需要在人工智能领域扩大经济合作。呼吁在美容产品、食品以及电影和音乐领域与中国开展合作。（韩联社）",
-          "url": "https://wallstreetcn.com/livenews/3030564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时41分]"
-        },
-        {
-          "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
-          "url": "https://www.cls.cn/detail/2248455",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时34分 ~ 23时33分]"
-        },
-        {
-          "title": "北京发布人工智能创新高地建设行动计划",
-          "url": "https://wallstreetcn.com/livenews/3030930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "受人工智能相关上涨和日元疲软影响，日经225指数上涨3%。",
-          "url": "https://wallstreetcn.com/livenews/3030574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "四川：加快关键核心数智技术攻关，实施人工智能等重大科技专项",
-          "url": "https://wallstreetcn.com/livenews/3030631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "高通(QCOM.O)宣布扩大与谷歌(GOOG.O)长达十年的合作，聚焦汽车创新与人工智能驱动的移动出行技术。",
-          "url": "https://flash.jin10.com/detail/20260105220255157800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农民",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "农民日报：河北农村取暖问题，不能再耽搁了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32317895",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 19时28分]"
-        },
-        {
-          "title": "同江作废农民《土地证》引争议",
-          "url": "https://www.baidu.com/s?wd=%E5%90%8C%E6%B1%9F%E4%BD%9C%E5%BA%9F%E5%86%9C%E6%B0%91%E3%80%8A%E5%9C%9F%E5%9C%B0%E8%AF%81%E3%80%8B%E5%BC%95%E4%BA%89%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 10时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "农业机器人迎政策暖风，多地布局差异化路径，企业探索技术、标准出海",
-          "url": "https://www.cls.cn/detail/2246888",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 07时27分]"
-        },
-        {
-          "title": "中国农业银行与国家粮食和物资储备局签署战略合作协议",
-          "url": "https://wallstreetcn.com/livenews/3030722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 17时42分]"
+          "time_info": "00时36分"
         }
       ]
     }
