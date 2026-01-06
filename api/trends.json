@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T13:34:04.473022+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-01-06T14:48:14.363221+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时21分 ~ 13时34分]"
+          "appearance_count": 7,
+          "time_info": "[10时21分 ~ 14时48分]"
         },
         {
           "title": "黄仁勋：未来十年很多汽车是自动驾驶",
@@ -41,8 +41,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时21分 ~ 13时34分]"
+          "appearance_count": 7,
+          "time_info": "[10时21分 ~ 14时48分]"
         },
         {
           "title": "英伟达发布首个专为自动驾驶汽车设计的“推理”AI",
@@ -155,7 +155,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
         },
