@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T01:31:29.065594+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2026-01-07T02:43:03.028721+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中国人工智能技术正这样走向世界",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时43分]"
         },
         {
           "title": "百事公司宣布与西门子和英伟达开展业界首个人工智能和数字孪生合作。",
@@ -43,6 +43,17 @@
           "time_info": "[00时40分 ~ 01时31分]"
         },
         {
+          "title": "西门子与英伟达扩大合作伙伴关系，将打造工业AI OS（人工智能操作系统）。 英伟达将提供AI基础设施，西门子将提供AI专家、硬件、软件。",
+          "url": "https://wallstreetcn.com/livenews/3031819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
           "title": "AMD(AMD.O)CEO苏姿丰：我们正处于解锁人工智能的早期阶段。",
           "url": "https://flash.jin10.com/detail/20260107001056257800",
           "source": "金十数据",
@@ -52,6 +63,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农民",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "法国总统马克龙：我欢迎欧盟委员会今天宣布的关于欧盟下一个多年期预算中农业方面的消息，该预算将在已为农民争取到的近2940亿欧元收入支持基础上，再增加450亿欧元。",
+          "url": "https://flash.jin10.com/detail/20260107022805115800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "法国总统马克龙：欧洲的农业和粮食主权是我的首要任务。共同农业政策是其基础。",
+          "url": "https://flash.jin10.com/detail/20260107022741159800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
         }
       ]
     },
@@ -68,8 +113,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时43分]"
         }
       ]
     }
