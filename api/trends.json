@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T02:43:03.028721+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-01-07T03:24:30.007622+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 03时24分]"
         },
         {
           "title": "百事公司宣布与西门子和英伟达开展业界首个人工智能和数字孪生合作。",
@@ -49,7 +49,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
         },
@@ -77,7 +77,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
         }
@@ -94,7 +94,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
         }
@@ -113,8 +113,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 02时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 03时24分]"
         }
       ]
     }
