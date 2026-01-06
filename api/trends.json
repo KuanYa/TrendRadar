@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T21:02:01.142603+08:00",
-  "total_titles_processed": 1805,
+  "generated_at": "2026-01-06T21:47:59.497016+08:00",
+  "total_titles_processed": 1881,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时21分 ~ 21时02分]"
+          "appearance_count": 16,
+          "time_info": "[10时21分 ~ 21时47分]"
         },
         {
           "title": "黄仁勋：未来十年很多汽车是自动驾驶",
@@ -49,17 +49,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[10时21分 ~ 19时27分]"
-        },
-        {
-          "title": "中国汽车流通协会：预计1月汽车市场将呈现“开门红”的局面",
-          "url": "https://wallstreetcn.com/livenews/3031685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
         },
         {
           "title": "英伟达发布首个专为自动驾驶汽车设计的“推理”AI",
@@ -84,6 +73,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时29分]"
+        },
+        {
+          "title": "中国汽车流通协会：预计1月汽车市场将呈现“开门红”的局面",
+          "url": "https://wallstreetcn.com/livenews/3031685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时47分]"
         },
         {
           "title": "周一（1月5日），彭博电动汽车价格回报指数涨1.12%，报3523.49点，全天持续上涨。",
@@ -122,6 +123,18 @@
           "time_info": "[01时31分 ~ 02时44分]"
         },
         {
+          "title": "理想汽车调整产品线",
+          "url": "https://wallstreetcn.com/livenews/3031677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时47分]"
+        },
+        {
           "title": "全域AI能给汽车带来什么",
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9F%9FAI%E8%83%BD%E7%BB%99%E6%B1%BD%E8%BD%A6%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -142,17 +155,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
-        },
-        {
-          "title": "理想汽车调整产品线",
-          "url": "https://wallstreetcn.com/livenews/3031677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
         },
         {
           "title": "英伟达CEO黄仁勋：模型“Alpamayo”是全球首款具备思考、推理和自主驾驶能力的智能汽车AI系统。该系统采用端到端训练模式，从摄像头输入到执行器输出实现全流程训练。",
