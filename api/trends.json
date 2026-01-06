@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T19:27:09.498826+08:00",
-  "total_titles_processed": 1697,
+  "generated_at": "2026-01-06T21:02:01.142603+08:00",
+  "total_titles_processed": 1805,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "雷军聊小米汽车试验室",
@@ -29,11 +29,12 @@
             8,
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时21分 ~ 19时27分]"
+          "appearance_count": 15,
+          "time_info": "[10时21分 ~ 21时02分]"
         },
         {
           "title": "黄仁勋：未来十年很多汽车是自动驾驶",
@@ -48,6 +49,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[10时21分 ~ 19时27分]"
+        },
+        {
+          "title": "中国汽车流通协会：预计1月汽车市场将呈现“开门红”的局面",
+          "url": "https://wallstreetcn.com/livenews/3031685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "英伟达发布首个专为自动驾驶汽车设计的“推理”AI",
@@ -130,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
+        },
+        {
+          "title": "理想汽车调整产品线",
+          "url": "https://wallstreetcn.com/livenews/3031677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "英伟达CEO黄仁勋：模型“Alpamayo”是全球首款具备思考、推理和自主驾驶能力的智能汽车AI系统。该系统采用端到端训练模式，从摄像头输入到执行器输出实现全流程训练。",
