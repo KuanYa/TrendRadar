@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T12:07:05.804494+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-01-07T13:34:05.238124+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "中国人工智能技术正这样走向世界",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时31分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-07）",
+          "url": "https://flash.jin10.com/detail/20260107120242585800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         },
         {
           "title": "西门子与英伟达扩大合作伙伴关系，将打造工业AI OS（人工智能操作系统）。 英伟达将提供AI基础设施，西门子将提供AI专家、硬件、软件。",
@@ -147,7 +158,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         }
@@ -162,11 +173,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%B9%B3%E5%8F%B0%E4%B8%8D%E5%BE%97%E5%A4%A7%E6%95%B0%E6%8D%AE%E2%80%9C%E6%9D%80%E7%86%9F%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 13时34分]"
         },
         {
           "title": "平台不得大数据“杀熟” 《网络交易平台规则监督管理办法》发布",
@@ -175,7 +187,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         }
