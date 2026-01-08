@@ -1,375 +1,39 @@
 {
-  "generated_at": "2026-01-08T23:35:44.085196+08:00",
-  "total_titles_processed": 2084,
+  "generated_at": "2026-01-09T00:41:08.642832+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 12,
+      "match_count": 1,
       "titles": [
         {
-          "title": "八部门联合发文，事关“人工智能+制造”",
-          "url": "https://www.cls.cn/detail/2250761",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 07时29分]"
-        },
-        {
-          "title": "法国云计算公司OVH CEO：正探索在6至7个欧洲国家建立多国人工智能基础设施合作伙伴关系。欧盟人工智能倡议过于关注资本支出和资产，而对收入关注不足——谁来买单？",
-          "url": "https://flash.jin10.com/detail/20260108173116243800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "法国云计算公司OVH CEO：对欧盟人工智能超级工厂倡议按国别推进、而非在整个欧洲统筹协调感到惊讶。",
-          "url": "https://flash.jin10.com/detail/20260108173042417800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "法国云计算公司OVH CEO：公司一直在与欧盟委员会就人工智能超级工厂计划进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260108173017419800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "瑞士央行会议纪要：委员会及候补成员讨论了在美国人工智能领域活跃的公司的最新发展。与专家讨论了这些公司的高估值问题。",
-          "url": "https://flash.jin10.com/detail/20260108163224898800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
-          "url": "https://flash.jin10.com/detail/20260108033431215800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "日本央行：一些地区表示，出口和产出受到美国关税的影响，但其他地区则表示，主要由人工智能相关商品推动的强劲全球需求在支撑订单。",
-          "url": "https://flash.jin10.com/detail/20260108130500883800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "公司高管称，Arm(ARM.O)重组公司并成立物理人工智能部门，以扩大机器人芯片技术布局。",
-          "url": "https://flash.jin10.com/detail/20260108033311290800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "花旗：Vera Rubin将为英伟达带来5万亿美元人工智能机遇。",
-          "url": "https://wallstreetcn.com/livenews/3032692",
+          "title": "英国首相斯塔默发誓，要对马斯克旗下社交媒体平台X（原名推特）采取“紧急”行动。 斯塔默希望，马斯克能就自家人工智能（AI）工具Grok生成的、涉及儿童的性化图像（含有性暗示的图像）“改正自身表现”。 “这简直是耻辱，太恶心了，绝对不能就这么算了！”",
+          "url": "https://wallstreetcn.com/livenews/3033439",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "润建股份：与京东科技签订战略合作框架协议，双方就人工智能（AI）应用、云计算、智能算力等领域的合作，双方共同投入核心资源，在南宁五象云谷智算中心合作部署京东云专属高性能智算节点，计划联合打造广西云服务节点。",
-          "url": "https://wallstreetcn.com/livenews/3033147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "人工智能“上海高地”加速崛起：专业人才近30万 139款大模型完成备案",
-          "url": "https://wallstreetcn.com/livenews/3033305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
-          "title": "合肥“十五五”规划建议：聚力打造全国领先的人工智能创新高地",
-          "url": "https://wallstreetcn.com/livenews/3032819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时21分"
+          "time_info": "00时41分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 12,
+      "match_count": 1,
       "titles": [
         {
-          "title": "德国大众汽车与高通进入长期合作关系。",
+          "title": "高通将从2027年起为德国大众汽车提供车载娱乐芯片",
           "url": "https://wallstreetcn.com/livenews/3033420",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "法拉第未来（FF）：目标在2026年生产和销售约250辆汽车。",
-          "url": "https://flash.jin10.com/detail/20260108114920450800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "美国财长贝森特：正推进美国汽车贷款利息减免政策。 2025-28年购车，贷款利息将每年减少1万美元。",
-          "url": "https://wallstreetcn.com/livenews/3032674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "现代Mobis与高通签署谅解备忘录，合作开发汽车解决方案。",
-          "url": "https://flash.jin10.com/detail/20260108020222862800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "广州：以汽车企业应用为牵引 推动自主可控汽车芯片的规模化应用",
-          "url": "https://wallstreetcn.com/livenews/3033160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "周三（1月7日），彭博电动汽车价格回报指数跌0.07%，报3603.72点。 北京时间13:49跌至3588.10点刷新日低，脱离11:25刷新的日高3615.17点，全天呈现出U形走势。",
-          "url": "https://wallstreetcn.com/livenews/3032695",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "崔东树：汽车行业内卷降价现象明显减弱，行业运行压力改善",
-          "url": "https://wallstreetcn.com/livenews/3033101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "金十图示：2026年01月08日（周四）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260108110632702800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "美国财长贝森特：对于在2025至2028年期间购买的新款美国本土组装车辆，符合条件的纳税人每年可抵扣最高1万美元的汽车贷款利息。",
-          "url": "https://flash.jin10.com/detail/20260108041952628800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "吉利汽车获L3级自动驾驶道路测试牌照",
-          "url": "https://wallstreetcn.com/livenews/3032882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "据Globe报道：加拿大要求韩国与德国在汽车（投资）问题上作出承诺。",
-          "url": "https://wallstreetcn.com/livenews/3032711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "小鹏开年发布四款新车，今年将规模量产人形机器人和飞行汽车",
-          "url": "https://wallstreetcn.com/livenews/3033081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "农业农村部：2025年我国农业发展全面绿色转型迈入关键阶段",
-          "url": "https://wallstreetcn.com/livenews/3033239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "美国农业部周报喜忧参半 玉米净出口腰斩创年内新低",
-          "url": "https://flash.jin10.com/detail/20260108225806639800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "农业农村部与中华全国供销合作总社举行工作会谈",
-          "url": "https://wallstreetcn.com/livenews/3033299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农民",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "实地走访河北农民如何取暖",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E5%9C%B0%E8%B5%B0%E8%AE%BF%E6%B2%B3%E5%8C%97%E5%86%9C%E6%B0%91%E5%A6%82%E4%BD%95%E5%8F%96%E6%9A%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 07时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大豆",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "芝加哥大豆期货涨超0.9%，豆粕涨超1.9%，小麦涨约1.6%",
-          "url": "https://wallstreetcn.com/livenews/3032679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
             27
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 05时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大数据",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "平台不得大数据“杀熟”，《网络交易平台规则监督管理办法》发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32332596",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 10时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时41分"
         }
       ]
     }
