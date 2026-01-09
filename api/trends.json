@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T00:39:07.738468+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-10T01:31:38.375029+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1992542028232410497",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 00时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 01时31分]"
         },
         {
           "title": "小米汽车深夜怒怼“绿化带战神”",
@@ -43,8 +44,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 00时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 01时31分]"
         }
       ]
     }
