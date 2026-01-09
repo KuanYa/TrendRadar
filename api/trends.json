@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T03:27:05.645636+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-01-10T04:34:32.270458+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
@@ -38,7 +38,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
         }
@@ -58,8 +58,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 03时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 04时34分]"
         },
         {
           "title": "美联储巴尔金：在医疗保健或人工智能领域之外，很难找到正在招聘的公司。",
