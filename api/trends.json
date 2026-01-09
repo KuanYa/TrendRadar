@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T17:36:50.159002+08:00",
-  "total_titles_processed": 1551,
+  "generated_at": "2026-01-09T18:33:26.507264+08:00",
+  "total_titles_processed": 1658,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 17时36分]"
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 18时33分]"
         },
         {
           "title": "周四（1月8日），彭博电动汽车价格回报指数跌0.94%，报3571.19点。 亚太早盘，指数持续下挫，北京时间10:00以来持续低位震荡，美股开盘刷新日低至3560.03点。 MobilEye Global跌8.5%，Ola Electric Mobility Ltd.跌4.37%，意法半导体跌2.79%，Sona Blw Precision Forgings Ltd.跌2.31%，MP材料、美国雅宝ALB、“特斯拉劲敌”Rivian至少跌超1%，宝马跌0.49%，特斯拉则涨1%，Lucid集团涨2.3%，Solid Power跌4.86%，沃尔沃汽车集团涨5.44%，微宏控股涨11.90%。",
@@ -109,7 +109,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -256,11 +256,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时33分 ~ 17时36分]"
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 18时33分]"
         },
         {
           "title": "美国财长贝森特：我们正推动银行对农民贷款采取宽限措施，以便他们今年能够播种。",
