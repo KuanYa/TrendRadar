@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T12:01:52.190728+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2026-01-10T12:44:39.706537+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
@@ -27,9 +27,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时44分]"
         },
         {
           "title": "内部备忘录显示：美国司法部成立人工智能（AI）执法工作组，希望借机对抗州一级的监管。（CBS）",
@@ -120,11 +120,12 @@
           "url": "https://flash.jin10.com/detail/20260110103119158800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时44分]"
         },
         {
           "title": "美国农业部长（USDA）部长Rollins：特朗普政府暂停向明尼苏达州发放联邦资金，立即生效。 这包括当前激活的资金和未来可能会审批的资金。",
