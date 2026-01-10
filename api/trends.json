@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T14:41:15.596262+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2026-01-10T15:27:16.416302+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 14时41分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 15时27分]"
         },
         {
           "title": "周五（1月9日），彭博电动汽车价格回报指数涨0.22%，报3580.74点，本周累计上涨2.76%，1月5-6日显著上涨，后续高位震荡。",
@@ -82,8 +83,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 14时41分]"
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 15时27分]"
         },
         {
           "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
@@ -135,11 +136,12 @@
             4,
             8,
             12,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 14时41分]"
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 15时27分]"
         },
         {
           "title": "美国农业部长（USDA）部长Rollins：特朗普政府暂停向明尼苏达州发放联邦资金，立即生效。 这包括当前激活的资金和未来可能会审批的资金。",
