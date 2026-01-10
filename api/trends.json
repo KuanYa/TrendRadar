@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-01-11T02:39:39.133169+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-01-11T03:23:07.892685+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "农民",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "多地农民养老金缴费上限迎新一轮上涨",
+          "url": "https://www.toutiao.com/trending/7593675814063836710/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 03时23分]"
+        }
+      ]
+    },
     {
       "keyword_group": "农业",
       "match_count": 1,
@@ -15,8 +32,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时23分]"
         }
       ]
     },
@@ -32,8 +49,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 03时23分]"
         }
       ]
     }
