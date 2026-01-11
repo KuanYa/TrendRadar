@@ -1,8 +1,39 @@
 {
-  "generated_at": "2026-01-11T10:33:04.740465+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-01-11T12:15:10.718997+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "农民",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "多地农民养老金缴费上限迎新一轮上涨",
+          "url": "https://www.toutiao.com/trending/7593675814063836710/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时22分 ~ 06时28分]"
+        },
+        {
+          "title": "多地农民养老金缴费上限再上涨",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E7%BC%B4%E8%B4%B9%E4%B8%8A%E9%99%90%E5%86%8D%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        }
+      ]
+    },
     {
       "keyword_group": "农业",
       "match_count": 2,
@@ -23,11 +54,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91%E9%83%A8%E5%8E%9F%E9%83%A8%E9%95%BF%E9%9D%A2%E5%AF%B9%E9%95%9C%E5%A4%B4%E8%90%BD%E6%B3%AA%E5%BF%8F%E6%82%94",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 12时15分]"
         }
       ]
     },
@@ -40,11 +72,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%8D%97%E5%A4%A7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AD%A6%E7%A7%91%E6%8E%92%E5%90%8D%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 12时15分]"
         },
         {
           "title": "Grok人工智能色情图片争议升级，马斯克诟骂英国政府“法西斯”",
@@ -57,26 +90,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 10时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农民",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "多地农民养老金缴费上限迎新一轮上涨",
-          "url": "https://www.toutiao.com/trending/7593675814063836710/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            30,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时22分 ~ 06时28分]"
         }
       ]
     },
