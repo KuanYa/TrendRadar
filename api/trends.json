@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T15:28:23.977726+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-01-11T16:37:04.839861+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时14分 ~ 15时28分]"
+          "appearance_count": 8,
+          "time_info": "[12时14分 ~ 16时37分]"
         },
         {
           "title": "多地农民养老金缴费上限迎新一轮上涨",
@@ -40,7 +40,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         }
@@ -61,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时32分 ~ 15时28分]"
+          "appearance_count": 10,
+          "time_info": "[10时32分 ~ 16时37分]"
         },
         {
           "title": "Grok人工智能色情图片争议升级，马斯克诟骂英国政府“法西斯”",
