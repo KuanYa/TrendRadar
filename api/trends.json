@@ -1,265 +1,56 @@
 {
-  "generated_at": "2026-01-12T23:35:21.177207+08:00",
-  "total_titles_processed": 1799,
+  "generated_at": "2026-01-13T00:38:10.581395+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "农民",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "媒体：提高农民养老金不能只靠涨缴费",
+          "url": "https://www.toutiao.com/trending/7593970503103774774/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 00时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌：苹果与谷歌已达成多年期合作协议；下一代苹果基础模型将基于谷歌的Gemini模型。苹果认定，谷歌的人工智能技术为苹果的基础模型提供了最强大的基础。苹果智能将继续在苹果设备和私有云计算上运行。",
+          "url": "https://flash.jin10.com/detail/20260113001151493800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
         {
           "title": "中欧电动汽车案磋商进展",
           "url": "https://www.douyin.com/hot/2365467",
           "source": "抖音",
           "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时41分 ~ 23时35分]"
-        },
-        {
-          "title": "商务部关于中欧电动汽车案磋商进展的通报",
-          "url": "https://www.cls.cn/detail/2254919",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时28分 ~ 22时34分]"
-        },
-        {
-          "title": "中欧电动汽车案磋商“软着陆”",
-          "url": "https://wallstreetcn.com/livenews/3035170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时41分 ~ 18时35分]"
-        },
-        {
-          "title": "何小鹏：小鹏汽车海外和国内销量比例未来有望达到1:1",
-          "url": "https://wallstreetcn.com/livenews/3034960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 13时37分]"
-        },
-        {
-          "title": "兆易创新与奇瑞汽车达成战略合作 布局“芯车协同”新范式",
-          "url": "https://wallstreetcn.com/livenews/3035205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "小鹏汽车据悉聘请银行筹备其飞行汽车业务在港股上市。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3035028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "商务部通报中欧电动汽车案磋商进展：有必要向中国出口商提供关于价格承诺的通用指导",
-          "url": "https://wallstreetcn.com/livenews/3035149",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "小鹏汽车与工商银行广东省分行达成战略合作，获100亿元授信额度",
-          "url": "https://wallstreetcn.com/livenews/3035019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时50分"
-        },
-        {
-          "title": "金十图示：2026年01月12日（周一）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260112110730862800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "大众汽车集团中国市场2025年交付量同比减少8%",
-          "url": "https://flash.jin10.com/detail/20260112211657853800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "Alphabet旗下谷歌公司盘中市值首次突破4万亿美元，日内当前涨幅1.7%。 报道称，苹果选择谷歌的Gemini来驱动今年推出的人工智能Siri。",
-          "url": "https://wallstreetcn.com/livenews/3035442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "【苹果选择谷歌Gemini驱动将于今年面世的AI版Siri】苹果公司正与谷歌联手，为其计划于今年晚些时候推出的Siri等产品提供人工智能功能支持。一份声明显示，这项为期数年的合作伙伴关系将依托谷歌的 Gemini 模型和云技术，来构建苹果未来的基础模型。苹果在声明中写道：“经过仔细评估，我们认定谷歌的技术为‘苹果基础模型（Apple Foundation Models）’提供了最强大的基础。我们非常期待这一合作为用户开启的创新体验。”（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3035441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "谷歌C(GOOG.O)短线上扬，现涨0.5%，苹果(AAPL.O)选择谷歌(GOOG.O)的Gemini来驱动今年推出的人工智能Siri。",
-          "url": "https://flash.jin10.com/detail/20260112232350979800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "苹果(AAPL.O)选择谷歌(GOOG.O)的Gemini来驱动今年推出的人工智能Siri。",
-          "url": "https://flash.jin10.com/detail/20260112232041088800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "工信部部长李乐成：深入实施“人工智能+制造”专项行动 培育一批重点行业智能体、智能原生企业",
-          "url": "https://wallstreetcn.com/livenews/3034941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "法国兴业银行逐步淘汰自有人工智能工具，转而使用微软的Copilot。",
-          "url": "https://flash.jin10.com/detail/20260112230611686800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-01-12）",
-          "url": "https://flash.jin10.com/detail/20260112115512556800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "英伟达(NVDA.O)将在未来五年内与礼来(LLY.N)共同投资10亿美元建立人工智能药物实验室。",
-          "url": "https://flash.jin10.com/detail/20260112230042713800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "农业农村部原部长唐仁健贪腐轨迹",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91%E9%83%A8%E5%8E%9F%E9%83%A8%E9%95%BF%E5%94%90%E4%BB%81%E5%81%A5%E8%B4%AA%E8%85%90%E8%BD%A8%E8%BF%B9%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "农业农村部：提高大豆油料产能和自给率，更大力度推进粮油作物大面积单产提升",
-          "url": "https://wallstreetcn.com/livenews/3034911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农民",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国农民种地科技感拉满",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%B0%91%E7%A7%8D%E5%9C%B0%E7%A7%91%E6%8A%80%E6%84%9F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时39分 ~ 13时37分]"
+          "time_info": "[00时37分 ~ 00时38分]"
         }
       ]
     }
