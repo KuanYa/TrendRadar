@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-01-12T12:16:34.253817+08:00",
-  "total_titles_processed": 782,
+  "generated_at": "2026-01-12T13:37:48.538941+08:00",
+  "total_titles_processed": 890,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "工信部部长李乐成：深入实施“人工智能+制造”专项行动 培育一批重点行业智能体、智能原生企业",
+          "url": "https://wallstreetcn.com/livenews/3034941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-12）",
+          "url": "https://flash.jin10.com/detail/20260112115512556800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        }
+      ]
+    },
     {
       "keyword_group": "汽车",
       "match_count": 2,
@@ -12,11 +40,12 @@
           "url": "https://wallstreetcn.com/livenews/3034960",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 13时37分]"
         },
         {
           "title": "金十图示：2026年01月12日（周一）全球汽车制造商市值变化",
@@ -25,7 +54,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         }
@@ -43,8 +72,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时39分 ~ 12时16分]"
+          "appearance_count": 10,
+          "time_info": "[02时39分 ~ 13时37分]"
         }
       ]
     },
@@ -59,24 +88,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "工信部部长李乐成：深入实施“人工智能+制造”专项行动 培育一批重点行业智能体、智能原生企业",
-          "url": "https://wallstreetcn.com/livenews/3034941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         }
