@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T02:41:49.553779+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2026-01-14T03:27:54.564984+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时41分]"
-        },
-        {
-          "title": "美国总统特朗普：通用汽车和Stellantis公司发展势头良好。",
-          "url": "https://flash.jin10.com/detail/20260114020620908800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 03时27分]"
         },
         {
           "title": "小鹏汽车无明显短板，为何陷入销量困境？",
@@ -36,11 +26,24 @@
           "source": "知乎",
           "ranks": [
             17,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 03时27分]"
+        },
+        {
+          "title": "美国总统特朗普：通用汽车和Stellantis公司发展势头良好。",
+          "url": "https://flash.jin10.com/detail/20260114020620908800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 03时27分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：预计福特汽车今天将宣布一些消息。 预计福特将宣布关于扩大就业和燃油卡车的信息。",
@@ -64,6 +67,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大豆",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "巴西谷物出口商协会（ANEC）：巴西1月份大豆粕出口量预计将达到182万吨，而上周的预估为164万吨。",
+          "url": "https://flash.jin10.com/detail/20260114024902016800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "巴西谷物出口商协会（ANEC）：预计巴西1月份大豆出口量将达到373万吨，而上周的预测值为240万吨。",
+          "url": "https://flash.jin10.com/detail/20260114024853422800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "玉米",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "巴西谷物出口商协会（ANEC）：巴西1月玉米出口量预计将达到327万公吨，高于上周预估的285万公吨。",
+          "url": "https://flash.jin10.com/detail/20260114024908827800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时27分"
         }
       ]
     },
