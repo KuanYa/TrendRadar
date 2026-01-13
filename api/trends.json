@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T12:07:03.608062+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2026-01-13T13:34:37.561799+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
@@ -76,11 +76,24 @@
           "ranks": [
             8,
             18,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 12时07分]"
+          "appearance_count": 16,
+          "time_info": "[00时37分 ~ 13时34分]"
+        },
+        {
+          "title": "涉中国电动汽车关税，欧盟出台新方案",
+          "url": "https://news.ifeng.com/c/8ps7ee57XE0",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 13时34分]"
         },
         {
           "title": "周一（1月12日），彭博电动汽车价格回报指数涨0.73%，报3606.27点，亚太早盘出现一波显著的跳水行情，随后不断上扬。",
@@ -95,38 +108,28 @@
           "time_info": "[05时30分 ~ 06时28分]"
         },
         {
-          "title": "涉中国电动汽车关税，欧盟出台新方案",
-          "url": "https://news.ifeng.com/c/8ps7ee57XE0",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 12时07分]"
-        },
-        {
           "title": "新能源汽车的电池寿命有多久？",
           "url": "https://www.zhihu.com/question/1887877649495479265",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 13时34分]"
         },
         {
           "title": "现代汽车系市值本月激增240亿美元 机器人叙事催化扩张行情",
           "url": "https://flash.jin10.com/detail/20260113114920665800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时34分]"
         }
       ]
     },
@@ -191,22 +194,24 @@
           "url": "https://www.zhihu.com/question/1991915523580135211",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 13时34分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-13）",
           "url": "https://flash.jin10.com/detail/20260113115702895800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时34分]"
         },
         {
           "title": "谷歌：苹果与谷歌已达成多年期合作协议；下一代苹果基础模型将基于谷歌的Gemini模型。苹果认定，谷歌的人工智能技术为苹果的基础模型提供了最强大的基础。苹果智能将继续在苹果设备和私有云计算上运行。",
