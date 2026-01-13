@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T22:34:51.971896+08:00",
-  "total_titles_processed": 1909,
+  "generated_at": "2026-01-13T23:35:23.123926+08:00",
+  "total_titles_processed": 2024,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时32分 ~ 22时34分]"
+          "appearance_count": 11,
+          "time_info": "[15时32分 ~ 23时35分]"
         },
         {
           "title": "中欧电动汽车案磋商进展",
@@ -40,6 +40,19 @@
           "time_info": "[00时37分 ~ 14时47分]"
         },
         {
+          "title": "小鹏汽车无明显短板，为何陷入销量困境？",
+          "url": "https://www.zhihu.com/question/667028399",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时36分 ~ 23时35分]"
+        },
+        {
           "title": "涉中国电动汽车关税，欧盟出台新方案",
           "url": "https://news.ifeng.com/c/8ps7ee57XE0",
           "source": "凤凰网",
@@ -50,18 +63,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时14分 ~ 15时33分]"
-        },
-        {
-          "title": "小鹏汽车无明显短板，为何陷入销量困境？",
-          "url": "https://www.zhihu.com/question/667028399",
-          "source": "知乎",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时36分 ~ 22时34分]"
         },
         {
           "title": "新能源汽车的电池寿命有多久？",
@@ -197,7 +198,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -364,7 +365,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         }
