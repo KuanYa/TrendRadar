@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T10:26:42.328411+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-01-14T12:14:12.310381+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "理想汽车单季净亏 6.2 亿，交付仅目标 63%，李想急调管理模式，透露出哪些信息？",
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时42分 ~ 07时27分]"
+        },
+        {
+          "title": "工信部：加快突破全固态电池、高级别自动驾驶等技术 进一步扩大汽车消费",
+          "url": "https://www.cls.cn/detail/2257032",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 12时14分]"
         },
         {
           "title": "小鹏汽车无明显短板，为何陷入销量困境？",
@@ -78,7 +89,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         },
@@ -92,6 +103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "金十图示：2026年01月14日（周三）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260114110535713800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "美国总统特朗普：我听说氢燃料汽车的测试结果不太理想。",
@@ -111,7 +133,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
         }
@@ -119,7 +141,7 @@
     },
     {
       "keyword_group": "大豆",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "芝加哥大豆期货跌超0.9%，豆粕跌超2.1%，大豆油则涨1.8%",
@@ -154,12 +176,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "海关：中国12月大豆进口804.4万吨；年累计大豆进口11,183.3万吨，同比增6.5%。 12月食用植物油进口66.7万吨；年累计食用植物油进口693.6万吨，同比降3.2%。",
+          "url": "https://wallstreetcn.com/livenews/3036603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "赛默飞CEO：公司将积极部署先进的人工智能能力，以进一步降低成本。",
@@ -184,6 +217,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时31分]"
+        },
+        {
+          "title": "海关总署：我国人工智能算力需求旺盛，去年电脑零部件进口增长20%",
+          "url": "https://wallstreetcn.com/livenews/3036640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         },
         {
           "title": "市场消息：人工智能芯片初创公司Etched融资5亿美元。在由Stripes领投的一轮融资中，Etched的估值达到50亿美元。",
