@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T06:31:54.073302+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-01-15T07:26:03.948066+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "新能源汽车产销量双超1600万辆",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时26分]"
         },
         {
           "title": "德勤报告称超 6 成国人的下一辆车预算在 30 万以上，普通人应该怎样看待汽车消费？",
@@ -31,8 +31,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时26分]"
         },
         {
           "title": "公开与特朗普对骂遭停职，福特工人获得汽车工会力挺",
@@ -58,6 +58,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时31分]"
+        },
+        {
+          "title": "通用汽车(GM.N)：未来两年将在墨西哥的本地制造领域投资10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260115065951454800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         }
       ]
     },
