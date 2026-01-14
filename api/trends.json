@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T19:29:45.067665+08:00",
-  "total_titles_processed": 1746,
+  "generated_at": "2026-01-14T21:04:17.690050+08:00",
+  "total_titles_processed": 1875,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时41分 ~ 19时29分]"
+          "appearance_count": 5,
+          "time_info": "[16时41分 ~ 21时04分]"
         },
         {
           "title": "德勤报告称超 6 成国人的下一辆车预算在 30 万以上，普通人应该怎样看待汽车消费？",
@@ -57,8 +57,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时47分 ~ 19时29分]"
+          "appearance_count": 8,
+          "time_info": "[14时47分 ~ 21时04分]"
         },
         {
           "title": "中汽协：预计2026年新能源汽车销量有望达1900万辆，同比增长15.2%",
@@ -304,7 +304,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         }
