@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T01:32:33.518645+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-01-17T02:45:15.052228+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时45分]"
         },
         {
           "title": "涉中国电动汽车，卡尼宣布大消息",
@@ -27,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时45分]"
         },
         {
           "title": "怎么看待「万能的大熊」、「汽车之家」等汽车自媒体被处置？",
@@ -38,8 +38,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时45分]"
         },
         {
           "title": "涉及中国电动汽车 卡尼宣布大消息",
@@ -60,7 +60,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         }
