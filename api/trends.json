@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T18:29:26.504749+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-01-17T19:24:22.311665+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -72,11 +72,12 @@
             5,
             9,
             12,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时41分 ~ 18时29分]"
+          "appearance_count": 6,
+          "time_info": "[14时41分 ~ 19时24分]"
         },
         {
           "title": "乘联分会崔东树：2025年汽车企业整车出口超强",
