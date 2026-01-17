@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-18T01:25:31.432917+08:00",
-  "total_titles_processed": 337,
+  "generated_at": "2026-01-18T02:39:04.327729+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
+          "url": "https://www.zhihu.com/question/659369541",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 02时39分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/KuanYa/TrendRadar/img/news.jpg"
 }
