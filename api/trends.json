@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T16:35:56.115224+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2026-01-17T17:29:13.797462+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
@@ -70,11 +70,25 @@
           "ranks": [
             3,
             5,
-            9
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 17时29分]"
+        },
+        {
+          "title": "乘联分会崔东树：2025年汽车企业整车出口超强",
+          "url": "https://flash.jin10.com/detail/20260117142340959800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时41分 ~ 16时35分]"
+          "time_info": "[15时27分 ~ 17时29分]"
         },
         {
           "title": "长城汽车总裁称“打死不做增程”",
@@ -88,18 +102,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时32分 ~ 07时28分]"
-        },
-        {
-          "title": "乘联分会崔东树：2025年汽车企业整车出口超强",
-          "url": "https://flash.jin10.com/detail/20260117142340959800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 16时35分]"
         },
         {
           "title": "20位汽车央企负责人2024年度薪酬披露，中国一汽董事长邱现东以107万元居首",
