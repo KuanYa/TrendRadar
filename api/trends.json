@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T17:31:03.046690+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2026-01-18T18:31:16.018930+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%99%BE%E5%A4%A7%E8%A7%86%E8%A7%92%E7%9C%8B%E6%B1%BD%E8%BD%A6%E5%8C%BA%E5%8F%91%E5%B1%95",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 18时31分]"
         },
         {
           "title": "德国汽车游说组织VDA主席表示，美国总统特朗普威胁加征的关税成本将是巨大的。",
