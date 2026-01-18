@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T05:26:17.892659+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-01-19T06:28:34.072427+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时26分]"
+          "appearance_count": 3,
+          "time_info": "[04时32分 ~ 06时28分]"
         },
         {
           "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
@@ -44,8 +45,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 05时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时28分]"
         },
         {
           "title": "电动汽车电池寿命可达13年",
@@ -58,8 +59,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时38分 ~ 05时26分]"
+          "appearance_count": 5,
+          "time_info": "[02时38分 ~ 06时28分]"
         }
       ]
     }
