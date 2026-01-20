@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T15:37:40.686766+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-01-20T16:44:13.065485+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         },
@@ -79,7 +79,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "货车碰撞多辆汽车 中山警方通报",
@@ -115,6 +115,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "雷诺股价在汽车销售数据公布后上涨1.5%。",
+          "url": "https://flash.jin10.com/detail/20260120160400215800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "金十图示：2026年01月20日（周二）全球汽车制造商市值变化",
           "url": "https://flash.jin10.com/detail/20260120110922604800",
           "source": "金十数据",
@@ -124,6 +135,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大数据",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十整理：特朗普就职一周年“Truth操盘”大数据——6200条贴文里的疯狂细节",
+          "url": "https://flash.jin10.com/detail/20260120160748287800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     }
