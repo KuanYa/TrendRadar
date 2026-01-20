@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T12:12:11.233864+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2026-01-20T13:37:54.872096+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "贝莱德CEO拉里·芬克警告说：人工智能（AI）可能会像全球化一样加剧不平等。 呼吁达沃斯更多地倾听普通民众的声音，而不仅仅是精英阶层的声音。",
@@ -27,7 +27,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "阿布扎比人工智能公司G42：推出“数字使馆”框架以及Greenshield，一个新的主权运营模式。",
+          "url": "https://flash.jin10.com/detail/20260120125924326800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         }
       ]
     },
@@ -88,7 +99,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
