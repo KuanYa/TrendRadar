@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T22:40:55.201756+08:00",
-  "total_titles_processed": 1893,
+  "generated_at": "2026-01-20T23:40:14.496682+08:00",
+  "total_titles_processed": 2000,
   "failed_sources": [],
   "trends": [
     {
@@ -126,7 +126,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         }
@@ -142,11 +142,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            15
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时08分 ~ 22时40分]"
+          "appearance_count": 4,
+          "time_info": "[21时08分 ~ 23时40分]"
         },
         {
           "title": "货车碰撞多辆汽车 中山警方通报",
@@ -227,7 +228,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         }
