@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T16:44:13.065485+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2026-01-20T17:41:40.248453+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国银行全球基金经理调查：地缘政治冲突自2024年10月以来首次成为最大的尾部风险，人工智能泡沫位居第二。",
@@ -74,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        },
+        {
+          "title": "日本财务大臣：计划投入超过3300亿美元用于人工智能和芯片领域",
+          "url": "https://wallstreetcn.com/livenews/3040320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         }
       ]
     },
@@ -121,7 +132,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -149,7 +160,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         }
