@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T22:40:38.071019+08:00",
-  "total_titles_processed": 1986,
+  "generated_at": "2026-01-21T23:41:35.600100+08:00",
+  "total_titles_processed": 2090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "【数读2025上海经济年报】GDP增长5.4%，集成电路、人工智能产业表现亮眼",
@@ -32,6 +32,17 @@
           "time_info": "12时11分"
         },
         {
+          "title": "白宫“人工智能沙皇”萨克斯：特朗普希望为人工智能监管建立单一的联邦框架。",
+          "url": "https://flash.jin10.com/detail/20260121233743660800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "英伟达向人工智能推理初创公司Baseten投资1.5亿美元",
           "url": "https://flash.jin10.com/detail/20260121022907796800",
           "source": "金十数据",
@@ -52,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "白宫“人工智能沙皇”萨克斯：人工智能创新面临的最大威胁之一是“多得离谱”的监管。",
+          "url": "https://flash.jin10.com/detail/20260121233648149800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "Meta首席技术官：超智能实验室已于1月在内部交付了首批关键人工智能模型，新AI模型表现“非常出色”。",
@@ -381,9 +403,39 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "玉米",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "偷玉米引发的血案受害人女儿求重判",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%81%B7%E7%8E%89%E7%B1%B3%E5%BC%95%E5%8F%91%E7%9A%84%E8%A1%80%E6%A1%88%E5%8F%97%E5%AE%B3%E4%BA%BA%E5%A5%B3%E5%84%BF%E6%B1%82%E9%87%8D%E5%88%A4%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 06时31分]"
+        },
+        {
+          "title": "沥青夜盘收涨2.44%，合成橡胶、燃油、苯乙烯、棕榈油、丙烯、聚丙烯、低硫燃油至多涨1.66%，LPG、塑料、乙二醇、纯苯、菜粕、豆二、豆油、甲醇、豆粕至多涨0.98%，螺纹钢、橡胶、20号胶、热卷玉米、豆一至多涨0.35%，焦煤涨0.13%。 短纤、粳米夜盘收平，玉米淀粉、铁矿石夜盘则至多收跌0.06%，PTA、棉花、焦炭至多跌0.18%，棉纱、玻璃、纸浆、白糖、对二甲苯、烧碱至多跌0.97%。",
+          "url": "https://wallstreetcn.com/livenews/3041378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         }
       ]
     },
@@ -401,25 +453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "玉米",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "偷玉米引发的血案受害人女儿求重判",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%81%B7%E7%8E%89%E7%B1%B3%E5%BC%95%E5%8F%91%E7%9A%84%E8%A1%80%E6%A1%88%E5%8F%97%E5%AE%B3%E4%BA%BA%E5%A5%B3%E5%84%BF%E6%B1%82%E9%87%8D%E5%88%A4%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            27,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 06时31分]"
         }
       ]
     },
