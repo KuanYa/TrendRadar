@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T03:32:11.055733+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-01-23T04:38:34.105025+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "农业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "2025农业农村经济运行成绩单来了",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 04时38分]"
         },
         {
           "title": "2025农业农村经济运行成绩单",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 04时38分]"
         },
         {
           "title": "农业农村部：加强农村宅基地规范管理",
@@ -39,14 +39,25 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时38分 ~ 03时32分]"
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 04时38分]"
+        },
+        {
+          "title": "2025年我国农业现代化水平持续提升",
+          "url": "https://s.weibo.com/weibo?q=%232025%E5%B9%B4%E6%88%91%E5%9B%BD%E5%86%9C%E4%B8%9A%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%B0%B4%E5%B9%B3%E6%8C%81%E7%BB%AD%E6%8F%90%E5%8D%87%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌、微软回应美国参议院成员们关于（涉及人工智能/数据中心）电力需求的质询。",
@@ -54,11 +65,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时46分 ~ 03时32分]"
+          "appearance_count": 3,
+          "time_info": "[02时46分 ~ 04时38分]"
+        },
+        {
+          "title": "美国雷多斯与OpenAI合作，在人工智能领域开展部署，以支持国家优先事项。",
+          "url": "https://flash.jin10.com/detail/20260123040242165800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
         },
         {
           "title": "马斯克声称人工智能到2030-2031年将超越人类",
@@ -67,7 +90,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
         }
@@ -86,8 +109,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 04时38分]"
         }
       ]
     },
@@ -100,11 +123,12 @@
           "url": "https://flash.jin10.com/detail/20260123025541582800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时32分 ~ 04时38分]"
         }
       ]
     }
