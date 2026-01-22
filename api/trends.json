@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T17:43:19.066561+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-01-22T18:38:12.815672+08:00",
+  "total_titles_processed": 1569,
   "failed_sources": [],
   "trends": [
     {
@@ -222,7 +222,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时43分"
         },
@@ -252,7 +252,7 @@
     },
     {
       "keyword_group": "农业",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "我国农业现代化水平持续提升",
@@ -262,8 +262,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时44分 ~ 18时38分]"
+        },
+        {
+          "title": "农业农村部：加强农村宅基地规范管理",
+          "url": "https://www.toutiao.com/trending/7597050307743088683/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时44分 ~ 17时43分]"
+          "time_info": "[18时37分 ~ 18时38分]"
         },
         {
           "title": "农业农村部发展规划司：2026年将持续落实肉牛奶牛产业各项纾困政策",
