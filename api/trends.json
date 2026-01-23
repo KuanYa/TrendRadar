@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T07:31:12.405168+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2026-01-23T10:23:51.354899+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 10时23分]"
         },
         {
           "title": "2025农业农村经济运行成绩单",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 10时23分]"
         },
         {
           "title": "农业农村部：加强农村宅基地规范管理",
@@ -52,8 +52,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时38分 ~ 07时31分]"
+          "appearance_count": 6,
+          "time_info": "[04时38分 ~ 10时23分]"
         }
       ]
     },
@@ -104,7 +104,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         }
@@ -161,11 +161,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 10时23分]"
         }
       ]
     }
