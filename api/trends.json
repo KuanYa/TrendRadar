@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T22:37:05.701565+08:00",
-  "total_titles_processed": 2051,
+  "generated_at": "2026-01-23T23:35:28.157527+08:00",
+  "total_titles_processed": 2155,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             4,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时29分 ~ 22时37分]"
+          "appearance_count": 6,
+          "time_info": "[19时29分 ~ 23时35分]"
         },
         {
           "title": "理想汽车：将关闭一些低能效门店！分析：部分门店因选址不当、市场饱和或竞争激烈等原因，运营效率低下",
@@ -280,8 +281,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时35分 ~ 22时37分]"
+          "appearance_count": 3,
+          "time_info": "[22时35分 ~ 23时35分]"
         },
         {
           "title": "农业农村部召开种业振兴行动部门工作协调机制会议",
@@ -340,8 +341,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时35分 ~ 22时37分]"
+          "appearance_count": 3,
+          "time_info": "[22时35分 ~ 23时35分]"
         },
         {
           "title": "四川凉山：设立不低于40亿元的商业航天产业专项基金，支持火箭、卫星研制及应用、航天大数据等相关企业落地",
