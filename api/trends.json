@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T06:28:40.229500+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-01-25T07:27:57.493370+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 07时27分]"
         },
         {
           "title": "中国和东盟专家探讨人工智能发展与治理",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 07时27分]"
         }
       ]
     },
@@ -49,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时27分]"
         }
       ]
     },
