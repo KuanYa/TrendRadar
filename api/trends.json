@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T16:37:09.945236+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2026-01-24T17:29:29.738380+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时30分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[13时30分 ~ 17时29分]"
         },
         {
           "title": "经济学家建议将农民养老金涨到千元",
@@ -99,8 +99,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时27分 ~ 16时37分]"
+          "appearance_count": 4,
+          "time_info": "[15时27分 ~ 17时29分]"
         },
         {
           "title": "周五（1月23日），彭博电动汽车价格回报指数涨0.86%，报3716.46点，本周累计上涨3.07%，整体持续走高。",
@@ -121,26 +121,28 @@
       "titles": [
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
+          "url": "https://www.cls.cn/detail/2268603",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 17时29分]"
+        },
+        {
+          "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
           "url": "https://wallstreetcn.com/livenews/3043236",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 16时37分]"
-        },
-        {
-          "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
-          "url": "https://www.cls.cn/detail/2268603",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 16时37分]"
+          "appearance_count": 3,
+          "time_info": "[15时27分 ~ 17时29分]"
         },
         {
           "title": "Meta宣布暂停青少年使用人工智能角色功能",
@@ -157,7 +159,7 @@
     },
     {
       "keyword_group": "大数据",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "一图解读2025年国民经济大数据",
@@ -176,17 +178,29 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 16时37分]"
+          "appearance_count": 3,
+          "time_info": "[15时27分 ~ 17时29分]"
+        },
+        {
+          "title": "北京：支持多源卫星大数据平台建设",
+          "url": "https://www.toutiao.com/trending/7598816014817968137/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         }
       ]
     },
     {
       "keyword_group": "农业",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "农业机械化夯实中国饭碗底气",
@@ -198,6 +212,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时41分 ~ 10时13分]"
+        },
+        {
+          "title": "“十四五”收官之年农业发展成效",
+          "url": "https://www.toutiao.com/trending/7598841226946874926/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         }
       ]
     }
