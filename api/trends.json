@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T15:29:16.011156+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-01-25T16:37:26.966952+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
             1,
             9,
             12,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时35分 ~ 15时29分]"
+          "appearance_count": 6,
+          "time_info": "[10时35分 ~ 16时37分]"
         },
         {
           "title": "北京市将全面实施“人工智能+”行动，建设国家人工智能应用中试基地",
@@ -55,11 +56,12 @@
             2,
             10,
             13,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时35分 ~ 15时29分]"
+          "appearance_count": 6,
+          "time_info": "[10时35分 ~ 16时37分]"
         }
       ]
     },
@@ -77,8 +79,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 15时29分]"
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 16时37分]"
+        },
+        {
+          "title": "雷军：小米汽车熔岩橙配色敢买的太少",
+          "url": "https://www.toutiao.com/trending/7599142490826096646/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时43分 ~ 16时37分]"
         },
         {
           "title": "比亚迪计划2026年在中国以外地区销售130万辆汽车。",
@@ -91,17 +104,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 06时28分]"
-        },
-        {
-          "title": "雷军：小米汽车熔岩橙配色敢买的太少",
-          "url": "https://www.toutiao.com/trending/7599142490826096646/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时43分 ~ 15时29分]"
         },
         {
           "title": "雷军称小米汽车熔岩橙配色敢买的人太少",
