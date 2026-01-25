@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T22:28:28.208617+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-01-25T23:29:26.852213+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "ranks": [
             1,
             4,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时59分 ~ 22时28分]"
+          "appearance_count": 4,
+          "time_info": "[20时59分 ~ 23时29分]"
         },
         {
           "title": "比亚迪计划2026年在中国以外地区销售130万辆汽车。",
@@ -65,11 +66,12 @@
           "ranks": [
             3,
             7,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时59分 ~ 22时28分]"
+          "appearance_count": 4,
+          "time_info": "[20时59分 ~ 23时29分]"
         },
         {
           "title": "雷军称小米汽车熔岩橙配色敢买的人太少",
@@ -86,7 +88,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
@@ -149,6 +151,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时35分 ~ 19时25分]"
+        },
+        {
+          "title": "语法正确，疑似AI：人工智能如何重塑我们的写作与信任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31819507",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         }
       ]
     },
