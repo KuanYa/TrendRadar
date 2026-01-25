@@ -1,8 +1,84 @@
 {
-  "generated_at": "2026-01-25T19:25:16.945909+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-01-25T20:59:28.079545+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "雷军：小米汽车熔岩橙配色敢买的太少",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%86%94%E5%B2%A9%E6%A9%99%E9%85%8D%E8%89%B2%E6%95%A2%E4%B9%B0%E7%9A%84%E5%A4%AA%E5%B0%91",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时19分 ~ 17时31分]"
+        },
+        {
+          "title": "雷军：小米汽车熔岩橙配色敢买的太少",
+          "url": "https://www.toutiao.com/trending/7599142490826096646/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时43分 ~ 18时31分]"
+        },
+        {
+          "title": "比亚迪计划2026年在中国以外地区销售130万辆汽车。",
+          "url": "https://wallstreetcn.com/livenews/3043291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 06时28分]"
+        },
+        {
+          "title": "印度与欧盟达成协议 将汽车进口关税从最高110%下调至40%",
+          "url": "https://wallstreetcn.com/livenews/3043389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "110%降至10%：印度对欧开放汽车市场 设五年缓冲期保护本土电车",
+          "url": "https://flash.jin10.com/detail/20260125203014022800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "雷军称小米汽车熔岩橙配色敢买的人太少",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%86%94%E5%B2%A9%E6%A9%99%E9%85%8D%E8%89%B2%E6%95%A2%E4%B9%B0%E7%9A%84%E4%BA%BA%E5%A4%AA%E5%B0%91%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 13时35分]"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能",
       "match_count": 4,
@@ -68,60 +144,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时35分 ~ 19时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "雷军：小米汽车熔岩橙配色敢买的太少",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%86%94%E5%B2%A9%E6%A9%99%E9%85%8D%E8%89%B2%E6%95%A2%E4%B9%B0%E7%9A%84%E5%A4%AA%E5%B0%91",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 17时31分]"
-        },
-        {
-          "title": "雷军：小米汽车熔岩橙配色敢买的太少",
-          "url": "https://www.toutiao.com/trending/7599142490826096646/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时43分 ~ 18时31分]"
-        },
-        {
-          "title": "比亚迪计划2026年在中国以外地区销售130万辆汽车。",
-          "url": "https://wallstreetcn.com/livenews/3043291",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 06时28分]"
-        },
-        {
-          "title": "雷军称小米汽车熔岩橙配色敢买的人太少",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%86%94%E5%B2%A9%E6%A9%99%E9%85%8D%E8%89%B2%E6%95%A2%E4%B9%B0%E7%9A%84%E4%BA%BA%E5%A4%AA%E5%B0%91%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 13时35分]"
         }
       ]
     },
