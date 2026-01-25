@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T17:31:41.840864+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-01-25T18:31:36.907330+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
             12,
             13,
             17,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时35分 ~ 17时31分]"
+          "appearance_count": 8,
+          "time_info": "[10时35分 ~ 18时31分]"
         },
         {
           "title": "北京市将全面实施“人工智能+”行动，建设国家人工智能应用中试基地",
@@ -59,11 +60,12 @@
             13,
             14,
             18,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时35分 ~ 17时31分]"
+          "appearance_count": 8,
+          "time_info": "[10时35分 ~ 18时31分]"
         }
       ]
     },
@@ -89,11 +91,12 @@
           "url": "https://www.toutiao.com/trending/7599142490826096646/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时43分 ~ 17时31分]"
+          "appearance_count": 5,
+          "time_info": "[14时43分 ~ 18时31分]"
         },
         {
           "title": "比亚迪计划2026年在中国以外地区销售130万辆汽车。",
