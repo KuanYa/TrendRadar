@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T16:37:26.966952+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2026-01-25T17:31:41.840864+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
             9,
             12,
             13,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时35分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[10时35分 ~ 17时31分]"
         },
         {
           "title": "北京市将全面实施“人工智能+”行动，建设国家人工智能应用中试基地",
@@ -57,11 +58,12 @@
             10,
             13,
             14,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时35分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[10时35分 ~ 17时31分]"
         }
       ]
     },
@@ -79,8 +81,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时19分 ~ 16时37分]"
+          "appearance_count": 6,
+          "time_info": "[12时19分 ~ 17时31分]"
         },
         {
           "title": "雷军：小米汽车熔岩橙配色敢买的太少",
@@ -90,8 +92,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时43分 ~ 16时37分]"
+          "appearance_count": 4,
+          "time_info": "[14时43分 ~ 17时31分]"
         },
         {
           "title": "比亚迪计划2026年在中国以外地区销售130万辆汽车。",
