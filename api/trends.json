@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T15:36:20.465745+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-01-26T16:45:26.569521+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "印度与欧盟达成协议 将汽车进口关税从最高110%下调至40%",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时36分 ~ 06时29分]"
+        },
+        {
+          "title": "全国汽车驾驶人5.25亿人",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%B1%BD%E8%BD%A6%E9%A9%BE%E9%A9%B6%E4%BA%BA5.25%E4%BA%BF%E4%BA%BA%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "110%降至10%：印度对欧开放汽车市场 设五年缓冲期保护本土电车",
@@ -44,6 +55,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时33分 ~ 07时28分]"
+        },
+        {
+          "title": "越南电动汽车制造商VinFast在2025年于越南交付了406,453辆电动踏板车，同比增长473%。",
+          "url": "https://flash.jin10.com/detail/20260126155813944800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "国家税务总局：2025年新能源汽车消费热度持续上升",
@@ -235,11 +257,12 @@
             10,
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 15时36分]"
+          "appearance_count": 6,
+          "time_info": "[10时33分 ~ 16时45分]"
         },
         {
           "title": "农业银行：存金通黄金积存业务增加风险承受能力测评要求",
