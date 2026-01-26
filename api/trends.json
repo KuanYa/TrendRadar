@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T14:51:32.669620+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-01-26T15:36:20.465745+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
@@ -184,7 +184,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -234,11 +234,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时33分 ~ 14时51分]"
+          "appearance_count": 5,
+          "time_info": "[10时33分 ~ 15时36分]"
         },
         {
           "title": "农业银行：存金通黄金积存业务增加风险承受能力测评要求",
@@ -247,7 +248,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
