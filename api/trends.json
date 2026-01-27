@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T00:40:41.586892+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-28T01:36:48.685856+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E7%AC%AC%E4%B8%80%E7%9B%AE%E7%9A%84%E5%9B%BD%E6%98%93%E4%B8%BB",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时36分]"
         },
         {
           "title": "福特汽车将推出新的电池储能业务。",
@@ -51,11 +52,12 @@
           "url": "https://wallstreetcn.com/livenews/3044878",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时36分]"
         }
       ]
     }
