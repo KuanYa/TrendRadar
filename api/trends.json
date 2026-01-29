@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T06:37:30.190123+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2026-01-30T07:35:18.600319+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时35分]"
         },
         {
           "title": "汽车节目主持人哈蒙德入驻B站",
@@ -31,8 +31,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时35分]"
         },
         {
           "title": "周四（1月29日））美股尾盘，彭博电动汽车价格回报指数跌1.76%，报3646.11点。 该指数全天处于下跌状态，过半时间交投于3680点附近，北京时间22:00过后一度加速下跌。",
@@ -125,7 +125,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
