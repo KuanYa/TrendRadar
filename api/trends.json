@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T03:38:35.227960+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-01-30T04:40:48.504041+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时40分]"
         },
         {
           "title": "汽车节目主持人哈蒙德入驻B站",
@@ -26,11 +26,12 @@
             14,
             20,
             10,
-            23
+            23,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 03时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 04时40分]"
         },
         {
           "title": "美国总统特朗普：福特和通用汽车的表现比以往任何时候都好。",
@@ -66,11 +67,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 03时38分]"
+          "appearance_count": 3,
+          "time_info": "[03时00分 ~ 04时40分]"
         }
       ]
     },
