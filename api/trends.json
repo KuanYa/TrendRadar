@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T22:48:19.893560+08:00",
-  "total_titles_processed": 2062,
+  "generated_at": "2026-01-29T23:45:17.781367+08:00",
+  "total_titles_processed": 2161,
   "failed_sources": [],
   "trends": [
     {
@@ -103,7 +103,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -191,7 +191,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -243,11 +243,12 @@
             10,
             9,
             6,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时52分 ~ 22时48分]"
+          "appearance_count": 13,
+          "time_info": "[13时52分 ~ 23时45分]"
         },
         {
           "title": "中国新能源汽车持续领跑全球",
@@ -257,8 +258,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时15分 ~ 22时48分]"
+          "appearance_count": 5,
+          "time_info": "[21时15分 ~ 23时45分]"
         },
         {
           "title": "福田汽车：预计2025年净利润约为13.3亿元，同比增加1,551%左右",
