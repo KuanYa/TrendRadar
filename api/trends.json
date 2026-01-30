@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T13:55:23.100675+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2026-01-30T15:02:08.429408+08:00",
+  "total_titles_processed": 1235,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
           "url": "https://www.zhihu.com/question/1999568077138973825",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 13时55分]"
+          "appearance_count": 5,
+          "time_info": "[12时47分 ~ 15时02分]"
         },
         {
           "title": "周四（1月29日））美股尾盘，彭博电动汽车价格回报指数跌1.76%，报3646.11点。 该指数全天处于下跌状态，过半时间交投于3680点附近，北京时间22:00过后一度加速下跌。",
@@ -107,17 +108,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "消息人士称，美国国防部与Anthropic公司在人工智能模型军事用途的安全保障方面存在分歧。",
-          "url": "https://flash.jin10.com/detail/20260130051543942800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
           "title": "报道：字节跳动、阿里巴巴将于春节前后推出新的人工智能模型",
           "url": "https://wallstreetcn.com/articles/3764501",
           "source": "华尔街见闻",
@@ -127,8 +117,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时43分 ~ 13时55分]"
+          "appearance_count": 6,
+          "time_info": "[10时43分 ~ 15时02分]"
+        },
+        {
+          "title": "消息人士称，美国国防部与Anthropic公司在人工智能模型军事用途的安全保障方面存在分歧。",
+          "url": "https://flash.jin10.com/detail/20260130051543942800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "苹果公司按接近20亿美元的估值收购Q.AI。 这家以色列人工智能（AI）公司的产品用于解析面部动作。（英国金融时报）",
