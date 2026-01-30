@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T22:43:00.330947+08:00",
-  "total_titles_processed": 1949,
+  "generated_at": "2026-01-30T23:44:30.221179+08:00",
+  "total_titles_processed": 2043,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时47分 ~ 22时43分]"
+          "appearance_count": 14,
+          "time_info": "[12时47分 ~ 23时44分]"
         },
         {
           "title": "汽车节目主持人哈蒙德入驻B站",
@@ -219,7 +219,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
