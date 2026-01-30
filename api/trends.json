@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T17:51:16.808848+08:00",
-  "total_titles_processed": 1486,
+  "generated_at": "2026-01-30T18:45:35.783772+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,20 @@
           "time_info": "[00时54分 ~ 10时43分]"
         },
         {
+          "title": "理想汽车关闭 100 家门店，这一「断腕」举措对公司未来发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1999568077138973825",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时47分 ~ 18时45分]"
+        },
+        {
           "title": "汽车节目主持人哈蒙德入驻B站",
           "url": "https://search.bilibili.com/all?keyword=%E6%B1%BD%E8%BD%A6%E8%8A%82%E7%9B%AE%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%93%88%E8%92%99%E5%BE%B7%E5%85%A5%E9%A9%BBB%E7%AB%99",
           "source": "bilibili 热搜",
@@ -33,19 +47,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时54分 ~ 07时35分]"
-        },
-        {
-          "title": "理想汽车关闭 100 家门店，这一「断腕」举措对公司未来发展意味着什么？",
-          "url": "https://www.zhihu.com/question/1999568077138973825",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时47分 ~ 17时51分]"
         },
         {
           "title": "长城汽车业绩快报：2025年归母净利润99.12亿元，同比下降21.71%。",
@@ -140,8 +141,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时43分 ~ 17时51分]"
+          "appearance_count": 10,
+          "time_info": "[10时43分 ~ 18时45分]"
         },
         {
           "title": "消息人士称，美国国防部与Anthropic公司在人工智能模型军事用途的安全保障方面存在分歧。",
