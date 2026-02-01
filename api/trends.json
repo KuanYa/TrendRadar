@@ -1,283 +1,99 @@
 {
-  "generated_at": "2026-02-01T23:34:26.762020+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-02-02T00:40:49.203733+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 17,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "问界汽车：1月交付40016辆，同比增长83%。",
-          "url": "https://wallstreetcn.com/livenews/3047761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            16,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时25分 ~ 18时36分]"
-        },
         {
           "title": "比亚迪 1 月新能源汽车销量 21 万辆，同比下降 30.11%，原因可能是什么？未来发展趋势如何？",
           "url": "https://www.zhihu.com/question/2001369753546139136",
           "source": "知乎",
           "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时35分 ~ 23时34分]"
-        },
-        {
-          "title": "小鹏汽车：2026年1月共交付新车20011台。",
-          "url": "https://wallstreetcn.com/livenews/3047804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            10,
-            15,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时40分 ~ 23时34分]"
-        },
-        {
-          "title": "赛力斯：1月新能源汽车销量43,034辆，同比增长140.33%；其中赛力斯汽车销量40,012辆，同比增长143.50%。",
-          "url": "https://wallstreetcn.com/livenews/3047795",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            14,
-            19,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时40分 ~ 23时34分]"
-        },
-        {
-          "title": "自动驾驶汽车公司Waymo寻求按大约1100亿美元估值融资大约160亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3047716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "吉利汽车2026年1月销量27万辆，同比增长1%",
-          "url": "https://wallstreetcn.com/livenews/3047813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时29分 ~ 23时34分]"
-        },
-        {
-          "title": "比亚迪：2026年1月新能源汽车销量同比下降30.11%",
-          "url": "https://wallstreetcn.com/livenews/3047810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时29分 ~ 23时34分]"
-        },
-        {
-          "title": "比亚迪1月新能源汽车销量210051辆",
-          "url": "https://www.toutiao.com/trending/7601040531561660454/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时07分 ~ 22时35分]"
-        },
-        {
-          "title": "理想汽车：2026年1月交付27,668辆汽车。",
-          "url": "https://wallstreetcn.com/livenews/3047745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时20分 ~ 16时42分]"
-        },
-        {
-          "title": "金十整理：造车新势力成绩单出炉——小米新年首月交付近4万台汽车，比亚迪产销均有所下滑",
-          "url": "https://flash.jin10.com/detail/20260201204302915800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时08分 ~ 23时34分]"
-        },
-        {
-          "title": "印度股市扩大跌幅，印度NIFTY50指数跌超2%，国防指数跌超8%，公有银行指数跌6%，金融服务指数、汽车指数跌2.5%，油气指数下跌2.1%。",
-          "url": "https://flash.jin10.com/detail/20260201150604487800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时46分 ~ 17时40分]"
-        },
-        {
-          "title": "零跑汽车1月全系交付达32059台，同比增长27%。",
-          "url": "https://wallstreetcn.com/livenews/3047743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 15时46分]"
-        },
-        {
-          "title": "长城汽车：1月新能源车销售18,029台。",
-          "url": "https://wallstreetcn.com/livenews/3047772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时42分 ~ 19时29分]"
-        },
-        {
-          "title": "小米汽车：2026年1月，小米汽车交付量超过39000台。",
-          "url": "https://wallstreetcn.com/livenews/3047736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 15时46分]"
+          "time_info": "00时40分"
         },
         {
           "title": "福特否认与小米成立合资企业在美国生产电动汽车，类似合作有多大可能出现？受哪些因素影响？",
           "url": "https://www.zhihu.com/question/2001227035343863932",
           "source": "知乎",
           "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时35分 ~ 23时34分]"
-        },
-        {
-          "title": "吉利汽车1月汽车总销量为27.02万部",
-          "url": "https://www.toutiao.com/trending/7601013324876677166/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时07分 ~ 21时08分]"
-        },
-        {
-          "title": "法国汽车平台 （PFA）：法国1月新车注册量同比下降6.55%，至107,157辆。其中法国地区特斯拉注册量下降42.07%。",
-          "url": "https://flash.jin10.com/detail/20260201084732084800",
-          "source": "金十数据",
-          "ranks": [
-            24
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
+          "time_info": "00时40分"
+        },
         {
-          "title": "雄安发布“极数”数据大模型，加速构建“人工智能+”创新生态",
-          "url": "https://wallstreetcn.com/livenews/3047685",
+          "title": "吉利汽车2026年1月销量27万辆，同比增长1%",
+          "url": "https://wallstreetcn.com/livenews/3047813",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "比亚迪：2026年1月新能源汽车销量同比下降30.11%",
+          "url": "https://wallstreetcn.com/livenews/3047810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "金十整理：造车新势力成绩单出炉——小米新年首月交付近4万台汽车，比亚迪产销均有所下滑",
+          "url": "https://flash.jin10.com/detail/20260201204302915800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "小鹏汽车：2026年1月共交付新车20011台。",
+          "url": "https://wallstreetcn.com/livenews/3047804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "赛力斯：1月新能源汽车销量43,034辆，同比增长140.33%；其中赛力斯汽车销量40,012辆，同比增长143.50%。",
+          "url": "https://wallstreetcn.com/livenews/3047795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "比亚迪电动汽车已获准在加拿大销售",
+          "url": "https://www.toutiao.com/trending/7601006942567940105/",
+          "source": "今日头条",
+          "ranks": [
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 04时35分]"
-        },
-        {
-          "title": "印度预算案：将采取措施支持人工智能技术。",
-          "url": "https://flash.jin10.com/detail/20260201140035972800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时01分 ~ 16时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "玉米",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小猫喝玉米水",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%AB%E5%96%9D%E7%8E%89%E7%B1%B3%E6%B0%B4&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 17时40分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         }
       ]
     }
