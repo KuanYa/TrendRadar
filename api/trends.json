@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T19:41:05.158037+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-02-02T21:18:58.817008+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "比亚迪 1 月新能源汽车销量 21 万辆，同比下降 30.11%，原因可能是什么？未来发展趋势如何？",
@@ -104,7 +104,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -115,7 +115,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -148,7 +148,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -173,6 +173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        },
+        {
+          "title": "事关汽车门把手 强制性国家标准发布",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E6%B1%BD%E8%BD%A6%E9%97%A8%E6%8A%8A%E6%89%8B+%E5%BC%BA%E5%88%B6%E6%80%A7%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         }
       ]
     },
@@ -272,7 +283,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         }
