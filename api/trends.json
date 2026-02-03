@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T16:52:16.892245+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2026-02-03T17:55:07.585492+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 16时52分]"
+          "appearance_count": 8,
+          "time_info": "[10时49分 ~ 17时55分]"
         },
         {
           "title": "雷军回应小米汽车交付量下滑",
@@ -98,7 +98,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -120,7 +120,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         }
