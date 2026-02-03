@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T13:58:23.456824+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2026-02-03T15:04:58.875919+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时49分 ~ 13时58分]"
+          "appearance_count": 5,
+          "time_info": "[10时49分 ~ 15时04分]"
         },
         {
           "title": "雷军回应小米汽车交付量下滑",
@@ -86,7 +86,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -113,11 +113,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 15时04分]"
         },
         {
           "title": "亚洲厂商人工智能应用前景占优 西方抵触情绪或成发展瓶颈",
@@ -126,7 +127,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
