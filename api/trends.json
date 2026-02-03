@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-02-04T06:39:19.836664+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-02-04T07:37:25.014990+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 7,
       "titles": [
+        {
+          "title": "AMD(AMD.O)CEO苏姿丰：预计到2027年将把人工智能业务规模扩大到每年数百亿美元的销售额。",
+          "url": "https://flash.jin10.com/detail/20260204061458712800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时37分]"
+        },
+        {
+          "title": "AMD的CEO苏姿丰：服务器CPU需求“非常强劲”。 AI业务正在加速。 十大人工智能公司中有八家使用Instinct芯片来支持生产工作负载。 超大规模企业正扩展基础设施，以满足人工智能领域不断增长的云服务需求。 数据中心、游戏和个人电脑领域的需求加速增长。",
+          "url": "https://wallstreetcn.com/livenews/3049358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时37分]"
+        },
+        {
+          "title": "AMD(AMD.O)CEO苏姿丰：十大人工智能公司中有八家使用Instinct芯片来支持生产工作负载。",
+          "url": "https://flash.jin10.com/detail/20260204061102814800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时37分]"
+        },
         {
           "title": "城堡投资创始人格里芬：人工智能不会成为本次选举的主要议题。",
           "url": "https://flash.jin10.com/detail/20260204005442869800",
@@ -19,46 +55,13 @@
           "time_info": "01时06分"
         },
         {
-          "title": "AMD(AMD.O)CEO苏姿丰：预计到2027年将把人工智能业务规模扩大到每年数百亿美元的销售额。",
-          "url": "https://flash.jin10.com/detail/20260204061458712800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "AMD的CEO苏姿丰：服务器CPU需求“非常强劲”。 AI业务正在加速。 十大人工智能公司中有八家使用Instinct芯片来支持生产工作负载。 超大规模企业正扩展基础设施，以满足人工智能领域不断增长的云服务需求。 数据中心、游戏和个人电脑领域的需求加速增长。",
-          "url": "https://wallstreetcn.com/livenews/3049358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "AMD(AMD.O)CEO苏姿丰：十大人工智能公司中有八家使用Instinct芯片来支持生产工作负载。",
-          "url": "https://flash.jin10.com/detail/20260204061102814800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
           "title": "AMD(AMD.O)CEO苏姿丰：超大规模企业正扩展基础设施，以满足人工智能领域不断增长的云服务需求。",
           "url": "https://flash.jin10.com/detail/20260204061021722800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         },
@@ -98,8 +101,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时49分 ~ 06时39分]"
+          "appearance_count": 5,
+          "time_info": "[04时49分 ~ 07时37分]"
         },
         {
           "title": "美国国务卿和农业部长表示，根据新的水资源协议，墨西哥已承诺每年向美国输送至少35万英亩英尺的水量。",
