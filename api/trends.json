@@ -1,61 +1,33 @@
 {
-  "generated_at": "2026-02-04T23:56:11.067063+08:00",
-  "total_titles_processed": 1960,
+  "generated_at": "2026-02-05T01:01:47.264101+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 19,
+      "match_count": 3,
       "titles": [
         {
           "title": "2026 年中央一号文件提出「支持新能源汽车下乡」，这会产生什么影响？相关配套设施能否跟得上？",
           "url": "https://www.zhihu.com/question/2002346311593264005",
           "source": "知乎",
           "ranks": [
-            13,
-            9,
-            4,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时55分 ~ 23时56分]"
+          "appearance_count": 1,
+          "time_info": "01时01分"
         },
         {
-          "title": "零跑汽车员工吐槽年会 董事长回应",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B6%E8%B7%91%E6%B1%BD%E8%BD%A6%E5%91%98%E5%B7%A5%E5%90%90%E6%A7%BD%E5%B9%B4%E4%BC%9A+%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
+          "title": "市场消息：提交的文件显示，主要汽车制造商希望修改特朗普政府提出的燃油经济性提案，但支持大幅降低严格标准的计划。",
+          "url": "https://flash.jin10.com/detail/20260205004123510800",
+          "source": "金十数据",
           "ranks": [
-            4
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
-        },
-        {
-          "title": "中央一号文件“点名”新能源汽车",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E4%B8%80%E5%8F%B7%E6%96%87%E4%BB%B6%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时43分 ~ 13时57分]"
-        },
-        {
-          "title": "长安汽车：拟以10亿元-20亿元回购股份。",
-          "url": "https://wallstreetcn.com/livenews/3049820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 19时41分]"
+          "appearance_count": 1,
+          "time_info": "01时01分"
         },
         {
           "title": "券商2月金股出炉：电子行业最热，有色、汽车减配居前",
@@ -65,380 +37,14 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时51分 ~ 23时56分]"
-        },
-        {
-          "title": "汽车门把手强制性国标发布有何影响",
-          "url": "https://www.toutiao.com/trending/7602914716926610982/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 18时52分]"
-        },
-        {
-          "title": "张艺兴汽车警铃舞",
-          "url": "https://www.douyin.com/hot/2389726",
-          "source": "抖音",
-          "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时19分 ~ 22时51分]"
-        },
-        {
-          "title": "广东：拓展无人驾驶公共交通运营区域，扩大智能网联汽车道路测试与示范应用范围",
-          "url": "https://wallstreetcn.com/livenews/3049724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "英飞凌第一季度营收为36.6亿欧元，同比增长7%，市场预期为36.2亿欧元。 第一季度汽车业务营收为18.2亿欧元，同比增长3.9%，市场预期为17.9亿欧元。 预计第二季度营收约38亿欧元，市场预期为38.2亿欧元。 预计全年自由现金流约为10亿欧元，上一财年为约11亿欧元。 预计全年总投资约为27亿欧元，上一财年为约22亿欧元。",
-          "url": "https://wallstreetcn.com/livenews/3049623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时05分"
-        },
-        {
-          "title": "丰田计划到2028年将混合动力汽车产量提高至约670万辆，较2026年计划增加30%。（日经新闻)",
-          "url": "https://wallstreetcn.com/livenews/3049758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
-          "title": "消息人士：福特汽车(F.N)正与吉利就一项合作进行谈判，该合作可能涉及允许后者使用福特在欧洲的工厂空间。据悉谈判还包括建立一个潜在的技术共享框架，内容涵盖自动驾驶等车辆技术。",
-          "url": "https://flash.jin10.com/detail/20260204123732007800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "福特美国1月份汽车销量下降5.3%。",
-          "url": "https://flash.jin10.com/detail/20260204221702764800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
-          "url": "https://wallstreetcn.com/livenews/3049320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "本田汽车计划与总部位于美国得州的技术公司Mythic共同为其软件定义汽车(SDV)开发系统级芯片。",
-          "url": "https://flash.jin10.com/detail/20260204101331559800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "美国国家公路交通安全管理局：丰田汽车公司提交召回141,286辆美国车辆的申请。",
-          "url": "https://flash.jin10.com/detail/20260204220842071800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "据日经新闻：丰田计划到2028年将混合动力汽车产量提高至约670万辆，较2026年计划增加30%。",
-          "url": "https://flash.jin10.com/detail/20260204170430484800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
-          "title": "锐新科技：正在筹划以发行股份及支付现金方式购买芜湖德恒汽车装备有限公司并募集配套资金事项，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3049865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "威瑞斯克分析公司：冬季风暴“弗恩”造成的财产和汽车保险行业损失可能高达40亿美元。",
-          "url": "https://flash.jin10.com/detail/20260204033233741800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "我国发布88项汽车安全相关强制性国家标准",
-          "url": "https://wallstreetcn.com/livenews/3049684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "信实董事长阿巴尼：信实正“双手抓住”人工智能机遇。",
-          "url": "https://flash.jin10.com/detail/20260204184218192800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 19时41分]"
-        },
-        {
-          "title": "贝莱德CEO芬克：不相信我们正处于人工智能泡沫中。",
-          "url": "https://flash.jin10.com/detail/20260204183751037800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 19时41分]"
-        },
-        {
-          "title": "信实董事长阿巴尼：人工智能对印度极具优势。",
-          "url": "https://flash.jin10.com/detail/20260204183732489800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 19时41分]"
-        },
-        {
-          "title": "贝莱德CEO芬克：将人工智能视为巨大机遇。",
-          "url": "https://flash.jin10.com/detail/20260204183713463800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 19时41分]"
-        },
-        {
-          "title": "AMD(AMD.O)CEO苏姿丰：预计到2027年将把人工智能业务规模扩大到每年数百亿美元的销售额。",
-          "url": "https://flash.jin10.com/detail/20260204061458712800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时39分 ~ 07时37分]"
-        },
-        {
-          "title": "AMD的CEO苏姿丰：服务器CPU需求“非常强劲”。 AI业务正在加速。 十大人工智能公司中有八家使用Instinct芯片来支持生产工作负载。 超大规模企业正扩展基础设施，以满足人工智能领域不断增长的云服务需求。 数据中心、游戏和个人电脑领域的需求加速增长。",
-          "url": "https://wallstreetcn.com/livenews/3049358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时39分 ~ 07时37分]"
-        },
-        {
-          "title": "AMD(AMD.O)CEO苏姿丰：十大人工智能公司中有八家使用Instinct芯片来支持生产工作负载。",
-          "url": "https://flash.jin10.com/detail/20260204061102814800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时39分 ~ 07时37分]"
-        },
-        {
-          "title": "城堡投资创始人格里芬：人工智能不会成为本次选举的主要议题。",
-          "url": "https://flash.jin10.com/detail/20260204005442869800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "广东：加快建设国家人工智能应用中试基地，积极布局省级中试平台",
-          "url": "https://wallstreetcn.com/livenews/3049725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-02-04）",
-          "url": "https://flash.jin10.com/detail/20260204115345286800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "AMD(AMD.O)CEO苏姿丰：超大规模企业正扩展基础设施，以满足人工智能领域不断增长的云服务需求。",
-          "url": "https://flash.jin10.com/detail/20260204061021722800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "美国得克萨斯州电力可靠性委员会（ERCOT）考虑重新评估某些与人工智能（AI）相关的数据中心项目。 此前，当地电力监管部门因新用户激增而批准了多个数据中心项目。",
-          "url": "https://wallstreetcn.com/livenews/3049978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时56分"
-        },
-        {
-          "title": "中国人工智能产业发展联盟：突破算力芯片、工业大模型等关键技术 做优应用生态",
-          "url": "https://wallstreetcn.com/livenews/3049706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "美国参议院Warren等参议员敦促美国联邦贸易委员会（FTC）审查科技行业的人工智能相关交易，涉及英伟达、Meta和谷歌。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3049876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "据CNBC：美国民主党参议员沃伦及其他人士敦促美国联邦贸易委员会（FTC）严查科技领域的人工智能交易。",
-          "url": "https://flash.jin10.com/detail/20260204201814644800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "“人工智能+电影虚拟拍摄融合创新实验室”揭牌",
-          "url": "https://wallstreetcn.com/livenews/3049685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时55分"
-        },
-        {
-          "title": "英伟达CEO：人工智能的广泛应用最终将降低能源成本",
-          "url": "https://flash.jin10.com/detail/20260204032540767800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "OpenAI的CEO Altman：我的确担心美国无法在开源AI领域领先。 最重要的是，美国在前沿模型领先。 Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。 在某些方面人工智能的普及速度比自己预想的要慢。 OPENAI最终目标是实现全面的人工智能业务。",
-          "url": "https://wallstreetcn.com/livenews/3049251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
+          "time_info": "01时01分"
         }
       ]
     },
     {
       "keyword_group": "农业",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
           "title": "农业综合生产能力迈上新台阶",
@@ -448,124 +54,36 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时51分 ~ 23时56分]"
+          "appearance_count": 1,
+          "time_info": "01时01分"
         },
         {
-          "title": "中共中央 国务院关于锚定农业农村现代化 扎实推进乡村全面振兴的意见",
-          "url": "https://wallstreetcn.com/articles/3764850",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时49分 ~ 10时44分]"
-        },
-        {
-          "title": "中央一号文件促进AI与农业发展相结合 AI赋能种植链前景可期",
-          "url": "https://www.cls.cn/detail/2279757",
+          "title": "农业巨擘陨落 大北农创始人董事长邵根伙病逝 享年60岁",
+          "url": "https://www.cls.cn/detail/2280450",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时48分 ~ 15时05分]"
-        },
-        {
-          "title": "美国国务卿和农业部长表示，根据新的水资源协议，墨西哥已承诺每年向美国输送至少35万英亩英尺的水量。",
-          "url": "https://flash.jin10.com/detail/20260204024528943800",
-          "source": "金十数据",
-          "ranks": [
-            9
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "法国农业信贷银行第四季度净利润10.3亿欧元，同比下降39%，市场预估11亿欧元。 第四季度营收69.7亿欧元，同比下降1.8%，市场预估67.8亿欧元。 第四季度经营支出41.0亿欧元，同比上涨4.7%，市场预估39亿欧元。 第四季度贷款损失拨备6.29亿欧元，同比上涨5.9%，市场预估5.219亿欧元。",
-          "url": "https://wallstreetcn.com/livenews/3049604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时05分"
+          "time_info": "01时01分"
         }
       ]
     },
     {
-      "keyword_group": "农民",
-      "match_count": 3,
+      "keyword_group": "大豆",
+      "match_count": 1,
       "titles": [
         {
-          "title": "中央明确：保障春节前农民工工资支付",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E6%98%8E%E7%A1%AE%EF%BC%9A%E4%BF%9D%E9%9A%9C%E6%98%A5%E8%8A%82%E5%89%8D%E5%86%9C%E6%B0%91%E5%B7%A5%E5%B7%A5%E8%B5%84%E6%94%AF%E4%BB%98",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时55分 ~ 18时52分]"
-        },
-        {
-          "title": "中央农办：春节前要把农民工工钱结了",
-          "url": "https://www.toutiao.com/trending/7601978773073723418/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 17时56分]"
-        },
-        {
-          "title": "2025年农民人均可支配收入达到24456元",
-          "url": "https://wallstreetcn.com/livenews/3049478",
+          "title": "芝加哥大豆期货短线飙升，日内整体涨1.6%，带动农产品走高",
+          "url": "https://wallstreetcn.com/livenews/3050000",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "玉米",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "芝加哥玉米期货涨0.7%，大豆油涨2.5%，阿拉比卡咖啡跌超5%",
-          "url": "https://wallstreetcn.com/livenews/3049310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时44分]"
-        },
-        {
-          "title": "猫一吃玉米就会变得猥琐",
-          "url": "https://s.weibo.com/weibo?q=%E7%8C%AB%E4%B8%80%E5%90%83%E7%8E%89%E7%B1%B3%E5%B0%B1%E4%BC%9A%E5%8F%98%E5%BE%97%E7%8C%A5%E7%90%90&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时51分 ~ 19时41分]"
+          "time_info": "01时01分"
         }
       ]
     }
