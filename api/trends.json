@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T07:37:25.014990+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-02-04T10:44:09.511292+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
@@ -90,6 +90,67 @@
       ]
     },
     {
+      "keyword_group": "汽车",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "中央一号文件“点名”新能源汽车",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%E4%B8%80%E5%8F%B7%E6%96%87%E4%BB%B6%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "零跑汽车员工吐槽年会 董事长回应",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B6%E8%B7%91%E6%B1%BD%E8%BD%A6%E5%91%98%E5%B7%A5%E5%90%90%E6%A7%BD%E5%B9%B4%E4%BC%9A+%E8%91%A3%E4%BA%8B%E9%95%BF%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
+          "url": "https://wallstreetcn.com/livenews/3049320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "本田汽车计划与总部位于美国得州的技术公司Mythic共同为其软件定义汽车(SDV)开发系统级芯片。",
+          "url": "https://flash.jin10.com/detail/20260204101331559800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "威瑞斯克分析公司：冬季风暴“弗恩”造成的财产和汽车保险行业损失可能高达40亿美元。",
+          "url": "https://flash.jin10.com/detail/20260204033233741800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "农业",
       "match_count": 2,
       "titles": [
@@ -101,8 +162,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时49分 ~ 07时37分]"
+          "appearance_count": 7,
+          "time_info": "[04时49分 ~ 10时44分]"
         },
         {
           "title": "美国国务卿和农业部长表示，根据新的水资源协议，墨西哥已承诺每年向美国输送至少35万英亩英尺的水量。",
@@ -118,30 +179,19 @@
       ]
     },
     {
-      "keyword_group": "汽车",
-      "match_count": 2,
+      "keyword_group": "农民",
+      "match_count": 1,
       "titles": [
         {
-          "title": "周二（2月3日）美股尾盘，彭博电动汽车价格回报指数涨1.72%，报3509.86点，全天持续走高。 成分股MP材料目前涨7.77%，Sona Blw Precision Forgings Ltd.收涨6.15%，中创新航科技集团H股收涨4.85%，禾赛科技涨4%，美国雅宝涨超3.7%，Panasonic株式会社收涨3.75%，广州汽车集团H股收涨3.39%表现第七，文远知行则跌超3.1%，MobilEye Global Inc.跌4.1%，安霸股份跌4.8%。",
-          "url": "https://wallstreetcn.com/livenews/3049320",
+          "title": "2025年农民人均可支配收入达到24456元",
+          "url": "https://wallstreetcn.com/livenews/3049478",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "威瑞斯克分析公司：冬季风暴“弗恩”造成的财产和汽车保险行业损失可能高达40亿美元。",
-          "url": "https://flash.jin10.com/detail/20260204033233741800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "10时44分"
         }
       ]
     },
