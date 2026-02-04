@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T01:01:47.264101+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-05T01:58:08.981182+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2002346311593264005",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时58分]"
         },
         {
           "title": "市场消息：提交的文件显示，主要汽车制造商希望修改特朗普政府提出的燃油经济性提案，但支持大幅降低严格标准的计划。",
@@ -54,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时58分]"
         },
         {
           "title": "农业巨擘陨落 大北农创始人董事长邵根伙病逝 享年60岁",
@@ -65,8 +66,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时58分]"
         }
       ]
     },
