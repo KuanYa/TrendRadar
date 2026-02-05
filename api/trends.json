@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T07:36:58.096407+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-02-05T10:46:26.404818+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "2026 年中央一号文件提出「支持新能源汽车下乡」，这会产生什么影响？相关配套设施能否跟得上？",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时01分 ~ 07时36分]"
+        },
+        {
+          "title": "恒生科技指数日内跌幅收窄至0.4%，此前一度跌超1.8%。地平线机器人、比亚迪股份、联想集团、理想汽车涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3050286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "长安汽车1月销量腰斩",
@@ -78,6 +89,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "日本首相高市早苗：用于自动驾驶汽车和机器人技术的3纳米芯片对经济安全具有重大意义。",
+          "url": "https://flash.jin10.com/detail/20260205101702551800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         }
       ]
     },
@@ -93,8 +115,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时36分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 10时46分]"
         },
         {
           "title": "农业巨擘陨落 大北农创始人董事长邵根伙病逝 享年60岁",
@@ -139,7 +161,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Alphabet(GOOG.O)高管：将继续在人工智能和云服务等关键投资领域招聘人员。",
@@ -152,6 +174,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时36分]"
+        },
+        {
+          "title": "我国互联网普及率突破80%，生成式人工智能用户规模超6亿人",
+          "url": "https://wallstreetcn.com/livenews/3050252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         }
       ]
     }
