@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T06:37:32.565484+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2026-02-06T07:32:54.242981+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%B0%86%E4%B8%8D%E5%86%8D%E4%BD%BF%E7%94%A8%E9%9A%90%E8%97%8F%E5%BC%8F%E8%BD%A6%E9%97%A8%E6%8A%8A%E6%89%8B",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时32分]"
         },
         {
           "title": "在 2025 全球销量前十的汽车集团中，丰田集团以 1,042 万辆成绩再次卫冕全球销冠，中国企业何时可超？",
@@ -27,11 +28,12 @@
             15,
             13,
             10,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时32分]"
         },
         {
           "title": "加拿大宣布电动汽车新战略，将与中国合作",
