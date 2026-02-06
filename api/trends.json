@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T17:55:27.187215+08:00",
-  "total_titles_processed": 1458,
+  "generated_at": "2026-02-06T18:52:09.454482+08:00",
+  "total_titles_processed": 1561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "明年起我国将禁止使用隐藏式车门把手，隐藏式车门把手存在哪些隐患？将对汽车产业产生哪些影响？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时54分 ~ 17时55分]"
+          "appearance_count": 8,
+          "time_info": "[12时54分 ~ 18时52分]"
         },
         {
           "title": "中国汽车将不再使用隐藏式车门把手",
@@ -128,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
+        },
+        {
+          "title": "印度政府文件显示，根据最新提案，印度将取消对重量为909公斤或以下汽车的燃料排放优惠措施。印度不会提供基于车辆重量的优惠，而是收紧规则以推动电动车型和混合动力车型的销售。",
+          "url": "https://flash.jin10.com/detail/20260206180709180800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         },
         {
           "title": "商务部：会同相关部门深入推进汽车流通消费改革试点，探索汽车后市场高质量发展的新路径",
