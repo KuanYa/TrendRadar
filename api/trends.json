@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T07:32:54.242981+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2026-02-06T10:46:55.532713+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "中国汽车将不再使用隐藏式车门把手",
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 10时46分]"
         },
         {
           "title": "在 2025 全球销量前十的汽车集团中，丰田集团以 1,042 万辆成绩再次卫冕全球销冠，中国企业何时可超？",
@@ -34,6 +35,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 07时32分]"
+        },
+        {
+          "title": "加拿大宣布电动汽车新战略与中国合作",
+          "url": "https://www.toutiao.com/trending/7603523135841013275/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "在 2025 全球销量前十的汽车集团中，丰田集团以 1042 万辆成绩再次卫冕全球销冠，中国企业何时可超？",
+          "url": "https://www.zhihu.com/question/2000151959752168666",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "加拿大宣布电动汽车新战略，将与中国合作",
