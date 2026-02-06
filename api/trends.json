@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T06:35:36.129975+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-02-07T07:35:01.102251+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,21 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时43分 ~ 07时35分]"
+        },
+        {
+          "title": "Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3051623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时35分]"
+          "time_info": "[05时40分 ~ 07时35分]"
         },
         {
           "title": "美国银行：从轻资产模式转向重资产模式意味着所谓美股科技七巨头的主导地位面临“重大威胁”。 今年大型科技公司在人工智能领域的资本开支预计约为6700亿美元，相当于其现金流的96%，而2023年这一比例仅为40%。 不再是拥有最佳资产负债表的公司，也不再是进行大规模股票回购的公司。",
@@ -51,18 +64,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 01时52分]"
-        },
-        {
-          "title": "Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3051623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时40分 ~ 06时35分]"
         },
         {
           "title": "Gen Digital首席执行官：在人工智能威胁之下，消费者既需要网络安全工具，也需要个人理财工具。",
@@ -160,19 +161,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时35分]"
         },
         {
           "title": "比亚迪汽车为什么不搞 24 小时耐力测试？",
           "url": "https://www.zhihu.com/question/2002523570601993002",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时35分]"
         },
         {
           "title": "周五（2月6日）美股尾盘，彭博电动汽车价格回报指数涨1.51%，报3521.92点，本周迄今累计下跌0.78%，整体呈现出W形走势。",
@@ -180,11 +182,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时40分 ~ 06时35分]"
+          "appearance_count": 3,
+          "time_info": "[05时40分 ~ 07时35分]"
         },
         {
           "title": "纳斯达克中国金龙指数涨超3%，成分股小鹏汽车(XPEV.N)涨幅超5%、蔚来汽车(NIO.N)大涨8%，理想汽车(LI.O)涨6%。",
