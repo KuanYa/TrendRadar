@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T01:34:08.829574+08:00",
-  "total_titles_processed": 345,
+  "generated_at": "2026-02-08T02:49:34.787682+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时49分]"
         },
         {
           "title": "国家电网：春节假期新能源汽车充电量预计将创历史新高",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时49分]"
         },
         {
           "title": "国内首款「汽车飞机二合一」首飞成功，在技术上克服了哪些难点？未来有哪些应用空间？",
@@ -35,11 +35,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时49分]"
         },
         {
           "title": "印度贸易部长戈亚尔：根据印美贸易安排，印度汽车零部件出口的一半将享受0%关税。",
@@ -49,8 +50,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时49分]"
         }
       ]
     },
@@ -66,8 +67,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时49分]"
         }
       ]
     }
