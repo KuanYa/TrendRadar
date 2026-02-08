@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T06:37:37.980918+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-02-09T07:40:12.084502+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 07时40分]"
         },
         {
           "title": "吴克群帮农民卖掉3万斤菜",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 07时40分]"
         },
         {
           "title": "全球第四大汽车巨头半年亏1500亿元",
@@ -60,11 +60,12 @@
           "ranks": [
             23,
             6,
-            1
+            1,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时38分 ~ 06时37分]"
+          "appearance_count": 5,
+          "time_info": "[04时38分 ~ 07时40分]"
         }
       ]
     },
