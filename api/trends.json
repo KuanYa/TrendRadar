@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T22:38:04.946545+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-02-08T23:35:42.814487+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
@@ -75,6 +75,18 @@
           "time_info": "[00时41分 ~ 07时39分]"
         },
         {
+          "title": "为何全球第四大汽车集团斯特兰蒂斯在巨额亏损后选择大幅放缓电动车发展？其电车战略遇到了哪些关键挑战？",
+          "url": "https://www.zhihu.com/question/2003762044663460567",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时37分 ~ 23时35分]"
+        },
+        {
           "title": "全球第四大汽车巨头半年亏1500亿元",
           "url": "https://www.toutiao.com/trending/7604010892535611446/",
           "source": "今日头条",
@@ -102,17 +114,6 @@
           "time_info": "[11时26分 ~ 15时02分]"
         },
         {
-          "title": "为何全球第四大汽车集团斯特兰蒂斯在巨额亏损后选择大幅放缓电动车发展？其电车战略遇到了哪些关键挑战？",
-          "url": "https://www.zhihu.com/question/2003762044663460567",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时37分 ~ 22时38分]"
-        },
-        {
           "title": "加拿大总理公开表示进口中国汽车",
           "url": "https://www.toutiao.com/trending/7603546935311794217/",
           "source": "今日头条",
@@ -137,11 +138,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时07分 ~ 22时38分]"
+          "appearance_count": 5,
+          "time_info": "[21时07分 ~ 23时35分]"
         },
         {
           "title": "吴克群帮农民卖掉3万斤菜",
@@ -205,11 +207,12 @@
             3,
             8,
             11,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时39分 ~ 22时38分]"
+          "appearance_count": 6,
+          "time_info": "[17时39分 ~ 23时35分]"
         },
         {
           "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
