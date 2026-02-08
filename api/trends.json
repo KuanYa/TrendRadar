@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T18:37:58.727247+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-02-08T19:31:41.109515+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
@@ -127,11 +127,12 @@
           "ranks": [
             5,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时36分 ~ 18时37分]"
+          "appearance_count": 12,
+          "time_info": "[06时36分 ~ 19时31分]"
         },
         {
           "title": "中国农业发展银行党委委员、副行长徐一丁接受中央纪委国家监委审查调查。（新华社）",
@@ -160,22 +161,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 18时37分]"
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 19时31分]"
         },
         {
           "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
           "url": "https://flash.jin10.com/detail/20260208172718886800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 19时31分]"
         }
       ]
     },
@@ -208,11 +211,12 @@
           "ranks": [
             4,
             5,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时43分 ~ 18时37分]"
+          "appearance_count": 4,
+          "time_info": "[16时43分 ~ 19时31分]"
         }
       ]
     }
