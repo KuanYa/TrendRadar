@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T07:40:12.084502+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-02-09T10:54:11.870333+08:00",
+  "total_titles_processed": 680,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             9,
             7,
             8,
-            5
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 07时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 10时54分]"
         },
         {
           "title": "吴克群帮农民卖掉3万斤菜",
