@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T17:06:22.963405+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-02-10T19:02:56.474639+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
@@ -145,7 +145,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 7,
       "titles": [
         {
           "title": "美联储理事米兰：人工智能正在影响经济，但难以衡量。",
@@ -160,15 +160,87 @@
           "time_info": "[04时53分 ~ 05时50分]"
         },
         {
+          "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
+          "url": "https://www.cls.cn/detail/2286121",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "开云集团CEO：如果人工智能被证明是泡沫，美国面临的一大风险可能是股市崩盘。",
+          "url": "https://flash.jin10.com/detail/20260210180402456800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "Clearwater Analytics研究显示，2025年私人财富管理者的人工智能相关投资组合占比提升了2.6个百分点。",
+          "url": "https://flash.jin10.com/detail/20260210180140645800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "Clearwater Analytics研究显示，大型投资者在2025年加大了对人工智能相关领域的投资。大学和非营利组织与人工智能相关的投资组合占比上升了1.9个百分点。",
+          "url": "https://flash.jin10.com/detail/20260210180117938800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "国家发改委等部门：加快招标投标领域人工智能推广应用",
+          "url": "https://wallstreetcn.com/livenews/3052950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "北京新增3款已完成备案的生成式人工智能服务",
           "url": "https://wallstreetcn.com/livenews/3052886",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农民",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "53岁农民工乘60多元绿皮车回邯郸",
+          "url": "https://www.toutiao.com/trending/7605101979857371172/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         }
       ]
     },
