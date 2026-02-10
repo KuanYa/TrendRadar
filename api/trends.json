@@ -1,320 +1,111 @@
 {
-  "generated_at": "2026-02-10T23:09:22.726681+08:00",
-  "total_titles_processed": 1666,
+  "generated_at": "2026-02-11T01:13:29.296421+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "汽车",
-      "match_count": 15,
+      "keyword_group": "农业",
+      "match_count": 5,
       "titles": [
         {
-          "title": "商务部召开汽车企业座谈会 多措并举推动汽车消费扩容提质",
-          "url": "https://www.cls.cn/detail/2284923",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 07时47分]"
-        },
-        {
-          "title": "金十图示：2026年02月10日（周二）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260210110644873800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "周一（2月9日）美股尾盘，彭博电动汽车价格回报指数涨2.11%，报3593.84点，整体持续走高。 成分股中，欧股意法半导体收涨9.76%，阿内卡矿业股份涨4.8%，中创新航科技集团H股收涨4.81%，蔚来集团H股则收跌0.51%，雅迪集团H股收跌1.56%，智利化工矿业公司（SQM）跌1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3052510",
+          "title": "美国农业部（USDA）：预计期末美国棉花库存440万捆，分析师预期421万捆，USDA之前预计420万捆。",
+          "url": "https://wallstreetcn.com/livenews/3053178",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时49分]"
-        },
-        {
-          "title": "惠誉评级：自动驾驶汽车为美国非寿险公司带来长期挑战与机遇。",
-          "url": "https://flash.jin10.com/detail/20260210025831224800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "01时13分"
         },
         {
-          "title": "本田：受关税影响及一次性电动汽车支出拖累，4月至12月汽车业务经营亏损达1664亿日元。",
-          "url": "https://flash.jin10.com/detail/20260210144820000800",
+          "title": "美国农业部（USDA）：预计期末美国小麦总库存9.31亿蒲式耳，分析师预期9.1832亿蒲式耳，USDA之前预计9.26亿蒲式耳。",
+          "url": "https://wallstreetcn.com/livenews/3053177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "美国农业部（USDA）：预计期末美国玉米库存21.27亿蒲式耳，分析师预期22.1536亿蒲式耳，USDA之前预计22.27亿蒲式耳。",
+          "url": "https://wallstreetcn.com/livenews/3053175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "美国农业部（USDA）发布农产品库存月报：预计期末美国大豆库存3.50亿蒲式耳，分析师预期4.4824亿蒲式耳，USDA之前预计3.50亿蒲式耳。",
+          "url": "https://wallstreetcn.com/livenews/3053173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "美国农业部：2月美国2025/2026年度大豆产量预期为42.62亿蒲式耳，1月月报预期为42.62亿蒲式耳；2月美国2025/2026年度大豆期末库存预期为3.5亿蒲式耳，市场预期为3.47亿蒲式耳，1月月报预期为3.5亿蒲式耳；2月美国2025/2026年度大豆单产预期为53蒲式耳/英亩，1月月报预期为53蒲式耳/英亩。",
+          "url": "https://flash.jin10.com/detail/20260211010118694800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时18分"
-        },
+          "time_info": "01时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "美国12月零售销售(除汽车与汽油)环比 0%，预期 0.4%，前值 0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3053072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "本田维持本财年集团汽车销量预测为334万辆。",
-          "url": "https://flash.jin10.com/detail/20260210144552385800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "美国12月零售销售(除汽车)环比 0%，预期 0.4%，前值 0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3053070",
+          "title": "美国进入严重逾期状态的汽车贷款占比升至5.2%，略低于2010年创下的纪录",
+          "url": "https://wallstreetcn.com/livenews/3053169",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时43分"
+          "time_info": "01时13分"
         },
         {
-          "title": "美国汽车工人联合会：1月13日冲撞美国总统特朗普的工人未受纪律处分，仍保留工作。",
-          "url": "https://flash.jin10.com/detail/20260210003111533800",
+          "title": "据汽车新闻网站Electrek：特斯拉(TSLA.O)500英里续航电动半挂卡车定价29万美元。",
+          "url": "https://flash.jin10.com/detail/20260211002040523800",
           "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "本田汽车本财年前9个月净利465.44亿日元，而去年同期为805.26亿日元。",
-          "url": "https://flash.jin10.com/detail/20260210143342402800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "据日经新闻：本田汽车(HMC.N)将向研发部门提供资金，以委托研究的方式开展研发工作，由旗下子公司负责为新产品生成设计方案。",
-          "url": "https://flash.jin10.com/detail/20260210034505167800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "据日经新闻：本田汽车(HMC.N)将把汽车开发部门迁回其研发子公司。",
-          "url": "https://flash.jin10.com/detail/20260210034431771800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "雷军：小米汽车工厂有六七百台机器人，做到了百分之百自动组装和检测",
-          "url": "https://wallstreetcn.com/livenews/3053049",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "本田汽车预计全年销售净额21.10万亿日元，此前预计20.70万亿日元，市场预估21.08万亿日元。 预计全年净利润3,000.0亿日元，市场预估4,631.1亿日元。 第三财季经营利润1,533.6亿日元，市场预估1,486.5亿日元。 第三财季净利润1,536.1亿日元，市场预估845.2亿日元。 第三财季销售净额5.34万亿日元，市场预估5.19万亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3052780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "通用汽车(GM.N)：Claudia Gast将于3月1日加入通用汽车，担任副首席财务官兼战略、企业发展与技术合作伙伴关系副总裁。",
-          "url": "https://flash.jin10.com/detail/20260210020124028800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "01时13分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
         {
           "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
           "url": "https://www.cls.cn/detail/2286121",
           "source": "财联社热门",
           "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 23时09分]"
-        },
-        {
-          "title": "美联储理事米兰：人工智能正在影响经济，但难以衡量。",
-          "url": "https://flash.jin10.com/detail/20260210041449263800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时50分]"
-        },
-        {
-          "title": "开云集团CEO：如果人工智能被证明是泡沫，美国面临的一大风险可能是股市崩盘。",
-          "url": "https://flash.jin10.com/detail/20260210180402456800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "Clearwater Analytics研究显示，2025年私人财富管理者的人工智能相关投资组合占比提升了2.6个百分点。",
-          "url": "https://flash.jin10.com/detail/20260210180140645800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "Clearwater Analytics研究显示，大型投资者在2025年加大了对人工智能相关领域的投资。大学和非营利组织与人工智能相关的投资组合占比上升了1.9个百分点。",
-          "url": "https://flash.jin10.com/detail/20260210180117938800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "国家发改委等部门：加快招标投标领域人工智能推广应用",
-          "url": "https://wallstreetcn.com/livenews/3052950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "欧洲保险股走低，欧洲斯托克600保险分类指数一度下跌1.9%，安联保险、苏黎世保险集团和英杰华集团跌幅居前。Piper Sandler分析师Paul Newsome在报告中指出，“投资者似乎担忧人工智能将抢占保险经纪商的市场份额。”",
-          "url": "https://wallstreetcn.com/livenews/3053069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "北京新增3款已完成备案的生成式人工智能服务",
-          "url": "https://wallstreetcn.com/livenews/3052886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "高盛CEO所罗门：人工智能和科技领域的动向有可能引发重新校准，届时将有赢家和输家。",
-          "url": "https://flash.jin10.com/detail/20260210211418546800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农民",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "53岁农民工乘60多元绿皮车回邯郸",
-          "url": "https://www.toutiao.com/trending/7605101979857371172/",
-          "source": "今日头条",
-          "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大豆",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "芝加哥大豆期货跌约0.5%，豆粕跌约2%，大豆油涨超2.5%",
-          "url": "https://wallstreetcn.com/livenews/3052497",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时50分]"
+          "time_info": "01时13分"
         }
       ]
     }
