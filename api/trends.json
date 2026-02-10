@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T07:47:42.317242+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-02-10T11:19:19.008584+08:00",
+  "total_titles_processed": 822,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "商务部召开汽车企业座谈会 多措并举推动汽车消费扩容提质",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时12分 ~ 07时47分]"
+        },
+        {
+          "title": "金十图示：2026年02月10日（周二）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260210110644873800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         },
         {
           "title": "周一（2月9日）美股尾盘，彭博电动汽车价格回报指数涨2.11%，报3593.84点，整体持续走高。 成分股中，欧股意法半导体收涨9.76%，阿内卡矿业股份涨4.8%，中创新航科技集团H股收涨4.81%，蔚来集团H股则收跌0.51%，雅迪集团H股收跌1.56%，智利化工矿业公司（SQM）跌1.6%。",
