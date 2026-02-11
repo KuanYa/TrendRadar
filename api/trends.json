@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T04:49:55.567582+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-02-12T05:41:31.436528+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 05时41分]"
         },
         {
           "title": "德国总理默茨：由于规则复杂，欧盟企业在人工智能领域落后。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "思科(CSCO.O)：来自超大规模厂商的人工智能基础设施订单总额达21亿美元，反映出增长显著加速。",
+          "url": "https://flash.jin10.com/detail/20260212051118010800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         },
         {
           "title": "加拿大央行会议纪要：人工智能的狂热情绪对前景构成风险。",
@@ -44,7 +55,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "福特汽车计划在至2030年这段时期推出5款售价低于4万美元的新车。",
@@ -67,6 +78,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "周三（2月11日）美股尾盘，彭博电动汽车价格回报指数涨1.32%，报3662.78点。 北京时间09:25出现一波快速上涨行情，10:15过后持续高位震荡。 成分股智利化工矿业公司（SQM）涨7.1%，美国雅宝涨4.3%，小米集团H股收涨4.27%，意法半导体欧股收涨2.92%，禾赛科技则跌6.2%，Lucid集团跌8.3%。",
+          "url": "https://wallstreetcn.com/livenews/3053953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         },
         {
           "title": "消息人士称，随着初始质量提升，福特汽车(F.N)将全公司奖金上调至130%。",
