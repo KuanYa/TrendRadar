@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T19:52:18.899773+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2026-02-11T21:40:33.430763+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "葛卫东耗资10亿“做多”江淮汽车 尊界“产品大年”或成破局关键｜速读公告",
@@ -75,7 +75,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -86,7 +86,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -97,7 +97,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -119,7 +119,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -155,12 +155,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "福特汽车(F.N)盘前上涨1.4%，此前公布了第四季度业绩并给出了前景展望。",
+          "url": "https://flash.jin10.com/detail/20260211211347651800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
@@ -175,13 +186,24 @@
           "time_info": "[01时13分 ~ 07时49分]"
         },
         {
+          "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
+          "url": "https://www.cls.cn/detail/2287511",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "据法国回声报：法国科技与人工智能公司Mistral正投资12亿欧元在瑞典新建数据中心园区。",
           "url": "https://flash.jin10.com/detail/20260211190914598800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -228,6 +250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "施瓦布CEO：我们正从人工智能中获益，并与客户一起使用人工智能。",
+          "url": "https://flash.jin10.com/detail/20260211210904536800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         }
       ]
     },
