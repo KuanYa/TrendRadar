@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-11T07:49:09.995137+08:00",
-  "total_titles_processed": 615,
+  "generated_at": "2026-02-11T11:17:12.126400+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 9,
       "titles": [
+        {
+          "title": "葛卫东耗资10亿“做多”江淮汽车 尊界“产品大年”或成破局关键｜速读公告",
+          "url": "https://www.cls.cn/detail/2286355",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时52分 ~ 11时17分]"
+        },
         {
           "title": "消息人士：随着电动汽车亏损加剧，斯泰兰蒂斯(STLA.N)寻求退出与三星的电池合资企业。",
           "url": "https://flash.jin10.com/detail/20260211030806295800",
@@ -30,18 +43,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时55分]"
-        },
-        {
-          "title": "葛卫东耗资10亿“做多”江淮汽车 尊界“产品大年”或成破局关键｜速读公告",
-          "url": "https://www.cls.cn/detail/2286355",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时52分 ~ 07时49分]"
         },
         {
           "title": "福特汽车财报遭遇四年最大“爆冷”：关税成本拖累，但看好2026年复苏",
@@ -85,7 +86,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
