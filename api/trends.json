@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T18:02:24.022979+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-02-12T19:47:02.179799+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 18,
       "titles": [
         {
           "title": "吉利控股旗下公司增持沃尔沃汽车股份",
@@ -17,6 +17,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "长城汽车表示，全力支持《汽车行业价格行为合规指南》，始终坚持长期主义，坚守合法合规，坚持诚信经营，积极维护国内市场秩序。",
+          "url": "https://wallstreetcn.com/livenews/3054493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "《汽车行业价格行为合规指南》发布：规范虚假促销等突出问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32590922",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 19时47分]"
         },
         {
           "title": "“+”辆汽车回老家成为出行新选择",
@@ -31,6 +54,28 @@
           "time_info": "[10时55分 ~ 13时06分]"
         },
         {
+          "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32585791",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 19时47分]"
+        },
+        {
+          "title": "男子结婚“摇”来约200台小米汽车",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A%E2%80%9C%E6%91%87%E2%80%9D%E6%9D%A5%E7%BA%A6200%E5%8F%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 19时47分]"
+        },
+        {
           "title": "福特汽车计划在至2030年这段时期推出5款售价低于4万美元的新车。",
           "url": "https://wallstreetcn.com/livenews/3053880",
           "source": "华尔街见闻-快讯",
@@ -42,13 +87,24 @@
           "time_info": "01时13分"
         },
         {
+          "title": "比亚迪和吉利竞购日产-奔驰墨西哥汽车工厂。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3054484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "日产CEO：（当被问及日产是否会考虑让其他汽车制造商在其工厂生产汽车时）如果能实现双赢，愿意与合作伙伴展开讨论。",
           "url": "https://flash.jin10.com/detail/20260212174631959800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -62,6 +118,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
+        },
+        {
+          "title": "市场消息：比亚迪、吉利竞购日产-奔驰墨西哥汽车工厂。",
+          "url": "https://flash.jin10.com/detail/20260212191734325800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "福特汽车(F.N)计划至2030年推出5款售价低于4万美元的新车。",
@@ -86,6 +153,17 @@
           "time_info": "05时41分"
         },
         {
+          "title": "深圳：开展智能网联汽车“车路云一体化”应用试点 加大“智造+智驾”汽车全产业链AI赋能力度",
+          "url": "https://wallstreetcn.com/livenews/3054473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "崔东树：规范汽车行业价格行为将有助于改善购车观望情绪",
           "url": "https://wallstreetcn.com/livenews/3054360",
           "source": "华尔街见闻-快讯",
@@ -97,15 +175,15 @@
           "time_info": "16时58分"
         },
         {
-          "title": "《汽车行业价格行为合规指南》发布：规范虚假促销等突出问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32590922",
-          "source": "澎湃新闻",
+          "title": "工信部公开征求《智能网联汽车 自动驾驶系统安全要求》等五项强制性国家标准的意见。",
+          "url": "https://wallstreetcn.com/livenews/3054465",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时58分"
+          "time_info": "19时47分"
         },
         {
           "title": "消息人士称，随着初始质量提升，福特汽车(F.N)将全公司奖金上调至130%。",
@@ -133,7 +211,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
@@ -167,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32590657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 19时47分]"
         },
         {
           "title": "德国总理默茨：由于规则复杂，欧盟企业在人工智能领域落后。",
@@ -211,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "深圳：到2027年在“人工智能+”先进制造业领域建成国家人工智能应用中试基地",
+          "url": "https://wallstreetcn.com/livenews/3054471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "思科(CSCO.O)：来自超大规模厂商的人工智能基础设施订单总额达21亿美元，反映出增长显著加速。",
