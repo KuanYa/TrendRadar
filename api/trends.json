@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-13T00:03:21.895939+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-13T02:01:17.391164+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 4,
       "titles": [
-        {
-          "title": "男子结婚“摇”来约200台小米汽车",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A%E2%80%9C%E6%91%87%E2%80%9D%E6%9D%A5%E7%BA%A6200%E5%8F%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
         {
           "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
           "url": "https://m.thepaper.cn/newsDetail_forward_32585791",
@@ -26,8 +15,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 02时01分]"
+        },
+        {
+          "title": "男子结婚“摇”来约200台小米汽车",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A%E2%80%9C%E6%91%87%E2%80%9D%E6%9D%A5%E7%BA%A6200%E5%8F%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 02时01分]"
         },
         {
           "title": "宝马将在全球召回数十万辆汽车",
@@ -37,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 02时01分]"
         },
         {
           "title": "《汽车行业价格行为合规指南》发布：规范虚假促销等突出问题",
@@ -48,8 +49,25 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 02时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农民",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "农民工送女儿最暖过年礼物",
+          "url": "https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E5%B7%A5%E9%80%81%E5%A5%B3%E5%84%BF%E6%9C%80%E6%9A%96%E8%BF%87%E5%B9%B4%E7%A4%BC%E7%89%A9",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时00分 ~ 02时01分]"
         }
       ]
     },
@@ -65,8 +83,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 02时01分]"
         }
       ]
     }
