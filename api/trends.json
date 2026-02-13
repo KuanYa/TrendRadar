@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T19:38:50.670118+08:00",
-  "total_titles_processed": 1630,
+  "generated_at": "2026-02-13T21:19:43.295139+08:00",
+  "total_titles_processed": 1755,
   "failed_sources": [],
   "trends": [
     {
@@ -123,7 +123,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -142,7 +142,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
@@ -223,6 +223,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "人工智能初创公司Legora正进行谈判，寻求将估值提升两倍至60亿美元。",
+          "url": "https://flash.jin10.com/detail/20260213210044505800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
           "title": "Vital Knowledge分析师亚当·克里萨富利（Adam Crisafulli）认为：人工智能（AI）正在“摧毁那些面临被颠覆风险的传统行业的股价”。 虽然最初的担忧始于软件和服务行业，但现在运输行业也正受到冲击。",
           "url": "https://wallstreetcn.com/livenews/3054661",
           "source": "华尔街见闻-快讯",
@@ -263,8 +274,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时01分 ~ 19时38分]"
+          "appearance_count": 8,
+          "time_info": "[13时01分 ~ 21时19分]"
         },
         {
           "title": "农民工送女儿最暖过年礼物",
