@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T06:42:30.236620+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-02-14T07:39:09.150289+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
@@ -70,11 +70,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 06时42分]"
+          "appearance_count": 3,
+          "time_info": "[05时46分 ~ 07时39分]"
         },
         {
           "title": "据知情人士透露，随着现金日益紧张，汽车零部件制造商First Brands Group及其部分债权人正考虑将旗下部分业务转入《破产法》第7章清算程序。此举可能使其得以出售部分资产，并削减已消耗其破产贷款的顾问费用。",
@@ -84,8 +85,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时50分 ~ 06时42分]"
+          "appearance_count": 4,
+          "time_info": "[04时50分 ~ 07时39分]"
         }
       ]
     },
