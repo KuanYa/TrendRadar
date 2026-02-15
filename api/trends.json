@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T21:09:11.406779+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-02-15T22:37:00.151632+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时57分 ~ 21时09分]"
+          "appearance_count": 14,
+          "time_info": "[10时57分 ~ 22时37分]"
         },
         {
           "title": "市场消息：以色列将出席2026年印度人工智能影响峰会，加强科技合作。",
@@ -29,11 +29,12 @@
             7,
             8,
             11,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时47分 ~ 21时09分]"
+          "appearance_count": 7,
+          "time_info": "[15时47分 ~ 22时37分]"
         },
         {
           "title": "市场消息：法国总统马克龙将出席下周在印度举行的人工智能峰会。",
@@ -44,11 +45,12 @@
             8,
             9,
             12,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时47分 ~ 21时09分]"
+          "appearance_count": 7,
+          "time_info": "[15时47分 ~ 22时37分]"
         },
         {
           "title": "习近平：要坚持创新驱动 深化拓展“人工智能+”",
@@ -86,11 +88,12 @@
           "url": "https://wallstreetcn.com/livenews/3055622",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 22时37分]"
         },
         {
           "title": "00 年代也有互联网与搜索引擎，为啥人工智能（AI）在 20 年代才达到现在这种水平？",
@@ -130,8 +133,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时02分 ~ 21时09分]"
+          "appearance_count": 13,
+          "time_info": "[13时02分 ~ 22时37分]"
         },
         {
           "title": "比亚迪、吉利或竞购墨西哥工厂，乘联分会崔东树：墨西哥为2025年中国汽车第一大出口国",
@@ -155,11 +158,26 @@
             11,
             16,
             19,
-            26
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时47分 ~ 22时37分]"
+        },
+        {
+          "title": "新国标拟增加汽车实体操纵件相关要求，工信部公开征求意见",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32616242",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时47分 ~ 21时09分]"
+          "time_info": "[18时36分 ~ 22时37分]"
         },
         {
           "title": "新国标拟增加汽车实体操纵件相关要求 工业和信息化部公开征求意见",
@@ -199,35 +217,24 @@
             4,
             8,
             11,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时41分 ~ 21时09分]"
-        },
-        {
-          "title": "新国标拟增加汽车实体操纵件相关要求，工信部公开征求意见",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32616242",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时36分 ~ 21时09分]"
+          "appearance_count": 5,
+          "time_info": "[17时41分 ~ 22时37分]"
         },
         {
           "title": "即将春节了，在不改变发动机硬件的前提下，有没有什么汽车养护策略？",
           "url": "https://www.zhihu.com/question/2006141796971983323",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时08分 ~ 21时09分]"
+          "appearance_count": 4,
+          "time_info": "[21时08分 ~ 22时37分]"
         }
       ]
     }
