@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-02-16T05:33:35.637872+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-02-16T06:34:28.641535+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
+          "url": "https://www.cls.cn/detail/2290485",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时34分]"
+        },
+        {
+          "title": "黑龙江：打造“人工智能＋”数据共享新场景",
+          "url": "https://wallstreetcn.com/livenews/3055622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 06时34分]"
+        },
+        {
+          "title": "英国首相斯塔默：将收紧现有网络安全法规，确保人工智能聊天机器人提供商被牢牢纳入监管范围。",
+          "url": "https://flash.jin10.com/detail/20260216062831291800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        }
+      ]
+    },
     {
       "keyword_group": "汽车",
       "match_count": 3,
@@ -17,8 +56,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 05时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时34分]"
         },
         {
           "title": "平台数据显示 26 年 1 月汽车上险量，比亚迪仅有 6.8 万，同比暴跌 62%，排名滑落到第四，到底是什么原因？",
@@ -32,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 05时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 06时34分]"
         },
         {
           "title": "小鹏汽车亮相联合国WP.29自动驾驶系统第19次非正式工作组会议",
@@ -43,36 +82,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 05时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
-          "url": "https://www.cls.cn/detail/2290485",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 05时33分]"
-        },
-        {
-          "title": "黑龙江：打造“人工智能＋”数据共享新场景",
-          "url": "https://wallstreetcn.com/livenews/3055622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 05时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 06时34分]"
         }
       ]
     }
