@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T02:50:00.838518+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2026-02-16T03:34:13.916924+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 03时34分]"
         },
         {
           "title": "平台数据显示 26 年 1 月汽车上险量，比亚迪仅有 6.8 万，同比暴跌 62%，排名滑落到第四，到底是什么原因？",
@@ -26,11 +27,12 @@
           "ranks": [
             6,
             12,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 03时34分]"
         },
         {
           "title": "小鹏汽车亮相联合国WP.29自动驾驶系统第19次非正式工作组会议",
@@ -40,8 +42,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 03时34分]"
         }
       ]
     },
@@ -57,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 03时34分]"
         },
         {
           "title": "黑龙江：打造“人工智能＋”数据共享新场景",
@@ -68,8 +70,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 03时34分]"
         }
       ]
     }
