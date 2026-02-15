@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-15T13:02:27.277290+08:00",
-  "total_titles_processed": 713,
+  "generated_at": "2026-02-15T15:01:21.483897+08:00",
+  "total_titles_processed": 813,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 4,
       "titles": [
-        {
-          "title": "00 年代也有互联网与搜索引擎，为啥人工智能（AI）在 20 年代才达到现在这种水平？",
-          "url": "https://www.zhihu.com/question/1927393488770692768",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
         {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
           "url": "https://www.cls.cn/detail/2290485",
@@ -27,8 +16,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 15时01分]"
+        },
+        {
+          "title": "00 年代也有互联网与搜索引擎，为啥人工智能（AI）在 20 年代才达到现在这种水平？",
+          "url": "https://www.zhihu.com/question/1927393488770692768",
+          "source": "知乎",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时57分 ~ 13时02分]"
+          "time_info": "[13时02分 ~ 15时01分]"
         },
         {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
@@ -36,11 +37,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 15时01分]"
         },
         {
           "title": "据Fortune：Korn Ferry的一份报告显示，有37%的企业计划用人工智能取代应届生岗位。",
@@ -49,7 +51,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         }
@@ -76,11 +78,12 @@
           "url": "https://www.zhihu.com/question/2005295793721081957",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 15时01分]"
         }
       ]
     }
