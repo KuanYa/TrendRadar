@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T06:38:39.442255+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-02-17T07:38:34.327910+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 06时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 07时38分]"
         },
         {
           "title": "高盛：人工智能基建热潮引爆亚洲股市，对冲基金扫货力度创近十年之最",
@@ -66,11 +66,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时37分 ~ 06时38分]"
+          "appearance_count": 3,
+          "time_info": "[05时37分 ~ 07时38分]"
         },
         {
           "title": "英媒：欧盟推动汽车供应链本土化 电动车70%零部件须“欧洲制造”",
