@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T21:23:00.121993+08:00",
-  "total_titles_processed": 1492,
+  "generated_at": "2026-02-17T22:56:31.228436+08:00",
+  "total_titles_processed": 1618,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时56分 ~ 21时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时56分 ~ 22时56分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
@@ -25,11 +25,12 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时01分 ~ 21时23分]"
+          "appearance_count": 11,
+          "time_info": "[13时01分 ~ 22时56分]"
         },
         {
           "title": "市场消息：花旗集团建议增持英伟达(NVDA.O)，预计随着人工智能需求在2027年前景明朗，该股在2026年下半年将跑赢大盘。",
@@ -38,7 +39,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -119,7 +120,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
@@ -196,7 +197,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         },
