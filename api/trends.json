@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T06:43:06.499620+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-02-18T07:38:26.427873+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 06时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 07时38分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
@@ -218,7 +218,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
         },
