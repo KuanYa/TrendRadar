@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T19:50:59.148742+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2026-02-17T21:23:00.121993+08:00",
+  "total_titles_processed": 1492,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时56分 ~ 19时50分]"
+          "appearance_count": 20,
+          "time_info": "[00时56分 ~ 21时23分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
@@ -28,8 +28,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时01分 ~ 19时50分]"
+          "appearance_count": 10,
+          "time_info": "[13时01分 ~ 21时23分]"
+        },
+        {
+          "title": "市场消息：花旗集团建议增持英伟达(NVDA.O)，预计随着人工智能需求在2027年前景明朗，该股在2026年下半年将跑赢大盘。",
+          "url": "https://flash.jin10.com/detail/20260217205027653800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "高盛：人工智能基建热潮引爆亚洲股市，对冲基金扫货力度创近十年之最",
@@ -102,6 +113,17 @@
           "time_info": "10时49分"
         },
         {
+          "title": "法国总统马克龙：我们需要更好地监管人工智能和社交网络。我们需要更透明的算法，还需要保护我们的年轻人。",
+          "url": "https://flash.jin10.com/detail/20260217202702283800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "印孚瑟斯：将为各公司开发并交付先进企业人工智能解决方案。",
           "url": "https://flash.jin10.com/detail/20260217120631433800",
           "source": "金十数据",
@@ -166,6 +188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
+        },
+        {
+          "title": "印度总理莫迪：印度和法国将启动人工智能医疗、数字科学技术中心以及国家航空技能培训中心。",
+          "url": "https://flash.jin10.com/detail/20260217201858600800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "市场消息：联合利华与谷歌云达成五年合作，将使用谷歌云的先进人工智能、数据和平台。",
@@ -265,7 +298,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
