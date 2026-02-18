@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-02-19T01:17:43.965053+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-02-19T03:07:36.382092+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
+          "url": "https://www.cls.cn/detail/2290769",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 03时07分]"
+        },
+        {
+          "title": "芯片初创公司Efficient Computer筹集6000万美元，用于推进面向人工智能的节能通用处理器。",
+          "url": "https://flash.jin10.com/detail/20260219000243239800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美国财政部：2月份财政部将陆续发布一套与业界及联邦、州级监管合作伙伴共同开发的六项资源，旨在确保人工智能在整个美国金融体系中的安全性和韧性。",
+          "url": "https://flash.jin10.com/detail/20260219021132913800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        }
+      ]
+    },
     {
       "keyword_group": "汽车",
       "match_count": 3,
@@ -16,8 +55,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 03时07分]"
         },
         {
           "title": "法国汽车零部件供应商佛瑞亚（FRVIA.FP）获得一份多年期项目，将向奇瑞旗下智界供应数十万套座椅。 价值数亿欧元，计划2026年8月份开始生产。",
@@ -26,7 +65,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -40,34 +79,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
-          "url": "https://www.cls.cn/detail/2290769",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 01时17分]"
-        },
-        {
-          "title": "芯片初创公司Efficient Computer筹集6000万美元，用于推进面向人工智能的节能通用处理器。",
-          "url": "https://flash.jin10.com/detail/20260219000243239800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
         }
       ]
     }
