@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T15:12:06.178617+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2026-02-18T16:57:59.191223+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 15时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时01分 ~ 16时57分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
@@ -99,7 +99,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -294,8 +294,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 15时12分]"
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 16时57分]"
         },
         {
           "title": "周二（2月17日）纽约尾盘，彭博电动汽车价格回报指数跌0.36%，报3612.03点，全天处于下跌状态，美股开盘后短线跳水至3591.48点、随后逐步收复这一波失地。 成分股中，EVgo目前跌约7.9%，“特斯拉劲敌”Rivian跌6.8%，Lucid集团跌3.7%，普拉格动力跌3.4%，MobilEye Global Inc.则涨1.5%，美国雅宝涨2.3%，禾赛科技涨4.6%。",
@@ -307,6 +307,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印度外交部发言人：印度总理莫迪今日与塞尔维亚总统在“人工智能影响峰会”的间隙举行了双边会谈。两位领导人探讨了加强双边在贸易与投资、人工智能、金融科技、教育、农业、旅游以及人文交流等方面合作的途径。他们还就双方共同关心的地区及全球性问题交换了意见。",
+          "url": "https://flash.jin10.com/detail/20260218161742110800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         }
       ]
     },
