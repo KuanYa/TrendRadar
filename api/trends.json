@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T16:57:13.345076+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-02-19T18:01:06.322993+08:00",
+  "total_titles_processed": 1419,
   "failed_sources": [],
   "trends": [
     {
@@ -70,11 +70,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 16时57分]"
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 18时01分]"
         },
         {
           "title": "据华尔街日报：Meta启动两份超级协议，以应对人工智能（AI）勒索。",
@@ -293,6 +294,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农民",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "拜耳：美国总统关于草甘膦的《国防生产法》行政命令凸显了农民必须能够获得草甘膦的迫切需求。",
+          "url": "https://flash.jin10.com/detail/20260219172908986800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
         }
       ]
     },
