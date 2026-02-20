@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T21:17:24.199416+08:00",
-  "total_titles_processed": 1559,
+  "generated_at": "2026-02-20T22:50:35.689765+08:00",
+  "total_titles_processed": 1691,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国两大人工智能巨头CEO拒绝牵手",
@@ -107,9 +107,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时17分"
+        },
+        {
+          "title": "OpenAI的200人团队正在开发人工智能设备，包括一款智能音箱。",
+          "url": "https://flash.jin10.com/detail/20260220220314778800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "美联储戴利：劳动力市场比以前更加低迷，因此看不到来自人工智能资本支出的通胀风险。",
@@ -170,7 +181,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "一载有8人汽车在贝加尔湖沉没",
@@ -182,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "春节新能源汽车高速充电大增",
+          "url": "https://www.douyin.com/hot/2407147",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "我使馆：一名中国游客在贝加尔湖汽车落水事故中获救",
@@ -230,8 +252,19 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 22时50分]"
+        },
+        {
+          "title": "载8名中国游客汽车在贝加尔湖落水，目前仅一名中国游客获救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32636440",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时39分 ~ 21时17分]"
+          "time_info": "[21时17分 ~ 22时50分]"
         },
         {
           "title": "汽车坠入俄贝加尔湖 7名中国游客遇难",
@@ -243,17 +276,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
-        },
-        {
-          "title": "载8名中国游客汽车在贝加尔湖落水，目前仅一名中国游客获救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32636440",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
         },
         {
           "title": "俄侦委会：一辆载有8人的汽车在贝加尔湖沉没",
@@ -276,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "载 8 名中国游客汽车因冰面破裂在贝加尔湖沉没，7 名中国游客溺亡，事故具体是如何发生的？",
+          "url": "https://www.zhihu.com/question/2008248751752438816",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "科技汽车就选鸿蒙智行",
