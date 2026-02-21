@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T01:33:36.216135+08:00",
-  "total_titles_processed": 335,
+  "generated_at": "2026-02-22T02:49:20.429868+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时49分]"
         },
         {
           "title": "美国国家公路交通安全管理局（NHTSA）：丰田汽车召回4,374辆美国车辆。",
@@ -26,8 +26,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时49分]"
         }
       ]
     }
