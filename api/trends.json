@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T12:44:32.129981+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-02-21T13:50:50.888016+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             6,
             7,
             8,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 12时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 13时50分]"
         },
         {
           "title": "中国游客汽车在俄落水7人遇难",
