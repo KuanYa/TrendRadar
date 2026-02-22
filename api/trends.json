@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T05:33:30.311491+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-02-23T06:34:54.027570+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
@@ -15,22 +15,24 @@
             10,
             13,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 05时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 06时34分]"
         },
         {
           "title": "市场消息：由于天气原因，原定于明日举行的美国众议院农业委员会农业法案审议会议已推迟至3月3日当周举行。",
           "url": "https://flash.jin10.com/detail/20260223041232981800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时34分]"
         }
       ]
     },
@@ -43,11 +45,12 @@
           "url": "https://flash.jin10.com/detail/20260223042917658800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时34分]"
         }
       ]
     }
