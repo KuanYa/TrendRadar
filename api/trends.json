@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T06:34:54.027570+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-02-23T07:35:20.512395+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             13,
             19,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 06时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 07时35分]"
         },
         {
           "title": "市场消息：由于天气原因，原定于明日举行的美国众议院农业委员会农业法案审议会议已推迟至3月3日当周举行。",
