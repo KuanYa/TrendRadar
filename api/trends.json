@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T07:35:20.512395+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-02-23T10:53:04.957228+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
@@ -39,7 +39,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "苹果(AAPL.O)CEO库克暗示，苹果的下一个重大突破是视觉人工智能。",
@@ -52,6 +52,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时34分]"
+        },
+        {
+          "title": "人工智能热潮提振芯片需求 韩国出口延续强劲势头",
+          "url": "https://flash.jin10.com/detail/20260223084535159800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "有博主说汽车后备箱最怕「米酒、海鲜、菜籽油」洒出来，味道祛除不掉，这是真的吗？",
+          "url": "https://www.zhihu.com/question/2005389727063303883",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 10时53分]"
+        },
+        {
+          "title": "韩汽车数据研究所：韩国二三十岁人群新车购买率去年跌至十年最低",
+          "url": "https://flash.jin10.com/detail/20260223095909289800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         }
       ]
     }
