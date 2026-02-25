@@ -1,416 +1,72 @@
 {
-  "generated_at": "2026-02-25T22:59:53.064378+08:00",
-  "total_titles_processed": 1761,
+  "generated_at": "2026-02-26T00:27:10.425860+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 22,
+      "match_count": 4,
       "titles": [
         {
-          "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
-          "url": "https://www.cls.cn/detail/2293337",
-          "source": "财联社热门",
+          "title": "美联储Barkin：利率政策无法解决人工智能（AI）造成的干扰。",
+          "url": "https://wallstreetcn.com/livenews/3058971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "美联储巴尔金：美联储职责范围有限，可或许并不能解决在人工智能环境下企业兴衰起伏所引发的问题。",
+          "url": "https://flash.jin10.com/detail/20260225235955003800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 06时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时27分"
         },
         {
-          "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
-          "url": "https://www.cls.cn/detail/2293574",
-          "source": "财联社热门",
+          "title": "美联储巴尔金：人工智能也将为工人提供从事更高技能工作的机会。",
+          "url": "https://flash.jin10.com/detail/20260225234255418800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时41分]"
-        },
-        {
-          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
-          "url": "https://www.zhihu.com/question/41253586",
-          "source": "知乎",
-          "ranks": [
-            8,
-            16,
             12
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 06时42分]"
-        },
-        {
-          "title": "路透调查：标普500指数有望在年底前上涨10%，但贸易争端及人工智能带来的颠覆性影响仍存担忧。",
-          "url": "https://flash.jin10.com/detail/20260225013522039800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "城堡证券反驳Citrini报告 认为人工智能不太可能引发大规模失业",
-          "url": "https://wallstreetcn.com/livenews/3058897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时25分 ~ 22时59分]"
-        },
-        {
-          "title": "德银与高盛寻求借助人工智能“盯防”交易员不当行为",
-          "url": "https://wallstreetcn.com/livenews/3058893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时25分 ~ 22时59分]"
-        },
-        {
-          "title": "Vital Knowledge的Adam Crisafulli在研报中写道：Anthropic对合作的重视缓解了市场的担忧，因为它强调了Claude如何整合进而非取代现有系统。 Anthropic传递的“我们是来帮忙而不是伤人”的信息帮助激发了软件板块相当健康的反弹，而这或许是整个市场中最遭人恨的领域。 软件股尤其受到关注，因为投资者几个月来出于对人工智能（AI）潜在颠覆性冲击的担心一直在抛售。",
-          "url": "https://wallstreetcn.com/livenews/3058369",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 07时41分]"
-        },
-        {
-          "title": "Brandywine 全球投资管理公司基金经理杰克·麦金太尔（Jack McIntyre）：（对于美联储利率政策前景）问题在于，人工智能（AI）将如何引发通胀，也许长端利率曲线已经察觉到了这一切。 AI唯一的通胀因素在于数据中心的建设及其相关的能源需求，而这一点已经是已知信息。",
-          "url": "https://wallstreetcn.com/livenews/3058363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 07时41分]"
-        },
-        {
-          "title": "美联储巴尔金：不认为人工智能会导致经济出现剧烈变化。",
-          "url": "https://flash.jin10.com/detail/20260225045511582800",
-          "source": "金十数据",
-          "ranks": [
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时03分 ~ 06时42分]"
-        },
-        {
-          "title": "美联储柯林斯：到目前为止，人工智能一直在增强而非取代劳动力。",
-          "url": "https://flash.jin10.com/detail/20260225045310493800",
-          "source": "金十数据",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时03分 ~ 06时42分]"
-        },
-        {
-          "title": "美联储柯林斯：对人工智能的经济影响持谨慎乐观态度。",
-          "url": "https://flash.jin10.com/detail/20260225045214349800",
-          "source": "金十数据",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时03分 ~ 06时42分]"
-        },
-        {
-          "title": "惠普(HPQ.N)CFO：第一季度搭载人工智能技术的个人电脑占总出货量的35%，高于上一季度的30%。",
-          "url": "https://flash.jin10.com/detail/20260225064530677800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "戴尔(DELL.N)推出PowerEdge XR9700服务器，面向云无线接入网 (Cloud RAN) 和边缘人工智能 (Edge AI) 。",
-          "url": "https://flash.jin10.com/detail/20260225222134762800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "00时27分"
         },
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-02-25）",
-          "url": "https://flash.jin10.com/detail/20260225120311650800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "市场消息：墨西哥选举改革将要求在竞选活动中对人工智能生成内容进行标识。",
-          "url": "https://flash.jin10.com/detail/20260225220244476800",
+          "title": "美联储巴尔金在谈及人工智能时表示，不应立即跳到人们将被取代的结论。",
+          "url": "https://flash.jin10.com/detail/20260225234235610800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "Anthropic的Claude AI模型产品负责人Scott White：公司的目标是消除人们使用人工智能（AI）回答工作相关查询的方式与他们从事具体工作所用的工具之间的隔阂。 将市场表现与单一产品发布联系起来“有点过度解读或反应过度了”，公司的AI模型正在帮助企业客户实现增长。",
-          "url": "https://wallstreetcn.com/livenews/3058226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "IBM：人工智能正在加速网络攻击。",
-          "url": "https://flash.jin10.com/detail/20260225160317406800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "普华永道美国将部署Anthropic企业级人工智能插件",
-          "url": "https://wallstreetcn.com/livenews/3058221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "荷兰国际：逃离人工智能动荡的投资者可能转向欧元债券",
-          "url": "https://flash.jin10.com/detail/20260225214840051800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "摩根士丹利：人工智能恐慌为选股者带来机遇",
-          "url": "https://flash.jin10.com/detail/20260225205413823800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时25分"
-        },
-        {
-          "title": "美联储巴尔金：人工智能将成为提高生产率的又一驱动因素。",
-          "url": "https://flash.jin10.com/detail/20260225044854977800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "美联储巴尔金：生产率提升并非仅源于人工智能。",
-          "url": "https://flash.jin10.com/detail/20260225044639286800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
+          "time_info": "00时27分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "比亚迪加入、马年“金融战”再开打！超二十家汽车品牌力推七年低息贷款",
-          "url": "https://www.cls.cn/detail/2294647",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时58分 ~ 22时59分]"
-        },
-        {
-          "title": "飞行汽车来了 一次亮相4款",
-          "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E6%9D%A5%E4%BA%86+%E4%B8%80%E6%AC%A1%E4%BA%AE%E7%9B%B84%E6%AC%BE",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            25,
-            22,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 07时41分]"
-        },
-        {
-          "title": "世贸组织：专家组将审查印度对电池和电动汽车的措施。 美国对税收抵免报告提出上诉。",
-          "url": "https://wallstreetcn.com/livenews/3058239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "宝马集团董事长齐普策随德国总理访华：全球紧密协作才能促进汽车产业繁荣共享",
-          "url": "https://wallstreetcn.com/livenews/3058928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "河南发布2026年汽车以旧换新补贴细则，最高补贴2万元",
-          "url": "https://wallstreetcn.com/livenews/3058738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
-          "url": "https://wallstreetcn.com/livenews/3058334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 06时03分]"
-        },
-        {
-          "title": "福建省印发2026年汽车以旧换新实施细则，最高补贴1.5万元",
-          "url": "https://wallstreetcn.com/livenews/3058733",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "恒生科技指数日内涨幅扩大至1%，小鹏汽车涨超3%，华虹半导体涨2%。",
-          "url": "https://wallstreetcn.com/livenews/3058455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农民",
       "match_count": 1,
       "titles": [
         {
-          "title": "弗吉尼亚州州长斯潘伯格：家庭、农民和企业正遭受关税之苦。",
-          "url": "https://flash.jin10.com/detail/20260225122337280800",
+          "title": "纳斯达克中国金龙指数最新下跌1%，小鹏汽车(XPEV.N)跌超3%，小牛电动(NIU.O)、中通快递(ZTO.N)跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260225234124110800",
           "source": "金十数据",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "农业农村部：下一步将统筹建立常态化防止返贫致贫机制，把常态化帮扶纳入乡村振兴战略统筹实施",
-          "url": "https://wallstreetcn.com/livenews/3058923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大豆",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "芝加哥大豆期货涨0.4%，纽约可可期货一度跌穿3000美元整数位心理关口",
-          "url": "https://wallstreetcn.com/livenews/3058319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "00时27分"
         }
       ]
     }
