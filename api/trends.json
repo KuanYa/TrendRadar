@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T21:16:58.027398+08:00",
-  "total_titles_processed": 1786,
+  "generated_at": "2026-02-27T22:49:59.711358+08:00",
+  "total_titles_processed": 1920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "两会前瞻｜围绕人工智能发展，代表委员将带来哪些建议？",
@@ -214,6 +214,17 @@
           "time_info": "10时44分"
         },
         {
+          "title": "OpenAI创始人奥尔特曼：不认为美国应该对人工智能公司实施数据保护法案的威胁。",
+          "url": "https://flash.jin10.com/detail/20260227215941059800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
           "title": "Anthropic：美国国防部表示，他们只会与那些同意“任何合法用途”并移除安全机制的人工智能公司签订合同。",
           "url": "https://flash.jin10.com/detail/20260227063933000800",
           "source": "金十数据",
@@ -223,6 +234,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "美国防部：愿在截止日期前与 Anthropic 开展人工智能相关讨论",
+          "url": "https://flash.jin10.com/detail/20260227215841312800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "谷歌：在谷歌翻译中推出全新人工智能驱动功能。",
@@ -343,7 +365,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -376,7 +398,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
