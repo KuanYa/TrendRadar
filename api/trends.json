@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T19:39:46.275533+08:00",
-  "total_titles_processed": 1664,
+  "generated_at": "2026-02-27T21:16:58.027398+08:00",
+  "total_titles_processed": 1786,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             17,
             15,
             14,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时44分 ~ 19时39分]"
+          "appearance_count": 9,
+          "time_info": "[10时44分 ~ 21时16分]"
         },
         {
           "title": "据The Information：谷歌已成立一家合资企业，旨在将其张量处理单元租赁给其他人工智能客户。",
@@ -271,7 +272,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "2025全球汽车销量TOP10出炉！中国品牌“三强聚首” 比亚迪排名创新高",
@@ -336,6 +337,17 @@
           "time_info": "13时59分"
         },
         {
+          "title": "雷军谈小米汽车电池工厂：希望将先进电池制造能力复制给整个产业链",
+          "url": "https://wallstreetcn.com/livenews/3060310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "韩国国土部：现代汽车集团将投资1万亿韩元建设氢气生产设施，另投资1.3万亿韩元建设太阳能发电设施。",
           "url": "https://flash.jin10.com/detail/20260227100837881800",
           "source": "金十数据",
@@ -356,6 +368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
+        },
+        {
+          "title": "小米汽车：将筹建安全顾问委员会及公众安全沟通机制",
+          "url": "https://wallstreetcn.com/livenews/3060301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "韩国国土部：现代汽车集团将投资4000亿韩元建厂生产机器人。",
