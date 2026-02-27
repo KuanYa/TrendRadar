@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T22:49:59.711358+08:00",
-  "total_titles_processed": 1920,
+  "generated_at": "2026-02-27T23:46:03.157531+08:00",
+  "total_titles_processed": 2017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "两会前瞻｜围绕人工智能发展，代表委员将带来哪些建议？",
@@ -102,6 +102,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "英国《金融时报》近日爆料称，美国国防部正在寻求美国人工智能企业的合作，以研发出可以对中国的电网等关键基础设施实施攻击的智能化网络战工具。（环球时报）",
+          "url": "https://wallstreetcn.com/livenews/3060391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "杰夫·贝佐斯斥资300亿美元打造的人工智能实验室正寻求数百亿美元的工业领域交易。",
@@ -203,6 +214,17 @@
           "time_info": "00时01分"
         },
         {
+          "title": "Block飙涨20%，创2024年2月份以来最大盘中涨幅，该公司宣布裁员将近一半。 信用卡概念股走低，Block大规模裁员计划引发人工智能（AI）顾虑。 美国运通跌约5%，Capital One跌4.7%，Synchrony Financial跌3.9%。 Truist’s Brian Finneran告诉其客户，鉴于Block业绩和裁员安排，市场抛售一切与信用（卡）敏感的资产，鉴于白领群体的失业风险——专家们更侧重于关注美国运通。",
+          "url": "https://wallstreetcn.com/livenews/3060377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "韩国国土部：现代汽车集团将投资5.8万亿韩元建设人工智能数据中心。",
           "url": "https://flash.jin10.com/detail/20260227100642644800",
           "source": "金十数据",
@@ -220,7 +242,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -242,7 +264,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -294,7 +316,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "2025全球汽车销量TOP10出炉！中国品牌“三强聚首” 比亚迪排名创新高",
@@ -346,6 +368,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时53分 ~ 17时54分]"
+        },
+        {
+          "title": "新能源汽车开征“里程税”？多地回应",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%BE%81%E2%80%9C%E9%87%8C%E7%A8%8B%E7%A8%8E%E2%80%9D%EF%BC%9F%E5%A4%9A%E5%9C%B0%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时45分 ~ 23时46分]"
         },
         {
           "title": "韩国首尔综指转涨，收复早盘2.4%的跌幅，因现代汽车持续上涨。",
@@ -467,6 +500,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "玉米",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "燃油夜盘收涨约4.7%，低硫燃油涨约4%，玉米、甲醇、沥青等涨超1%。 豆粕、豆油、豆二、玻璃、苯乙烯、焦炭夜盘至多收跌0.31%，铁矿石跌0.33%，菜粕、棉纱、白糖、焦煤至多跌0.42%，烧碱、纸浆、豆一、橡胶、20号胶至多跌0.94%。",
+          "url": "https://wallstreetcn.com/livenews/3060390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         }
       ]
     },
