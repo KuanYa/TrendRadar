@@ -1,540 +1,61 @@
 {
-  "generated_at": "2026-02-27T23:46:03.157531+08:00",
-  "total_titles_processed": 2017,
+  "generated_at": "2026-02-28T00:51:40.970264+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 27,
+      "match_count": 2,
       "titles": [
         {
-          "title": "两会前瞻｜围绕人工智能发展，代表委员将带来哪些建议？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660481",
-          "source": "澎湃新闻",
+          "title": "美国参议院民主党成员Kelly：（鉴于五角大楼与Anthropic的争端）国会山必须针对人工智能（AI）与保护美国民众采取行动。 Anthropic是“最具能力的供应商”。",
+          "url": "https://wallstreetcn.com/livenews/3060407",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            20,
-            17,
-            15,
-            14,
-            16,
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时44分 ~ 21时16分]"
-        },
-        {
-          "title": "据The Information：谷歌已成立一家合资企业，旨在将其张量处理单元租赁给其他人工智能客户。",
-          "url": "https://flash.jin10.com/detail/20260227071818270800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "据The Information：Meta公司已签署协议，租用谷歌的人工智能芯片——即TPU，用于开发新的人工智能模型。",
-          "url": "https://flash.jin10.com/detail/20260227071725621800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "韩国现代汽车集团：计划于2029年底建成人工智能数据中心和机器人工厂。",
-          "url": "https://flash.jin10.com/detail/20260227102921653800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "据AXIOS网站：美国参议员施茨计划提出两项人工智能劳动法案。",
-          "url": "https://flash.jin10.com/detail/20260227181526515800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时50分"
-        },
-        {
-          "title": "纳斯达克综合指数、纳斯达克100指数跌超2%。 标普500指数跌超1.2%，道指下跌超200点、跌幅超过0.4%。 半导体指数跌超4.6%，生物科技指数跌2%，罗素2000指数跌0.4%。 北美科技软件股指数ETF涨幅一度收窄至不足1.0%，Salesforce涨幅一度从3.9%收窄至1.5%。 人工智能（AI）基建概念股西部数据一度下跌大约7%，Lumentum控股一度跌约8.5%，希捷科技一度跌约6.7%。",
-          "url": "https://wallstreetcn.com/livenews/3059673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 01时14分]"
-        },
-        {
-          "title": "谷歌公司：在AI MAX的文本指引中扩大测试人员的接入权限。 在谷歌翻译中推出全新人工智能驱动功能。",
-          "url": "https://wallstreetcn.com/livenews/3059712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时04分 ~ 04时49分]"
-        },
-        {
-          "title": "据The Information：谷歌与Meta公司达成数十亿美元的人工智能芯片交易。",
-          "url": "https://flash.jin10.com/detail/20260227071645395800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
+          "time_info": "00时51分"
         },
         {
           "title": "英国《金融时报》近日爆料称，美国国防部正在寻求美国人工智能企业的合作，以研发出可以对中国的电网等关键基础设施实施攻击的智能化网络战工具。（环球时报）",
           "url": "https://wallstreetcn.com/livenews/3060391",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "杰夫·贝佐斯斥资300亿美元打造的人工智能实验室正寻求数百亿美元的工业领域交易。",
-          "url": "https://flash.jin10.com/detail/20260227131101938800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "瑞穗计划利用人工智能（AI）技术，才未来十年裁员5000个行政岗位。（日本读卖新闻）",
-          "url": "https://wallstreetcn.com/livenews/3059783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时42分"
-        },
-        {
-          "title": "谷歌公司在谷歌翻译中推出基于人工智能（AI）的功能。 谷歌与Mass. AI启动新款训练试点。",
-          "url": "https://wallstreetcn.com/livenews/3059781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时42分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-02-27）",
-          "url": "https://flash.jin10.com/detail/20260227115510603800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
-          "title": "周四（2月26日），存储芯片与硬件供应链指数跌2.34%，报113.55点。 信息科技指数跌0.71%，人工智能（AI）赢家指数跌2.17%，AI软件先驱指数涨1.95%。",
-          "url": "https://wallstreetcn.com/livenews/3059779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时42分"
-        },
-        {
-          "title": "标普：基于人工智能驱动的规模和增长增强，将美光科技(MU.O)评级上调至“bbb”，展望积极。",
-          "url": "https://flash.jin10.com/detail/20260227033606328800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "Ithina组建全球人工智能（AI）操作平台。",
-          "url": "https://wallstreetcn.com/livenews/3059658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "韩国国土部：人工智能数据中心将安装5万个GPU。",
-          "url": "https://flash.jin10.com/detail/20260227100739368800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "英伟达跌超3.5%。 人工智能（AI）基建概念股西部数据一度下跌5.1%，Lumentum控股跌5.6%，希捷科技一度跌约4.5%， 美光科技跌约3%；加拿大多伦多上市的Celestica Inc.跌5%。 标普500指数跌幅扩大至0.4%，纳指跌超0.8%，半导体指数跌2.88%。",
-          "url": "https://wallstreetcn.com/livenews/3059656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "Block飙涨20%，创2024年2月份以来最大盘中涨幅，该公司宣布裁员将近一半。 信用卡概念股走低，Block大规模裁员计划引发人工智能（AI）顾虑。 美国运通跌约5%，Capital One跌4.7%，Synchrony Financial跌3.9%。 Truist’s Brian Finneran告诉其客户，鉴于Block业绩和裁员安排，市场抛售一切与信用（卡）敏感的资产，鉴于白领群体的失业风险——专家们更侧重于关注美国运通。",
-          "url": "https://wallstreetcn.com/livenews/3060377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        },
-        {
-          "title": "韩国国土部：现代汽车集团将投资5.8万亿韩元建设人工智能数据中心。",
-          "url": "https://flash.jin10.com/detail/20260227100642644800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：不认为美国应该对人工智能公司实施数据保护法案的威胁。",
-          "url": "https://flash.jin10.com/detail/20260227215941059800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "Anthropic：美国国防部表示，他们只会与那些同意“任何合法用途”并移除安全机制的人工智能公司签订合同。",
-          "url": "https://flash.jin10.com/detail/20260227063933000800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "美国防部：愿在截止日期前与 Anthropic 开展人工智能相关讨论",
-          "url": "https://flash.jin10.com/detail/20260227215841312800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "谷歌：在谷歌翻译中推出全新人工智能驱动功能。",
-          "url": "https://flash.jin10.com/detail/20260227020416151800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "黑石集团CEO：对“实体经济”的投资可缓冲人工智能风险。",
-          "url": "https://flash.jin10.com/detail/20260226232042710800",
-          "source": "金十数据",
-          "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "据AXIOS：Anthropic拒绝了五角大楼在人工智能安全保障争端中提出的“最终报价”。",
-          "url": "https://flash.jin10.com/detail/20260227063252768800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "报道：五角大楼已就使用Anthropic人工智能技术发出最终报价",
-          "url": "https://wallstreetcn.com/livenews/3059645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "time_info": "00时51分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 16,
+      "match_count": 2,
       "titles": [
         {
-          "title": "2025全球汽车销量TOP10出炉！中国品牌“三强聚首” 比亚迪排名创新高",
-          "url": "https://www.cls.cn/detail/2296081",
-          "source": "财联社热门",
+          "title": "德国联邦机动车运输管理局（KBA）：宝马召回行动可能涉及全球337,374辆汽车，其中德国境内29,441辆。",
+          "url": "https://flash.jin10.com/detail/20260228004137520800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 07时39分]"
-        },
-        {
-          "title": "全球汽车销量前10出炉 中国3家上榜",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D10%E5%87%BA%E7%82%89+%E4%B8%AD%E5%9B%BD3%E5%AE%B6%E4%B8%8A%E6%A6%9C",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            23,
-            21,
-            13,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时44分 ~ 17时54分]"
-        },
-        {
-          "title": "现代汽车集团：计划于2029年底前完成AI数据中心及机器人工厂的建设。 计划投入5.8万亿韩元建设AI数据中心，该AI数据中心将安装50000块GPU。 将投入1万亿韩元建设氢气生产设施，并另投入1.3万亿韩元用于太阳能发电建设。",
-          "url": "https://wallstreetcn.com/livenews/3059948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "媒体评新能源汽车关灯惊魂",
-          "url": "https://www.toutiao.com/trending/7611438470594039339/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时54分]"
+          "time_info": "00时51分"
         },
         {
           "title": "新能源汽车开征“里程税”？多地回应",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%BE%81%E2%80%9C%E9%87%8C%E7%A8%8B%E7%A8%8E%E2%80%9D%EF%BC%9F%E5%A4%9A%E5%9C%B0%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时45分 ~ 23时46分]"
-        },
-        {
-          "title": "韩国首尔综指转涨，收复早盘2.4%的跌幅，因现代汽车持续上涨。",
-          "url": "https://wallstreetcn.com/livenews/3060004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "雷军谈小米汽车电池工厂：希望将先进电池制造能力复制给整个产业链",
-          "url": "https://wallstreetcn.com/livenews/3060310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "韩国国土部：现代汽车集团将投资1万亿韩元建设氢气生产设施，另投资1.3万亿韩元建设太阳能发电设施。",
-          "url": "https://flash.jin10.com/detail/20260227100837881800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "理想汽车：将于2026年3月12日公布2025年第四季度及全年财务业绩。",
-          "url": "https://wallstreetcn.com/livenews/3060163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "小米汽车：将筹建安全顾问委员会及公众安全沟通机制",
-          "url": "https://wallstreetcn.com/livenews/3060301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "韩国国土部：现代汽车集团将投资4000亿韩元建厂生产机器人。",
-          "url": "https://flash.jin10.com/detail/20260227100625017800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "1元秒杀11万元汽车商家拒发货",
-          "url": "https://s.weibo.com/weibo?q=%231%E5%85%83%E7%A7%92%E6%9D%8011%E4%B8%87%E5%85%83%E6%B1%BD%E8%BD%A6%E5%95%86%E5%AE%B6%E6%8B%92%E5%8F%91%E8%B4%A7%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "韩国国土部：现代汽车集团将于2026年起在韩国新万金地区投资约9万亿韩元。",
-          "url": "https://flash.jin10.com/detail/20260227100504632800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "恒指高开0.25%，报26447.05点；恒生科技指数涨0.15%。药明生物涨近5%，商汤涨超4%，腾讯音乐涨超3%，携程、小鹏汽车、理想汽车涨超1%。百度跌超1%，此前公布财报。",
-          "url": "https://wallstreetcn.com/livenews/3059902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "现代汽车集团：计划从2026年起，在韩国Saemangeum地区投入约9万亿韩元，其中，4,000亿韩元建设机器人工厂，5.8万亿韩元建设AI数据中心，1万亿韩元建设氢气生产设施，1.3万亿韩元用于太阳能发电建设。据悉，该AI数据中心将安装50000块GPU，计划2029年底前完成AI数据中心和机器人工厂的建设。",
-          "url": "https://wallstreetcn.com/livenews/3059948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
-          "title": "印度2025年新能源汽车年销量增长17%至逾240万辆",
-          "url": "https://wallstreetcn.com/livenews/3060100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "玉米",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "燃油夜盘收涨约4.7%，低硫燃油涨约4%，玉米、甲醇、沥青等涨超1%。 豆粕、豆油、豆二、玻璃、苯乙烯、焦炭夜盘至多收跌0.31%，铁矿石跌0.33%，菜粕、棉纱、白糖、焦煤至多跌0.42%，烧碱、纸浆、豆一、橡胶、20号胶至多跌0.94%。",
-          "url": "https://wallstreetcn.com/livenews/3060390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大豆",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "芝加哥小麦期货涨超0.7%，大豆油涨1.7%",
-          "url": "https://wallstreetcn.com/livenews/3059759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时40分 ~ 06时42分]"
+          "time_info": "00时51分"
         }
       ]
     }
