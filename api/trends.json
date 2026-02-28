@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-03-01T04:35:25.933171+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-03-01T05:31:11.705048+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "加拿大总理卡尼：加拿大和印度都是正在发展的经济体，在能源、科技和人工智能领域有着雄心壮志。我和塔塔集团主席在孟买会面，讨论我们两国如何在这些领域合作，为两国人民创造更大的安全和繁荣。",
+          "url": "https://flash.jin10.com/detail/20260301011542582800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "OpenAI 就与美国国防部的协议表态：在法律、法规或部门政策要求人类控制的情况下，人工智能系统不会被用于独立指挥自主武器。",
+          "url": "https://flash.jin10.com/detail/20260301045230715800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "OpenAI就与美国国防部的协议表示，人工智能系统不得用于对美国公民隐私信息的无限制监控。除非适用法律允许，该系统也不得用于国内执法活动。",
+          "url": "https://flash.jin10.com/detail/20260301044943651800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        }
+      ]
+    },
     {
       "keyword_group": "汽车",
       "match_count": 2,
@@ -15,8 +54,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 04时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时36分 ~ 05时31分]"
         },
         {
           "title": "多地辟谣新能源汽车开征里程税",
@@ -26,8 +65,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 04时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时36分 ~ 05时31分]"
         }
       ]
     },
@@ -45,23 +84,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时36分 ~ 01时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "加拿大总理卡尼：加拿大和印度都是正在发展的经济体，在能源、科技和人工智能领域有着雄心壮志。我和塔塔集团主席在孟买会面，讨论我们两国如何在这些领域合作，为两国人民创造更大的安全和繁荣。",
-          "url": "https://flash.jin10.com/detail/20260301011542582800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
         }
       ]
     }
