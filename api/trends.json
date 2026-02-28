@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T15:35:29.650419+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-02-28T16:39:40.758076+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
@@ -200,11 +200,26 @@
             7,
             6,
             8,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时33分 ~ 15时35分]"
+          "appearance_count": 7,
+          "time_info": "[10时33分 ~ 16时39分]"
+        },
+        {
+          "title": "成都小米SU7事故细节进一步曝光，小米汽车再陷安全争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32664749",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时33分 ~ 16时39分]"
         },
         {
           "title": "手机集体涨价后 汽车会是下一个吗",
@@ -216,20 +231,6 @@
             13,
             17,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时33分 ~ 15时35分]"
-        },
-        {
-          "title": "成都小米SU7事故细节进一步曝光，小米汽车再陷安全争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32664749",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            12,
-            14
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -373,6 +374,19 @@
           "time_info": "13时39分"
         },
         {
+          "title": "河南内乡县通报“居民去农业农村局上厕所被骂”：责成处理涉事人员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32668798",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时39分 ~ 16时39分]"
+        },
+        {
           "title": "特朗普政府表示，在额外获得2亿美元资金后，对新型农业实践研究的投入将超过10亿美元。",
           "url": "https://flash.jin10.com/detail/20260228041113668800",
           "source": "金十数据",
@@ -383,18 +397,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时38分 ~ 05时37分]"
-        },
-        {
-          "title": "河南内乡县通报“居民去农业农村局上厕所被骂”：责成处理涉事人员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32668798",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时39分 ~ 15时35分]"
         }
       ]
     },
