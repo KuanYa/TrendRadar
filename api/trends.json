@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T14:52:12.866932+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2026-02-28T15:35:29.650419+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
@@ -155,7 +155,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -203,8 +203,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 14时52分]"
+          "appearance_count": 6,
+          "time_info": "[10时33分 ~ 15时35分]"
         },
         {
           "title": "手机集体涨价后 汽车会是下一个吗",
@@ -214,23 +214,12 @@
             4,
             10,
             13,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 14时52分]"
-        },
-        {
-          "title": "小米展示新一代SU7汽车机械门把手",
-          "url": "https://www.toutiao.com/trending/7611078565454695942/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时39分 ~ 14时52分]"
+          "appearance_count": 6,
+          "time_info": "[10时33分 ~ 15时35分]"
         },
         {
           "title": "成都小米SU7事故细节进一步曝光，小米汽车再陷安全争议",
@@ -239,11 +228,25 @@
           "ranks": [
             17,
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 14时52分]"
+          "appearance_count": 6,
+          "time_info": "[10时33分 ~ 15时35分]"
+        },
+        {
+          "title": "小米展示新一代SU7汽车机械门把手",
+          "url": "https://www.toutiao.com/trending/7611078565454695942/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时39分 ~ 15时35分]"
         },
         {
           "title": "深圳：支持汽车置换更新，购买新能源乘用车补贴车价的8%",
@@ -348,7 +351,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         }
@@ -386,11 +389,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32668798",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时39分 ~ 14时52分]"
+          "appearance_count": 4,
+          "time_info": "[13时39分 ~ 15时35分]"
         }
       ]
     },
