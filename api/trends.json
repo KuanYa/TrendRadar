@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T22:33:03.376971+08:00",
-  "total_titles_processed": 1725,
+  "generated_at": "2026-03-01T23:32:31.499232+08:00",
+  "total_titles_processed": 1803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "多地辟谣新能源汽车开征“里程税”",
@@ -186,6 +186,17 @@
           "time_info": "11时17分"
         },
         {
+          "title": "吉利汽车2月销量20.6万辆",
+          "url": "https://www.toutiao.com/trending/7611722125195444267/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "理想汽车：2026年2月交付26,421辆汽车。",
           "url": "https://flash.jin10.com/detail/20260301100058395800",
           "source": "金十数据",
@@ -298,7 +309,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         }
