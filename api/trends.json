@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T06:39:32.660272+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-03-04T07:35:48.784952+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时39分]"
+          "appearance_count": 3,
+          "time_info": "[05时42分 ~ 07时35分]"
         },
         {
           "title": "备忘录称，新成立的应用人工智能工程团队将由Reality Labs部门的萨巴领导。",
@@ -48,7 +49,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
         }
@@ -56,7 +57,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周二（3月3日）美股尾盘，彭博电动汽车价格回报指数跌4.68%，报3524.62点，整体持续下跌。",
@@ -69,6 +70,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时39分]"
+        },
+        {
+          "title": "据第三方市场调研机构Omdia：2月份美国轻型汽车销量为120万辆，年化销量为1575万辆。",
+          "url": "https://flash.jin10.com/detail/20260304063929107800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "丰田汽车北美公司：2026年2月美国汽车销量为180,950辆，新能源汽车销量为92,293辆。",
