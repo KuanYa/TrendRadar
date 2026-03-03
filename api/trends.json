@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T18:52:56.193398+08:00",
-  "total_titles_processed": 1630,
+  "generated_at": "2026-03-03T19:40:44.049458+08:00",
+  "total_titles_processed": 1711,
   "failed_sources": [],
   "trends": [
     {
@@ -129,7 +129,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         }
@@ -174,8 +174,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 18时52分]"
+          "appearance_count": 4,
+          "time_info": "[16时54分 ~ 19时40分]"
         },
         {
           "title": "恒生科技指数日内再次跌超1%，零跑汽车跌超5%，小鹏汽车、蔚来跌超4%，华虹半导体、小米跌超3%。",
