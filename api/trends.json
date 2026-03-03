@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T17:55:34.036453+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2026-03-03T18:52:56.193398+08:00",
+  "total_titles_processed": 1630,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "摩根大通CEO戴蒙：人工智能（AI）可以将工作时长缩短至一周四天。 政府应该对使用AI的人设置年龄限制。 推动AI不会造成“赢家通吃”的局面。",
@@ -121,6 +121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "据韩联社：韩国总统李在明称，韩国和菲律宾将在人工智能、绿色能源、造船和文化领域加强合作。",
+          "url": "https://flash.jin10.com/detail/20260303182338588800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时52分"
         }
       ]
     },
@@ -159,11 +170,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 17时55分]"
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时52分]"
         },
         {
           "title": "恒生科技指数日内再次跌超1%，零跑汽车跌超5%，小鹏汽车、蔚来跌超4%，华虹半导体、小米跌超3%。",
