@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T13:53:33.273340+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2026-03-04T15:02:10.985775+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
@@ -67,6 +67,56 @@
       ]
     },
     {
+      "keyword_group": "农民",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "建议70岁以上农民养老金提到500元",
+          "url": "https://www.toutiao.com/trending/7612797005953531914/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "建议70岁以上农民养老金提至500元",
+          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE70%E5%B2%81%E4%BB%A5%E4%B8%8A%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E6%8F%90%E8%87%B3500%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "建议70岁以上农民养老金提至500元",
+          "url": "https://www.douyin.com/hot/2418479",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 15时02分]"
+        },
+        {
+          "title": "建议提高70岁以上农民基础养老金",
+          "url": "https://www.douyin.com/hot/2418479",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 12时48分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "汽车",
       "match_count": 4,
       "titles": [
@@ -118,34 +168,6 @@
       ]
     },
     {
-      "keyword_group": "农民",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "建议提高70岁以上农民基础养老金",
-          "url": "https://www.douyin.com/hot/2418479",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 12时48分]"
-        },
-        {
-          "title": "建议70岁以上农民养老金提至500元",
-          "url": "https://www.douyin.com/hot/2418479",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "农业",
       "match_count": 1,
       "titles": [
@@ -156,7 +178,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         }
