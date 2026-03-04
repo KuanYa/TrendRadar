@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T15:49:01.112409+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-03-04T16:52:37.314392+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
@@ -89,7 +89,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -138,11 +138,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时01分 ~ 15时49分]"
+          "appearance_count": 5,
+          "time_info": "[15时01分 ~ 16时52分]"
         },
         {
           "title": "建议70岁以上农民养老金提至500元",
@@ -153,8 +154,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时01分 ~ 15时49分]"
+          "appearance_count": 5,
+          "time_info": "[15时01分 ~ 16时52分]"
         },
         {
           "title": "建议70岁以上农民养老金提至500元",
@@ -164,8 +165,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时53分 ~ 15时49分]"
+          "appearance_count": 6,
+          "time_info": "[13时53分 ~ 16时52分]"
         },
         {
           "title": "建议提高70岁以上农民基础养老金",
