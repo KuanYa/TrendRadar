@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T07:39:11.752229+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2026-03-05T10:45:46.084408+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -78,7 +78,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "本田拟将中国产电动汽车卖回日本",
@@ -101,6 +101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "小浪花跑两会丨李书福委员：新能源汽车行业不要内卷式竞争，需要内涵式发展",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32698264",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "周三（3月4日）美股尾盘，彭博电动汽车价格回报指数跌0.73%，报3492.02点，亚太早盘持续下跌，北京时间11:35刷新日低至3439.74点，随后逐步收复失地。",
@@ -154,11 +165,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 10时45分]"
         }
       ]
     },
@@ -178,8 +190,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 10时45分]"
         }
       ]
     },
