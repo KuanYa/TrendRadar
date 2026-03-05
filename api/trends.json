@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T18:53:02.068459+08:00",
-  "total_titles_processed": 1528,
+  "generated_at": "2026-03-05T19:41:41.418365+08:00",
+  "total_titles_processed": 1614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "高盛CEO苏德巍：在人工智能（AI）前景方面，我们“看到杯子装了一半”。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "香港监管机构推出GenA.I.沙盒++以促进金融服务领域的人工智能创新",
+          "url": "https://wallstreetcn.com/livenews/3064454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "Meta Platforms(META.O)计划开发硅芯片以训练人工智能模型，旨在提升AI能力。",
@@ -42,6 +53,18 @@
           "time_info": "[04时40分 ~ 05时43分]"
         },
         {
+          "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时52分 ~ 19时41分]"
+        },
+        {
           "title": "欧洲央行监管委员会成员Donnery：正评估伊朗局势对银行系统的间接冲击风险。 欧盟银行业对伊朗冲突的直接风险敞口有限。 银行尚未出现利用人工智能取代岗位的现象。",
           "url": "https://wallstreetcn.com/livenews/3064369",
           "source": "华尔街见闻-快讯",
@@ -52,17 +75,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时55分 ~ 17时56分]"
-        },
-        {
-          "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 18时53分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-05）",
@@ -156,7 +168,7 @@
     },
     {
       "keyword_group": "农民",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "代表谈吴克群在贵州帮农民卖菜",
@@ -181,8 +193,39 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时52分 ~ 19时41分]"
+        },
+        {
+          "title": "直击两会丨高德荣代表：30年只做一件事，让农民的饭碗端得更牢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32703618",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时52分 ~ 18时53分]"
+          "time_info": "[13时56分 ~ 19时41分]"
+        },
+        {
+          "title": "建议逐渐将农民养老金提到每月1000元",
+          "url": "https://www.toutiao.com/trending/7613306683137347091/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            16,
+            5,
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时03分 ~ 19时41分]"
         },
         {
           "title": "代表建议给农民工上社保",
@@ -196,44 +239,16 @@
           "time_info": "[17时56分 ~ 18时53分]"
         },
         {
-          "title": "建议逐渐将农民养老金提到每月1000元",
-          "url": "https://www.toutiao.com/trending/7613306683137347091/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            16,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时03分 ~ 18时53分]"
-        },
-        {
-          "title": "直击两会丨高德荣代表：30年只做一件事，让农民的饭碗端得更牢",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32703618",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            15,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时56分 ~ 18时53分]"
-        },
-        {
           "title": "代表：农民每月200元养老金太亏了",
           "url": "https://www.toutiao.com/trending/7613652756594789914/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时55分 ~ 18时53分]"
+          "appearance_count": 5,
+          "time_info": "[16时55分 ~ 19时41分]"
         },
         {
           "title": "代表：每月200块养老金对农民太亏了",
@@ -244,8 +259,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时56分 ~ 18时53分]"
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 19时41分]"
         },
         {
           "title": "建议70岁以上农民养老金提到500元",
@@ -257,6 +272,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时38分 ~ 07时39分]"
+        },
+        {
+          "title": "建议将农民养老金逐步提到每月一千",
+          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%B0%86%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E9%80%90%E6%AD%A5%E6%8F%90%E5%88%B0%E6%AF%8F%E6%9C%88%E4%B8%80%E5%8D%83",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "代表：让农民工在城市也能方便用医保",
+          "url": "https://www.toutiao.com/trending/7613638936871108644/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "人大代表建议为农民工上社保",
@@ -311,6 +348,18 @@
           "time_info": "[10时45分 ~ 15时04分]"
         },
         {
+          "title": "汽车之家在港交所公告称，2025年第四季度净收入总额为14.62亿元，2024年同期为17.83亿元；第四季度归属于汽车之家的净利润为2.34亿元，2024年同期为3.2亿元。",
+          "url": "https://wallstreetcn.com/livenews/3064426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时41分]"
+        },
+        {
           "title": "比亚迪英国2月电动汽车新车销量同比增长40.90%至968辆。",
           "url": "https://flash.jin10.com/detail/20260305012308521800",
           "source": "金十数据",
@@ -320,17 +369,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
-        },
-        {
-          "title": "汽车之家在港交所公告称，2025年第四季度净收入总额为14.62亿元，2024年同期为17.83亿元；第四季度归属于汽车之家的净利润为2.34亿元，2024年同期为3.2亿元。",
-          "url": "https://wallstreetcn.com/livenews/3064426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
         },
         {
           "title": "周三（3月4日）美股尾盘，彭博电动汽车价格回报指数跌0.73%，报3492.02点，亚太早盘持续下跌，北京时间11:35刷新日低至3439.74点，随后逐步收复失地。",
