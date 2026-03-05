@@ -1,520 +1,94 @@
 {
-  "generated_at": "2026-03-05T23:58:13.765673+08:00",
-  "total_titles_processed": 1943,
+  "generated_at": "2026-03-06T02:14:12.708837+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时52分 ~ 23时58分]"
-        },
-        {
-          "title": "高盛CEO苏德巍：在人工智能（AI）前景方面，我们“看到杯子装了一半”。",
-          "url": "https://wallstreetcn.com/livenews/3063902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "香港监管机构推出GenA.I.沙盒++以促进金融服务领域的人工智能创新",
-          "url": "https://wallstreetcn.com/livenews/3064454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "Meta Platforms(META.O)计划开发硅芯片以训练人工智能模型，旨在提升AI能力。",
-          "url": "https://flash.jin10.com/detail/20260305042235977800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "美国参议院Ron Wyden就特朗普政府在国内实施监控（国内间谍）的政策施压多家人工智能（AI）公司。",
-          "url": "https://wallstreetcn.com/livenews/3063848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时43分]"
-        },
-        {
-          "title": "欧洲央行监管委员会成员Donnery：正评估伊朗局势对银行系统的间接冲击风险。 欧盟银行业对伊朗冲突的直接风险敞口有限。 银行尚未出现利用人工智能取代岗位的现象。",
-          "url": "https://wallstreetcn.com/livenews/3064369",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 17时56分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦(BRK.A.N、BRK.B.N)首席执行官阿贝尔：未使用人工智能撰写伯克希尔年度信函。",
-          "url": "https://flash.jin10.com/detail/20260305205839504800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-03-05）",
-          "url": "https://flash.jin10.com/detail/20260305120534883800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
-          "title": "市场消息：由于担心人工智能技术将导致大量工作岗位流失，并重创大片企业，英国央行正计划对全面人工智能冲击可能带来的经济和金融影响进行演练。",
-          "url": "https://flash.jin10.com/detail/20260305132907855800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "据华尔街日报：知情人士称，前OpenAI首席研究官正为一家人工智能初创公司筹集7000万美元资金，该初创公司正开发一款软件，以帮助工厂实现自主运行。",
-          "url": "https://flash.jin10.com/detail/20260305000849896800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "鸿海：第一季度业绩表现符合市场预期。 人工智能设备出货量持续增长。 智能消费电子产品业务超出预期表现良好。",
-          "url": "https://wallstreetcn.com/livenews/3064381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
-          "title": "加拿大总理卡尼：今天在悉尼会见了商业领袖，旨在建立新的合作伙伴关系，为我们的能源、关键矿产和人工智能领域创造数千个高薪职业。",
-          "url": "https://flash.jin10.com/detail/20260305034744133800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "工业和信息化部部长李乐成：我国规上制造业企业人工智能（AI）技术应用普及率超30%",
-          "url": "https://wallstreetcn.com/livenews/3064161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
-          "title": "市场消息：美国参议员就监控政策问题向人工智能公司施压。",
-          "url": "https://flash.jin10.com/detail/20260305043153960800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "博通(AVGO.O)股价盘前上涨6%，此前该公司预计人工智能芯片业务收入明年将超过1000亿美元，并宣布启动新的股票回购计划。",
-          "url": "https://flash.jin10.com/detail/20260305170820646800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "农民",
-      "match_count": 14,
+      "match_count": 5,
       "titles": [
         {
           "title": "全国人大代表雷茂端建议，将 70 岁以上农民基础养老金每月提高到 500 块钱，如何看待这一建议？",
           "url": "https://www.zhihu.com/question/2012488083849889743",
           "source": "知乎",
           "ranks": [
-            4,
-            5,
-            3,
-            2,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时52分 ~ 23时58分]"
-        },
-        {
-          "title": "代表谈吴克群在贵州帮农民卖菜",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E8%B0%88%E5%90%B4%E5%85%8B%E7%BE%A4%E5%9C%A8%E8%B4%B5%E5%B7%9E%E5%B8%AE%E5%86%9C%E6%B0%91%E5%8D%96%E8%8F%9C",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时39分]"
-        },
-        {
-          "title": "直击两会丨高德荣代表：30年只做一件事，让农民的饭碗端得更牢",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32703618",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            15,
-            11,
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时56分 ~ 23时58分]"
-        },
-        {
-          "title": "代表：农民每月200元养老金太亏了",
-          "url": "https://www.toutiao.com/trending/7613652756594789914/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            14,
-            20,
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时55分 ~ 23时58分]"
-        },
-        {
-          "title": "建议逐渐将农民养老金提到每月1000元",
-          "url": "https://www.toutiao.com/trending/7613306683137347091/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            16,
-            5,
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时03分 ~ 19时41分]"
-        },
-        {
-          "title": "代表建议给农民工上社保",
-          "url": "https://www.douyin.com/hot/2419607",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时56分 ~ 18时53分]"
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 02时14分]"
         },
         {
           "title": "代表建议80岁以上农民免缴个人医保",
           "url": "https://www.toutiao.com/trending/7613764051394658354/",
           "source": "今日头条",
           "ranks": [
-            5
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时57分 ~ 23时58分]"
+          "time_info": "[02时13分 ~ 02时14分]"
         },
         {
-          "title": "代表：每月200块养老金对农民太亏了",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%EF%BC%9A%E6%AF%8F%E6%9C%88200%E5%9D%97%E5%85%BB%E8%80%81%E9%87%91%E5%AF%B9%E5%86%9C%E6%B0%91%E5%A4%AA%E4%BA%8F%E4%BA%86",
-          "source": "百度热搜",
+          "title": "直击两会丨高德荣代表：30年只做一件事，让农民的饭碗端得更牢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32703618",
+          "source": "澎湃新闻",
           "ranks": [
-            26,
-            10,
-            18,
-            25
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时56分 ~ 22时55分]"
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 02时14分]"
+        },
+        {
+          "title": "代表建议80岁以上农民免缴个人医保",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE80%E5%B2%81%E4%BB%A5%E4%B8%8A%E5%86%9C%E6%B0%91%E5%85%8D%E7%BC%B4%E4%B8%AA%E4%BA%BA%E5%8C%BB%E4%BF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 02时14分]"
         },
         {
           "title": "建议将农民养老金逐步提到每月一千",
           "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%B0%86%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E9%80%90%E6%AD%A5%E6%8F%90%E5%88%B0%E6%AF%8F%E6%9C%88%E4%B8%80%E5%8D%83",
           "source": "百度热搜",
           "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时41分 ~ 23时58分]"
-        },
-        {
-          "title": "代表说农民每月200元养老金太亏了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E8%AF%B4%E5%86%9C%E6%B0%91%E6%AF%8F%E6%9C%88200%E5%85%83%E5%85%BB%E8%80%81%E9%87%91%E5%A4%AA%E4%BA%8F%E4%BA%86%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时19分 ~ 23时58分]"
-        },
-        {
-          "title": "建议70岁以上农民养老金提到500元",
-          "url": "https://www.toutiao.com/trending/7612797005953531914/",
-          "source": "今日头条",
-          "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时38分 ~ 07时39分]"
-        },
-        {
-          "title": "建议80岁以上农民免缴个人医保",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE80%E5%B2%81%E4%BB%A5%E4%B8%8A%E5%86%9C%E6%B0%91%E5%85%8D%E7%BC%B4%E4%B8%AA%E4%BA%BA%E5%8C%BB%E4%BF%9D%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "代表：让农民工在城市也能方便用医保",
-          "url": "https://www.toutiao.com/trending/7613638936871108644/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "人大代表建议为农民工上社保",
-          "url": "https://www.toutiao.com/trending/7613569375999770678/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时56分"
+          "time_info": "[02时13分 ~ 02时14分]"
         }
       ]
     },
     {
-      "keyword_group": "汽车",
-      "match_count": 6,
+      "keyword_group": "人工智能",
+      "match_count": 2,
       "titles": [
         {
-          "title": "研究机构New Automotive公布的数据显示，特斯拉(TSLA.O)2月在英国售出2208辆汽车，同比下降45.2%。",
-          "url": "https://flash.jin10.com/detail/20260305124211423800",
-          "source": "金十数据",
+          "title": "政府工作报告提出深化拓展“人工智能＋” 代表、委员为AI高质量发展建言献策|两会财经眼",
+          "url": "https://www.cls.cn/detail/2304328",
+          "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
-          "title": "本田拟将中国产电动汽车卖回日本",
-          "url": "https://www.toutiao.com/trending/7612296534020882468/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        },
-        {
-          "title": "小浪花跑两会丨李书福委员：新能源汽车行业不要内卷式竞争，需要内涵式发展",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32698264",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 15时04分]"
-        },
-        {
-          "title": "汽车之家在港交所公告称，2025年第四季度净收入总额为14.62亿元，2024年同期为17.83亿元；第四季度归属于汽车之家的净利润为2.34亿元，2024年同期为3.2亿元。",
-          "url": "https://wallstreetcn.com/livenews/3064426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            23
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时53分 ~ 19时41分]"
+          "time_info": "[02时13分 ~ 02时14分]"
         },
         {
-          "title": "比亚迪英国2月电动汽车新车销量同比增长40.90%至968辆。",
-          "url": "https://flash.jin10.com/detail/20260305012308521800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "周三（3月4日）美股尾盘，彭博电动汽车价格回报指数跌0.73%，报3492.02点，亚太早盘持续下跌，北京时间11:35刷新日低至3439.74点，随后逐步收复失地。",
-          "url": "https://wallstreetcn.com/livenews/3063853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【焦点复盘】创业板指缩量调整失守半年线，油气板块全天巨震分化，军工、农业股逆势大涨",
-          "url": "https://www.cls.cn/detail/2302727",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 10时45分]"
-        },
-        {
-          "title": "“十五五”规划纲要草案提出科学有序推进农业转移人口市民化",
-          "url": "https://wallstreetcn.com/livenews/3064183",
-          "source": "华尔街见闻-快讯",
+          "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
+          "source": "澎湃新闻",
           "ranks": [
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
-          "title": "【工信部部长李乐成：全力推进新一代人工智能产品的攻关和迭代更新】在十四届全国人大四次会议首场“部长通道”集中采访活动上，工业和信息化部部长李乐成表示，2026年工信部将按照政府工作报告要求，大力推动人工智能（AI）和制造业双向奔赴。我国产业门类齐全，创新人才众多，创新生态不断改善，我们有信心，坚信必将有更多的世界级智能产品在这片热土上生产出来。要努力推动AI电脑、AI手机、智能家居，更好满足人民群众对美好生活的需求。要全力推进新一代人工智能产品的攻关和迭代更新，包括脑机接口、自动驾驶汽车、机器人，推动科技攻关、技术迭代。大力支持发展智能农业机械、智能医疗器械，让更多智能产品满足各行各业各领域的需要。",
-          "url": "https://wallstreetcn.com/livenews/3064172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "玉米",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "车停老家半个月 底盘现20斤红薯玉米",
-          "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E5%81%9C%E8%80%81%E5%AE%B6%E5%8D%8A%E4%B8%AA%E6%9C%88+%E5%BA%95%E7%9B%98%E7%8E%B020%E6%96%A4%E7%BA%A2%E8%96%AF%E7%8E%89%E7%B1%B3",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            24,
-            22,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 10时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大豆",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "芝加哥小麦期货跌超1.2%，豆粕跌超1.7%，大豆油涨1%",
-          "url": "https://wallstreetcn.com/livenews/3063849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 02时14分]"
         }
       ]
     }
