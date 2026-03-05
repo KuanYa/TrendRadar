@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T19:41:41.418365+08:00",
-  "total_titles_processed": 1614,
+  "generated_at": "2026-03-05T21:19:23.685422+08:00",
+  "total_titles_processed": 1739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "高盛CEO苏德巍：在人工智能（AI）前景方面，我们“看到杯子装了一半”。",
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -58,11 +58,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 19时41分]"
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 21时19分]"
         },
         {
           "title": "欧洲央行监管委员会成员Donnery：正评估伊朗局势对银行系统的间接冲击风险。 欧盟银行业对伊朗冲突的直接风险敞口有限。 银行尚未出现利用人工智能取代岗位的现象。",
@@ -75,6 +76,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时55分 ~ 17时56分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦(BRK.A.N、BRK.B.N)首席执行官阿贝尔：未使用人工智能撰写伯克希尔年度信函。",
+          "url": "https://flash.jin10.com/detail/20260305205839504800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时19分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-05）",
@@ -168,19 +180,8 @@
     },
     {
       "keyword_group": "农民",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "代表谈吴克群在贵州帮农民卖菜",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E8%B0%88%E5%90%B4%E5%85%8B%E7%BE%A4%E5%9C%A8%E8%B4%B5%E5%B7%9E%E5%B8%AE%E5%86%9C%E6%B0%91%E5%8D%96%E8%8F%9C",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时39分]"
-        },
         {
           "title": "全国人大代表雷茂端建议，将 70 岁以上农民基础养老金每月提高到 500 块钱，如何看待这一建议？",
           "url": "https://www.zhihu.com/question/2012488083849889743",
@@ -193,8 +194,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时52分 ~ 19时41分]"
+          "appearance_count": 10,
+          "time_info": "[12时52分 ~ 21时19分]"
+        },
+        {
+          "title": "代表谈吴克群在贵州帮农民卖菜",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E8%B0%88%E5%90%B4%E5%85%8B%E7%BE%A4%E5%9C%A8%E8%B4%B5%E5%B7%9E%E5%B8%AE%E5%86%9C%E6%B0%91%E5%8D%96%E8%8F%9C",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时39分]"
         },
         {
           "title": "直击两会丨高德荣代表：30年只做一件事，让农民的饭碗端得更牢",
@@ -206,11 +218,12 @@
             15,
             11,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时56分 ~ 19时41分]"
+          "appearance_count": 9,
+          "time_info": "[13时56分 ~ 21时19分]"
         },
         {
           "title": "建议逐渐将农民养老金提到每月1000元",
@@ -244,11 +257,12 @@
           "source": "今日头条",
           "ranks": [
             13,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时55分 ~ 19时41分]"
+          "appearance_count": 6,
+          "time_info": "[16时55分 ~ 21时19分]"
         },
         {
           "title": "代表：每月200块养老金对农民太亏了",
@@ -256,11 +270,24 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 19时41分]"
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 21时19分]"
+        },
+        {
+          "title": "建议将农民养老金逐步提到每月一千",
+          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%B0%86%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E9%80%90%E6%AD%A5%E6%8F%90%E5%88%B0%E6%AF%8F%E6%9C%88%E4%B8%80%E5%8D%83",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 21时19分]"
         },
         {
           "title": "建议70岁以上农民养老金提到500元",
@@ -274,15 +301,15 @@
           "time_info": "[07时38分 ~ 07时39分]"
         },
         {
-          "title": "建议将农民养老金逐步提到每月一千",
-          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%B0%86%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E9%80%90%E6%AD%A5%E6%8F%90%E5%88%B0%E6%AF%8F%E6%9C%88%E4%B8%80%E5%8D%83",
-          "source": "百度热搜",
+          "title": "代表说农民每月200元养老金太亏了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E8%AF%B4%E5%86%9C%E6%B0%91%E6%AF%8F%E6%9C%88200%E5%85%83%E5%85%BB%E8%80%81%E9%87%91%E5%A4%AA%E4%BA%8F%E4%BA%86%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            15
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时41分"
+          "time_info": "21时19分"
         },
         {
           "title": "代表：让农民工在城市也能方便用医保",
@@ -291,7 +318,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
