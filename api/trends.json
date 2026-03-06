@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T07:02:45.121631+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-03-06T10:43:35.002620+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
@@ -111,22 +111,24 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时13分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[02时13分 ~ 10时43分]"
         },
         {
           "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
           "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时13分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[02时13分 ~ 10时43分]"
         },
         {
           "title": "亚马逊推出人工智能平台，实现医疗保健行政工作自动化",
