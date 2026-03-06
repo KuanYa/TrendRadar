@@ -1,8 +1,116 @@
 {
-  "generated_at": "2026-03-06T17:51:54.494692+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2026-03-06T18:48:33.667910+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "农民",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "全国人大代表雷茂端建议，将 70 岁以上农民基础养老金每月提高到 500 块钱，如何看待这一建议？",
+          "url": "https://www.zhihu.com/question/2012488083849889743",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时13分 ~ 07时02分]"
+        },
+        {
+          "title": "直击两会丨高德荣代表：30年只做一件事，让农民的饭碗端得更牢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32703618",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时13分 ~ 07时02分]"
+        },
+        {
+          "title": "代表建议80岁以上农民免缴个人医保",
+          "url": "https://www.toutiao.com/trending/7613764051394658354/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            24,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时13分 ~ 07时02分]"
+        },
+        {
+          "title": "代表建议80岁以上农民免缴个人医保",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE80%E5%B2%81%E4%BB%A5%E4%B8%8A%E5%86%9C%E6%B0%91%E5%85%8D%E7%BC%B4%E4%B8%AA%E4%BA%BA%E5%8C%BB%E4%BF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            17,
+            14,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时13分 ~ 07时02分]"
+        },
+        {
+          "title": "建议将农民养老金逐步提到每月一千",
+          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%B0%86%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E9%80%90%E6%AD%A5%E6%8F%90%E5%88%B0%E6%AF%8F%E6%9C%88%E4%B8%80%E5%8D%83",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时13分 ~ 07时02分]"
+        },
+        {
+          "title": "白岩松说农民养老金每月200的确低了",
+          "url": "https://www.toutiao.com/trending/7613668468381978118/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "代表说农民每月200元养老金太亏了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E8%AF%B4%E5%86%9C%E6%B0%91%E6%AF%8F%E6%9C%88200%E5%85%83%E5%85%BB%E8%80%81%E9%87%91%E5%A4%AA%E4%BA%8F%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            16,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时57分 ~ 07时02分]"
+        },
+        {
+          "title": "代表：农民每月200元养老金太亏了",
+          "url": "https://www.toutiao.com/trending/7613652756594789914/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时57分 ~ 07时02分]"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能",
       "match_count": 8,
@@ -88,7 +196,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -102,103 +210,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农民",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "全国人大代表雷茂端建议，将 70 岁以上农民基础养老金每月提高到 500 块钱，如何看待这一建议？",
-          "url": "https://www.zhihu.com/question/2012488083849889743",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时13分 ~ 07时02分]"
-        },
-        {
-          "title": "直击两会丨高德荣代表：30年只做一件事，让农民的饭碗端得更牢",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32703618",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时13分 ~ 07时02分]"
-        },
-        {
-          "title": "代表建议80岁以上农民免缴个人医保",
-          "url": "https://www.toutiao.com/trending/7613764051394658354/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            24,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时13分 ~ 07时02分]"
-        },
-        {
-          "title": "代表建议80岁以上农民免缴个人医保",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%E5%BB%BA%E8%AE%AE80%E5%B2%81%E4%BB%A5%E4%B8%8A%E5%86%9C%E6%B0%91%E5%85%8D%E7%BC%B4%E4%B8%AA%E4%BA%BA%E5%8C%BB%E4%BF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            17,
-            14,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时13分 ~ 07时02分]"
-        },
-        {
-          "title": "建议将农民养老金逐步提到每月一千",
-          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E5%B0%86%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E9%80%90%E6%AD%A5%E6%8F%90%E5%88%B0%E6%AF%8F%E6%9C%88%E4%B8%80%E5%8D%83",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时13分 ~ 07时02分]"
-        },
-        {
-          "title": "代表说农民每月200元养老金太亏了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E8%AF%B4%E5%86%9C%E6%B0%91%E6%AF%8F%E6%9C%88200%E5%85%83%E5%85%BB%E8%80%81%E9%87%91%E5%A4%AA%E4%BA%8F%E4%BA%86%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            16,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时57分 ~ 07时02分]"
-        },
-        {
-          "title": "代表：农民每月200元养老金太亏了",
-          "url": "https://www.toutiao.com/trending/7613652756594789914/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时57分 ~ 07时02分]"
         }
       ]
     },
