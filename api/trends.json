@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T06:38:21.355888+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-03-07T07:36:14.687726+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
@@ -56,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时58分 ~ 06时38分]"
+          "appearance_count": 9,
+          "time_info": "[02时58分 ~ 07时36分]"
         },
         {
           "title": "长城汽车魏建军就抄袭路虎海报道歉",
@@ -67,11 +67,12 @@
             21,
             19,
             14,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 07时36分]"
         },
         {
           "title": "周五（3月6日），彭博电动汽车价格回报指数跌0.06%，报3513.26点，本周累计下跌5.66%。",
