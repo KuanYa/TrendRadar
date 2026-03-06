@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T19:38:05.471369+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2026-03-06T21:15:10.606459+08:00",
+  "total_titles_processed": 1675,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,24 @@
           "url": "https://www.toutiao.com/trending/7613668468381978118/",
           "source": "今日头条",
           "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时48分 ~ 21时15分]"
+        },
+        {
+          "title": "白岩松：农民养老金每月200的确低了",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%EF%BC%9A%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E6%AF%8F%E6%9C%88200%E7%9A%84%E7%A1%AE%E4%BD%8E%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            23,
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 19时38分]"
+          "appearance_count": 4,
+          "time_info": "[19时37分 ~ 21时15分]"
         },
         {
           "title": "直击两会丨高德荣代表：30年只做一件事，让农民的饭碗端得更牢",
@@ -108,17 +121,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时57分 ~ 07时02分]"
-        },
-        {
-          "title": "白岩松：农民养老金每月200的确低了",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%B2%A9%E6%9D%BE%EF%BC%9A%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E6%AF%8F%E6%9C%88200%E7%9A%84%E7%A1%AE%E4%BD%8E%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时37分 ~ 19时38分]"
         }
       ]
     },
