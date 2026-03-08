@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-09T05:32:21.517098+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-03-09T06:34:03.509221+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "农民",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "农民“嘴替”张翼代表又来了",
+          "url": "https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E2%80%9C%E5%98%B4%E6%9B%BF%E2%80%9D%E5%BC%A0%E7%BF%BC%E4%BB%A3%E8%A1%A8%E5%8F%88%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 06时34分]"
+        },
+        {
+          "title": "李稻葵：提高农民养老金 偿还历史欠账",
+          "url": "https://www.toutiao.com/trending/7614675180599410739/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        }
+      ]
+    },
     {
       "keyword_group": "汽车",
       "match_count": 2,
@@ -17,8 +45,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时34分]"
         },
         {
           "title": "伊朗首都等地临时就汽车加油设限",
@@ -30,23 +58,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时40分 ~ 03时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农民",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "李稻葵：提高农民养老金 偿还历史欠账",
-          "url": "https://www.toutiao.com/trending/7614675180599410739/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时32分"
         }
       ]
     },
