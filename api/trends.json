@@ -1,49 +1,22 @@
 {
-  "generated_at": "2026-03-09T23:01:53.193348+08:00",
-  "total_titles_processed": 1768,
+  "generated_at": "2026-03-10T00:10:18.880324+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "农业",
-      "match_count": 9,
+      "match_count": 4,
       "titles": [
         {
           "title": "农业农村部部长建议大家少吃点油",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91%E9%83%A8%E9%83%A8%E9%95%BF%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%B0%91%E5%90%83%E7%82%B9%E6%B2%B9%23&t=31&band_rank=8&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91%E9%83%A8%E9%83%A8%E9%95%BF%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%B0%91%E5%90%83%E7%82%B9%E6%B2%B9%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            8,
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时56分 ~ 23时01分]"
-        },
-        {
-          "title": "农业农村部部长喊你少吃油",
-          "url": "https://www.baidu.com/s?wd=%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91%E9%83%A8%E9%83%A8%E9%95%BF%E5%96%8A%E4%BD%A0%E5%B0%91%E5%90%83%E6%B2%B9",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时54分 ~ 19时40分]"
-        },
-        {
-          "title": "农业农村部部长建议大家少吃点油",
-          "url": "https://www.toutiao.com/trending/7615095540708605958/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时39分 ~ 23时01分]"
+          "appearance_count": 1,
+          "time_info": "00时10分"
         },
         {
           "title": "央视农业谈超龄劳动者权益保障",
@@ -52,235 +25,76 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时01分"
+          "time_info": "00时10分"
+        },
+        {
+          "title": "匈牙利总理欧尔班：燃油价格上限将适用于个人、农业和运输行业以及企业。",
+          "url": "https://flash.jin10.com/detail/20260309235242834800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
         },
         {
           "title": "直击两会丨人均烹调用油超推荐量40%，农业农村部部长韩俊建议居民减油、增豆、加奶",
           "url": "https://m.thepaper.cn/newsDetail_forward_32732055",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时39分 ~ 23时01分]"
-        },
-        {
-          "title": "农业农村部部长韩俊：过渡期后帮扶政策将保持稳定",
-          "url": "https://wallstreetcn.com/livenews/3066164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "农业股盘初走高，金龙鱼大涨超15%，中粮科技此前涨停，金健米业、敦煌种业、康农种业、秋乐种业、隆平高科等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3066088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "农业农村部部长韩俊：我国农业科技进步贡献率超64%，农业无人机全世界最多",
-          "url": "https://wallstreetcn.com/livenews/3066347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "农业农村部部长韩俊：建议消费者适当减油、增豆、加奶",
-          "url": "https://wallstreetcn.com/livenews/3066157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "time_info": "00时10分"
         }
       ]
     },
     {
       "keyword_group": "农民",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
         {
           "title": "代表回应建议提高农民养老金",
           "url": "https://www.douyin.com/hot/2423897",
           "source": "抖音",
           "ranks": [
-            13,
-            18,
-            22,
-            23,
-            11
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时00分 ~ 23时01分]"
-        },
-        {
-          "title": "代表：农民反对啥你就甭干啥",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%EF%BC%9A%E5%86%9C%E6%B0%91%E5%8F%8D%E5%AF%B9%E5%95%A5%E4%BD%A0%E5%B0%B1%E7%94%AD%E5%B9%B2%E5%95%A5",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时54分 ~ 18时03分]"
+          "appearance_count": 1,
+          "time_info": "00时10分"
         },
         {
           "title": "湖北农民阿姨把土坯房收拾成了展厅",
           "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8C%97%E5%86%9C%E6%B0%91%E9%98%BF%E5%A7%A8%E6%8A%8A%E5%9C%9F%E5%9D%AF%E6%88%BF%E6%94%B6%E6%8B%BE%E6%88%90%E4%BA%86%E5%B1%95%E5%8E%85",
           "source": "百度热搜",
           "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时22分 ~ 23时01分]"
-        },
-        {
-          "title": "农民“嘴替”张翼代表又来了",
-          "url": "https://www.baidu.com/s?wd=%E5%86%9C%E6%B0%91%E2%80%9C%E5%98%B4%E6%9B%BF%E2%80%9D%E5%BC%A0%E7%BF%BC%E4%BB%A3%E8%A1%A8%E5%8F%88%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 06时34分]"
-        },
-        {
-          "title": "李稻葵：提高农民养老金 偿还历史欠账",
-          "url": "https://www.toutiao.com/trending/7614675180599410739/",
-          "source": "今日头条",
-          "ranks": [
-            29
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "农民对国家经济贡献有多大",
-          "url": "https://www.douyin.com/hot/2423496",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "00时10分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "政府工作报告提到，2025 年新能源汽车年产量超过 1600 万辆，如何解读这一数据？",
-          "url": "https://www.zhihu.com/question/2012820068103378470",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 07时33分]"
-        },
-        {
-          "title": "伊朗首都等地临时就汽车加油设限",
-          "url": "https://wallstreetcn.com/livenews/3065864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时31分]"
-        },
-        {
-          "title": "法国汽车股下跌1.9%至5.2%。",
-          "url": "https://flash.jin10.com/detail/20260309161909095800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
         {
           "title": "武汉女子用159元发票抽中一辆汽车",
           "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A5%B3%E5%AD%90%E7%94%A8159%E5%85%83%E5%8F%91%E7%A5%A8%E6%8A%BD%E4%B8%AD%E4%B8%80%E8%BE%86%E6%B1%BD%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "国际货币基金组织总裁格奥尔基耶娃：中东新冲突正再次考验全球经济韧性。 进口油气设施已遭受损毁并出现停摆。 能源安全已飙升至全球关注的首要问题。 冲突若长期化，显而易见将冲击市场情绪、经济增长及通胀。 人工智能可以提高生产力，但也会减少就业。",
-          "url": "https://wallstreetcn.com/livenews/3066186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "市场消息：美国和以色列伊朗的战争已危及海湾国家3000亿美元的人工智能支出。",
-          "url": "https://flash.jin10.com/detail/20260309005041818800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 02时48分]"
-        },
-        {
-          "title": "印度想用“免税”发展数据中心，欲打造“全球云计算和人工智能计算枢纽”",
-          "url": "https://wallstreetcn.com/livenews/3065947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "00时10分"
         }
       ]
     }
