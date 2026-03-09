@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T05:41:48.129299+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2026-03-10T06:38:45.008883+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 05时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 06时38分]"
         },
         {
           "title": "央视农业谈超龄劳动者权益保障",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 05时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 06时38分]"
         },
         {
           "title": "农业农村部部长建议大家少吃点油",
@@ -39,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 06时38分]"
         },
         {
           "title": "直击两会丨人均烹调用油超推荐量40%，农业农村部部长韩俊建议居民减油、增豆、加奶",
@@ -50,8 +50,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 05时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 06时38分]"
         },
         {
           "title": "匈牙利总理欧尔班：燃油价格上限将适用于个人、农业和运输行业以及企业。",
@@ -78,11 +78,12 @@
             20,
             18,
             21,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 06时38分]"
         },
         {
           "title": "周一（3月9日），彭博电动汽车价格回报指数跌0.24%，报3503.93点，整体呈现出V形走势。",
@@ -120,11 +121,12 @@
           "ranks": [
             14,
             15,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 05时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 06时38分]"
         },
         {
           "title": "湖北农民阿姨把土坯房收拾成了展厅",
@@ -144,6 +146,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "周一（3月9日），信息科技指数涨3.21%，报270.01点，绝大部分时间维持微幅上涨状态，北京时间03:17开始显著扩大涨幅。 人工智能（AI）赢家指数涨3.82%。 AI软件先驱指数跌0.38%。",
+          "url": "https://wallstreetcn.com/livenews/3066732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时38分]"
+        },
+        {
           "title": "市场消息：苹果(AAPL.O)推迟智能家居显示屏发布，等待新的人工智能功能开发完成。",
           "url": "https://flash.jin10.com/detail/20260310024624702800",
           "source": "金十数据",
@@ -153,17 +167,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
-        },
-        {
-          "title": "周一（3月9日），信息科技指数涨3.21%，报270.01点，绝大部分时间维持微幅上涨状态，北京时间03:17开始显著扩大涨幅。 人工智能（AI）赢家指数涨3.82%。 AI软件先驱指数跌0.38%。",
-          "url": "https://wallstreetcn.com/livenews/3066732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时41分"
         }
       ]
     },
