@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T14:08:31.385498+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-03-09T15:55:02.260452+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "农民",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "代表回应建议提高农民养老金",
@@ -15,8 +15,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时00分 ~ 14时08分]"
+          "appearance_count": 5,
+          "time_info": "[13时00分 ~ 15时55分]"
+        },
+        {
+          "title": "代表：农民反对啥你就甭干啥",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%EF%BC%9A%E5%86%9C%E6%B0%91%E5%8F%8D%E5%AF%B9%E5%95%A5%E4%BD%A0%E5%B0%B1%E7%94%AD%E5%B9%B2%E5%95%A5",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 15时55分]"
         },
         {
           "title": "农民“嘴替”张翼代表又来了",
@@ -47,7 +58,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         }
@@ -55,8 +66,19 @@
     },
     {
       "keyword_group": "农业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "农业农村部部长喊你少吃油",
+          "url": "https://www.baidu.com/s?wd=%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91%E9%83%A8%E9%83%A8%E9%95%BF%E5%96%8A%E4%BD%A0%E5%B0%91%E5%90%83%E6%B2%B9",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 15时55分]"
+        },
         {
           "title": "农业农村部部长韩俊：过渡期后帮扶政策将保持稳定",
           "url": "https://wallstreetcn.com/livenews/3066164",
