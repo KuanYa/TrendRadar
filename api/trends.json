@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T00:10:18.880324+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-10T01:53:58.696156+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "农业",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "农业农村部部长建议大家少吃点油",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 01时53分]"
         },
         {
           "title": "央视农业谈超龄劳动者权益保障",
@@ -26,19 +26,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 01时53分]"
         },
         {
-          "title": "匈牙利总理欧尔班：燃油价格上限将适用于个人、农业和运输行业以及企业。",
-          "url": "https://flash.jin10.com/detail/20260309235242834800",
-          "source": "金十数据",
+          "title": "农业农村部部长建议大家少吃点油",
+          "url": "https://www.toutiao.com/trending/7615095540708605958/",
+          "source": "今日头条",
           "ranks": [
-            9
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时10分"
+          "time_info": "01时53分"
         },
         {
           "title": "直击两会丨人均烹调用油超推荐量40%，农业农村部部长韩俊建议居民减油、增豆、加奶",
@@ -46,6 +46,17 @@
           "source": "澎湃新闻",
           "ranks": [
             17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 01时53分]"
+        },
+        {
+          "title": "匈牙利总理欧尔班：燃油价格上限将适用于个人、农业和运输行业以及企业。",
+          "url": "https://flash.jin10.com/detail/20260309235242834800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -62,11 +73,12 @@
           "url": "https://www.douyin.com/hot/2423897",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 01时53分]"
         },
         {
           "title": "湖北农民阿姨把土坯房收拾成了展厅",
@@ -90,11 +102,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%A5%B3%E5%AD%90%E7%94%A8159%E5%85%83%E5%8F%91%E7%A5%A8%E6%8A%BD%E4%B8%AD%E4%B8%80%E8%BE%86%E6%B1%BD%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
+          "appearance_count": 2,
+          "time_info": "[00时10分 ~ 01时53分]"
         }
       ]
     }
