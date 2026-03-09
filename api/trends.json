@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T06:38:45.008883+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-03-10T07:36:52.754117+08:00",
+  "total_titles_processed": 735,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 06时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 07时36分]"
         },
         {
           "title": "央视农业谈超龄劳动者权益保障",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 06时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 07时36分]"
         },
         {
           "title": "农业农村部部长建议大家少吃点油",
@@ -39,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时53分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[01时53分 ~ 07时36分]"
         },
         {
           "title": "直击两会丨人均烹调用油超推荐量40%，农业农村部部长韩俊建议居民减油、增豆、加奶",
@@ -50,8 +50,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 06时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 07时36分]"
         },
         {
           "title": "匈牙利总理欧尔班：燃油价格上限将适用于个人、农业和运输行业以及企业。",
@@ -79,11 +79,12 @@
             18,
             21,
             30,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 07时36分]"
         },
         {
           "title": "周一（3月9日），彭博电动汽车价格回报指数跌0.24%，报3503.93点，整体呈现出V形走势。",
@@ -122,11 +123,12 @@
             14,
             15,
             16,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 06时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 07时36分]"
         },
         {
           "title": "湖北农民阿姨把土坯房收拾成了展厅",
