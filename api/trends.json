@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T10:42:31.704062+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-03-10T12:49:30.260720+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 10时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 12时49分]"
         },
         {
           "title": "农业农村部部长建议大家少吃点油",
@@ -68,8 +69,59 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "据英国《金融时报》：亚马逊在人工智能相关宕机事件后召开工程会议。",
+          "url": "https://flash.jin10.com/detail/20260310123947391800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "周一（3月9日），信息科技指数涨3.21%，报270.01点，绝大部分时间维持微幅上涨状态，北京时间03:17开始显著扩大涨幅。 人工智能（AI）赢家指数涨3.82%。 AI软件先驱指数跌0.38%。",
+          "url": "https://wallstreetcn.com/livenews/3066732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时38分]"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)推迟智能家居显示屏发布，等待新的人工智能功能开发完成。",
+          "url": "https://flash.jin10.com/detail/20260310024624702800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-03-10）",
+          "url": "https://flash.jin10.com/detail/20260310120517295800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "武汉女子用159元发票抽中一辆汽车",
@@ -98,6 +150,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时41分]"
+        },
+        {
+          "title": "最高法报告明确醉酒后启用辅助驾驶要承担刑事责任，如何解读？对智能汽车行业意味着什么？",
+          "url": "https://www.zhihu.com/question/2014279315517355442",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "报道：梅赛德斯考虑与中国长城汽车共享南非工厂",
@@ -145,35 +208,6 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周一（3月9日），信息科技指数涨3.21%，报270.01点，绝大部分时间维持微幅上涨状态，北京时间03:17开始显著扩大涨幅。 人工智能（AI）赢家指数涨3.82%。 AI软件先驱指数跌0.38%。",
-          "url": "https://wallstreetcn.com/livenews/3066732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时38分]"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)推迟智能家居显示屏发布，等待新的人工智能功能开发完成。",
-          "url": "https://flash.jin10.com/detail/20260310024624702800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "玉米",
       "match_count": 1,
       "titles": [
@@ -188,6 +222,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时04分 ~ 04时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大豆",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国2月大豆进口597.6万吨；1-2月累计大豆进口1254.7万吨，同比下降7.8%。 中国2月食用植物油进口60.5万吨；1-2月累计食用植物油进口133.5万吨，同比增长48.8%。 中国2月天然及合成橡胶（包括胶乳）进口60.05万吨；1-2月累计天然及合成橡胶（包括胶乳）进口140.43万吨，同比下降1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3066997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         }
       ]
     }
