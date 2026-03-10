@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T18:53:05.990885+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2026-03-10T19:40:24.707765+08:00",
+  "total_titles_processed": 1662,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时54分 ~ 18时53分]"
+          "appearance_count": 8,
+          "time_info": "[13时54分 ~ 19时40分]"
         },
         {
           "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
@@ -32,8 +32,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时02分 ~ 18时53分]"
+          "appearance_count": 7,
+          "time_info": "[15时02分 ~ 19时40分]"
         },
         {
           "title": "新能源汽车“涨价潮”来了",
@@ -43,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 18时53分]"
+          "appearance_count": 3,
+          "time_info": "[18时52分 ~ 19时40分]"
         },
         {
           "title": "蔚来汽车(NIO.N)：第四季度毛利润60.741亿元，同比增长163.1%，环比增长100.8%。",
@@ -53,7 +53,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -91,7 +91,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -102,7 +102,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -113,9 +113,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
+        },
+        {
+          "title": "吉利汽车做对了什么，为什么卖得这么好？",
+          "url": "https://www.zhihu.com/question/2006401962061616095",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时52分 ~ 19时40分]"
         },
         {
           "title": "周一（3月9日），彭博电动汽车价格回报指数跌0.24%，报3503.93点，整体呈现出V形走势。",
@@ -130,24 +141,13 @@
           "time_info": "[04时43分 ~ 05时41分]"
         },
         {
-          "title": "吉利汽车做对了什么，为什么卖得这么好？",
-          "url": "https://www.zhihu.com/question/2006401962061616095",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 18时53分]"
-        },
-        {
           "title": "蔚来汽车(NIO.N)：第四季度车辆交付量为124807辆。",
           "url": "https://flash.jin10.com/detail/20260310183158721800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -243,7 +243,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "Meta公司监督委员会：已推翻Meta公司2025年6月关于在未加“高风险人工智能”标签的情况下保留部分有关以色列-伊朗战争的人工智能内容的决定。",
@@ -359,13 +359,35 @@
           "time_info": "12时49分"
         },
         {
+          "title": "美国负责军备控制和国际安全的国务卿：若没有核能，就无法满足数据中心、人工智能等领域日益增长的能源需求。",
+          "url": "https://flash.jin10.com/detail/20260310190550014800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
+          "title": "花旗集团将2026-2030年全球人工智能资本支出预测从之前的8万亿美元上调至8.9万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260310190038911800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "日本选定61项重点技术作为优先投资目标，包括人工智能、量子计算和无人机",
           "url": "https://flash.jin10.com/detail/20260310181025266800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         }
@@ -373,7 +395,7 @@
     },
     {
       "keyword_group": "农业",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "农业农村部部长建议大家少吃点油",
@@ -438,6 +460,17 @@
           "time_info": "15时03分"
         },
         {
+          "title": "德国农业部：加拿大和美国已解除口蹄疫限制措施，承认德国为无口蹄疫区。",
+          "url": "https://flash.jin10.com/detail/20260310192200187800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "小浪花跑两会丨农业使用无人机全世界最多，第二场部长通道谈到这些热点",
           "url": "https://m.thepaper.cn/newsDetail_forward_32735123",
           "source": "澎湃新闻",
@@ -495,8 +528,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时56分 ~ 18时53分]"
+          "appearance_count": 5,
+          "time_info": "[16时56分 ~ 19时40分]"
         },
         {
           "title": "代表回应建议提高农民养老金",
@@ -540,7 +573,7 @@
     },
     {
       "keyword_group": "玉米",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "芝加哥小麦期货跌超2.4%，玉米期货跌约1.6%",
@@ -553,6 +586,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时04分 ~ 04时43分]"
+        },
+        {
+          "title": "22个月大宝宝躺玉米芯上晒太阳",
+          "url": "https://www.toutiao.com/trending/7614738027067506724/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         }
       ]
     },
