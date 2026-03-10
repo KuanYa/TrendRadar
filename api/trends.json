@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T05:37:18.476462+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-03-11T06:38:06.272685+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 05时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 06时38分]"
         },
         {
           "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
@@ -25,11 +25,12 @@
           "ranks": [
             1,
             4,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 05时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 06时38分]"
         },
         {
           "title": "吉利汽车做对了什么，为什么卖得这么好？",
@@ -39,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 05时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 06时38分]"
         },
         {
           "title": "新能源汽车“涨价潮”来了",
@@ -52,8 +53,20 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 03时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 06时38分]"
+        },
+        {
+          "title": "宝马销售贬低小米汽车 小米高管回应",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E8%B4%AC%E4%BD%8E%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6+%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 06时38分]"
         },
         {
           "title": "周二（3月10日），彭博电动汽车价格回报指数涨2.28%，报3581.07点，亚太盘初以来持续走高，北京时间01:17以来略微回吐部分涨幅。",
@@ -77,17 +90,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
-        },
-        {
-          "title": "宝马销售贬低小米汽车 小米高管回应",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E8%B4%AC%E4%BD%8E%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6+%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时43分"
         }
       ]
     },
@@ -103,11 +105,12 @@
             18,
             24,
             27,
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 05时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 06时38分]"
         },
         {
           "title": "22个月大宝宝躺玉米芯上晒太阳",
@@ -119,8 +122,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 05时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 06时38分]"
         }
       ]
     },
@@ -137,8 +140,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 05时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 06时38分]"
         }
       ]
     },
