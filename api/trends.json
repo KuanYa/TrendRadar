@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T01:54:12.552496+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-03-11T03:02:16.044598+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2014397594542040051",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时02分]"
         },
         {
           "title": "新能源汽车涨价潮来临",
@@ -26,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时02分]"
         },
         {
           "title": "吉利汽车做对了什么，为什么卖得这么好？",
@@ -37,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时02分]"
         },
         {
           "title": "新能源汽车“涨价潮”来了",
@@ -46,11 +47,12 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时02分]"
         }
       ]
     },
@@ -60,23 +62,24 @@
       "titles": [
         {
           "title": "22个月大宝宝躺玉米芯上晒太阳",
+          "url": "https://www.toutiao.com/trending/7614738027067506724/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时02分]"
+        },
+        {
+          "title": "22个月大宝宝躺玉米芯上晒太阳",
           "url": "https://www.baidu.com/s?wd=22%E4%B8%AA%E6%9C%88%E5%A4%A7%E5%AE%9D%E5%AE%9D%E8%BA%BA%E7%8E%89%E7%B1%B3%E8%8A%AF%E4%B8%8A%E6%99%92%E5%A4%AA%E9%98%B3",
           "source": "百度热搜",
           "ranks": [
             20,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 01时54分]"
-        },
-        {
-          "title": "22个月大宝宝躺玉米芯上晒太阳",
-          "url": "https://www.toutiao.com/trending/7614738027067506724/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            24
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -93,11 +96,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32732526",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时02分]"
         }
       ]
     },
@@ -112,7 +116,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         }
