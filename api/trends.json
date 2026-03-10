@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T06:38:06.272685+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-03-11T07:36:05.160580+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "新能源汽车涨价潮来临",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 06时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 07时36分]"
         },
         {
           "title": "蔚来李斌称频繁超快充伤电池，超充再快也没换电快，怎样看待他的说法？电动汽车用户该如何选择？",
@@ -29,19 +29,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 06时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 07时36分]"
         },
         {
           "title": "吉利汽车做对了什么，为什么卖得这么好？",
           "url": "https://www.zhihu.com/question/2006401962061616095",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 06时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 07时36分]"
         },
         {
           "title": "新能源汽车“涨价潮”来了",
@@ -50,11 +51,12 @@
           "ranks": [
             13,
             18,
-            29
+            29,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 06时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 07时36分]"
         },
         {
           "title": "宝马销售贬低小米汽车 小米高管回应",
@@ -62,11 +64,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            30
+            30,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 06时38分]"
+          "appearance_count": 5,
+          "time_info": "[04时43分 ~ 07时36分]"
         },
         {
           "title": "周二（3月10日），彭博电动汽车价格回报指数涨2.28%，报3581.07点，亚太盘初以来持续走高，北京时间01:17以来略微回吐部分涨幅。",
@@ -79,6 +82,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时37分]"
+        },
+        {
+          "title": "业内人士谈小米汽车被销售嘲讽",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E4%BA%BA%E5%A3%AB%E8%B0%88%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%A2%AB%E9%94%80%E5%94%AE%E5%98%B2%E8%AE%BD%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
         },
         {
           "title": "美股周二收盘，道指初步收跌0.07%，标普500指数跌0.2%，纳指微涨。纳斯达克中国金龙指数收涨近2%，蔚来汽车(NIO.N)涨15%。",
@@ -109,8 +123,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 06时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 07时36分]"
         },
         {
           "title": "22个月大宝宝躺玉米芯上晒太阳",
@@ -119,11 +133,12 @@
           "ranks": [
             20,
             17,
-            26
+            26,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 06时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 07时36分]"
         }
       ]
     },
@@ -140,8 +155,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 06时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 07时36分]"
         }
       ]
     },
