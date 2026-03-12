@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T10:47:42.690194+08:00",
-  "total_titles_processed": 833,
+  "generated_at": "2026-03-12T12:55:15.500441+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "农民",
-      "match_count": 8,
+      "match_count": 15,
       "titles": [
         {
           "title": "为农民哽咽发声代表接到多部委电话",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时04分 ~ 10时47分]"
+        },
+        {
+          "title": "建议70岁以上农民养老金提至500",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE70%E5%B2%81%E4%BB%A5%E4%B8%8A%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E6%8F%90%E8%87%B3500%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "建议允许60岁以上农民工继续务工",
@@ -33,15 +44,38 @@
           "time_info": "[01时04分 ~ 10时47分]"
         },
         {
+          "title": "代表：农民交的公粮就等于交了社保",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%EF%BC%9A%E5%86%9C%E6%B0%91%E4%BA%A4%E7%9A%84%E5%85%AC%E7%B2%AE%E5%B0%B1%E7%AD%89%E4%BA%8E%E4%BA%A4%E4%BA%86%E7%A4%BE%E4%BF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "多名代表呼吁提高农民养老金",
+          "url": "https://www.douyin.com/hot/2427730",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
           "title": "代表说农民交的公粮就等于交了社保",
           "url": "https://www.toutiao.com/trending/7615914270754684954/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时47分 ~ 12时55分]"
         },
         {
           "title": "为农民哽咽发声代表接到多部委电话",
@@ -69,13 +103,46 @@
           "time_info": "[01时04分 ~ 03时04分]"
         },
         {
+          "title": "农民养老金提高至1000元分几步走",
+          "url": "https://www.toutiao.com/trending/7615837960902053395/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "建议大幅提高农民养老金 多部委关注",
+          "url": "https://www.toutiao.com/trending/7615284210936660018/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "代表说农民交的公粮等于交了社保",
+          "url": "https://www.douyin.com/hot/2427647",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
           "title": "代表说农民交的公粮就等于交了社保",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A3%E8%A1%A8%E8%AF%B4%E5%86%9C%E6%B0%91%E4%BA%A4%E7%9A%84%E5%85%AC%E7%B2%AE%E5%B0%B1%E7%AD%89%E4%BA%8E%E4%BA%A4%E4%BA%86%E7%A4%BE%E4%BF%9D%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -86,9 +153,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "80岁的“铁姑娘”一心牵挂农民养老",
+          "url": "https://www.toutiao.com/trending/7615201584900784191/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "建议允许60岁以上农民工继续务工",
@@ -105,7 +183,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
@@ -128,6 +206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-03-12）",
+          "url": "https://flash.jin10.com/detail/20260312120026460800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "据知情人士透露，奈飞将支付高达6亿美元，来收购Ben Affleck旗下人工智能（AI）公司InterPositive。（彭博）",
@@ -158,7 +247,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
