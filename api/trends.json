@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T12:55:15.500441+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-03-12T13:59:12.657112+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             14,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 10时47分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 13时59分]"
         },
         {
           "title": "建议70岁以上农民养老金提至500",
@@ -26,7 +27,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -44,24 +45,13 @@
           "time_info": "[01时04分 ~ 10时47分]"
         },
         {
-          "title": "代表：农民交的公粮就等于交了社保",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%EF%BC%9A%E5%86%9C%E6%B0%91%E4%BA%A4%E7%9A%84%E5%85%AC%E7%B2%AE%E5%B0%B1%E7%AD%89%E4%BA%8E%E4%BA%A4%E4%BA%86%E7%A4%BE%E4%BF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
           "title": "多名代表呼吁提高农民养老金",
           "url": "https://www.douyin.com/hot/2427730",
           "source": "抖音",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -71,11 +61,24 @@
           "source": "今日头条",
           "ranks": [
             4,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 12时55分]"
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 13时59分]"
+        },
+        {
+          "title": "代表：农民交的公粮就等于交了社保",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%EF%BC%9A%E5%86%9C%E6%B0%91%E4%BA%A4%E7%9A%84%E5%85%AC%E7%B2%AE%E5%B0%B1%E7%AD%89%E4%BA%8E%E4%BA%A4%E4%BA%86%E7%A4%BE%E4%BF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 13时59分]"
         },
         {
           "title": "为农民哽咽发声代表接到多部委电话",
@@ -92,6 +95,29 @@
           "time_info": "[04时45分 ~ 07时35分]"
         },
         {
+          "title": "农民养老金提高至1000元分几步走",
+          "url": "https://www.toutiao.com/trending/7615837960902053395/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 13时59分]"
+        },
+        {
+          "title": "代表说农民交的公粮等于交了社保",
+          "url": "https://www.douyin.com/hot/2427647",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 13时59分]"
+        },
+        {
           "title": "为农民哽咽发声代表接到多部委电话",
           "url": "https://www.douyin.com/hot/2427412",
           "source": "抖音",
@@ -103,35 +129,13 @@
           "time_info": "[01时04分 ~ 03时04分]"
         },
         {
-          "title": "农民养老金提高至1000元分几步走",
-          "url": "https://www.toutiao.com/trending/7615837960902053395/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
           "title": "建议大幅提高农民养老金 多部委关注",
           "url": "https://www.toutiao.com/trending/7615284210936660018/",
           "source": "今日头条",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "代表说农民交的公粮等于交了社保",
-          "url": "https://www.douyin.com/hot/2427647",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -164,7 +168,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
@@ -214,7 +218,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
         },
