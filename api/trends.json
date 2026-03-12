@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T15:09:45.796046+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-03-12T16:56:05.610561+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "ranks": [
             4,
             14,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时47分 ~ 15时09分]"
+          "appearance_count": 7,
+          "time_info": "[10时47分 ~ 16时56分]"
         },
         {
           "title": "代表：农民交的公粮就等于交了社保",
@@ -40,11 +41,25 @@
           "source": "百度热搜",
           "ranks": [
             2,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 15时09分]"
+          "appearance_count": 6,
+          "time_info": "[12时55分 ~ 16时56分]"
+        },
+        {
+          "title": "农民养老金提高至1000元分几步走",
+          "url": "https://www.toutiao.com/trending/7615837960902053395/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时55分 ~ 16时56分]"
         },
         {
           "title": "建议70岁以上农民养老金提至500",
@@ -80,18 +95,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
-        },
-        {
-          "title": "农民养老金提高至1000元分几步走",
-          "url": "https://www.toutiao.com/trending/7615837960902053395/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 15时09分]"
         },
         {
           "title": "代表说农民交的公粮等于交了社保",
@@ -181,7 +184,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -199,8 +202,140 @@
       ]
     },
     {
+      "keyword_group": "汽车",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "汽车开多久换，性价比最高？",
+          "url": "https://www.zhihu.com/question/13372816622",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14,
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时04分 ~ 07时35分]"
+        },
+        {
+          "title": "周三（3月11日），彭博电动汽车价格回报指数涨2.23%，报3666.41点，亚太早盘显著上涨，北京时间10:00以来高位窄幅震荡——10:55刷新日高至3686.03点。 成分股蔚来集团H股收涨14.05%，中创新航科技集团H股收涨8.73%，吉利汽车控股H股收涨8.21%表现第三。 在下跌的11只成分股中，雅迪集团H股收跌1.35%跌幅第四大，日本电产株式会社收跌2.54%，小马智行跌2.7%，Olectra GreenTech跌3.43%。",
+          "url": "https://wallstreetcn.com/livenews/3068332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时45分 ~ 05时57分]"
+        },
+        {
+          "title": "财报公布后，理想汽车(LI.O)美股盘前下跌近3%。",
+          "url": "https://flash.jin10.com/detail/20260312163212112800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "理想汽车(LI.O)：第四季度交付总量109,194辆。",
+          "url": "https://flash.jin10.com/detail/20260312163121253800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "理想汽车(LI.O)：预计第一季度营收204亿至216亿元。",
+          "url": "https://flash.jin10.com/detail/20260312163055671800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "理想汽车(02015.HK)：2025年第四季度的收入总额为人民币288亿元（41亿美元），较2024年第四季度的人民币443亿元减少35.0%，较2025年第三季度的人民币274亿元增加5.2%。",
+          "url": "https://flash.jin10.com/detail/20260312163037894800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "理想汽车第四季度营收287.8亿元人民币，同比下降35%，市场预估288.4亿元人民币。 第四季度汽车销售收入272.5亿元人民币，同比下降36%，市场预估272.7亿元人民币。 第四季度调整后每ADS收益0.25元人民币，上年同期3.79元人民币。 预计2026年第一季度营收204亿元人民币至216亿元人民币，市场预估240.1亿元人民币。 预计2026年第一季度车辆交付量为85,000至90,000辆，同比减少8.5%至3.1%。 理想汽车美股盘前下跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3068756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "本田汽车预计全年经营亏损2,700.0亿日元至5,700.0亿日元，此前预计收益5,500.0亿日元，市场预估收益7,093.5亿日元。 预计全年净亏损4,200.0亿日元至6,900.0亿日元，此前预计收益3,000.0亿日元，市场预估收益4,625.9亿日元。 预计因电动汽车战略将产生最高达2.5万亿日元的费用。",
+          "url": "https://wallstreetcn.com/livenews/3068630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "乘联分会：比亚迪2月出口98,706辆汽车。",
+          "url": "https://flash.jin10.com/detail/20260312161313367800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "宝马汽车第四季度息税前利润21.2亿欧元，同比增长13%，市场预估19.2亿欧元。 第四季度销售额334.5亿欧元，同比下降8.1%，市场预估373.8亿欧元。 第四季度汽车部门营收303.9亿欧元，同比下降11%，市场预估332.7亿欧元。 2025年汽车业务息税前利润率5.3％，上年同期6.3％，市场预估5.36％。 预计2026年汽车业务息税前利润率4％至6％，市场预估5.27％。",
+          "url": "https://wallstreetcn.com/livenews/3068627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "本田汽车有限公司取消某些电动汽车车型在北美的市场推出和开发。",
+          "url": "https://flash.jin10.com/detail/20260312143147609800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
@@ -212,6 +347,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时04分 ~ 07时35分]"
+        },
+        {
+          "title": "今年加快研究人工智能立法",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%8A%A0%E5%BF%AB%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%AB%8B%E6%B3%95%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时55分 ~ 16时56分]"
         },
         {
           "title": "德意志银行：出于对人工智能（AI）未来造成干扰的恐惧，投资者对美联储降息前景的定价可能超过了美国经济所能保证的程度。",
@@ -289,72 +435,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "汽车开多久换，性价比最高？",
-          "url": "https://www.zhihu.com/question/13372816622",
-          "source": "知乎",
-          "ranks": [
-            18,
-            14,
-            13,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时04分 ~ 07时35分]"
         },
         {
-          "title": "周三（3月11日），彭博电动汽车价格回报指数涨2.23%，报3666.41点，亚太早盘显著上涨，北京时间10:00以来高位窄幅震荡——10:55刷新日高至3686.03点。 成分股蔚来集团H股收涨14.05%，中创新航科技集团H股收涨8.73%，吉利汽车控股H股收涨8.21%表现第三。 在下跌的11只成分股中，雅迪集团H股收跌1.35%跌幅第四大，日本电产株式会社收跌2.54%，小马智行跌2.7%，Olectra GreenTech跌3.43%。",
-          "url": "https://wallstreetcn.com/livenews/3068332",
+          "title": "司法部部长贺荣：今年将加快研究人工智能等领域立法",
+          "url": "https://wallstreetcn.com/livenews/3068737",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
             30
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时45分 ~ 05时57分]"
-        },
-        {
-          "title": "本田汽车预计全年经营亏损2,700.0亿日元至5,700.0亿日元，此前预计收益5,500.0亿日元，市场预估收益7,093.5亿日元。 预计全年净亏损4,200.0亿日元至6,900.0亿日元，此前预计收益3,000.0亿日元，市场预估收益4,625.9亿日元。 预计因电动汽车战略将产生最高达2.5万亿日元的费用。",
-          "url": "https://wallstreetcn.com/livenews/3068630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "宝马汽车第四季度息税前利润21.2亿欧元，同比增长13%，市场预估19.2亿欧元。 第四季度销售额334.5亿欧元，同比下降8.1%，市场预估373.8亿欧元。 第四季度汽车部门营收303.9亿欧元，同比下降11%，市场预估332.7亿欧元。 2025年汽车业务息税前利润率5.3％，上年同期6.3％，市场预估5.36％。 预计2026年汽车业务息税前利润率4％至6％，市场预估5.27％。",
-          "url": "https://wallstreetcn.com/livenews/3068627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        },
-        {
-          "title": "本田汽车有限公司取消某些电动汽车车型在北美的市场推出和开发。",
-          "url": "https://flash.jin10.com/detail/20260312143147609800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时09分"
+          "time_info": "16时56分"
         }
       ]
     },
