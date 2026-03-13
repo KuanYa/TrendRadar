@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T01:43:07.348461+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-03-14T02:55:55.181341+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "农业",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "霍尔木兹海峡“卡住”近百万吨化肥 牵动农业供应链稳定",
@@ -15,8 +15,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 02时55分]"
         },
         {
           "title": "欧盟委员会农业与食品专员Christophe Hansen：欧盟暂停进口某些零关税糖的方案将持续“至少一年时间”，从而帮助稳定辖区内价格。 相关文件已经准备就绪。（彭博）",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "美国农业部长罗林斯：化肥价格公告即将发布。",
+          "url": "https://flash.jin10.com/detail/20260314021324330800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时55分"
         }
       ]
     }
