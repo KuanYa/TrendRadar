@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T13:57:40.339046+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2026-03-13T15:07:58.011631+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
+          "url": "https://www.zhihu.com/question/2015481604898858354",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 15时07分]"
         },
         {
           "title": "周四（3月12日），彭博电动汽车价格回报指数跌0.96%，报3631.82点。",
@@ -37,7 +49,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -53,24 +65,13 @@
           "time_info": "10时45分"
         },
         {
-          "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
-          "url": "https://www.zhihu.com/question/2015481604898858354",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
           "title": "印度汽车行业组织SIAM：西亚局势仍令人担忧，行业将密切关注地缘政治局势的演变。",
           "url": "https://flash.jin10.com/detail/20260313133126288800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -198,11 +199,12 @@
             16,
             12,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时42分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[07时42分 ~ 15时07分]"
         }
       ]
     },
