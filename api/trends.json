@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T16:48:03.992481+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-03-14T17:43:06.002700+08:00",
+  "total_titles_processed": 1223,
   "failed_sources": [],
   "trends": [
     {
@@ -49,11 +49,12 @@
           "url": "https://www.zhihu.com/question/2015916136630281791",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 16时48分]"
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 17时43分]"
         }
       ]
     },
@@ -70,8 +71,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时42分 ~ 16时48分]"
+          "appearance_count": 18,
+          "time_info": "[01时42分 ~ 17时43分]"
         },
         {
           "title": "欧盟委员会农业与食品专员Christophe Hansen：欧盟暂停进口某些零关税糖的方案将持续“至少一年时间”，从而帮助稳定辖区内价格。 相关文件已经准备就绪。（彭博）",
@@ -99,7 +100,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "山东临沂成立工作组调查报废汽车非法拆解有关情况",
@@ -109,11 +110,23 @@
             2,
             5,
             10,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时54分 ~ 16时48分]"
+          "appearance_count": 5,
+          "time_info": "[13时54分 ~ 17时43分]"
+        },
+        {
+          "title": "我的报废汽车去哪了",
+          "url": "https://www.baidu.com/s?wd=%E6%88%91%E7%9A%84%E6%8A%A5%E5%BA%9F%E6%B1%BD%E8%BD%A6%E5%8E%BB%E5%93%AA%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 17时43分]"
         }
       ]
     }
