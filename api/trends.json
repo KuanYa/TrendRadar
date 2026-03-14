@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T21:10:10.166403+08:00",
-  "total_titles_processed": 1475,
+  "generated_at": "2026-03-14T22:38:02.899872+08:00",
+  "total_titles_processed": 1568,
   "failed_sources": [],
   "trends": [
     {
@@ -62,11 +62,12 @@
           "url": "https://www.zhihu.com/question/60274282",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时09分 ~ 21时10分]"
+          "appearance_count": 3,
+          "time_info": "[21时09分 ~ 22时37分]"
         }
       ]
     },
@@ -113,7 +114,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "山东临沂成立工作组调查报废汽车非法拆解有关情况",
@@ -129,6 +130,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时54分 ~ 17时43分]"
+        },
+        {
+          "title": "宝马销售被指直播拉踩小米汽车，称「180 天造的车不敢开」，小米高管回怼问真实车主最有说服力，如何评价？",
+          "url": "https://www.zhihu.com/question/2014785530991236759",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时37分 ~ 22时38分]"
         },
         {
           "title": "我的报废汽车去哪了",
