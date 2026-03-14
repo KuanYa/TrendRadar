@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T19:33:04.750082+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2026-03-14T21:10:10.166403+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "十五五要新建新型研究型大学，超常规布局人工智能等急需学科，加强基础学科等本硕博衔接培养，释放哪些信号？",
@@ -56,6 +56,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时37分]"
+        },
+        {
+          "title": "人工智能替代了大部分工作后，我们该做什么？",
+          "url": "https://www.zhihu.com/question/60274282",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
         }
       ]
     },
