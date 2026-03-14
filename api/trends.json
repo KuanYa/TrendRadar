@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T10:43:56.836786+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-03-14T12:50:18.694883+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2312511",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时42分 ~ 10时43分]"
+          "appearance_count": 10,
+          "time_info": "[01时42分 ~ 12时50分]"
         },
         {
           "title": "欧盟委员会农业与食品专员Christophe Hansen：欧盟暂停进口某些零关税糖的方案将持续“至少一年时间”，从而帮助稳定辖区内价格。 相关文件已经准备就绪。（彭博）",
