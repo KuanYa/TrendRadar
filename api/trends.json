@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-14T17:43:06.002700+08:00",
-  "total_titles_processed": 1223,
+  "generated_at": "2026-03-14T18:37:59.761251+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 4,
       "titles": [
+        {
+          "title": "十五五要新建新型研究型大学，超常规布局人工智能等急需学科，加强基础学科等本硕博衔接培养，释放哪些信号？",
+          "url": "https://www.zhihu.com/question/2015916136630281791",
+          "source": "知乎",
+          "ranks": [
+            18,
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时47分 ~ 18时37分]"
+        },
         {
           "title": "周五（3月13日），存储芯片与硬件供应链指数涨3.42%，报107.71点，本周劣迹上涨11.60%，周一显著上涨，随后持续高位震荡。 信息科技指数涨0.44%，本周累涨2.59%。 人工智能（AI）赢家指数跌0.14%，本周累涨3.39%，周一和周二持续上涨，随后高位震荡。 AI软件先驱指数跌1.66%，本周累跌4.78%，周四和周五加速下跌。",
           "url": "https://wallstreetcn.com/livenews/3070007",
@@ -43,18 +56,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时37分]"
-        },
-        {
-          "title": "十五五要新建新型研究型大学，超常规布局人工智能等急需学科，加强基础学科等本硕博衔接培养，释放哪些信号？",
-          "url": "https://www.zhihu.com/question/2015916136630281791",
-          "source": "知乎",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时47分 ~ 17时43分]"
         }
       ]
     },
@@ -71,8 +72,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时42分 ~ 17时43分]"
+          "appearance_count": 19,
+          "time_info": "[01时42分 ~ 18时37分]"
         },
         {
           "title": "欧盟委员会农业与食品专员Christophe Hansen：欧盟暂停进口某些零关税糖的方案将持续“至少一年时间”，从而帮助稳定辖区内价格。 相关文件已经准备就绪。（彭博）",
