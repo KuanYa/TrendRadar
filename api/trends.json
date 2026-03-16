@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T05:50:55.403168+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-03-17T06:50:09.462552+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "据华尔街日报：由英伟达支持的人工智能初创公司 Reflection AI 计划斥资数十亿美元在韩国建设数据中心。",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时50分]"
+        },
+        {
+          "title": "美国商务部宣布美国人工智能出口新计划阶段。",
+          "url": "https://flash.jin10.com/detail/20260317061250225800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
         },
         {
           "title": "英伟达CEO黄仁勋：没有我们的机密计算能力，没有我们构建端到端系统的能力，以及提供整个加速计算和人工智能堆栈的能力，从数据处理，无论是向量还是结构，一直到人工智能，这一切都是不可能的。",
@@ -111,8 +122,19 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美国民主党籍各州总检察长表示，特朗普提议提高政府资助的电动汽车充电站美国本土零部件使用比例，此举将导致该计划无法实施。",
+          "url": "https://flash.jin10.com/detail/20260317061813978800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
         {
           "title": "英伟达(NVDA.O)： 扩大与现代汽车和起亚汽车在自动驾驶技术方面的合作。",
           "url": "https://flash.jin10.com/detail/20260317044039136800",
@@ -136,6 +158,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时50分]"
+        },
+        {
+          "title": "上游成本全面传导，新能源汽车行业开启涨价模式",
+          "url": "https://wallstreetcn.com/livenews/3071202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
         },
         {
           "title": "周一（3月16日），彭博电动汽车价格回报指数涨1.20%，报3619.21点。",
