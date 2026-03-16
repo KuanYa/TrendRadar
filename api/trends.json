@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T03:16:25.395979+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-03-17T04:50:31.675146+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "据华尔街日报：由英伟达支持的人工智能初创公司 Reflection AI 计划斥资数十亿美元在韩国建设数据中心。",
@@ -14,9 +14,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "Lyft(LYFT.O)盘后上涨3.2%，Lyft将使用英伟达人工智能技术提升公司在全球运营中的机器学习系统。",
+          "url": "https://flash.jin10.com/detail/20260317044000425800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "英伟达CEO黄仁勋：没有我们的机密计算能力，没有我们构建端到端系统的能力，以及提供整个加速计算和人工智能堆栈的能力，从数据处理，无论是向量还是结构，一直到人工智能，这一切都是不可能的。",
@@ -25,7 +36,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -47,9 +58,42 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "戴尔(DELL.N)：宣布推出采用英伟达技术的戴尔人工智能数据平台。",
+          "url": "https://flash.jin10.com/detail/20260317043211394800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：亚马逊云服务（AWS）将部署英伟达人工智能基础设施，包括LPUs以及超过100万块英伟达GPU，部署将从今年开始。",
+          "url": "https://flash.jin10.com/detail/20260317043159061800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "戴尔(DELL.N)：将全面支持英伟达最新的人工智能存储与数据管理创新。",
+          "url": "https://flash.jin10.com/detail/20260317043048956800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "市场消息：英伟达旗下的DLSS 5技术通过人工智能驱动，在游戏的视觉保真度方面实现了突破性进展。",
@@ -58,9 +102,48 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "英伟达(NVDA.O)： 扩大与现代汽车和起亚汽车在自动驾驶技术方面的合作。",
+          "url": "https://flash.jin10.com/detail/20260317044039136800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "比亚迪、吉利汽车、铃木、日产为L4级自动驾驶汽车采用英伟达NVIDIA DRIVE Hyperion。",
+          "url": "https://wallstreetcn.com/livenews/3071155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "周一（3月16日），彭博电动汽车价格回报指数涨1.20%，报3619.21点。",
+          "url": "https://wallstreetcn.com/livenews/3071147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         }
       ]
     }
