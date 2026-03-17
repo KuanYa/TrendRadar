@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T13:00:17.116084+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2026-03-17T14:10:05.012426+08:00",
+  "total_titles_processed": 1083,
   "failed_sources": [],
   "trends": [
     {
@@ -143,8 +143,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时00分]"
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 14时10分]"
         },
         {
           "title": "现代汽车与英伟达扩大在自动驾驶技术领域的合作。",
@@ -270,11 +270,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32781423",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时00分]"
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 14时10分]"
         },
         {
           "title": "创业板涨超1%，存储芯片大爆发，华虹半导体直线拉升，农业白酒等“老登股”大涨，恒科指大涨逾2%",
