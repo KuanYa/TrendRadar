@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T18:53:45.877249+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-03-19T19:42:37.503178+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -173,7 +173,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -228,8 +228,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时55分 ~ 18时53分]"
+          "appearance_count": 8,
+          "time_info": "[10时55分 ~ 19时42分]"
         },
         {
           "title": "工信部召开新材料领域中小企业圆桌会：探索人工智能等在材料研发、中试、生产等典型场景应用",
