@@ -1,11 +1,61 @@
 {
-  "generated_at": "2026-03-19T07:38:21.901623+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-03-19T10:55:32.839827+08:00",
+  "total_titles_processed": 821,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "汽车",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "港股新能源车企股震荡走高，小米集团(01810.HK)涨超5%，奇瑞汽车(09973.HK)、比亚迪股份(01211.HK)、吉利汽车(00175.HK)、理想汽车(02015.HK)、赛力斯(09927.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260319103259280800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "小米汽车 舒淇",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%20%E8%88%92%E6%B7%87&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "市场消息：丰田在美国召回约14.42万辆汽车。",
+          "url": "https://flash.jin10.com/detail/20260319003415850800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "伯恩斯坦：将吉利汽车(00175.HK)目标价从21.00港元上调至22.00港元。",
+          "url": "https://flash.jin10.com/detail/20260319102339639800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "市场消息：桥水基金首席科学家兼人工智能负责人Jasjeet Sekhon将加入谷歌DeepMind，出任首席战略官。Sekhon也将加入桥水董事会。",
@@ -14,9 +64,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "外资企业为何“偏爱”上海？他们提到人工智能、供应链、市场……",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32789587",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "鲍威尔：还没有开始看到人工智能（AI）对于生产力的影响。 近期的生产力趋势并非生成式AI所致。 AI肯定应该会对生产力趋势做出贡献。 数据中心建设可能正推高通胀。 AI投资可能会在短期内刺激中性利率（走高）。",
@@ -45,23 +106,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场消息：丰田在美国召回约14.42万辆汽车。",
-          "url": "https://flash.jin10.com/detail/20260319003415850800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
         }
       ]
     }
