@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T01:56:46.057080+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-03-20T03:10:54.597911+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             2,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时10分]"
         },
         {
           "title": "美国电动汽车公司Rivian股价回吐涨幅，现涨0.7%。",
@@ -26,9 +27,26 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据华尔街日报：知情人士称，贝索斯正在初步洽谈筹集1000亿美元，用于一个新基金，该基金将收购制造公司，并寻求利用人工智能技术加速其自动化进程。",
+          "url": "https://flash.jin10.com/detail/20260320024923101800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         }
       ]
     }
