@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T13:59:46.550840+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2026-03-20T15:10:15.598746+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "小米汽车",
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时46分 ~ 13时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时46分 ~ 15时10分]"
         },
         {
           "title": "据韩联社20日报道，韩国大田一家汽车零部件制造工厂当天13时17分左右发生火灾，目前已造成50人受伤。",
@@ -41,7 +41,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -89,7 +89,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -100,7 +100,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -122,7 +122,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -133,9 +133,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "据韩国媒体20日报道，韩国大田汽车零部件制造工厂火灾目前已造成24人重伤、29人轻伤，另有14人失联。韩国总统李在明要求动员所有可用资源，全力开展救援工作。",
+          "url": "https://flash.jin10.com/detail/20260320145758022800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
         }
       ]
     },
@@ -206,7 +217,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         }
