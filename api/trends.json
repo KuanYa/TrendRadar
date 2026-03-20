@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T18:50:32.678489+08:00",
-  "total_titles_processed": 1541,
+  "generated_at": "2026-03-20T19:39:08.333182+08:00",
+  "total_titles_processed": 1638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "小米新一代 SU7 发布，王传福、李想、何小鹏纷纷到场助阵，怎样解读？小米汽车在行业内有怎样的影响力？",
@@ -19,8 +19,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时46分 ~ 18时50分]"
+          "appearance_count": 11,
+          "time_info": "[10时46分 ~ 19时39分]"
         },
         {
           "title": "小米汽车",
@@ -108,6 +108,17 @@
           "time_info": "13时59分"
         },
         {
+          "title": "广汽36亿参建国内首个空域试验场投用，旗下飞行汽车同步首飞",
+          "url": "https://wallstreetcn.com/livenews/3074088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "据韩联社：韩国大田市一家汽车零部件工厂发生火灾，截至目前已有25人受伤，预计还会有更多人员伤亡及财产损失。",
           "url": "https://flash.jin10.com/detail/20260320132837518800",
           "source": "金十数据",
@@ -188,7 +199,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -198,8 +209,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 18时50分]"
+          "appearance_count": 6,
+          "time_info": "[16时53分 ~ 19时39分]"
         },
         {
           "title": "据Punchbowl：白宫计划发布人工智能监管框架。",
@@ -247,6 +258,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "美国能源部长赖特：软银将为俄亥俄州带来“绝对繁荣”，助力人工智能发展。",
+          "url": "https://flash.jin10.com/detail/20260320191347170800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "贝佐斯计划为人工智能（AI）制造基金筹资1000亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3073543",
           "source": "华尔街见闻-快讯",
@@ -267,6 +289,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "李强对全国春季农业生产工作作出重要批示强调，高水平保障粮食等重要农产品稳定安全供给，为实现“十五五”良好开局提供有力支撑。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3074100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     },
@@ -297,11 +336,12 @@
           "url": "https://wallstreetcn.com/livenews/3074072",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 19时39分]"
         }
       ]
     }
