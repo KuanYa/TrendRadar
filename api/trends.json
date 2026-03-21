@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T12:44:26.035578+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2026-03-21T13:50:42.078236+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 12时44分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 13时50分]"
         },
         {
           "title": "周五（3月20日），存储芯片与硬件供应链指数跌4.93%，报113.25点，本周累计上涨5.14%，整体呈现出M形走势。 北美科技软件股指数ETF收跌1.74%，报82.99美元，本周累跌1.43%，延续上周跌4.30%的表现。 信息科技指数跌3.42%，报269.03点，本周累涨0.24%。 人工智能（AI）赢家指数跌4.02%，报281.73点，本周累跌0.09%。 AI软件先驱指数跌2.18%，报98.04点，本周累跌1.37%。",
@@ -38,11 +38,12 @@
           "url": "https://flash.jin10.com/detail/20260321113458071800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时50分]"
         }
       ]
     },
@@ -97,20 +98,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时50分]"
         },
         {
           "title": "国家发展改革委、农业农村部召开生猪养殖企业座谈会",
           "url": "https://www.cls.cn/detail/2319935",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 13时50分]"
         }
       ]
     },
