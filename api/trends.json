@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T05:35:07.927572+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2026-03-23T06:35:22.776920+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 05时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 06时35分]"
         },
         {
           "title": "美国农业部长罗林斯：将公布更多与增加化肥运输量相关的公告。",
@@ -47,8 +47,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 05时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 06时35分]"
         }
       ]
     },
