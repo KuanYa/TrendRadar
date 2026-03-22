@@ -1,8 +1,59 @@
 {
-  "generated_at": "2026-03-22T21:09:52.231096+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2026-03-22T22:37:22.217899+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "油价震荡波及汽车业了吗",
+          "url": "https://www.toutiao.com/trending/7619982956676779556/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
+          "title": "苏州更新汽车购新补贴政策：3月21日起至6月30日购买新车最高补贴7000元",
+          "url": "https://flash.jin10.com/detail/20260322113616560800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 14时03分]"
+        },
+        {
+          "title": "国家发改委主任郑栅洁会见大众汽车集团管理董事会主席奥博穆",
+          "url": "https://wallstreetcn.com/livenews/3074585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
+          "title": "国家发改委主任郑栅洁会见大众汽车集团管理董事会主席奥博穆",
+          "url": "https://flash.jin10.com/detail/20260322213846846800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能",
       "match_count": 3,
@@ -21,8 +72,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时40分 ~ 21时09分]"
+          "appearance_count": 23,
+          "time_info": "[00时40分 ~ 22时37分]"
         },
         {
           "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
@@ -47,35 +98,6 @@
           "ranks": [
             15,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 14时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "油价震荡波及汽车业了吗",
-          "url": "https://www.toutiao.com/trending/7619982956676779556/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
-        },
-        {
-          "title": "苏州更新汽车购新补贴政策：3月21日起至6月30日购买新车最高补贴7000元",
-          "url": "https://flash.jin10.com/detail/20260322113616560800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            24
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -120,8 +142,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时40分 ~ 21时09分]"
+          "appearance_count": 23,
+          "time_info": "[00时40分 ~ 22时37分]"
         }
       ]
     }
