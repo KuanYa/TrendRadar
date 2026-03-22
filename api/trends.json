@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T02:50:36.910892+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-03-23T03:34:15.026976+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 03时34分]"
         },
         {
           "title": "肥料卡脖子,日本农业遭重",
@@ -27,8 +27,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 03时34分]"
         }
       ]
     },
@@ -45,8 +45,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 02时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 03时34分]"
         }
       ]
     },
