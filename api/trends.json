@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-23T03:34:15.026976+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-03-23T04:38:34.590191+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "农业",
       "match_count": 2,
       "titles": [
-        {
-          "title": "美国农业部长罗林斯：将公布更多与增加化肥运输量相关的公告。",
-          "url": "https://flash.jin10.com/detail/20260322234309373800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 03时34分]"
-        },
         {
           "title": "肥料卡脖子,日本农业遭重",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352143&amp;topic_name=%E8%82%A5%E6%96%99%E5%8D%A1%E8%84%96%E5%AD%90%2C%E6%97%A5%E6%9C%AC%E5%86%9C%E4%B8%9A%E9%81%AD%E9%87%8D",
@@ -27,8 +16,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 03时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 04时38分]"
+        },
+        {
+          "title": "美国农业部长罗林斯：将公布更多与增加化肥运输量相关的公告。",
+          "url": "https://flash.jin10.com/detail/20260322234309373800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 04时38分]"
         }
       ]
     },
@@ -45,8 +46,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 03时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 04时38分]"
         }
       ]
     },
