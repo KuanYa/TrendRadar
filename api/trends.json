@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T19:31:59.916215+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-03-22T21:09:52.231096+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时40分 ~ 19时31分]"
+          "appearance_count": 22,
+          "time_info": "[00时40分 ~ 21时09分]"
         },
         {
           "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
@@ -120,8 +120,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时40分 ~ 19时31分]"
+          "appearance_count": 22,
+          "time_info": "[00时40分 ~ 21时09分]"
         }
       ]
     }
