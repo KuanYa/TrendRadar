@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T15:43:15.108416+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-03-22T16:46:41.165942+08:00",
+  "total_titles_processed": 975,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             16,
             17,
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 15时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 16时46分]"
         },
         {
           "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
@@ -28,11 +29,12 @@
           "ranks": [
             5,
             7,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 15时43分]"
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 16时46分]"
         },
         {
           "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
@@ -79,11 +81,12 @@
             7,
             8,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 15时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 16时46分]"
         }
       ]
     },
