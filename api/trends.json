@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T06:42:18.649301+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-03-24T07:41:24.997614+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://www.toutiao.com/trending/7620319648046776326/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 05时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 07时41分]"
         },
         {
           "title": "周一（3月23日），彭博电动汽车价格回报指数涨0.05%，报3480.07点，整体呈现出V形反转，北京时间18:49曾刷新日低至3406.23点。",
@@ -54,11 +55,12 @@
           "url": "https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%9B%B4%E6%92%AD%E5%95%83%E7%8E%89%E7%B1%B3&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 07时41分]"
         },
         {
           "title": "芝加哥玉米、小麦期货跌超1%，纽约可可跌超2.5%",
