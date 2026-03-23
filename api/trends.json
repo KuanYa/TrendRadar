@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-03-23T17:08:57.063459+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-03-23T19:02:11.485137+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            24,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时40分 ~ 15时24分]"
+        },
+        {
+          "title": "国家数据局局长刘烈宏：2026年数据工作明确为“数据价值释放年” 加速人工智能与实体经济的深度融合",
+          "url": "https://flash.jin10.com/detail/20260323182959958800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "国家数据局局长刘烈宏：2026年数据工作明确为“数据价值释放年” 加速人工智能与实体经济的深度融合",
+          "url": "https://wallstreetcn.com/livenews/3075107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "据华尔街日报：Meta Platforms(META.O)CEO扎克伯格正在打造一个CEO人工智能代理，以帮助他处理工作事务。",
+          "url": "https://flash.jin10.com/detail/20260323064200733800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
+          "title": "市场消息：韩国人工智能初创公司Upstage正在与AMD(AMD.O)洽谈购买其10,000台最新的AI加速器，以此将大规模计算引入韩国。",
+          "url": "https://flash.jin10.com/detail/20260323121501231800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        }
+      ]
+    },
     {
       "keyword_group": "汽车",
       "match_count": 4,
@@ -55,48 +119,6 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "人工智能太绕,AI急需中文名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            24,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时40分 ~ 15时24分]"
-        },
-        {
-          "title": "据华尔街日报：Meta Platforms(META.O)CEO扎克伯格正在打造一个CEO人工智能代理，以帮助他处理工作事务。",
-          "url": "https://flash.jin10.com/detail/20260323064200733800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "市场消息：韩国人工智能初创公司Upstage正在与AMD(AMD.O)洽谈购买其10,000台最新的AI加速器，以此将大规模计算引入韩国。",
-          "url": "https://flash.jin10.com/detail/20260323121501231800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "农业",
       "match_count": 2,
       "titles": [
@@ -109,11 +131,12 @@
             17,
             21,
             22,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时40分 ~ 17时08分]"
+          "appearance_count": 20,
+          "time_info": "[00时40分 ~ 19时02分]"
         },
         {
           "title": "美国农业部长罗林斯：将公布更多与增加化肥运输量相关的公告。",
