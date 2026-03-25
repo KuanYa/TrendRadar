@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T18:57:39.766506+08:00",
-  "total_titles_processed": 1458,
+  "generated_at": "2026-03-25T19:51:06.184544+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时52分 ~ 18时57分]"
+          "appearance_count": 8,
+          "time_info": "[10时52分 ~ 19时51分]"
         },
         {
           "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
@@ -31,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 18时57分]"
+          "appearance_count": 6,
+          "time_info": "[07时40分 ~ 19时51分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.4%。 热门中概股里，文远知行初步收涨9.5%，晶科能源涨6.5%，理想、万国数据至多涨2.8%，拼多多涨1.8%，比亚迪涨1.7%，美团、腾讯、新东方、小鹏涨幅不足1%，京东、阿里、百胜中国至多跌0.4%，网易、蔚来、百度至多跌1.7%，小米跌2%，汽车之家跌3.7%。",
@@ -63,7 +63,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时57分"
         },
@@ -93,7 +93,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "苹果计划通过Siri应用、全新界面以及iOS 27中的“问Siri”按钮，重启其人工智能战略。",
@@ -116,6 +116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "工信部公开征求《人工智能 安全治理 模型上下文协议应用安全要求》等121项行业标准计划项目意见。",
+          "url": "https://flash.jin10.com/detail/20260325191248950800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
         }
       ]
     }
