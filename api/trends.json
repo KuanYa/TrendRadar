@@ -1,8 +1,59 @@
 {
-  "generated_at": "2026-03-27T04:44:05.077017+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-03-27T05:44:20.110604+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "据The Verge：维基百科已禁止使用人工智能撰写或重写条目。",
+          "url": "https://flash.jin10.com/detail/20260327043654407800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 05时44分]"
+        },
+        {
+          "title": "美联储理事库克：人工智能对劳动力市场具有变革性作用。",
+          "url": "https://flash.jin10.com/detail/20260327045347252800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "美联储理事库克：我们正在密切关注人工智能和就业市场的相关数据。",
+          "url": "https://flash.jin10.com/detail/20260327045346272800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "谷歌公司：推出Gemini 3.1 Flash Live Audio & Voice模型。 在全球推广Search Live。 向那些已经存在人工智能（AI）模型的地方推广Search Live。",
+          "url": "https://wallstreetcn.com/livenews/3077571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        }
+      ]
+    },
     {
       "keyword_group": "汽车",
       "match_count": 3,
@@ -39,37 +90,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据The Verge：维基百科已禁止使用人工智能撰写或重写条目。",
-          "url": "https://flash.jin10.com/detail/20260327043654407800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时44分"
-        },
-        {
-          "title": "谷歌公司：推出Gemini 3.1 Flash Live Audio & Voice模型。 在全球推广Search Live。 向那些已经存在人工智能（AI）模型的地方推广Search Live。",
-          "url": "https://wallstreetcn.com/livenews/3077571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "04时44分"
         }
       ]
     }
