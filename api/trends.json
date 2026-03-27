@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T01:55:19.882823+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-03-28T03:06:52.546993+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中国人工智能走在世界前列",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时06分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         },
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "Science 封面论文称「人工智能的谄媚影响人的思维方式」，这种「谄媚」还会产生哪些其他影响？",
+          "url": "https://www.zhihu.com/question/2020941462666305824",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
         }
       ]
     },
@@ -75,7 +86,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         },
@@ -86,7 +97,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         }
@@ -103,7 +114,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         }
