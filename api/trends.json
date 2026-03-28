@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T14:08:56.056781+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-03-28T15:50:45.147755+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,19 @@
           "time_info": "01时55分"
         },
         {
+          "title": "国家人工智能应用上海中试基地：发布五大核心创新成果",
+          "url": "https://wallstreetcn.com/livenews/3078534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 15时50分]"
+        },
+        {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
           "url": "https://wallstreetcn.com/livenews/3078490",
           "source": "华尔街见闻-快讯",
@@ -55,18 +68,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时46分 ~ 07时41分]"
-        },
-        {
-          "title": "国家人工智能应用上海中试基地：发布五大核心创新成果",
-          "url": "https://wallstreetcn.com/livenews/3078534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 14时08分]"
         },
         {
           "title": "雄安“人工智能+”产业生态融合发展论坛举行",
@@ -206,6 +207,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "农业农村部副部长张治礼会见美中贸易全国委员会代表团",
+          "url": "https://wallstreetcn.com/livenews/3078532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 15时50分]"
+        },
+        {
           "title": "我国科学家首创一次播种、多年收获水稻，成功克隆「长寿基因」，有多大突破意义？会给农业生产带来哪些影响？",
           "url": "https://www.zhihu.com/question/2018156713979720400",
           "source": "知乎",
@@ -215,18 +229,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时01分 ~ 14时08分]"
-        },
-        {
-          "title": "农业农村部副部长张治礼会见美中贸易全国委员会代表团",
-          "url": "https://wallstreetcn.com/livenews/3078532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 14时08分]"
         },
         {
           "title": "市场消息：美国总统特朗普承诺降低拖拉机成本，并“消除大量针对农业设备的荒谬规定”。",
@@ -292,8 +294,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 14时08分]"
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 15时50分]"
         },
         {
           "title": "芝加哥豆粕期货本周跌约4.1%，大豆油涨超2.8%",
