@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T22:40:55.122318+08:00",
-  "total_titles_processed": 1565,
+  "generated_at": "2026-03-28T23:39:57.477321+08:00",
+  "total_titles_processed": 1626,
   "failed_sources": [],
   "trends": [
     {
@@ -153,11 +153,12 @@
             18,
             15,
             19,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时48分 ~ 22时40分]"
+          "appearance_count": 8,
+          "time_info": "[17时48分 ~ 23时39分]"
         },
         {
           "title": "小鹏汽车更名小鹏集团",
@@ -315,8 +316,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时51分 ~ 22时40分]"
+          "appearance_count": 15,
+          "time_info": "[10时51分 ~ 23时39分]"
         },
         {
           "title": "芝加哥豆粕期货本周跌约4.1%，大豆油涨超2.8%",
