@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T18:41:03.619262+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-03-28T19:36:10.843966+08:00",
+  "total_titles_processed": 1361,
   "failed_sources": [],
   "trends": [
     {
@@ -175,11 +175,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 18时41分]"
+          "appearance_count": 5,
+          "time_info": "[17时48分 ~ 19时36分]"
         },
         {
           "title": "周五（3月27日），彭博电动汽车价格回报指数涨0.89%，报3585点，本周累计上涨3.07%。",
@@ -311,8 +312,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时51分 ~ 18时41分]"
+          "appearance_count": 12,
+          "time_info": "[10时51分 ~ 19时36分]"
         },
         {
           "title": "芝加哥豆粕期货本周跌约4.1%，大豆油涨超2.8%",
