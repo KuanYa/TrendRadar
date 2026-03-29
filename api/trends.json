@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T13:48:02.869770+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2026-03-29T15:16:19.980242+08:00",
+  "total_titles_processed": 891,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "小鹏汽车公司中文名称将变更为「小鹏集团」，这一变化意味着什么？可能有哪些商业考量？",
@@ -27,11 +27,12 @@
           "url": "https://www.toutiao.com/trending/7621786570001711114/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 13时48分]"
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 15时16分]"
         },
         {
           "title": "智能网联汽车等系列团体标准发布 加速共性关键技术转化与应用",
@@ -39,11 +40,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             21,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 13时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 15时16分]"
+        },
+        {
+          "title": "英国德比市警方28日发表声明说，该市当晚发生一起汽车冲撞行人事件，造成多人受伤，肇事司机已被逮捕。",
+          "url": "https://flash.jin10.com/detail/20260329143513576800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "崔东树：2026年1-2月中国占世界汽车份额30%",
@@ -52,7 +65,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         }
@@ -60,7 +73,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "人工智能会取代哪些岗位？",
@@ -83,11 +96,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 13时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 15时16分]"
+        },
+        {
+          "title": "马斯克：特斯拉人工智能自动驾驶的安全性将比人类驾驶高出10倍以上。",
+          "url": "https://flash.jin10.com/detail/20260329141015916800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         }
       ]
     },
