@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T15:16:19.980242+08:00",
-  "total_titles_processed": 891,
+  "generated_at": "2026-03-29T16:53:21.031030+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "小鹏汽车公司中文名称将变更为「小鹏集团」，这一变化意味着什么？可能有哪些商业考量？",
@@ -21,6 +21,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时44分 ~ 05时38分]"
+        },
+        {
+          "title": "北京启动智能网联新能源汽车商业保险开发应用",
+          "url": "https://flash.jin10.com/detail/20260329161755623800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "北京启动智能网联新能源汽车商业保险开发应用，适配L2、L3、L4全级别",
+          "url": "https://wallstreetcn.com/livenews/3078684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "张水华8天摘2冠：获奖一辆汽车",
@@ -54,7 +76,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -97,11 +119,12 @@
           "ranks": [
             5,
             6,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 15时16分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 16时53分]"
         },
         {
           "title": "马斯克：特斯拉人工智能自动驾驶的安全性将比人类驾驶高出10倍以上。",
@@ -110,7 +133,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         }
