@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T04:43:00.281354+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-03-30T05:41:17.299498+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2447736",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 05时41分]"
         },
         {
           "title": "以色列军方：在黎巴嫩边境附近以色列农民意外遇难事件中，未发现涉事军官存在任何疏忽或道德失范。",
