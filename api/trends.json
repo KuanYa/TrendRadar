@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-03-31T03:12:01.057612+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-03-31T04:57:00.028353+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "张雪机车夺冠，小米 su7 仰望 u9x 跑纽北第一，领克车赛夺冠含金量一样吗？对我国是汽车文化有什么意义？",
+          "url": "https://www.zhihu.com/question/2021703750130083017",
+          "source": "知乎",
+          "ranks": [
+            9,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 04时57分]"
+        },
+        {
+          "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32861369",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 04时57分]"
+        },
         {
           "title": "英国称贷款机构面临的汽车贷款补偿金额降至75亿英镑",
           "url": "https://wallstreetcn.com/livenews/3079515",
@@ -20,27 +44,15 @@
           "time_info": "[01时07分 ~ 03时12分]"
         },
         {
-          "title": "张雪机车夺冠，小米 su7 仰望 u9x 跑纽北第一，领克车赛夺冠含金量一样吗？对我国是汽车文化有什么意义？",
-          "url": "https://www.zhihu.com/question/2021703750130083017",
-          "source": "知乎",
+          "title": "周一（3月30日），彭博电动汽车价格回报指数跌1.19%，报3541.90点。",
+          "url": "https://wallstreetcn.com/livenews/3079566",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            13
+            8
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时12分]"
-        },
-        {
-          "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32861369",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "通用汽车美国密歇根工厂将增加加班时数，以提升燃油皮卡产量",
@@ -90,8 +102,42 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 03时12分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 04时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "玉米",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周一（3月30日）纽约尾盘，彭博谷物分类指数跌0.51%，报31.4908点。 CBOT玉米期货跌1.46%，CBOT小麦期货涨0.37%，CBOT大豆期货跌0.05%，豆粕期货跌0.22%，豆油期货涨1.47%。 CBOT瘦肉猪期货跌0.19%，活牛期货涨0.62%，饲牛期货涨0.56%。",
+          "url": "https://wallstreetcn.com/livenews/3079553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美联储威廉姆斯：人工智能应该创造大量就业岗位，应让人们为这些岗位做好准备。",
+          "url": "https://flash.jin10.com/detail/20260331042636136800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         }
       ]
     }
