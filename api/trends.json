@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T06:48:09.029207+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-03-31T07:45:14.138063+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             13,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 06时48分]"
+          "appearance_count": 12,
+          "time_info": "[01时06分 ~ 07时45分]"
         },
         {
           "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
@@ -26,11 +27,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 06时48分]"
+          "appearance_count": 12,
+          "time_info": "[01时06分 ~ 07时45分]"
         },
         {
           "title": "英国称贷款机构面临的汽车贷款补偿金额降至75亿英镑",
