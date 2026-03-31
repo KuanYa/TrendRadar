@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T15:41:00.403844+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2026-03-31T17:12:50.171806+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时20分 ~ 15时41分]"
+          "appearance_count": 6,
+          "time_info": "[11时20分 ~ 17时12分]"
         },
         {
           "title": "美国汽车协会称，美国平均零售汽油价格上涨至每加仑4美元以上。",
@@ -53,7 +54,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -166,7 +167,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         }
@@ -304,11 +305,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时48分 ~ 15时41分]"
+          "appearance_count": 5,
+          "time_info": "[13时48分 ~ 17时12分]"
         }
       ]
     }
