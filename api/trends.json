@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T21:53:23.900070+08:00",
-  "total_titles_processed": 1576,
+  "generated_at": "2026-03-31T23:12:46.638207+08:00",
+  "total_titles_processed": 1685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "张雪机车夺冠，小米 su7 仰望 u9x 跑纽北第一，领克车赛夺冠含金量一样吗？对我国是汽车文化有什么意义？",
@@ -117,6 +117,17 @@
           "time_info": "[13时48分 ~ 13时49分]"
         },
         {
+          "title": "恒大汽车：尚未找到合适的战略投资者。",
+          "url": "https://wallstreetcn.com/livenews/3080249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "通用汽车美国密歇根工厂将增加加班时数，以提升燃油皮卡产量",
           "url": "https://wallstreetcn.com/livenews/3079499",
           "source": "华尔街见闻-快讯",
@@ -148,6 +159,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "恒大汽车(00708.HK)：本公司无法合理确定香港联合交易所有限公司证券上市规则规定的未刊发财务业绩的刊发日期。公司将于合理地确定未刊发财务业绩的预期刊发日期后，在切实可行的情况下尽快公布该日期。",
+          "url": "https://flash.jin10.com/detail/20260331223417081800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "恒大汽车(00708.HK)：由于本公司尚未物色到合适的战略投资者以提供本集团非常需要的财务支持，本集团继续将其有限的财务资源集中于必要的营运活动，以维持基本业务营运。公司股份已于2025年4月1日上午九时正起暂停于联交所主板买卖，并将继续暂停，直至进一步通知为止。",
+          "url": "https://flash.jin10.com/detail/20260331223317385800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "正通汽车：股票继续暂停买卖",
@@ -262,7 +295,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
         }
@@ -332,8 +365,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时48分 ~ 21时53分]"
+          "appearance_count": 8,
+          "time_info": "[13时48分 ~ 23时12分]"
         }
       ]
     }
