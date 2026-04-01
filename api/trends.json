@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-04-01T17:19:04.191789+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-04-01T19:07:27.872039+08:00",
+  "total_titles_processed": 1461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "方程豹汽车公布3月销售25926辆，同比增长222%，环比增长52.2%。",
+          "url": "https://flash.jin10.com/detail/20260401190211652800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "基于乘客排泄生物质产沼气的新能源汽车「拉了吗」，大家觉得可行么？",
+          "url": "https://www.zhihu.com/question/1996938316550014245",
+          "source": "知乎",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 19时07分]"
+        },
         {
           "title": "零跑汽车(09863.HK)：近期公司CEO朱江明及股东傅利泉于市场内合共购入5,080,200股本公司H股，平均价格为每股股份约45.10港币，合共增持金额约2.3亿元港币。",
           "url": "https://flash.jin10.com/detail/20260401061400837800",
@@ -32,15 +55,15 @@
           "time_info": "[04时53分 ~ 05时58分]"
         },
         {
-          "title": "基于乘客排泄生物质产沼气的新能源汽车「拉了吗」，大家觉得可行么？",
-          "url": "https://www.zhihu.com/question/1996938316550014245",
-          "source": "知乎",
+          "title": "海南新能源汽车充电量一季度同比增长近四成",
+          "url": "https://wallstreetcn.com/livenews/3080858",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 17时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "华为2025年营收、净利润温和增长，智能汽车收入大增 72%、云计算小幅下滑 | 财报见闻",
@@ -87,15 +110,37 @@
           "time_info": "11时33分"
         },
         {
+          "title": "海南新能源汽车充电量一季度同比增长近四成",
+          "url": "https://flash.jin10.com/detail/20260401184633759800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "岚图汽车3月交付15019辆，同比增长50%",
           "url": "https://wallstreetcn.com/livenews/3080760",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
+        },
+        {
+          "title": "赛力斯：3月新能源汽车销量22,706辆，同比增长20.74%；其中赛力斯汽车销量20,234辆，同比增长47.74%。",
+          "url": "https://wallstreetcn.com/livenews/3080837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "理想汽车：3月交付汽车41053辆，同比增长12%",
@@ -104,7 +149,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -115,7 +160,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -129,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
+        },
+        {
+          "title": "福特汽车3月份总销量同比增长13.49%。",
+          "url": "https://flash.jin10.com/detail/20260401182953773800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "原特斯拉中国区总经理孔艳双已入职小米，将接替原小米汽车总监李晓锐负责汽车销售方面工作。（界面）",
@@ -148,7 +204,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -162,6 +218,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国农业部（USDA）：美国一季度玉米库存90.24亿蒲式耳。 一季度小麦库存13亿蒲式耳。 一季度大豆库存21.05亿蒲式耳。",
+          "url": "https://wallstreetcn.com/livenews/3080282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "中国粮用上中国种！农业研究进入数据爆炸时代",
+          "url": "https://flash.jin10.com/detail/20260401183352167800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "美国农业部长Rollins与内政部长Burgum签署备忘录，希望提高美国牛肉产量。",
+          "url": "https://wallstreetcn.com/livenews/3080304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         }
       ]
     },
@@ -201,34 +296,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国农业部（USDA）：美国一季度玉米库存90.24亿蒲式耳。 一季度小麦库存13亿蒲式耳。 一季度大豆库存21.05亿蒲式耳。",
-          "url": "https://wallstreetcn.com/livenews/3080282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "美国农业部长Rollins与内政部长Burgum签署备忘录，希望提高美国牛肉产量。",
-          "url": "https://wallstreetcn.com/livenews/3080304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
         }
       ]
     },
