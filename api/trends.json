@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T21:56:24.596964+08:00",
-  "total_titles_processed": 1642,
+  "generated_at": "2026-04-01T23:16:18.382789+08:00",
+  "total_titles_processed": 1757,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 21时56分]"
+          "appearance_count": 5,
+          "time_info": "[17时18分 ~ 23时16分]"
         },
         {
           "title": "零跑汽车(09863.HK)：近期公司CEO朱江明及股东傅利泉于市场内合共购入5,080,200股本公司H股，平均价格为每股股份约45.10港币，合共增持金额约2.3亿元港币。",
@@ -244,7 +244,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -255,7 +255,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -266,7 +266,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
@@ -288,7 +288,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时56分"
         },
