@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T21:46:32.677581+08:00",
-  "total_titles_processed": 1670,
+  "generated_at": "2026-04-02T23:06:40.576365+08:00",
+  "total_titles_processed": 1771,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "胖东来订29辆长城汽车奖励高管",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -141,6 +141,17 @@
           "time_info": "05时53分"
         },
         {
+          "title": "恒大汽车(00708.HK)：附属公司3及附属公司被裁定受理破产清算，股票继续停牌。",
+          "url": "https://flash.jin10.com/detail/20260402225402893800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "沃尔沃汽车：插电式混合动力车型占1—3月汽车销量的23.6%。",
           "url": "https://flash.jin10.com/detail/20260402150148851800",
           "source": "金十数据",
@@ -174,13 +185,24 @@
           "time_info": "15时25分"
         },
         {
+          "title": "人民日报评汽车“销冠”易主",
+          "url": "https://www.toutiao.com/trending/7624133928287748142/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "特斯拉(TSLA.O)：一季度交付超过35.8万辆汽车。",
           "url": "https://flash.jin10.com/detail/20260402210511103800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -199,7 +221,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "国家药监局：到2030年初步构建药品监管与人工智能融合创新体系",
@@ -222,6 +244,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "美联储洛根：人工智能应有助于提升未来生产率水平。",
+          "url": "https://flash.jin10.com/detail/20260402225841011800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
+          "title": "美联储洛根：人工智能带来的生产率提升尚未实现。",
+          "url": "https://flash.jin10.com/detail/20260402225822373800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "据Axios：美国正征集相关提案，以协助企业将全栈式人工智能系统打包并推向全球市场。",
