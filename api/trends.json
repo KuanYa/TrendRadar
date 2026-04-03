@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T13:46:11.054012+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-04-03T15:25:44.182861+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
@@ -96,7 +96,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         }
@@ -152,7 +152,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -166,6 +166,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大豆",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大商所：调整黄大豆1号指定交割仓库",
+          "url": "https://flash.jin10.com/detail/20260403150858131800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     }
