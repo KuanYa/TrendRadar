@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-04-04T21:14:18.616341+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2026-04-04T22:41:43.993158+08:00",
+  "total_titles_processed": 1524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 8,
       "titles": [
+        {
+          "title": "何小鹏：汽车行业已进入转折最关键阶段，规模只是第一个门槛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32895709",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14,
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时53分 ~ 22时41分]"
+        },
         {
           "title": "何小鹏：不碰10万元以下的汽车",
           "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%EF%BC%9A%E4%B8%8D%E7%A2%B010%E4%B8%87%E5%85%83%E4%BB%A5%E4%B8%8B%E7%9A%84%E6%B1%BD%E8%BD%A6",
@@ -19,21 +35,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时50分 ~ 14时07分]"
-        },
-        {
-          "title": "何小鹏：汽车行业已进入转折最关键阶段，规模只是第一个门槛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32895709",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时53分 ~ 21时14分]"
         },
         {
           "title": "何小鹏：不碰10万元以下的汽车，有规模但价值太小",
@@ -58,6 +59,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时53分 ~ 16时53分]"
+        },
+        {
+          "title": "何小鹏称不碰 10 万元以下汽车，有规模但价值太小，怎样看待他的观点？10 万是行业中的一个分水岭吗？",
+          "url": "https://www.zhihu.com/question/2023688646847456234",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 22时41分]"
         },
         {
           "title": "何小鹏：不碰10万元以下的汽车，有规模但价值太小",
@@ -92,17 +105,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
-        },
-        {
-          "title": "何小鹏称不碰 10 万元以下汽车，有规模但价值太小，怎样看待他的观点？10 万是行业中的一个分水岭吗？",
-          "url": "https://www.zhihu.com/question/2023688646847456234",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时14分"
         }
       ]
     },
@@ -120,8 +122,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时58分 ~ 21时14分]"
+          "appearance_count": 12,
+          "time_info": "[12时58分 ~ 22时41分]"
         },
         {
           "title": "智慧装备为农业打开发展新空间",
@@ -139,11 +141,12 @@
           "url": "https://flash.jin10.com/detail/20260404204528580800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 22时41分]"
         },
         {
           "title": "农业成本因伊朗战事上升 土耳其取消部分化肥关税",
