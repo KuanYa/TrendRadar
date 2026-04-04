@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T19:37:15.135691+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-04-04T21:14:18.616341+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "何小鹏：不碰10万元以下的汽车",
@@ -28,11 +28,12 @@
             16,
             15,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时53分 ~ 19时37分]"
+          "appearance_count": 6,
+          "time_info": "[16时53分 ~ 21时14分]"
         },
         {
           "title": "何小鹏：不碰10万元以下的汽车，有规模但价值太小",
@@ -91,12 +92,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
+        },
+        {
+          "title": "何小鹏称不碰 10 万元以下汽车，有规模但价值太小，怎样看待他的观点？10 万是行业中的一个分水岭吗？",
+          "url": "https://www.zhihu.com/question/2023688646847456234",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         }
       ]
     },
     {
       "keyword_group": "农业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "农业农村部报告显示，中华鲟连续 9 年未监测到自然繁殖，会是什么原因导致的？",
@@ -108,8 +120,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时58分 ~ 19时37分]"
+          "appearance_count": 11,
+          "time_info": "[12时58分 ~ 21时14分]"
         },
         {
           "title": "智慧装备为农业打开发展新空间",
@@ -121,6 +133,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时53分 ~ 10时50分]"
+        },
+        {
+          "title": "希腊政府因冒领欧盟农业补贴丑闻再次改组",
+          "url": "https://flash.jin10.com/detail/20260404204528580800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "农业成本因伊朗战事上升 土耳其取消部分化肥关税",
