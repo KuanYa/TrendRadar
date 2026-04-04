@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T06:40:12.753941+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-04-05T07:39:58.097424+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 06时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时39分]"
         },
         {
           "title": "何小鹏：汽车行业已进入转折最关键阶段，规模只是第一个门槛",
@@ -29,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时47分 ~ 06时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 07时39分]"
         },
         {
           "title": "吉利汽车一季度销量突破 70.9 万辆，创同期新高，这释放了哪些市场信号？",
@@ -38,11 +38,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时38分 ~ 06时40分]"
+          "appearance_count": 6,
+          "time_info": "[03时38分 ~ 07时39分]"
         }
       ]
     },
