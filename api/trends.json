@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T22:41:43.993158+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2026-04-04T23:41:06.981984+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             14,
             13,
             12,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时53分 ~ 22时41分]"
+          "appearance_count": 9,
+          "time_info": "[16时53分 ~ 23时41分]"
         },
         {
           "title": "何小鹏：不碰10万元以下的汽车",
@@ -35,6 +36,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时50分 ~ 14时07分]"
+        },
+        {
+          "title": "何小鹏称不碰 10 万元以下汽车，有规模但价值太小，怎样看待他的观点？10 万是行业中的一个分水岭吗？",
+          "url": "https://www.zhihu.com/question/2023688646847456234",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时14分 ~ 23时41分]"
         },
         {
           "title": "何小鹏：不碰10万元以下的汽车，有规模但价值太小",
@@ -59,18 +72,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时53分 ~ 16时53分]"
-        },
-        {
-          "title": "何小鹏称不碰 10 万元以下汽车，有规模但价值太小，怎样看待他的观点？10 万是行业中的一个分水岭吗？",
-          "url": "https://www.zhihu.com/question/2023688646847456234",
-          "source": "知乎",
-          "ranks": [
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时14分 ~ 22时41分]"
         },
         {
           "title": "何小鹏：不碰10万元以下的汽车，有规模但价值太小",
@@ -119,11 +120,12 @@
           "ranks": [
             4,
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时58分 ~ 22时41分]"
+          "appearance_count": 14,
+          "time_info": "[12时58分 ~ 23时41分]"
         },
         {
           "title": "智慧装备为农业打开发展新空间",
@@ -142,11 +144,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时14分 ~ 22时41分]"
+          "appearance_count": 3,
+          "time_info": "[21时14分 ~ 23时41分]"
         },
         {
           "title": "农业成本因伊朗战事上升 土耳其取消部分化肥关税",
