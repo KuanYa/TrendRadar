@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-09T01:16:02.636744+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-09T03:36:52.212746+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "EIA年度能源展望报告：到2050年，美国石油和其他液体燃料的总消费量将比2025年下降11%至23%，主要原因是电动汽车的使用增加。",
+          "url": "https://flash.jin10.com/detail/20260409030013909800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/KuanYa/TrendRadar/img/news.jpg"
 }
