@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T11:23:15.625203+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2026-04-08T13:52:48.580627+08:00",
+  "total_titles_processed": 1089,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -25,9 +25,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "领克 10 车型支持 1 秒 2 公里极速充电，这项技术有哪些亮点？将如何影响电动汽车市场？",
+          "url": "https://www.zhihu.com/question/2024822923798610501",
+          "source": "知乎",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 13时52分]"
         },
         {
           "title": "周二（4月7日），彭博电动汽车价格回报指数跌0.28%，报3589.83点。",
@@ -40,17 +52,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时58分 ~ 05时54分]"
-        },
-        {
-          "title": "领克 10 车型支持 1 秒 2 公里极速充电，这项技术有哪些亮点？将如何影响电动汽车市场？",
-          "url": "https://www.zhihu.com/question/2024822923798610501",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 11时23分]"
         }
       ]
     },
