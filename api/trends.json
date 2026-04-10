@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T18:14:17.666074+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-04-10T19:55:21.905844+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "人工智能将纳入教师资格考试",
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             17,
-            10
+            10,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时31分 ~ 18时14分]"
+          "appearance_count": 7,
+          "time_info": "[11时31分 ~ 19时55分]"
         },
         {
           "title": "人工智能将纳入教师资格考试和认证内容",
@@ -27,11 +28,12 @@
           "ranks": [
             10,
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时06分 ~ 18时14分]"
+          "appearance_count": 6,
+          "time_info": "[14时06分 ~ 19时55分]"
         },
         {
           "title": "人工智能将纳入教师资格考试和认证内容，会对未来的教育生态产生哪些影响？",
@@ -74,9 +76,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
+        },
+        {
+          "title": "中国人工智能产业发展联盟第十七次全体会议召开",
+          "url": "https://flash.jin10.com/detail/20260410193534521800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "人工智能将纳入教师资格考试和认证内容",
@@ -187,8 +200,19 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "美国贸易代表格里尔：（谈金属关税）我们一直在与汽车公司对话。",
+          "url": "https://flash.jin10.com/detail/20260410194900080800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
         {
           "title": "北京现代汽车有限公司召回部分索纳塔汽车",
           "url": "https://flash.jin10.com/detail/20260410180955188800",
@@ -196,7 +220,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -273,8 +297,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时06分 ~ 18时14分]"
+          "appearance_count": 6,
+          "time_info": "[14时06分 ~ 19时55分]"
         },
         {
           "title": "新规落地:大数据杀熟被禁",
@@ -285,8 +309,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 18时14分]"
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 19时55分]"
         }
       ]
     }
