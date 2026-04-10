@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T21:41:28.199846+08:00",
-  "total_titles_processed": 1661,
+  "generated_at": "2026-04-10T22:57:55.012016+08:00",
+  "total_titles_processed": 1778,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             7,
             8,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时06分 ~ 21时41分]"
+          "appearance_count": 8,
+          "time_info": "[14时06分 ~ 22时57分]"
         },
         {
           "title": "人工智能将纳入教师资格考试",
@@ -31,11 +32,12 @@
             17,
             10,
             29,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时31分 ~ 21时41分]"
+          "appearance_count": 9,
+          "time_info": "[11时31分 ~ 22时57分]"
         },
         {
           "title": "人工智能将纳入教师资格考试和认证内容，会对未来的教育生态产生哪些影响？",
@@ -205,7 +207,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         }
@@ -320,11 +322,12 @@
           "ranks": [
             7,
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时35分 ~ 21时41分]"
+          "appearance_count": 6,
+          "time_info": "[16时35分 ~ 22时57分]"
         }
       ]
     }
