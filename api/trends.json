@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T15:13:04.000142+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-04-11T16:56:19.260795+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "汽车行业已在阿里云上使用超10万卡“真武”PPU研发智驾",
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             10,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 15时13分]"
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 16时56分]"
         },
         {
           "title": "周五（4月10日），彭博电动汽车价格回报指数涨1.42%，报3775.68点，本周累计上涨3.77%。",
@@ -63,11 +64,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 15时13分]"
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 16时56分]"
+        },
+        {
+          "title": "美国国家公路交通安全管理局：五十铃汽车召回14,028辆美国市场车辆，原因是线束故障可能导致发动机熄火，或制动灯和驻车制动失效，从而增加碰撞风险。受损的电线还可能熔化，进一步增加火灾风险。",
+          "url": "https://flash.jin10.com/detail/20260411150756325800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "长安汽车：确已收到一企业就单一车辆的起诉，争议涉及网约运营车辆",
@@ -95,7 +108,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "人工智能将纳入教师资格考试和认证内容",
@@ -125,15 +138,15 @@
           "time_info": "[00时03分 ~ 07时45分]"
         },
         {
-          "title": "普京：俄罗斯须自主研发有竞争力的人工智能模型",
-          "url": "https://wallstreetcn.com/livenews/3086174",
+          "title": "工业和信息化部将发布一批“人工智能+”高价值场景",
+          "url": "https://wallstreetcn.com/livenews/3086184",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时13分"
+          "time_info": "16时56分"
         },
         {
           "title": "人工智能卖瓜",
@@ -142,11 +155,56 @@
           "ranks": [
             29,
             14,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 15时13分]"
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 16时56分]"
+        },
+        {
+          "title": "普京：俄罗斯须自主研发有竞争力的人工智能模型",
+          "url": "https://wallstreetcn.com/livenews/3086174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 16时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大数据",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "新规落地:大数据杀熟被禁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353059&amp;topic_name=%E6%96%B0%E8%A7%84%E8%90%BD%E5%9C%B0%3A%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9D%80%E7%86%9F%E8%A2%AB%E7%A6%81",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            15,
+            20,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时03分 ~ 16时56分]"
+        },
+        {
+          "title": "大数据透视春日里的“流动中国”",
+          "url": "https://www.toutiao.com/trending/7626967190666808895/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         }
       ]
     },
@@ -165,26 +223,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大数据",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "新规落地:大数据杀熟被禁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353059&amp;topic_name=%E6%96%B0%E8%A7%84%E8%90%BD%E5%9C%B0%3A%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9D%80%E7%86%9F%E8%A2%AB%E7%A6%81",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            15,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时03分 ~ 15时13分]"
         }
       ]
     }
