@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T03:42:53.171725+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-04-12T04:44:54.121161+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时49分 ~ 04时44分]"
         },
         {
           "title": "郑丽文一行在北京参访了解人工智能发展，感叹两岸合作对人类贡献将不可限量。（新华社）",
@@ -45,11 +46,12 @@
           "ranks": [
             26,
             18,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时40分 ~ 03时42分]"
+          "appearance_count": 5,
+          "time_info": "[01时40分 ~ 04时44分]"
         }
       ]
     }
