@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T17:56:55.693804+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2026-04-12T18:51:49.918199+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
@@ -33,11 +33,12 @@
             2,
             8,
             13,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时01分 ~ 17时56分]"
+          "appearance_count": 5,
+          "time_info": "[14时01分 ~ 18时51分]"
         },
         {
           "title": "郑丽文探访小米汽车工厂",
@@ -52,6 +53,19 @@
           "time_info": "[14时00分 ~ 15时41分]"
         },
         {
+          "title": "据日本共同社：日本五十铃汽车将推迟推出其与本田合作开发、原计划于2027年上市的燃料电池卡车。",
+          "url": "https://flash.jin10.com/detail/20260412155247035800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 18时51分]"
+        },
+        {
           "title": "长城汽车佘士东：当前智能座舱界面高度同质化，200多款车型相似度达95%以上",
           "url": "https://flash.jin10.com/detail/20260412131656845800",
           "source": "金十数据",
@@ -62,18 +76,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时01分 ~ 15时41分]"
-        },
-        {
-          "title": "据日本共同社：日本五十铃汽车将推迟推出其与本田合作开发、原计划于2027年上市的燃料电池卡车。",
-          "url": "https://flash.jin10.com/detail/20260412155247035800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时56分]"
         }
       ]
     },
