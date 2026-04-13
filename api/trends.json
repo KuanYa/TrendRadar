@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T06:55:00.912632+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-04-14T07:54:07.189012+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时25分 ~ 06时55分]"
+          "appearance_count": 6,
+          "time_info": "[03时25分 ~ 07时54分]"
         },
         {
           "title": "周一（4月13日），彭博电动汽车价格回报指数涨1.18%，报3822.27点。 亚太盘初微幅低开，北京时间21:30美股开盘之前窄幅震荡于平盘附近，之后加速上涨，00:00以来持续高位震荡。",
@@ -43,7 +44,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
         }
