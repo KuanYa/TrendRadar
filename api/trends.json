@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T03:25:22.370602+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-04-14T05:04:55.029035+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "为什么美国汽车产业和航空产业持续强大，但是造船业简直一烂百年？",
@@ -14,9 +14,37 @@
           "ranks": [
             20
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 05时04分]"
+        },
+        {
+          "title": "周一（4月13日），彭博电动汽车价格回报指数涨1.18%，报3822.27点。 亚太盘初微幅低开，北京时间21:30美股开盘之前窄幅震荡于平盘附近，之后加速上涨，00:00以来持续高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3087152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时25分"
+          "time_info": "05时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大豆",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "芝加哥小麦涨约1.7%，大豆跌超1.3%",
+          "url": "https://wallstreetcn.com/livenews/3087140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         }
       ]
     }
