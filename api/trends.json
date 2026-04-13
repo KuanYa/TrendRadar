@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T17:07:06.654793+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2026-04-13T19:24:21.551444+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
@@ -62,11 +62,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A6%96%E7%9B%B8%E8%AF%95%E5%9D%90%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 17时07分]"
+          "appearance_count": 3,
+          "time_info": "[17时06分 ~ 19时24分]"
         },
         {
           "title": "金十图示：2026年04月13日（周一）全球汽车制造商市值变化",
@@ -103,7 +104,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时07分"
         }
