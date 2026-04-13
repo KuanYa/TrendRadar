@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T19:24:21.551444+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-04-13T22:02:16.464972+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中国16家科技社团联合倡议共促全球人工智能治理",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "高盛CEO所罗门：对软件行业人工智能驱动型颠覆的担忧正拖累市场情绪。",
+          "url": "https://flash.jin10.com/detail/20260413213723419800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "工信部：深化人工智能赋能质量提升 组织编制重点行业“人工智能+质量”应用全景图和转型路线图",
