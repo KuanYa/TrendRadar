@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T02:13:51.499221+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-04-15T04:11:31.058168+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "农业",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "央视曝光：7亿建的农业基地不干农业",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时11分]"
         },
         {
           "title": "投资超7亿农业实训基地不见农业影子",
@@ -24,11 +24,23 @@
           "source": "今日头条",
           "ranks": [
             24,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时11分]"
+        },
+        {
+          "title": "7个亿的农业实训基地没基地",
+          "url": "https://s.weibo.com/weibo?q=%237%E4%B8%AA%E4%BA%BF%E7%9A%84%E5%86%9C%E4%B8%9A%E5%AE%9E%E8%AE%AD%E5%9F%BA%E5%9C%B0%E6%B2%A1%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
         }
       ]
     },
@@ -43,7 +55,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
         }
