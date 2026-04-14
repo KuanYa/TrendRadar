@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T06:57:36.629266+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-04-15T07:54:33.075260+08:00",
+  "total_titles_processed": 684,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "农业",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "央视曝光：7亿建的农业基地不干农业",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 06时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 07时54分]"
         },
         {
           "title": "投资超7亿农业实训基地不见农业影子",
@@ -26,11 +26,12 @@
             24,
             15,
             28,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 06时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 07时54分]"
         },
         {
           "title": "7个亿的农业实训基地没基地",
@@ -43,6 +44,45 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时11分 ~ 06时57分]"
+        },
+        {
+          "title": "央视曝光投资7亿农业基地不干农业",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E6%8A%95%E8%B5%847%E4%BA%BF%E5%86%9C%E4%B8%9A%E5%9F%BA%E5%9C%B0%E4%B8%8D%E5%B9%B2%E5%86%9C%E4%B8%9A%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达发布全球首个开源量子人工智能模型 量子计算板块激昂大涨",
+          "url": "https://www.cls.cn/detail/2344176",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "据美国《财富》杂志：Anthropic因其 Claude AI聊天机器人出现性能下降而面临用户强烈不满。据多位开发者和重度用户反映，Claude人工智能模型近期性能明显下滑，表现为越来越难以遵循指令、在某些情况下选择不恰当的捷径，并在复杂工作流程中出现更多错误。",
+          "url": "https://flash.jin10.com/detail/20260415010320072800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
         }
       ]
     },
@@ -72,23 +112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据美国《财富》杂志：Anthropic因其 Claude AI聊天机器人出现性能下降而面临用户强烈不满。据多位开发者和重度用户反映，Claude人工智能模型近期性能明显下滑，表现为越来越难以遵循指令、在某些情况下选择不恰当的捷径，并在复杂工作流程中出现更多错误。",
-          "url": "https://flash.jin10.com/detail/20260415010320072800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
         }
       ]
     }
