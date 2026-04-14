@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T04:11:31.058168+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-04-15T06:27:02.465730+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 06时27分]"
         },
         {
           "title": "投资超7亿农业实训基地不见农业影子",
@@ -28,8 +28,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 06时27分]"
         },
         {
           "title": "7个亿的农业实训基地没基地",
@@ -38,9 +38,37 @@
           "ranks": [
             22
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时11分 ~ 06时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据阿拉伯卫星电视台：伊朗一家亲政府的Telegram频道消息称，伊朗首都德黑兰的伊玛目霍梅尼大街发生汽车炸弹爆炸。德黑兰居民表示，在当地时间周二午夜前后听到了多次爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260415054501790800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时11分"
+          "time_info": "06时27分"
+        },
+        {
+          "title": "周二（4月14日），彭博电动汽车价格回报指数涨1.66%，报3880.16点。",
+          "url": "https://wallstreetcn.com/livenews/3087975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         }
       ]
     },
