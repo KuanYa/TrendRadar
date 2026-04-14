@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T20:04:59.596001+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2026-04-14T22:55:31.089203+08:00",
+  "total_titles_processed": 1575,
   "failed_sources": [],
   "trends": [
     {
@@ -82,7 +82,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -93,9 +93,76 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国财长贝森特：（针对人工智能使银行容易受到网络攻击的担忧）有关最近与银行首席执行官就Mythos人工智能模型进行会面的报道被夸大了。",
+          "url": "https://flash.jin10.com/detail/20260414111308179800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "多校试点「博士 + 硕士」双学位，鼓励博士生读人工智能等专业硕士，出于哪些考量？对高知人才培养有哪些影响？",
+          "url": "https://www.zhihu.com/question/2027138274049671830",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
+          "title": "英伟达创始人兼首席执行官黄仁勋表示：AI（人工智能）对于让量子计算走向实用至关重要。 有了Ising，AI成为了控制平面（即量子机器的操作系统）将脆弱的量子比特转变为可扩展且可靠的“量子-GPU”系统。",
+          "url": "https://wallstreetcn.com/livenews/3087791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "央视曝光：7亿建的农业基地不干农业",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%EF%BC%9A7%E4%BA%BF%E5%BB%BA%E7%9A%84%E5%86%9C%E4%B8%9A%E5%9F%BA%E5%9C%B0%E4%B8%8D%E5%B9%B2%E5%86%9C%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "委内瑞拉代总统罗德里格斯任命前国防部长弗拉基米尔·帕德里诺为农业生产与土地部长。",
+          "url": "https://flash.jin10.com/detail/20260414051148670800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         }
       ]
     },
@@ -124,51 +191,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国财长贝森特：（针对人工智能使银行容易受到网络攻击的担忧）有关最近与银行首席执行官就Mythos人工智能模型进行会面的报道被夸大了。",
-          "url": "https://flash.jin10.com/detail/20260414111308179800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "多校试点「博士 + 硕士」双学位，鼓励博士生读人工智能等专业硕士，出于哪些考量？对高知人才培养有哪些影响？",
-          "url": "https://www.zhihu.com/question/2027138274049671830",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "委内瑞拉代总统罗德里格斯任命前国防部长弗拉基米尔·帕德里诺为农业生产与土地部长。",
-          "url": "https://flash.jin10.com/detail/20260414051148670800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时55分"
         }
       ]
     }
