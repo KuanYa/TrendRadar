@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T07:54:07.189012+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-04-14T11:31:44.415767+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么美国汽车产业和航空产业持续强大，但是造船业简直一烂百年？",
@@ -26,6 +26,45 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "金十图示：2026年04月14日（周二）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260414110228444800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大豆",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中国3月大豆进口401.9万吨；今年累计大豆进口1,658万吨，同比下降3.1%。 3月食用植物油进口60.5万吨；今年累计进口194.1万吨，同比上升25.4%。 3月天然及合成橡胶（包括胶乳）进口78.7万吨；今年累计进口219.1万吨，同比上升0.4%。 3月肉类（包括杂碎）进口50.3万吨；今年累计进口158.7万吨，同比下降3.5%。 3月肥料出口310万吨；今年累计出口816万吨，同比上升14.1%。",
+          "url": "https://wallstreetcn.com/livenews/3087371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "芝加哥小麦涨约1.7%，大豆跌超1.3%",
+          "url": "https://wallstreetcn.com/livenews/3087140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -51,19 +90,19 @@
       ]
     },
     {
-      "keyword_group": "大豆",
+      "keyword_group": "人工智能",
       "match_count": 1,
       "titles": [
         {
-          "title": "芝加哥小麦涨约1.7%，大豆跌超1.3%",
-          "url": "https://wallstreetcn.com/livenews/3087140",
-          "source": "华尔街见闻-快讯",
+          "title": "美国财长贝森特：（针对人工智能使银行容易受到网络攻击的担忧）有关最近与银行首席执行官就Mythos人工智能模型进行会面的报道被夸大了。",
+          "url": "https://flash.jin10.com/detail/20260414111308179800",
+          "source": "金十数据",
           "ranks": [
-            17
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时04分"
+          "time_info": "11时31分"
         }
       ]
     }
