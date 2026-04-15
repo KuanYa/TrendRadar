@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T16:50:11.831676+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-04-15T18:24:43.385349+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "农业",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "央视曝光：7亿建的农业基地不干农业",
@@ -51,11 +51,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时05分 ~ 16时50分]"
+          "appearance_count": 5,
+          "time_info": "[14时05分 ~ 18时24分]"
         },
         {
           "title": "7个亿的农业实训基地没基地",
@@ -74,11 +75,23 @@
           "url": "https://www.douyin.com/hot/2466533",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 16时50分]"
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 18时24分]"
+        },
+        {
+          "title": "焦点访谈丨举债3.68亿、总投资超7亿，农业实训基地为何不见农业影子",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32969700",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "A股银行板块震荡走高，苏州银行涨超4%，农业银行、中信银行、招商银行等股跟涨。",
@@ -138,7 +151,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -160,7 +173,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -171,7 +184,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
