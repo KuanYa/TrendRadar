@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T20:04:54.227457+08:00",
-  "total_titles_processed": 1469,
+  "generated_at": "2026-04-16T23:03:30.390880+08:00",
+  "total_titles_processed": 1644,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时11分 ~ 20时04分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 23时03分]"
         },
         {
           "title": "据华尔街日报：美国高级国防官员与包括通用汽车首席执行官和福特汽车首席执行官在内的高管进行了讨论。",
@@ -146,11 +146,12 @@
           "ranks": [
             11,
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时37分 ~ 20时04分]"
+          "appearance_count": 8,
+          "time_info": "[11时37分 ~ 23时03分]"
         },
         {
           "title": "国家统计局副局长毛盛勇：我国人工智能商业化、规模化运营取得了阶段性突破。截至今年3月，日均词元（Token）调用量突破140万亿，比上年末增长超40%。",
@@ -292,7 +293,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -303,7 +304,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         }
