@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T05:56:09.761462+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-04-17T06:53:50.416536+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 06时53分]"
         },
         {
           "title": "周四（4月16日），彭博电动汽车价格回报指数涨2.89%，报3980.01点，北京时间09:30-10:00涨势迅猛，随后持稳于3940点附近，21:30美股开盘后继续扩大涨幅。",
@@ -70,11 +70,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32976727",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 06时53分]"
         }
       ]
     }
