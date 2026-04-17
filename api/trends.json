@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T14:10:31.341741+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-04-17T16:49:50.985905+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "一年狂发300+汽车成为快消品",
@@ -23,11 +23,12 @@
           "url": "https://www.toutiao.com/trending/7628812878518275603/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 16时49分]"
         },
         {
           "title": "周四（4月16日），彭博电动汽车价格回报指数涨2.89%，报3980.01点，北京时间09:30-10:00涨势迅猛，随后持稳于3940点附近，21:30美股开盘后继续扩大涨幅。",
@@ -59,9 +60,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "雷军：未来几年不做10万元以下汽车",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%EF%BC%9A%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%B9%B4%E4%B8%8D%E5%81%9A10%E4%B8%87%E5%85%83%E4%BB%A5%E4%B8%8B%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "小鹏汽车的销量一直不温不火，小鹏 GX 能否成为销量增长的关键车型？",
@@ -70,7 +82,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -81,9 +93,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "理想汽车被指遭东风日产水军拉踩，双方被约谈，如何看待汽车消费的饭圈化现象？对品牌自身究竟是利是弊？",
+          "url": "https://www.zhihu.com/question/2028032486530184431",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
+          "title": "雷军回应友商“截胡”小米汽车订单",
+          "url": "https://www.toutiao.com/trending/7629364371693666340/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         }
       ]
     },
