@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-04-19T07:45:22.598263+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-04-19T11:40:07.082306+08:00",
+  "total_titles_processed": 654,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "农业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩俊在河南调研时强调 全力抓好春季农业生产 大力推动生猪产业内涵式发展",
+          "url": "https://flash.jin10.com/detail/20260419104431664800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩托车的等体量油耗为什么比汽车高那么多？",
+          "url": "https://www.zhihu.com/question/517066652",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 11时40分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/KuanYa/TrendRadar/img/news.jpg"
 }
