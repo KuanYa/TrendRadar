@@ -1,73 +1,7 @@
 {
-  "generated_at": "2026-04-19T23:47:49.692176+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-04-20T00:53:57.211756+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "摩托车的等体量油耗为什么比汽车高那么多？",
-          "url": "https://www.zhihu.com/question/517066652",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 14时04分]"
-        },
-        {
-          "title": "为什么电动汽车比燃油车更费轮胎？",
-          "url": "https://www.zhihu.com/question/661604242",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时19分 ~ 23时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "韩俊在河南调研时强调 全力抓好春季农业生产 大力推动生猪产业内涵式发展",
-          "url": "https://flash.jin10.com/detail/20260419104431664800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据The Information：谷歌正在与迈威尔科技集团(MRVL.O)进行洽谈，计划开发用于推理的新型人工智能芯片。",
-          "url": "https://flash.jin10.com/detail/20260419210244122800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 23时47分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/KuanYa/TrendRadar/img/news.jpg"
 }
