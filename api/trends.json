@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T04:03:43.171958+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-04-21T05:55:53.244896+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么新能源汽车的轮胎那么贵，还特别脆弱?",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时03分 ~ 04时03分]"
+        },
+        {
+          "title": "周一（4月20日），彭博电动汽车价格回报指数跌0.24%，报4000.88点。",
+          "url": "https://wallstreetcn.com/livenews/3091317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         }
       ]
     },
@@ -62,7 +73,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
         }
