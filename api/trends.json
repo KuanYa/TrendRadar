@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T11:42:19.389009+08:00",
-  "total_titles_processed": 797,
+  "generated_at": "2026-04-20T14:24:13.560636+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "小鹏汽车发布最贵车型，何小鹏再度向上探索",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33005322",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 14时24分]"
+        },
+        {
+          "title": "三星SDI与梅赛德斯-奔驰签署电动汽车电池供应协议",
+          "url": "https://flash.jin10.com/detail/20260420140905172800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
+          "title": "金十图示：2026年04月20日（周一）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260420111040186800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能",
       "match_count": 2,
@@ -27,24 +66,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年04月20日（周一）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260420111040186800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         }
