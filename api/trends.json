@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-23T20:04:33.473032+08:00",
-  "total_titles_processed": 1462,
+  "generated_at": "2026-04-23T23:20:08.449652+08:00",
+  "total_titles_processed": 1632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 21,
       "titles": [
+        {
+          "title": "媒体评哪吒汽车巨亏183亿元",
+          "url": "https://www.douyin.com/hot/2476120",
+          "source": "抖音",
+          "ranks": [
+            14,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时58分 ~ 23时20分]"
+        },
         {
           "title": "周三（4月22日）尾盘，彭博电动汽车价格回报指数跌0.25%，报4040.30点。",
           "url": "https://wallstreetcn.com/livenews/3092819",
@@ -31,18 +44,6 @@
           "time_info": "[06时58分 ~ 07时56分]"
         },
         {
-          "title": "媒体评哪吒汽车巨亏183亿元",
-          "url": "https://www.douyin.com/hot/2476120",
-          "source": "抖音",
-          "ranks": [
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时58分 ~ 20时04分]"
-        },
-        {
           "title": "哪吒汽车 3 年亏损 183 亿，创始人成老赖，是企业自身经营失误吗？严重亏损是行业竞争下普遍困境吗？",
           "url": "https://www.zhihu.com/question/2030242148881101121",
           "source": "知乎",
@@ -51,8 +52,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 20时04分]"
+          "appearance_count": 4,
+          "time_info": "[18时42分 ~ 23时20分]"
         },
         {
           "title": "腾讯汤道生：智能汽车真正比拼的，是规模化、系统化的AI落地能力",
@@ -84,7 +85,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -150,7 +151,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -246,8 +247,19 @@
     },
     {
       "keyword_group": "农业",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "农业农村经济发展有三“好”",
+          "url": "https://www.toutiao.com/trending/7631780628409188379/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时19分 ~ 23时20分]"
+        },
         {
           "title": "农业农村部：鼓励各地稳健发展新型农村集体经济",
           "url": "https://flash.jin10.com/detail/20260423111426311800",
@@ -269,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
+        },
+        {
+          "title": "美国农业部长Rollins：（特朗普）政府每天都在解决化肥成本问题。",
+          "url": "https://wallstreetcn.com/livenews/3093383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "农业农村部：当前正值春季用肥高峰期 春耕化肥供应充足",
@@ -304,6 +327,17 @@
           "time_info": "11时35分"
         },
         {
+          "title": "美国农业部长罗林斯：管理层正每天讨论肥料成本问题。",
+          "url": "https://flash.jin10.com/detail/20260423222848504800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "农业农村部：一季度我国粮油生产基础较好",
           "url": "https://wallstreetcn.com/livenews/3092988",
           "source": "华尔街见闻-快讯",
@@ -329,7 +363,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特斯拉(TSLA.O)：正在扩大制造范围，包括在人工智能推理计算中进行半导体制造。",
@@ -352,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "自由港麦克莫兰公司首席执行官：受全球电网压力影响，我们观察到全球铜需求正在上升。 受人工智能及相关基础设施建设的推动，美国铜需求持续增长。 在中国，电网投资正带动铜需求“显著回升”，中国铜库存也出现“大幅”消耗。",
+          "url": "https://wallstreetcn.com/livenews/3093377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         }
       ]
     },
