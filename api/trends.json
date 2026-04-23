@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T11:35:51.786955+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2026-04-23T14:13:03.776543+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "周三（4月22日）尾盘，彭博电动汽车价格回报指数跌0.25%，报4040.30点。",
@@ -37,7 +37,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -75,6 +75,28 @@
           "time_info": "05时58分"
         },
         {
+          "title": "现代汽车第一季度营业利润2.51万亿韩元，市场预估2.81万亿韩元。 第一季度净利润2.34万亿韩元，市场预估2.62万亿韩元。 第一季度销售额45.94万亿韩元，市场预估45.81万亿韩元。",
+          "url": "https://wallstreetcn.com/livenews/3093068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "现代汽车：我们看到第一季度镍、钢等原材料价格上涨。",
+          "url": "https://flash.jin10.com/detail/20260423133633288800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
           "title": "理想汽车：“理想汽车配合走私车辆出境”等内容不实",
           "url": "https://wallstreetcn.com/livenews/3092723",
           "source": "华尔街见闻-快讯",
@@ -103,7 +125,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -114,7 +136,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -136,7 +158,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         }
@@ -153,7 +175,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -164,7 +186,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -175,7 +197,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -186,7 +208,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -197,7 +219,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -208,7 +230,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         }
