@@ -1,253 +1,39 @@
 {
-  "generated_at": "2026-04-23T23:20:08.449652+08:00",
-  "total_titles_processed": 1632,
+  "generated_at": "2026-04-24T01:40:27.656595+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 21,
+      "match_count": 2,
       "titles": [
         {
           "title": "媒体评哪吒汽车巨亏183亿元",
           "url": "https://www.douyin.com/hot/2476120",
           "source": "抖音",
           "ranks": [
-            14,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时58分 ~ 23时20分]"
-        },
-        {
-          "title": "周三（4月22日）尾盘，彭博电动汽车价格回报指数跌0.25%，报4040.30点。",
-          "url": "https://wallstreetcn.com/livenews/3092819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "特斯拉CEO埃隆·马斯克：长期来看，唯一的人类驾驶汽车将是新款Roadster。",
-          "url": "https://flash.jin10.com/detail/20260423062608496800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 07时56分]"
+          "time_info": "01时40分"
         },
         {
           "title": "哪吒汽车 3 年亏损 183 亿，创始人成老赖，是企业自身经营失误吗？严重亏损是行业竞争下普遍困境吗？",
           "url": "https://www.zhihu.com/question/2030242148881101121",
           "source": "知乎",
           "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时42分 ~ 23时20分]"
-        },
-        {
-          "title": "腾讯汤道生：智能汽车真正比拼的，是规模化、系统化的AI落地能力",
-          "url": "https://wallstreetcn.com/livenews/3093173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 18时42分]"
-        },
-        {
-          "title": "金十图示：2026年04月23日（周四）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260423111152869800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "启境汽车宣布，启境首款车型启境GT7将首批搭载华为ADS 5。",
-          "url": "https://flash.jin10.com/detail/20260423195452535800",
-          "source": "金十数据",
-          "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "Zacks Investment Research分析师Andrew Rocco在一份报告中指出：特斯拉业绩报告证实，虽然传统的电动汽车业务不再快速增长，但它已足够稳定，可以为特斯拉在机器人和自动驾驶技术上的巨额投资提供资金。",
-          "url": "https://wallstreetcn.com/livenews/3092850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "特斯拉CEO埃隆·马斯克：预计将在四季度向客户汽车发布无人监督FSD。",
-          "url": "https://flash.jin10.com/detail/20260423055913606800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
-          "title": "特斯拉利润超预期，并指出电动汽车需求正在复苏",
-          "url": "https://wallstreetcn.com/livenews/3092849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "现代汽车第一季度营业利润2.51万亿韩元，市场预估2.81万亿韩元。 第一季度净利润2.34万亿韩元，市场预估2.62万亿韩元。 第一季度销售额45.94万亿韩元，市场预估45.81万亿韩元。",
-          "url": "https://wallstreetcn.com/livenews/3093068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "现代汽车：我们看到第一季度镍、钢等原材料价格上涨。",
-          "url": "https://flash.jin10.com/detail/20260423133633288800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "视频丨投张雪“赢麻”、投哪吒汽车“翻车”，二者差距在哪儿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33029120",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "理想汽车：“理想汽车配合走私车辆出境”等内容不实",
-          "url": "https://wallstreetcn.com/livenews/3092723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "特斯拉CFO：欧洲、中东和非洲地区的汽车需求正在复苏，包括法国和德国。",
-          "url": "https://flash.jin10.com/detail/20260423054654184800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
-          "title": "小鹏汽车(XPEV.N)：与大众汽车的合作潜力巨大。",
-          "url": "https://flash.jin10.com/detail/20260423105418180800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "小鹏汽车(XPEV.N)：未来五到十年内，公司约50%的收入应来自海外市场。",
-          "url": "https://flash.jin10.com/detail/20260423105353096800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "特斯拉CFO：汽油价格上涨，给本公司电动汽车需求带来利好效应。",
-          "url": "https://wallstreetcn.com/livenews/3092866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
-          "title": "小鹏汽车(XPEV.N)：公司可能在未来12到18个月内生产数百至数千辆机器人出租车。",
-          "url": "https://flash.jin10.com/detail/20260423105343650800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)：汽车行业面临的挑战可能会冲击我们供应商的流动性，从而可能降低我们获取零部件的能力，或导致成本上升。",
-          "url": "https://flash.jin10.com/detail/20260423181500406800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "港股收评：恒生指数延续低位震荡 贵金属、汽车股普遍走低",
-          "url": "https://flash.jin10.com/detail/20260423161514113800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时59分"
+          "time_info": "01时40分"
         }
       ]
     },
     {
       "keyword_group": "农业",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
         {
           "title": "农业农村经济发展有三“好”",
@@ -257,163 +43,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时19分 ~ 23时20分]"
-        },
-        {
-          "title": "农业农村部：鼓励各地稳健发展新型农村集体经济",
-          "url": "https://flash.jin10.com/detail/20260423111426311800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "农业农村部：当前正值春季用肥高峰期 春耕化肥供应充足",
-          "url": "https://wallstreetcn.com/livenews/3093015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "美国农业部长Rollins：（特朗普）政府每天都在解决化肥成本问题。",
-          "url": "https://wallstreetcn.com/livenews/3093383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "农业农村部：当前正值春季用肥高峰期 春耕化肥供应充足",
-          "url": "https://flash.jin10.com/detail/20260423105749078800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "中国与莫桑比克签署农业标准化领域合作谅解备忘录",
-          "url": "https://flash.jin10.com/detail/20260423161919813800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
-          "title": "农业农村部：全国能繁母猪存栏量已连续9个月下降，生猪供求关系逐步改善，价格企稳。（新华财经）",
-          "url": "https://wallstreetcn.com/livenews/3092991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "美国农业部长罗林斯：管理层正每天讨论肥料成本问题。",
-          "url": "https://flash.jin10.com/detail/20260423222848504800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "农业农村部：一季度我国粮油生产基础较好",
-          "url": "https://wallstreetcn.com/livenews/3092988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "农业农村部：继续实施粮油作物大面积单产提升行动，今年整建制推进县由702个增加到1000个",
-          "url": "https://flash.jin10.com/detail/20260423104548616800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "特斯拉(TSLA.O)：正在扩大制造范围，包括在人工智能推理计算中进行半导体制造。",
-          "url": "https://flash.jin10.com/detail/20260423040735598800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "周三（4月22日），美股存储芯片与硬件供应链指数涨4.27%，报144.77点，创收盘历史新高。 信息科技指数涨2.79%，报333.55点，创收盘历史新高。 人工智能（AI）赢家指数涨3.38%，报351.50点。 AI软件先驱指数涨2.64%，报102.66点。",
-          "url": "https://wallstreetcn.com/livenews/3092846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "自由港麦克莫兰公司首席执行官：受全球电网压力影响，我们观察到全球铜需求正在上升。 受人工智能及相关基础设施建设的推动，美国铜需求持续增长。 在中国，电网投资正带动铜需求“显著回升”，中国铜库存也出现“大幅”消耗。",
-          "url": "https://wallstreetcn.com/livenews/3093377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大豆",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "芝加哥大豆期货跌超0.9%，豆粕跌超1.6%",
-          "url": "https://wallstreetcn.com/livenews/3092812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
+          "time_info": "01时40分"
         }
       ]
     }
