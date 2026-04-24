@@ -1,306 +1,50 @@
 {
-  "generated_at": "2026-04-24T23:17:33.575529+08:00",
-  "total_titles_processed": 1633,
+  "generated_at": "2026-04-25T01:08:30.280225+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "媒体评哪吒汽车巨亏183亿元",
-          "url": "https://www.douyin.com/hot/2476120",
-          "source": "抖音",
-          "ranks": [
-            9,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时40分 ~ 07时58分]"
-        },
-        {
-          "title": "哪吒汽车 3 年亏损 183 亿，创始人成老赖，是企业自身经营失误吗？严重亏损是行业竞争下普遍困境吗？",
-          "url": "https://www.zhihu.com/question/2030242148881101121",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时40分 ~ 07时58分]"
-        },
-        {
-          "title": "加拿大总理：解决酒类禁令取决于美方行动，钢铝、汽车、木材关税才让人心烦",
-          "url": "https://wallstreetcn.com/livenews/3093557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 07时58分]"
-        },
         {
           "title": "奇瑞高管称「一些车企刹车盘越来越小、越来越薄」，刹车盘变薄对汽车安全性的影响有多大？",
           "url": "https://www.zhihu.com/question/2029938790186182052",
           "source": "知乎",
           "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 23时17分]"
-        },
-        {
-          "title": "金十图示：2026年04月24日（周五）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260424110739091800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时42分"
+          "time_info": "01时08分"
         },
         {
-          "title": "外国展商蹲地贴脸拍摄小米汽车细节",
-          "url": "https://www.toutiao.com/trending/7631791575441428004/",
-          "source": "今日头条",
+          "title": "北京车展上现“汽车跳舞”",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E4%B8%8A%E7%8E%B0%E2%80%9C%E6%B1%BD%E8%BD%A6%E8%B7%B3%E8%88%9E%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            9
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
-          "title": "零跑国际高管：预计今年中国以外市场销量将占零跑品牌汽车总销量的15%，高于2025年的7-8%",
-          "url": "https://flash.jin10.com/detail/20260424135910682800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
-          "title": "小米集团董事长雷军表示，新一代小米su7汽车发布30多天，已经交付2.6万台。",
-          "url": "https://flash.jin10.com/detail/20260424225346884800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时17分"
-        },
-        {
-          "title": "据日经新闻：沃尔沃汽车CEO表示，计划到2030年在美国开始生产新型混合动力汽车。",
-          "url": "https://flash.jin10.com/detail/20260424022651079800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "奇瑞汽车与高通中国达成战略合作",
-          "url": "https://flash.jin10.com/detail/20260424184324777800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "恒大汽车：继续暂停买卖",
-          "url": "https://wallstreetcn.com/livenews/3094110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "福田汽车：2025年净利润13.64亿元，同比增长1593.29%",
-          "url": "https://wallstreetcn.com/livenews/3094105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "火山引擎发布新一代汽车AI方案，豆包大模型搭载超700万辆车",
-          "url": "https://wallstreetcn.com/livenews/3093869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "周四（4月23日）尾盘，彭博电动汽车价格回报指数跌2.12%，报3954.52点。 亚太早盘，指数持续地显著下挫，北京时间01:46刷新日低至3944.43点，09:49以来持续交投于3980点下方，日内整体呈现出长尾L形走势。",
-          "url": "https://wallstreetcn.com/livenews/3093501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "01时08分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
         {
-          "title": "外交部：中方坚决反对美方污蔑抹黑中国人工智能产业发展成就",
-          "url": "https://www.cls.cn/detail/2354727",
-          "source": "财联社热门",
+          "title": "英特尔第一季财季营收再超预期，盘后大涨18%，陈立武：CPU正重新确立其人工智能基础的地位",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33040900",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时06分 ~ 23时17分]"
-        },
-        {
-          "title": "国家知识产权局：人工智能、芯片、脑机接口纳入“快保护”通道",
-          "url": "https://flash.jin10.com/detail/20260424111745046800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "国家知识产权局：人工智能、芯片、脑机接口纳入“快保护”通道",
-          "url": "https://wallstreetcn.com/livenews/3093689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "周四（4月23日），美股存储芯片与硬件供应链指数跌0.20%，报144.48点，在震荡上行行情中，北京时间23:42刷新日高至148.53点，随后震荡下行，01:46刷新日低至142.59点。 信息科技指数跌1.24%，报329.36点。 人工智能（AI）赢家指数跌0.92%，报348.16点。 AI软件先驱指数跌6.81%，报95.68点，跳空低开后持续低位窄幅震荡，形成长尾L形走势。",
-          "url": "https://wallstreetcn.com/livenews/3093542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 07时01分]"
-        },
-        {
-          "title": "中方：反对美方污蔑中国人工智能成就",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E5%8F%8D%E5%AF%B9%E7%BE%8E%E6%96%B9%E6%B1%A1%E8%94%91%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%88%90%E5%B0%B1",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 19时14分]"
-        },
-        {
-          "title": "强瑞技术：拟投资18亿元购买土地使用权并建设人工智能产业研发智造总部",
-          "url": "https://flash.jin10.com/detail/20260424213626251800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "英特尔(INTC.O)CEO：人工智能基础设施的加速部署为代工业务带来了机遇。",
-          "url": "https://flash.jin10.com/detail/20260424051746386800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "英特尔(INTC.O)CEO：人工智能正通过物理人工智能、机器人和边缘人工智能进入现实世界。CPU重新成为人工智能的基础。",
-          "url": "https://flash.jin10.com/detail/20260424051740128800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "微软：马来西亚深化与微软的人工智能合作伙伴关系，该倡议旨在加强马来西亚的人工智能就绪程度。",
-          "url": "https://wallstreetcn.com/livenews/3094102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "农业农村经济发展有三“好”",
-          "url": "https://www.toutiao.com/trending/7631780628409188379/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时40分 ~ 07时58分]"
-        },
-        {
-          "title": "看“十五五”首季农业农村经济成绩单",
-          "url": "https://www.toutiao.com/trending/7632217869392203290/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时06分 ~ 21时57分]"
+          "time_info": "01时08分"
         }
       ]
     }
