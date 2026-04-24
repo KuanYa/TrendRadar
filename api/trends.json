@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T05:57:31.076860+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-04-25T06:52:40.344143+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             17,
             15,
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时57分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时52分]"
         },
         {
           "title": "周五（4月24日），彭博电动汽车价格回报指数涨0.31%，报3973.34点，本周累计下跌0.93%，4月23日亚太早盘显著跳水。",
@@ -27,11 +28,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 05时57分]"
+          "appearance_count": 3,
+          "time_info": "[04时59分 ~ 06时52分]"
         },
         {
           "title": "北京车展上现“汽车跳舞”",
@@ -73,11 +75,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33040900",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时57分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时52分]"
         }
       ]
     }
