@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T18:59:56.334714+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2026-04-26T19:51:09.523852+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,20 @@
           "time_info": "[03时06分 ~ 07时49分]"
         },
         {
+          "title": "全新问界M9汽车72小时预订量破两万五",
+          "url": "https://www.toutiao.com/trending/7632586090117058054/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            21,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时20分 ~ 19时51分]"
+        },
+        {
           "title": "媒体：比亚迪正在改写世界汽车格局",
           "url": "https://www.toutiao.com/trending/7632229863222427711/",
           "source": "今日头条",
@@ -46,19 +60,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时56分 ~ 06时48分]"
-        },
-        {
-          "title": "全新问界M9汽车72小时预订量破两万五",
-          "url": "https://www.toutiao.com/trending/7632586090117058054/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            21,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 18时59分]"
         },
         {
           "title": "乘联分会崔东树：1-3月中国汽车进口10万辆 同比增3%",
@@ -78,7 +79,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时59分"
         }
