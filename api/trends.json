@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T04:51:24.631455+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-04-27T05:50:11.138416+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 05时50分]"
         },
         {
           "title": "全新问界M9汽车72小时预订量破两万五",
           "url": "https://www.toutiao.com/trending/7632586090117058054/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时51分 ~ 05时50分]"
         }
       ]
     }
