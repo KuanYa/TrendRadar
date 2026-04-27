@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T00:48:52.759897+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-28T02:12:53.833251+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3095142",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 02时12分]"
         },
         {
           "title": "欧盟监管机构表示，相关措施将允许用户轻松激活相互竞争的人工智能服务。",
