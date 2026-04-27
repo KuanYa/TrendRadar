@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T19:52:42.528758+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2026-04-27T22:19:06.305868+08:00",
+  "total_titles_processed": 1398,
   "failed_sources": [],
   "trends": [
     {
@@ -88,6 +88,34 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "俄罗斯总统普京：俄罗斯需要找到适合自己的人工智能监管最佳模式，同时考虑外国经验。",
+          "url": "https://flash.jin10.com/detail/20260427191714695800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "Verizon(VZ.N)CEO：人工智能支持将为公司带来数十亿美元的收入。",
+          "url": "https://flash.jin10.com/detail/20260427214117155800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "农业",
       "match_count": 1,
       "titles": [
@@ -98,7 +126,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         }
@@ -118,23 +146,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "俄罗斯总统普京：俄罗斯需要找到适合自己的人工智能监管最佳模式，同时考虑外国经验。",
-          "url": "https://flash.jin10.com/detail/20260427191714695800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
         }
       ]
     }
