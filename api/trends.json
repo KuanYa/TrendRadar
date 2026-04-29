@@ -1,7 +1,42 @@
 {
-  "generated_at": "2026-04-30T02:19:39.552917+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-04-30T04:17:15.424718+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "大豆",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "芝加哥大豆油期货涨约2.4%，国际油价走高让投资者关注生物燃油市场，豆粕跌1%",
+          "url": "https://wallstreetcn.com/livenews/3096917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周三（4月29日）纽约尾盘，彭博电动汽车价格回报指数涨2.30%，报4035.95点，亚太时段持续上涨，北京时间13:25以来持续交投于4020点上方、持续窄幅震荡。",
+          "url": "https://wallstreetcn.com/livenews/3096920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时17分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/KuanYa/TrendRadar/img/news.jpg"
 }
