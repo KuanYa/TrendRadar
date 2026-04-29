@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T17:19:45.144528+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-04-29T19:46:55.943506+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
@@ -67,6 +67,18 @@
           "time_info": "14时33分"
         },
         {
+          "title": "立讯精密2025营收利润双增24%，汽车电子大增185%，数据中心是新增长极｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771162",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 19时46分]"
+        },
+        {
           "title": "华尔街已经担心“120甚至150美元油价”：手机、汽车、衣服、化妆品……都在涨价路上",
           "url": "https://wallstreetcn.com/articles/3771067",
           "source": "华尔街见闻",
@@ -76,18 +88,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时46分 ~ 06时06分]"
-        },
-        {
-          "title": "立讯精密2025营收利润双增24%，汽车电子大增185%，数据中心是新增长极｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771162",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 17时19分]"
         },
         {
           "title": "周二（4月28日）纽约尾盘，彭博电动汽车价格回报指数跌1.37%，报3947.82点，亚太早盘以来整体持续走低。",
@@ -249,6 +249,19 @@
         },
         {
           "title": "张柱任农业农村部党组书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33071887",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 19时46分]"
+        },
+        {
+          "title": "张柱任农业农村部党组书记",
           "url": "https://www.douyin.com/hot/2482616",
           "source": "抖音",
           "ranks": [
@@ -257,18 +270,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时00分 ~ 02时46分]"
-        },
-        {
-          "title": "张柱任农业农村部党组书记",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33071887",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 17时19分]"
         },
         {
           "title": "美国农业部长Rollins：USDA（农业部）寻求与化肥工厂CF Industries氨工厂相关的许可。",
