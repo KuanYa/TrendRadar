@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T15:33:39.923714+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-04-30T18:15:11.511580+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "探索世界首艘万车级汽车运输船",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时37分 ~ 15时33分]"
+        },
+        {
+          "title": "如何看待美财长斯科特·贝森特抛出论断「中国的电动汽车，本质上不过是燃煤车」？",
+          "url": "https://www.zhihu.com/question/2033103134843720731",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时33分 ~ 18时15分]"
         },
         {
           "title": "福特汽车CEO Jim Farley：公司与美国政府谈判国防相关的若干项目，磋商处于早期阶段。",
@@ -47,7 +58,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -58,9 +69,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
+        },
+        {
+          "title": "吉利汽车：与LEVC汽车订立整车成套件及汽车部件购买协议",
+          "url": "https://wallstreetcn.com/livenews/3097371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "据知情人士透露，汽车供应商Tenneco准备今年IPO，该公司投资方包括阿波罗。（彭博）",
@@ -74,15 +96,15 @@
           "time_info": "06时07分"
         },
         {
-          "title": "如何看待美财长斯科特·贝森特抛出论断「中国的电动汽车，本质上不过是燃煤车」？",
-          "url": "https://www.zhihu.com/question/2033103134843720731",
-          "source": "知乎",
+          "title": "吉利汽车：与曹操出行订立服务协议",
+          "url": "https://wallstreetcn.com/livenews/3097369",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时33分"
+          "time_info": "18时15分"
         },
         {
           "title": "英国汽车制造商与贸易商协会：英国三月份汽车总产量同比下降8.2%，降至72,511辆。",
@@ -99,7 +121,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "软银计划让旗下一家新的人工智能与机器人公司在美上市，软银正寻求为该AI公司（名为Roze）争取高达1000亿美元的估值。（英国金融时报）",
@@ -111,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "央行等三部门：着力做好对企业购买人工智能设备和软件服务的金融服务 促进“人工智能+产业”发展",
+          "url": "https://flash.jin10.com/detail/20260430180436409800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "Meta Platforms(META.O)CEO：公司专注于精简团队、扩大产品规模，并奖励人工智能创新。",
@@ -160,7 +193,7 @@
     },
     {
       "keyword_group": "农业",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "韩俊被免去农业农村部部长职务",
@@ -182,8 +215,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 18时15分]"
+        },
+        {
+          "title": "青岛农业大学被曝拟推「无手机课堂」，上课不交手机视为旷课，是真的吗？你觉得有必要吗？",
+          "url": "https://www.zhihu.com/question/2033151956550513381",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 18时15分]"
         },
         {
           "title": "农业农村部部署全国粮油作物大面积单产提升工作",
@@ -192,7 +236,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
