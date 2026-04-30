@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T20:20:12.961785+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-04-30T23:17:47.607266+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时33分 ~ 20时20分]"
+          "appearance_count": 6,
+          "time_info": "[15时33分 ~ 23时17分]"
         },
         {
           "title": "福特汽车CEO Jim Farley：公司与美国政府谈判国防相关的若干项目，磋商处于早期阶段。",
@@ -120,6 +120,79 @@
       ]
     },
     {
+      "keyword_group": "农业",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "韩俊被免去农业农村部部长职务",
+          "url": "https://www.toutiao.com/trending/7634389509173546505/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 15时33分]"
+        },
+        {
+          "title": "张柱任农业农村部部长",
+          "url": "https://www.douyin.com/hot/2484030",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 18时15分]"
+        },
+        {
+          "title": "青岛农业大学被曝拟推「无手机课堂」，上课不交手机视为旷课，是真的吗？你觉得有必要吗？",
+          "url": "https://www.zhihu.com/question/2033151956550513381",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 18时15分]"
+        },
+        {
+          "title": "农业农村部部署全国粮油作物大面积单产提升工作",
+          "url": "https://flash.jin10.com/detail/20260430151740288800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
+          "title": "全国人大常委会会议决定任命张柱为农业农村部部长、张成中为应急管理部部长",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33081833",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "美国众议院共和党推进263亿美元规模与农业、食品药品管理局（FDA）拨款相关的立法草案。",
+          "url": "https://wallstreetcn.com/livenews/3096984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能",
       "match_count": 6,
       "titles": [
@@ -188,68 +261,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "韩俊被免去农业农村部部长职务",
-          "url": "https://www.toutiao.com/trending/7634389509173546505/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 15时33分]"
-        },
-        {
-          "title": "张柱任农业农村部部长",
-          "url": "https://www.douyin.com/hot/2484030",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 18时15分]"
-        },
-        {
-          "title": "青岛农业大学被曝拟推「无手机课堂」，上课不交手机视为旷课，是真的吗？你觉得有必要吗？",
-          "url": "https://www.zhihu.com/question/2033151956550513381",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
-        },
-        {
-          "title": "农业农村部部署全国粮油作物大面积单产提升工作",
-          "url": "https://flash.jin10.com/detail/20260430151740288800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "美国众议院共和党推进263亿美元规模与农业、食品药品管理局（FDA）拨款相关的立法草案。",
-          "url": "https://wallstreetcn.com/livenews/3096984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时03分"
         }
       ]
     },
