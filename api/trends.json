@@ -1,8 +1,125 @@
 {
-  "generated_at": "2026-05-01T08:02:07.105207+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-05-01T12:13:44.936784+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "如何看待美财长斯科特·贝森特抛出论断「中国的电动汽车，本质上不过是燃煤车」？",
+          "url": "https://www.zhihu.com/question/2033103134843720731",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 08时02分]"
+        },
+        {
+          "title": "金十图示：2026年05月01日（周五）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260501110706753800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "理想汽车2026年4月交付34,085辆",
+          "url": "https://wallstreetcn.com/livenews/3097782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "Rivian Automotive一季度电动汽车产量1.0236万辆，分析师预期1.0311万。 一季度交付1.0365万辆，分析师预期1.0279万。 一季度营收13.8亿美元，分析师预期13.9亿美元。 一季度调整后每股亏损0.54美元，分析师预期亏损0.59美元。",
+          "url": "https://wallstreetcn.com/livenews/3097702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "小米汽车4月交付量超3万台",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A64%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F%E8%B6%853%E4%B8%87%E5%8F%B0%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "2026年4月，小米汽车交付量超过30000台。",
+          "url": "https://wallstreetcn.com/livenews/3097776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "周四（4月30日）纽约尾盘，彭博电动汽车价格回报指数涨0.35%，报4055.99点，4月份累涨大约12%，4月8-21日持续上涨——之前低位持稳、之后高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3097691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "广汽丰田汽车：铂智品牌4月销量14664辆。",
+          "url": "https://flash.jin10.com/detail/20260501101625781800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "智己汽车：2026年4月销量10016台，1-4月累计销量同比增长130%。",
+          "url": "https://flash.jin10.com/detail/20260501101026781800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "理想汽车(LI.O)：2026年4月交付34,085辆汽车。截至2026年4月30日，理想汽车累计交付量达到1,669,442辆。",
+          "url": "https://flash.jin10.com/detail/20260501100058768800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能",
       "match_count": 3,
@@ -26,7 +143,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -40,46 +157,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何看待美财长斯科特·贝森特抛出论断「中国的电动汽车，本质上不过是燃煤车」？",
-          "url": "https://www.zhihu.com/question/2033103134843720731",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时40分 ~ 08时02分]"
-        },
-        {
-          "title": "Rivian Automotive一季度电动汽车产量1.0236万辆，分析师预期1.0311万。 一季度交付1.0365万辆，分析师预期1.0279万。 一季度营收13.8亿美元，分析师预期13.9亿美元。 一季度调整后每股亏损0.54美元，分析师预期亏损0.59美元。",
-          "url": "https://wallstreetcn.com/livenews/3097702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "周四（4月30日）纽约尾盘，彭博电动汽车价格回报指数涨0.35%，报4055.99点，4月份累涨大约12%，4月8-21日持续上涨——之前低位持稳、之后高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/3097691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
         }
       ]
     }
