@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T12:01:28.567576+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2026-05-03T14:35:18.535099+08:00",
+  "total_titles_processed": 802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "多家车企公布 4 月交付量，零跑月销超 7 万，小米汽车交付超 3 万台，如何评价各车企表现？",
@@ -28,11 +28,12 @@
           "ranks": [
             7,
             8,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时01分 ~ 12时01分]"
+          "appearance_count": 13,
+          "time_info": "[01时01分 ~ 14时35分]"
         },
         {
           "title": "特朗普宣布将于下周对欧盟输美汽车和卡车加征 25% 关税，他为何对欧洲下「狠手」？",
@@ -94,6 +95,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时02分]"
+        },
+        {
+          "title": "底特律汽车制造商警告称，由于中东战争导致局势紧张，今年因大宗商品价格上涨而造成的经济损失将高达50亿美元。",
+          "url": "https://flash.jin10.com/detail/20260503123150516800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "伯克希尔CEO格雷格·阿贝尔：汽车保险客户中出现了前所未有的“货比三家”现象。",
