@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T12:21:07.463298+08:00",
-  "total_titles_processed": 839,
+  "generated_at": "2026-05-05T15:25:48.434965+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
@@ -26,7 +26,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -85,11 +85,12 @@
           "url": "https://www.toutiao.com/trending/7635103286466904083/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 12时21分]"
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 15时25分]"
         },
         {
           "title": "周一（5月4日）纽约尾盘，彭博电动汽车价格回报指数涨0.53%，报4090.14点，全天处于上涨状态、北京时间21:30曾涨至4109.36点。",
@@ -120,7 +121,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         }
