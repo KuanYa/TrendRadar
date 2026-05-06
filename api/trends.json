@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T14:38:44.488630+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2026-05-06T17:32:25.673916+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 14时38分]"
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 17时32分]"
         },
         {
           "title": "苹果公司将允许用户选用多款第三方人工智能服务，为旗下全系软件功能提供智能支持。 据知情人士透露，用户未来可选择多款第三方AI模型，完成文字创作编辑、图像生成修改等任务。 这项功能变更定于今年秋季随iOS 27、iPadOS 27以及macOS 27正式上线，用户可通过设置应用，自主挑选想要为苹果智能功能提供服务的AI平台。",
@@ -89,7 +90,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "男子凭发票抽中价值29万红旗汽车",
@@ -98,9 +99,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "福田汽车：2026年4月销量60373辆，新能源汽车10349辆",
+          "url": "https://flash.jin10.com/detail/20260506171131124800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "欧洲汽车制造概念股普遍收涨，戴姆勒卡车涨2.94%，法雷奥涨2.54%，保时捷P911涨2.26%，法拉利米兰股价则收跌3.95%。",
@@ -121,9 +133,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2000飙至30万！美农业部长甩锅：怪中国",
+          "url": "https://news.ifeng.com/c/8stvW3IMKAo",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         }
       ]
     }
