@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-06T19:56:40.319737+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2026-05-06T22:35:21.201471+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "知情人士透露，谷歌(GOOG.O)正在为Gemini打造一个7x24小时全天候运行的人工智能“个人代理”。",
-          "url": "https://flash.jin10.com/detail/20260506014918064800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
         {
           "title": "美军部署超10万个人工智能体，欲打造“算法铁幕”谋求算法霸权",
           "url": "https://m.thepaper.cn/newsDetail_forward_33099232",
@@ -29,8 +18,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时54分 ~ 19时56分]"
+          "appearance_count": 5,
+          "time_info": "[11时54分 ~ 22时35分]"
+        },
+        {
+          "title": "知情人士透露，谷歌(GOOG.O)正在为Gemini打造一个7x24小时全天候运行的人工智能“个人代理”。",
+          "url": "https://flash.jin10.com/detail/20260506014918064800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         },
         {
           "title": "苹果公司将允许用户选用多款第三方人工智能服务，为旗下全系软件功能提供智能支持。 据知情人士透露，用户未来可选择多款第三方AI模型，完成文字创作编辑、图像生成修改等任务。 这项功能变更定于今年秋季随iOS 27、iPadOS 27以及macOS 27正式上线，用户可通过设置应用，自主挑选想要为苹果智能功能提供服务的AI平台。",
@@ -72,7 +72,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -105,7 +105,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -116,7 +116,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         },
@@ -127,9 +127,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
+        },
+        {
+          "title": "欧盟委员会人工智能事务官员西奥利：欧盟委员会向成员国展示了Mythos模型的能力。",
+          "url": "https://flash.jin10.com/detail/20260506215656678800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         }
       ]
     },
@@ -189,7 +200,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         }
@@ -197,7 +208,7 @@
     },
     {
       "keyword_group": "农业",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "2000飙至30万！美农业部长甩锅：怪中国",
@@ -207,8 +218,36 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 19时56分]"
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 22时35分]"
+        },
+        {
+          "title": "农业农村部：抓紧抓实粮食生产，着力加强生猪产能综合调控",
+          "url": "https://flash.jin10.com/detail/20260506221448239800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农民",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "朱之文回应蒋大为“农民歌手”言论",
+          "url": "https://www.toutiao.com/trending/7635602837841805375/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         }
       ]
     }
