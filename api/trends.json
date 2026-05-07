@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T02:53:29.647471+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-05-08T04:21:05.439504+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时21分]"
         },
         {
           "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时21分]"
         },
         {
           "title": "德国财政部长克林拜尔：希望（德国与加拿大）在供应链韧性、关键原材料、国防和人工智能领域开展更紧密的合作。",
@@ -47,7 +47,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         }
@@ -65,8 +65,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 04时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "追觅俞浩称中国仅3人懂汽车设计",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%BD%E8%A7%85%E4%BF%9E%E6%B5%A9%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%BB%853%E4%BA%BA%E6%87%82%E6%B1%BD%E8%BD%A6%E8%AE%BE%E8%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 04时21分]"
         }
       ]
     }
