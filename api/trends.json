@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T07:58:00.178496+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-05-07T11:56:48.676413+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美军部署超10万个人工智能体，欲打造“算法铁幕”谋求算法霸权",
@@ -42,13 +42,24 @@
           "time_info": "06时05分"
         },
         {
+          "title": "穆迪：人工智能热潮或将停滞，拖累亚太地区出口增长",
+          "url": "https://flash.jin10.com/detail/20260507113627086800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
           "title": "OpenAI：Uber(UBER.N)使用OpenAI为人工智能助手和语音功能提供支持。",
           "url": "https://flash.jin10.com/detail/20260507064154537800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -113,11 +124,12 @@
           "url": "https://news.ifeng.com/c/8stvW3IMKAo",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 07时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时49分 ~ 11时56分]"
         }
       ]
     }
