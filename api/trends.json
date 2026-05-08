@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T08:02:08.881759+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2026-05-08T12:20:08.981923+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 08时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 12时20分]"
         },
         {
           "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
@@ -30,6 +30,17 @@
           "time_info": "[00时59分 ~ 04时21分]"
         },
         {
+          "title": "法拉第未来：FF AI-Robotics与波士顿国际商学院（BIBS）达成战略合作，共同成立BIBS–FF AI Robotics Institute，这是美国首个由产业驱动的实体人工智能与机器人研究所。",
+          "url": "https://flash.jin10.com/detail/20260508121027450800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "德国财政部长克林拜尔：希望（德国与加拿大）在供应链韧性、关键原材料、国防和人工智能领域开展更紧密的合作。",
           "url": "https://flash.jin10.com/detail/20260508003148611800",
           "source": "金十数据",
@@ -39,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-05-08）",
+          "url": "https://flash.jin10.com/detail/20260508114512303800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "日本软银集团正与英伟达商谈开发“日本制造”的人工智能服务器。（日经新闻）",
