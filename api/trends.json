@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T05:55:41.529626+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-05-10T06:56:46.361184+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -9,30 +9,32 @@
       "titles": [
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
-          "url": "https://wallstreetcn.com/livenews/3101076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 05时55分]"
-        },
-        {
-          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
           "url": "https://m.thepaper.cn/newsDetail_forward_33144435",
           "source": "澎湃新闻",
           "ranks": [
             18,
             17,
             16,
-            14
+            14,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 06时56分]"
+        },
+        {
+          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
+          "url": "https://wallstreetcn.com/livenews/3101076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            14,
+            15
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时04分 ~ 05时55分]"
+          "time_info": "[00时04分 ~ 06时56分]"
         },
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
@@ -78,8 +80,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 05时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 06时56分]"
         }
       ]
     }
