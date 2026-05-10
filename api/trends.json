@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T07:58:15.841543+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-05-10T12:06:40.324654+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             16,
             14,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 07时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 12时06分]"
         },
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
@@ -31,11 +32,12 @@
             5,
             13,
             14,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 12时06分]"
         },
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
@@ -47,6 +49,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上海科创基金总裁杨斌：人工智能带来的不仅是技术层面的迭代 而是生产要素的革命性重构",
+          "url": "https://flash.jin10.com/detail/20260510114605762800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "据一位知情人士透露，阿里巴巴(09988.HK)正准备公布其人工智能平台Qwen与电商平台淘宝的整合计划，此举旨在通过对话而非关键词搜索来推动购物。",
+          "url": "https://flash.jin10.com/detail/20260510095522522800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         }
       ]
     },
@@ -82,8 +112,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 07时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 12时06分]"
         }
       ]
     }
