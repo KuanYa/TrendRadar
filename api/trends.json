@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T05:58:37.993271+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-05-11T07:01:36.642417+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "乌克兰亚速旅称，该部队利用人工智能辅助无人机对俄控马里乌波尔纵深地区实施了打击，命中前线后方160公里处的目标。亚速旅表示，这是对该城的象征性“回归”。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "消息人士：人工智能芯片公司Cerebras Systems拟将IPO发行价区间上调至每股150至160美元，并计划发行3000万股股票。若按指导区间上限定价，IPO融资规模可能达到48亿美元。",
+          "url": "https://flash.jin10.com/detail/20260511053851456800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "法拉第未来正式任命贾跃亭为全球唯一首席执行官，同时任命王佳伟为全球执行董事长；公司将于下周公布升级版转型计划，开启作为物理人工智能公司的新增长篇章。",
@@ -54,8 +65,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 07时01分]"
         },
         {
           "title": "央视曝光危险的“手搓汽车”",
@@ -68,8 +79,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 07时01分]"
         },
         {
           "title": "如何评价蔚来汽车董事长李斌？为什么蔚来汽车董事长李斌能得到这么多互联网大佬的支持帮助和青睐？",
@@ -80,8 +91,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 05时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 07时01分]"
         }
       ]
     }
