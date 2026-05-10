@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T17:45:20.959516+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-05-10T19:06:02.519948+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时30分 ~ 17时45分]"
+          "appearance_count": 3,
+          "time_info": "[15时30分 ~ 19时06分]"
         },
         {
           "title": "据一位知情人士透露，阿里巴巴(09988.HK)正准备公布其人工智能平台Qwen与电商平台淘宝的整合计划，此举旨在通过对话而非关键词搜索来推动购物。",
@@ -56,7 +57,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
@@ -72,8 +73,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时04分 ~ 17时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时04分 ~ 19时06分]"
         },
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
@@ -89,6 +90,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时04分 ~ 12时06分]"
+        },
+        {
+          "title": "“西方汽车零部件供应商感叹：现在只要丢单，都是败给中企”",
+          "url": "https://news.ifeng.com/c/8t0xbgKltd4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时05分 ~ 19时06分]"
         },
         {
           "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
