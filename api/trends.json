@@ -1,48 +1,12 @@
 {
-  "generated_at": "2026-05-12T23:48:02.840025+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2026-05-13T02:07:59.515067+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "张雪祝贺吉利汽车意大利夺冠",
-          "url": "https://www.toutiao.com/trending/7638598194062183945/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            20,
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时09分 ~ 20时04分]"
-        },
-        {
-          "title": "飞行汽车工厂30分钟下线一台飞行器",
-          "url": "https://www.douyin.com/hot/2495706",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 07时03分]"
-        },
-        {
-          "title": "4月汽车销量前10仅1款油车",
-          "url": "https://s.weibo.com/weibo?q=%234%E6%9C%88%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D10%E4%BB%851%E6%AC%BE%E6%B2%B9%E8%BD%A6%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时47分 ~ 23时48分]"
-        },
         {
           "title": "4月汽车销量前十名仅剩1款油车",
           "url": "https://www.baidu.com/s?wd=4%E6%9C%88%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E5%90%8D%E4%BB%85%E5%89%A91%E6%AC%BE%E6%B2%B9%E8%BD%A6",
@@ -51,196 +15,36 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时47分 ~ 23时48分]"
+          "appearance_count": 1,
+          "time_info": "02时07分"
         },
         {
-          "title": "澎湃漫评｜“手搓汽车”把风险留给了社会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33155484",
-          "source": "澎湃新闻",
+          "title": "4月汽车销量前10仅1款油车",
+          "url": "https://s.weibo.com/weibo?q=%234%E6%9C%88%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D10%E4%BB%851%E6%AC%BE%E6%B2%B9%E8%BD%A6%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            18,
-            16,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时56分 ~ 20时04分]"
-        },
-        {
-          "title": "央视曝光三无手搓汽车，从新能源车拆下翻新锂电池自行组装，这种汽车有何风险？暴露出监管与产业链哪些问题？",
-          "url": "https://www.zhihu.com/question/2037091318204032140",
-          "source": "知乎",
-          "ranks": [
-            15,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时44分 ~ 20时04分]"
-        },
-        {
-          "title": "周一（5月11日），彭博电动汽车价格回报指数涨0.83%，报4199.42点。",
-          "url": "https://wallstreetcn.com/livenews/3101861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 07时03分]"
-        },
-        {
-          "title": "中国汽车流通协会：4月末汽车经销商库存总量约260万辆",
-          "url": "https://wallstreetcn.com/livenews/3102187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时46分"
-        },
-        {
-          "title": "金十图示：2026年05月12日（周二）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260512110527052800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "纽约联储：2025年第一季度汽车贷款债务达到1.7万亿美元，比2024年第四季度增加180亿美元。",
-          "url": "https://flash.jin10.com/detail/20260512230204842800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时48分"
+          "time_info": "02时07分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
         {
           "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
           "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            15,
-            11,
-            9,
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时56分 ~ 23时48分]"
-        },
-        {
-          "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
-          "url": "https://wallstreetcn.com/livenews/3101858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 07时03分]"
-        },
-        {
-          "title": "高盛总裁沃尔德伦：大多数裁员与生成式人工智能无关。",
-          "url": "https://flash.jin10.com/detail/20260512231458139800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "OpenAI：推出面向网络防御人员的前沿人工智能Daybreak。Daybreak整合了OpenAI最强大的模型、Codex以及我们的安全合作伙伴，以加速网络防御并持续保障软件安全。",
-          "url": "https://flash.jin10.com/detail/20260512044813399800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "高盛总裁沃尔德伦：全球人工智能供应链支出正在增长。",
-          "url": "https://flash.jin10.com/detail/20260512231139571800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "韩国总统府政策室长金容范称，人工智能公民红利并不意味着暴利税。",
-          "url": "https://wallstreetcn.com/livenews/3101985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "韩国政策高层称人工智能公民红利将取自超额税收 而非企业利润",
-          "url": "https://wallstreetcn.com/livenews/3101973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "据华盛顿邮报：特朗普最早可能在周一签署一项关于人工智能安全的行政命令。",
-          "url": "https://flash.jin10.com/detail/20260512013750764800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "农业农村部党组书记、部长张柱：多措并举推动生猪产业节本提质增效、高质量发展",
-          "url": "https://wallstreetcn.com/livenews/3101739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "time_info": "02时07分"
         }
       ]
     }
