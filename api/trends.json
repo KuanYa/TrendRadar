@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-05-12T17:46:53.946622+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-05-12T20:04:01.314620+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
       "match_count": 7,
       "titles": [
+        {
+          "title": "张雪祝贺吉利汽车意大利夺冠",
+          "url": "https://www.toutiao.com/trending/7638598194062183945/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            20,
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 20时04分]"
+        },
         {
           "title": "飞行汽车工厂30分钟下线一台飞行器",
           "url": "https://www.douyin.com/hot/2495706",
@@ -19,31 +33,31 @@
           "time_info": "[00时09分 ~ 07时03分]"
         },
         {
-          "title": "张雪祝贺吉利汽车意大利夺冠",
-          "url": "https://www.toutiao.com/trending/7638598194062183945/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            20,
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 17时46分]"
-        },
-        {
           "title": "澎湃漫评｜“手搓汽车”把风险留给了社会",
           "url": "https://m.thepaper.cn/newsDetail_forward_33155484",
           "source": "澎湃新闻",
           "ranks": [
             18,
             16,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 17时46分]"
+          "appearance_count": 5,
+          "time_info": "[11时56分 ~ 20时04分]"
+        },
+        {
+          "title": "央视曝光三无手搓汽车，从新能源车拆下翻新锂电池自行组装，这种汽车有何风险？暴露出监管与产业链哪些问题？",
+          "url": "https://www.zhihu.com/question/2037091318204032140",
+          "source": "知乎",
+          "ranks": [
+            15,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时44分 ~ 20时04分]"
         },
         {
           "title": "周一（5月11日），彭博电动汽车价格回报指数涨0.83%，报4199.42点。",
@@ -58,25 +72,13 @@
           "time_info": "[05时24分 ~ 07时03分]"
         },
         {
-          "title": "央视曝光三无手搓汽车，从新能源车拆下翻新锂电池自行组装，这种汽车有何风险？暴露出监管与产业链哪些问题？",
-          "url": "https://www.zhihu.com/question/2037091318204032140",
-          "source": "知乎",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 17时46分]"
-        },
-        {
           "title": "中国汽车流通协会：4月末汽车经销商库存总量约260万辆",
           "url": "https://wallstreetcn.com/livenews/3102187",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -104,11 +106,12 @@
           "ranks": [
             19,
             15,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 17时46分]"
+          "appearance_count": 5,
+          "time_info": "[11时56分 ~ 20时04分]"
         },
         {
           "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
