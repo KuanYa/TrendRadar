@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T18:38:53.981605+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-05-13T21:52:31.460179+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "4月汽车销量前十名仅剩1款油车",
@@ -18,6 +18,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时07分 ~ 08时08分]"
+        },
+        {
+          "title": "4 月汽车销量前十名仅剩一款油车，这会成为常态吗？吉利缤越为何能挤进前十？",
+          "url": "https://www.zhihu.com/question/2037653159107982760",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 21时52分]"
+        },
+        {
+          "title": "德国汽车工业协会：德汽车业到2035年或再流失12.5万个岗位",
+          "url": "https://wallstreetcn.com/livenews/3103065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "数看4月新能源汽车产业成绩单",
@@ -81,19 +106,6 @@
           "time_info": "[08时08分 ~ 18时38分]"
         },
         {
-          "title": "4 月汽车销量前十名仅剩一款油车，这会成为常态吗？吉利缤越为何能挤进前十？",
-          "url": "https://www.zhihu.com/question/2037653159107982760",
-          "source": "知乎",
-          "ranks": [
-            15,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 18时38分]"
-        },
-        {
           "title": "纯电动汽车保值排名：小米跌出前十",
           "url": "https://www.toutiao.com/trending/7638539260280258579/",
           "source": "今日头条",
@@ -104,6 +116,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时08分 ~ 12时54分]"
+        },
+        {
+          "title": "惊险！飞机在高速公路紧急迫降，与汽车擦身而过",
+          "url": "https://v.ifeng.com/c/8t5UdYk9VvZ",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 21时52分]"
         },
         {
           "title": "周二（5月12日），彭博电动汽车价格回报指数跌1.77%，报4125.69点。 亚太早盘微幅高开，随后持续下跌，北京时间12:00-22:00持续交投于4150.40点附近，之后又扩大跌幅。",
@@ -128,17 +151,6 @@
           "time_info": "12时54分"
         },
         {
-          "title": "惊险！飞机在高速公路紧急迫降，与汽车擦身而过",
-          "url": "https://v.ifeng.com/c/8t5UdYk9VvZ",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
           "title": "据CNN：多名消息人士称，今年早些时候在墨西哥发生的一起汽车爆炸事件造成一名疑似贩毒集团成员死亡，该事件属于一次定点暗杀行动，并得到美国中央情报局（CIA）行动官员的协助。",
           "url": "https://flash.jin10.com/detail/20260513050414696800",
           "source": "金十数据",
@@ -148,6 +160,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "美国汽车工人联合会：如果美国汽车零部件制造American Axle拒绝提供公平合同，将进行罢工。",
+          "url": "https://flash.jin10.com/detail/20260513211238854800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "理想汽车CEO李想：公司不会主动裁员",
