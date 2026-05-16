@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T21:53:04.331469+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-05-16T23:04:54.056438+08:00",
+  "total_titles_processed": 1413,
   "failed_sources": [],
   "trends": [
     {
@@ -160,11 +160,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%86%9C%E4%B8%9A%E8%A7%A3%E8%AF%BB%E5%BF%83%E6%9C%BA%E5%95%86%E6%A0%87%E7%8E%B0%E8%B1%A1",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 21时53分]"
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 23时04分]"
         },
         {
           "title": "实现“零的突破”！上海RNA农药研发成果，给绿色农业带来哪些新可能？",
