@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-05-18T05:04:25.063617+08:00",
-  "total_titles_processed": 427,
-  "failed_sources": [],
+  "generated_at": "2026-05-18T07:00:59.812669+08:00",
+  "total_titles_processed": 447,
+  "failed_sources": [
+    "jin10"
+  ],
   "trends": [
     {
       "keyword_group": "农业",
@@ -16,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 07时00分]"
         }
       ]
     },
@@ -34,8 +36,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 05时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 07时00分]"
         }
       ]
     }
