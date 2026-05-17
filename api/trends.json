@@ -1,157 +1,39 @@
 {
-  "generated_at": "2026-05-17T23:05:12.323010+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-05-18T01:07:13.554421+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "农业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "十四届全国政协常委、农业和农村委员会副主任王晓东被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33190642",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 01时07分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
           "url": "https://www.cls.cn/detail/2373269",
           "source": "财联社热门",
           "ranks": [
-            6,
-            5,
-            4,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时08分 ~ 23时05分]"
-        },
-        {
-          "title": "国家人工智能应用中试基地（具身智能）揭牌，18家企业集中签约",
-          "url": "https://wallstreetcn.com/livenews/3104861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时56分 ~ 21时49分]"
-        },
-        {
-          "title": "国家人工智能应用中试基地（具身智能）揭牌 18家企业集中签约",
-          "url": "https://flash.jin10.com/detail/20260517194359233800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "法国文化部长：今后不会资助“用人工智能取代创作者”的影视作品",
-          "url": "https://flash.jin10.com/detail/20260517095922483800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "长安汽车回应与千里科技合作：暂无计划，将坚持自研天枢智能路线",
-          "url": "https://flash.jin10.com/detail/20260517112738378800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "长安汽车否认与千里科技合作",
-          "url": "https://wallstreetcn.com/livenews/3104835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时38分 ~ 19时17分]"
-        },
-        {
-          "title": "意大利摩德纳市发生汽车冲撞人群事件",
-          "url": "https://flash.jin10.com/detail/20260517001026043800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "总投资10亿元 天津燕龙汽车零部件生产基地项目开工",
-          "url": "https://flash.jin10.com/detail/20260517123617834800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "央视农业解读心机商标现象",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%86%9C%E4%B8%9A%E8%A7%A3%E8%AF%BB%E5%BF%83%E6%9C%BA%E5%95%86%E6%A0%87%E7%8E%B0%E8%B1%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            9,
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时07分 ~ 12时08分]"
-        },
-        {
-          "title": "十四届全国政协常委、农业和农村委员会副主任王晓东接受审查调查。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3104864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时56分 ~ 21时49分]"
-        },
-        {
-          "title": "十四届全国政协常委、农业和农村委员会副主任王晓东被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33190642",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时49分 ~ 23时05分]"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 01时07分]"
         }
       ]
     }
