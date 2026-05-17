@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T21:49:51.243983+08:00",
-  "total_titles_processed": 1088,
+  "generated_at": "2026-05-17T23:05:12.323010+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时08分 ~ 21时49分]"
+          "appearance_count": 8,
+          "time_info": "[12时08分 ~ 23时05分]"
         },
         {
           "title": "国家人工智能应用中试基地（具身智能）揭牌，18家企业集中签约",
@@ -41,7 +41,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -146,11 +146,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33190642",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 23时05分]"
         }
       ]
     }
