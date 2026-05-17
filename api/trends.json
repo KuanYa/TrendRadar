@@ -1,39 +1,11 @@
 {
-  "generated_at": "2026-05-17T12:08:52.271047+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-05-17T15:38:01.227475+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
-          "url": "https://www.cls.cn/detail/2373269",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "法国文化部长：今后不会资助“用人工智能取代创作者”的影视作品",
-          "url": "https://flash.jin10.com/detail/20260517095922483800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "长安汽车回应与千里科技合作：暂无计划，将坚持自研天枢智能路线",
@@ -42,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -56,6 +28,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "长安汽车否认与千里科技合作",
+          "url": "https://wallstreetcn.com/livenews/3104835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "总投资10亿元 天津燕龙汽车零部件生产基地项目开工",
+          "url": "https://flash.jin10.com/detail/20260517123617834800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
+          "url": "https://www.cls.cn/detail/2373269",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 15时38分]"
+        },
+        {
+          "title": "法国文化部长：今后不会资助“用人工智能取代创作者”的影视作品",
+          "url": "https://flash.jin10.com/detail/20260517095922483800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     },
