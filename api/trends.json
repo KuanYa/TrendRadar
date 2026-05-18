@@ -1,31 +1,11 @@
 {
-  "generated_at": "2026-05-18T07:00:59.812669+08:00",
-  "total_titles_processed": 447,
-  "failed_sources": [
-    "jin10"
-  ],
+  "generated_at": "2026-05-18T08:06:47.012014+08:00",
+  "total_titles_processed": 555,
+  "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "农业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "十四届全国政协常委、农业和农村委员会副主任王晓东被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33190642",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 07时00分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
@@ -36,8 +16,38 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 07时00分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 08时06分]"
+        },
+        {
+          "title": "美国总统特朗普在社媒上分享了一张人工智能生成的与外星人的合照。",
+          "url": "https://flash.jin10.com/detail/20260518074442462800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "十四届全国政协常委、农业和农村委员会副主任王晓东被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33190642",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 08时06分]"
         }
       ]
     }
