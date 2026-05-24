@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T13:08:05.163559+08:00",
-  "total_titles_processed": 709,
+  "generated_at": "2026-05-24T16:41:33.388052+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "汽车行业“反内卷”成效几何",
+          "url": "https://www.toutiao.com/trending/7643316472286691374/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         }
       ]
     }
