@@ -1,8 +1,92 @@
 {
-  "generated_at": "2026-05-28T03:31:42.239035+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-05-28T06:03:16.775921+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美联储理事库克：要看到经济中因人工智能带来的结构性变化可能需要很长时间。",
+          "url": "https://flash.jin10.com/detail/20260528043829957800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "据科技媒体TechCrunch：Meta公司推出Instagram、Facebook和WhatsApp订阅服务，未来还将推出更多，包括人工智能计划。",
+          "url": "https://flash.jin10.com/detail/20260528020659080800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "亚马逊与Snowflake达成60亿美元协议，采购Graviton智能计算芯片。 Snowflake承诺在未来五年内在亚马逊云服务(AWS)上投入60亿美元用于Graviton计算和人工智能支出。 客户如Fetch和Hex正在亚马逊云服务(AWS)上利Snowflake的平台在受管数据上部署人工智能应用。 Snowflake美股盘后涨30%。",
+          "url": "https://wallstreetcn.com/livenews/3110250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周三（5月27日），彭博电动汽车价格回报指数跌0.86%，报3986.91点，亚太时段显著走低，北京时间12:00以来持续交投于3990点附近。",
+          "url": "https://wallstreetcn.com/livenews/3110252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "武契奇在小米汽车工厂买了啥",
+          "url": "https://www.toutiao.com/trending/7643858808741625894/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新西兰联储主席Anna Breman：正在密切关注“高成本与通胀导致的更疲软的需求”将在多大程度上抑制其他商品的价格上涨。 新西兰经济的某些部分表现依然良好，其中包括农业以及制造业的部分领域。 听说以出口为导向的企业目前经营状况良好，但它们对充满不确定性的外部环境感到担忧。",
+          "url": "https://wallstreetcn.com/livenews/3110254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        }
+      ]
+    },
     {
       "keyword_group": "玉米",
       "match_count": 1,
@@ -15,42 +99,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 03时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据科技媒体TechCrunch：Meta公司推出Instagram、Facebook和WhatsApp订阅服务，未来还将推出更多，包括人工智能计划。",
-          "url": "https://flash.jin10.com/detail/20260528020659080800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "武契奇在小米汽车工厂买了啥",
-          "url": "https://www.toutiao.com/trending/7643858808741625894/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 06时03分]"
         }
       ]
     }
