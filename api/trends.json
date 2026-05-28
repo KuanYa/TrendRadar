@@ -1,216 +1,56 @@
 {
-  "generated_at": "2026-05-28T22:42:56.470958+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-05-29T02:18:03.760299+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "玉米",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "男子摔倒被玉米秆从耳后刺入7厘米",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%91%94%E5%80%92%E8%A2%AB%E7%8E%89%E7%B1%B3%E7%A7%86%E4%BB%8E%E8%80%B3%E5%90%8E%E5%88%BA%E5%85%A57%E5%8E%98%E7%B1%B3",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
         {
           "title": "两部门联手 系统布局人工智能计量能力建设",
           "url": "https://www.cls.cn/detail/2384415",
           "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "韩国AI芯片初创企业FuriosaAI宣布与博通(AVGO.O)建立战略合作伙伴关系，共同开发其第三代人工智能加速器。",
-          "url": "https://flash.jin10.com/detail/20260528073830727800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "人工智能成外贸增长新引擎",
-          "url": "https://www.douyin.com/hot/2514888",
-          "source": "抖音",
-          "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
-          "title": "美联储理事库克：要看到经济中因人工智能带来的结构性变化可能需要很长时间。",
-          "url": "https://flash.jin10.com/detail/20260528043829957800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "受人工智能热潮推动，外国投资者连续第八周买入日本股票",
-          "url": "https://flash.jin10.com/detail/20260528124226890800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
-          "title": "据科技媒体TechCrunch：Meta公司推出Instagram、Facebook和WhatsApp订阅服务，未来还将推出更多，包括人工智能计划。",
-          "url": "https://flash.jin10.com/detail/20260528020659080800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "亚马逊与Snowflake达成60亿美元协议，采购Graviton智能计算芯片。 Snowflake承诺在未来五年内在亚马逊云服务(AWS)上投入60亿美元用于Graviton计算和人工智能支出。 客户如Fetch和Hex正在亚马逊云服务(AWS)上利Snowflake的平台在受管数据上部署人工智能应用。 Snowflake美股盘后涨30%。",
-          "url": "https://wallstreetcn.com/livenews/3110250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "美国纽约联储主席威廉姆斯：若没有人工智能方面的投资，美国的需求将会减弱。 美国劳动力市场整体表现相当不错。 不认为人工智能会导致长期的结构性失业。 伊朗冲突对通货膨胀的影响可能在几个月内达到峰值。 美国劳动力市场“相当平衡”。 伊朗冲突造成的供应链中断令人担忧。 美联储的货币政策略显紧缩。 更有效的沟通有助于政策的实施效果。",
-          "url": "https://wallstreetcn.com/livenews/3110786",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
         {
-          "title": "汽车之家(02518.HK)：2026年第一季度净收入总额为人民币1.05亿元，2025年同期为人民币1.45亿元。",
-          "url": "https://flash.jin10.com/detail/20260528181607840800",
-          "source": "金十数据",
+          "title": "美墨启动正式贸易谈判，就汽车本土含量规则展开博弈",
+          "url": "https://wallstreetcn.com/livenews/3110887",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "中国汽车工业协会：合作共赢才是中欧汽车产业行稳致远的正确道路",
-          "url": "https://wallstreetcn.com/livenews/3110806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "周三（5月27日），彭博电动汽车价格回报指数跌0.86%，报3986.91点，亚太时段显著走低，北京时间12:00以来持续交投于3990点附近。",
-          "url": "https://wallstreetcn.com/livenews/3110252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "美股盘初：三大指数涨跌不一，Snowflake涨约33%，理想汽车跌约2%",
-          "url": "https://wallstreetcn.com/livenews/3110789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "理想汽车美股盘前跌近5%，公司一季度营收及二季度业绩指引低于预期。",
-          "url": "https://wallstreetcn.com/livenews/3110612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "理想汽车第一季度营收230亿元人民币，预估220.9亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3110609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "武契奇在小米汽车工厂买了啥",
-          "url": "https://www.toutiao.com/trending/7643858808741625894/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "新西兰联储主席Anna Breman：正在密切关注“高成本与通胀导致的更疲软的需求”将在多大程度上抑制其他商品的价格上涨。 新西兰经济的某些部分表现依然良好，其中包括农业以及制造业的部分领域。 听说以出口为导向的企业目前经营状况良好，但它们对充满不确定性的外部环境感到担忧。",
-          "url": "https://wallstreetcn.com/livenews/3110254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "玉米",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄仁勋想吃烤玉米却排长队：全场我买单，能不能先让我拿一根？",
-          "url": "https://v.ifeng.com/c/8tTH4CLq0fc",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 08时06分]"
+          "time_info": "02时18分"
         }
       ]
     }
