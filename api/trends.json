@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T02:44:48.526214+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-02T06:14:22.601055+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "大力推进人工智能+能源融合发展",
@@ -15,8 +15,53 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 06时14分]"
+        },
+        {
+          "title": "Alphabet(GOOG.O)：AI需求已超出公司现有供应能力。公司正面临来自企业和消费者对人工智能解决方案的强劲需求。",
+          "url": "https://flash.jin10.com/detail/20260602050120532800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时44分"
+          "time_info": "06时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "澳大利亚农业资源经济科学局：预计2025/26年度棉花产量为100万吨，较2024/25年度下降16%。预计2026/27年度大麦产量将达1410万吨，较2025/26年度下降15%。预计2026/27年度油菜籽产量将达620万吨，较2025/26年度下降20%。预计2026/27年度小麦产量为2670万吨，较2025/26年度下降26%。",
+          "url": "https://flash.jin10.com/detail/20260602060218835800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周一（6月1日），彭博电动汽车价格回报指数跌0.29%，报4007.36点。",
+          "url": "https://wallstreetcn.com/livenews/3112634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         }
       ]
     }
