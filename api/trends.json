@@ -1,50 +1,11 @@
 {
-  "generated_at": "2026-06-02T13:56:32.753491+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-06-02T18:50:16.349236+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "汽车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周一（6月1日），彭博电动汽车价格回报指数跌0.29%，报4007.36点。",
-          "url": "https://wallstreetcn.com/livenews/3112634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "长安汽车5月交付209100辆，海外同比增长38%",
-          "url": "https://wallstreetcn.com/livenews/3112817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "74岁男子点燃杨絮致20辆汽车被烧毁",
-          "url": "https://www.baidu.com/s?wd=74%E5%B2%81%E7%94%B7%E5%AD%90%E7%82%B9%E7%87%83%E6%9D%A8%E7%B5%AE%E8%87%B420%E8%BE%86%E6%B1%BD%E8%BD%A6%E8%A2%AB%E7%83%A7%E6%AF%81",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "大力推进人工智能+能源融合发展",
@@ -67,12 +28,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "联发科承诺扩大招聘 以助力向新的人工智能业务领域推进",
+          "url": "https://wallstreetcn.com/livenews/3112970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周一（6月1日），彭博电动汽车价格回报指数跌0.29%，报4007.36点。",
+          "url": "https://wallstreetcn.com/livenews/3112634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "长安汽车5月交付209100辆，海外同比增长38%",
+          "url": "https://wallstreetcn.com/livenews/3112817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "74岁男子点燃杨絮致20辆汽车被烧毁",
+          "url": "https://www.baidu.com/s?wd=74%E5%B2%81%E7%94%B7%E5%AD%90%E7%82%B9%E7%87%83%E6%9D%A8%E7%B5%AE%E8%87%B420%E8%BE%86%E6%B1%BD%E8%BD%A6%E8%A2%AB%E7%83%A7%E6%AF%81",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时56分"
         }
       ]
     },
     {
       "keyword_group": "农业",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "澳大利亚农业资源经济科学局：预计2025/26年度棉花产量为100万吨，较2024/25年度下降16%。预计2026/27年度大麦产量将达1410万吨，较2025/26年度下降15%。预计2026/27年度油菜籽产量将达620万吨，较2025/26年度下降20%。预计2026/27年度小麦产量为2670万吨，较2025/26年度下降26%。",
@@ -84,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "国务院印发《加快农业农村现代化“十五五”规划》",
+          "url": "https://www.cls.cn/detail/2388434",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         }
       ]
     },
