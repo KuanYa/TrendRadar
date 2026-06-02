@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-06-02T18:50:16.349236+08:00",
-  "total_titles_processed": 977,
-  "failed_sources": [],
+  "generated_at": "2026-06-02T23:01:26.118316+08:00",
+  "total_titles_processed": 1177,
+  "failed_sources": [
+    "weibo"
+  ],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "大力推进人工智能+能源融合发展",
@@ -17,6 +19,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时44分 ~ 08时21分]"
+        },
+        {
+          "title": "英国央行行长贝利：并非所有人工智能相关股都会成为赢家。",
+          "url": "https://flash.jin10.com/detail/20260602225704964800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时01分"
         },
         {
           "title": "Alphabet(GOOG.O)：AI需求已超出公司现有供应能力。公司正面临来自企业和消费者对人工智能解决方案的强劲需求。",
@@ -36,9 +49,49 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "前4月农业投资同比增长14.5%",
+          "url": "https://www.toutiao.com/trending/7646778460731752484/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时01分]"
+        },
+        {
+          "title": "澳大利亚农业资源经济科学局：预计2025/26年度棉花产量为100万吨，较2024/25年度下降16%。预计2026/27年度大麦产量将达1410万吨，较2025/26年度下降15%。预计2026/27年度油菜籽产量将达620万吨，较2025/26年度下降20%。预计2026/27年度小麦产量为2670万吨，较2025/26年度下降26%。",
+          "url": "https://flash.jin10.com/detail/20260602060218835800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "国务院印发《加快农业农村现代化“十五五”规划》",
+          "url": "https://www.cls.cn/detail/2388434",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时50分 ~ 23时01分]"
         }
       ]
     },
@@ -78,34 +131,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "澳大利亚农业资源经济科学局：预计2025/26年度棉花产量为100万吨，较2024/25年度下降16%。预计2026/27年度大麦产量将达1410万吨，较2025/26年度下降15%。预计2026/27年度油菜籽产量将达620万吨，较2025/26年度下降20%。预计2026/27年度小麦产量为2670万吨，较2025/26年度下降26%。",
-          "url": "https://flash.jin10.com/detail/20260602060218835800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "国务院印发《加快农业农村现代化“十五五”规划》",
-          "url": "https://www.cls.cn/detail/2388434",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时50分"
         }
       ]
     },
