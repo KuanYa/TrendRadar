@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T05:55:32.954965+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-06-03T07:55:01.877787+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "微软：MAI-THINKING-1是微软人工智能旗下首个推理大模型。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
+          "url": "https://www.cls.cn/detail/2388943",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 07时55分]"
         },
         {
           "title": "微软(MSFT.O)高管：微软的推理人工智能模型是在其自家芯片上共同开发的。",
@@ -113,7 +124,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         }
@@ -130,7 +141,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
@@ -141,7 +152,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
@@ -152,7 +163,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         }
@@ -170,8 +181,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时50分 ~ 05时55分]"
+          "appearance_count": 4,
+          "time_info": "[02时50分 ~ 07时55分]"
         },
         {
           "title": "国务院印发《加快农业农村现代化“十五五”规划》",
