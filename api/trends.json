@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T09:47:38.138823+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-06-04T14:51:29.624615+08:00",
+  "total_titles_processed": 782,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -86,7 +86,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -97,7 +97,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -108,7 +108,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
@@ -136,9 +136,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农民",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "游客踩麦田拍照 农民贴告示罚款",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E8%B8%A9%E9%BA%A6%E7%94%B0%E6%8B%8D%E7%85%A7+%E5%86%9C%E6%B0%91%E8%B4%B4%E5%91%8A%E7%A4%BA%E7%BD%9A%E6%AC%BE",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         }
       ]
     },
