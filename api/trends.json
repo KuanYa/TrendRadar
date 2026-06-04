@@ -1,310 +1,100 @@
 {
-  "generated_at": "2026-06-04T22:13:45.431791+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2026-06-05T01:49:42.250922+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 10,
+      "match_count": 5,
       "titles": [
         {
-          "title": "市场消息：普华永道与谷歌云合作加速人工智能威胁防御。",
-          "url": "https://flash.jin10.com/detail/20260604215421488800",
+          "title": "美联储戴利：目前人工智能可能带来通胀下降的影响，但这不是紧迫的问题。",
+          "url": "https://flash.jin10.com/detail/20260605013636747800",
           "source": "金十数据",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "台积电(TSM.N) 首席执行官：从生成性人工智能到自主性人工智能的转变正在推动大型语言模型的token消耗增加，进而提高对计算能力和先进半导体的需求。",
-          "url": "https://flash.jin10.com/detail/20260604092452429800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时47分"
+          "time_info": "01时49分"
         },
         {
-          "title": "IBM与谷歌云宣布战略合作，通过结合人类专业知识与人工智能驱动的交付模式推动AI规模化落地。",
-          "url": "https://wallstreetcn.com/livenews/3114361",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储戴利：（问及5到10年展望时表示）人工智能可能会降低通胀。",
+          "url": "https://flash.jin10.com/detail/20260605013220101800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "美联储戴利：到目前为止，生成式人工智能更多是用来辅助而不是取代劳动力。",
+          "url": "https://flash.jin10.com/detail/20260605012946151800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "美联储戴利：目前还没有看到人工智能对通胀数据产生明显影响。",
+          "url": "https://flash.jin10.com/detail/20260605012915333800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时42分"
+          "time_info": "01时49分"
         },
         {
-          "title": "博通首席执行官：第二季度非人工智能半导体收入增长6%。",
-          "url": "https://flash.jin10.com/detail/20260604052445015800",
+          "title": "美联储戴利：一些公司和行业已经开始看到人工智能带来的生产率提升，但目前还没有在整体经济层面体现出来。",
+          "url": "https://flash.jin10.com/detail/20260605012849132800",
           "source": "金十数据",
           "ranks": [
-            15
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "IBM(IBM.N)：此次合作将扩展IBM Consulting Advantage人工智能驱动交付平台，为Gemini 企业版引入面向特定行业的智能代理。",
-          "url": "https://flash.jin10.com/detail/20260604180339647800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "博通首席执行官：仍预计2027财年人工智能半导体收入将超过1000亿美元，人工智能半导体收入将在2028财年继续增长。",
-          "url": "https://flash.jin10.com/detail/20260604052421958800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "IBM(IBM.N)与谷歌云宣布战略合作，通过结合人类专业知识与人工智能驱动的交付模式推动AI规模化落地。",
-          "url": "https://flash.jin10.com/detail/20260604180127001800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
-          "url": "https://flash.jin10.com/detail/20260604051716270800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "据韩国经济日报：政府及业内人士透露，现代汽车与英伟达(NVDA.O)商讨在韩国设立人工智能研发中心。",
-          "url": "https://flash.jin10.com/detail/20260604091940605800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "博通首席执行官：预计2026财年人工智能半导体收入将达到560亿美元。",
-          "url": "https://flash.jin10.com/detail/20260604051008094800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "港股汽车股盘初走低，蔚来-SW(09866.HK)跌近4%，奇瑞汽车(09973.HK)、零跑汽车(09863.HK)、理想汽车(02015.HK)跌幅居前。",
-          "url": "https://flash.jin10.com/detail/20260604092640389800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "越造越重 汽车12年增重近400公斤",
-          "url": "https://www.baidu.com/s?wd=%E8%B6%8A%E9%80%A0%E8%B6%8A%E9%87%8D+%E6%B1%BD%E8%BD%A612%E5%B9%B4%E5%A2%9E%E9%87%8D%E8%BF%91400%E5%85%AC%E6%96%A4",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "长安汽车：5月销量18.01万辆，同比下降19.71%",
-          "url": "https://wallstreetcn.com/livenews/3114346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "台积电(TSM.N) 首席执行官：我们正在增加成熟工艺晶圆产能，包括满足日本CMOS图像传感器需求的工厂和满足德国汽车及工业需求的工厂。",
-          "url": "https://flash.jin10.com/detail/20260604091845353800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "零跑汽车：董事长朱江明及股东傅利泉合计增持约4.9亿港元H股",
-          "url": "https://wallstreetcn.com/livenews/3114327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "小米寻天汽车最新谍照曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%AF%BB%E5%A4%A9%E6%B1%BD%E8%BD%A6%E6%9C%80%E6%96%B0%E8%B0%8D%E7%85%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "加快农业农村现代化",
-          "url": "https://www.toutiao.com/trending/7646724020972699674/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时56分 ~ 09时47分]"
-        },
-        {
-          "title": "如何评价中国农业大学学生毕业论文致谢列举吃过的饭店？你还见过哪些令人印象深刻的论文致谢？",
-          "url": "https://www.zhihu.com/question/2045530859814352162",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "美国农业部证实，在美国牛群中发现了致命的螺旋蝇。",
-          "url": "https://wallstreetcn.com/livenews/3114096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "农业银行：Au（T+D）、Ag（T+D）合约的保证金比例从100%调整为120%",
-          "url": "https://wallstreetcn.com/livenews/3114331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
+          "time_info": "01时49分"
         }
       ]
     },
     {
       "keyword_group": "玉米",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "芝加哥小麦期货跌约2.7%，玉米跌2.2%",
-          "url": "https://wallstreetcn.com/livenews/3113986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时56分"
-        },
-        {
-          "title": "大幅提高玉米蛋白含量！中国科学家最新研究有望缓解饲料粮短缺难题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33298000",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "中国实现高蛋白玉米自主育种",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%AE%9E%E7%8E%B0%E9%AB%98%E8%9B%8B%E7%99%BD%E7%8E%89%E7%B1%B3%E8%87%AA%E4%B8%BB%E8%82%B2%E7%A7%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
         {
           "title": "60节火车皮玉米“不翼而飞”",
           "url": "https://www.baidu.com/s?wd=60%E8%8A%82%E7%81%AB%E8%BD%A6%E7%9A%AE%E7%8E%89%E7%B1%B3%E2%80%9C%E4%B8%8D%E7%BF%BC%E8%80%8C%E9%A3%9E%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            21
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时13分"
+          "time_info": "01时49分"
         }
       ]
     },
     {
-      "keyword_group": "农民",
+      "keyword_group": "汽车",
       "match_count": 1,
       "titles": [
         {
-          "title": "游客踩麦田拍照 农民贴告示罚款",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E8%B8%A9%E9%BA%A6%E7%94%B0%E6%8B%8D%E7%85%A7+%E5%86%9C%E6%B0%91%E8%B4%B4%E5%91%8A%E7%A4%BA%E7%BD%9A%E6%AC%BE",
-          "source": "百度热搜",
+          "title": "小米寻天汽车最新谍照曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%AF%BB%E5%A4%A9%E6%B1%BD%E8%BD%A6%E6%9C%80%E6%96%B0%E8%B0%8D%E7%85%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            28
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时51分"
+          "time_info": "01时49分"
         }
       ]
     }
