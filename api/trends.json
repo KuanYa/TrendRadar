@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T14:51:29.624615+08:00",
-  "total_titles_processed": 782,
+  "generated_at": "2026-06-04T18:42:55.407447+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "台积电(TSM.N) 首席执行官：从生成性人工智能到自主性人工智能的转变正在推动大型语言模型的token消耗增加，进而提高对计算能力和先进半导体的需求。",
@@ -19,6 +19,17 @@
           "time_info": "09时47分"
         },
         {
+          "title": "IBM与谷歌云宣布战略合作，通过结合人类专业知识与人工智能驱动的交付模式推动AI规模化落地。",
+          "url": "https://wallstreetcn.com/livenews/3114361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "博通首席执行官：第二季度非人工智能半导体收入增长6%。",
           "url": "https://flash.jin10.com/detail/20260604052445015800",
           "source": "金十数据",
@@ -30,6 +41,17 @@
           "time_info": "06时31分"
         },
         {
+          "title": "IBM(IBM.N)：此次合作将扩展IBM Consulting Advantage人工智能驱动交付平台，为Gemini 企业版引入面向特定行业的智能代理。",
+          "url": "https://flash.jin10.com/detail/20260604180339647800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "博通首席执行官：仍预计2027财年人工智能半导体收入将超过1000亿美元，人工智能半导体收入将在2028财年继续增长。",
           "url": "https://flash.jin10.com/detail/20260604052421958800",
           "source": "金十数据",
@@ -39,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "IBM(IBM.N)与谷歌云宣布战略合作，通过结合人类专业知识与人工智能驱动的交付模式推动AI规模化落地。",
+          "url": "https://flash.jin10.com/detail/20260604180127001800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
@@ -77,7 +110,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "港股汽车股盘初走低，蔚来-SW(09866.HK)跌近4%，奇瑞汽车(09973.HK)、零跑汽车(09863.HK)、理想汽车(02015.HK)跌幅居前。",
@@ -102,6 +135,17 @@
           "time_info": "09时47分"
         },
         {
+          "title": "长安汽车：5月销量18.01万辆，同比下降19.71%",
+          "url": "https://wallstreetcn.com/livenews/3114346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "台积电(TSM.N) 首席执行官：我们正在增加成熟工艺晶圆产能，包括满足日本CMOS图像传感器需求的工厂和满足德国汽车及工业需求的工厂。",
           "url": "https://flash.jin10.com/detail/20260604091845353800",
           "source": "金十数据",
@@ -111,12 +155,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "零跑汽车：董事长朱江明及股东傅利泉合计增持约4.9亿港元H股",
+          "url": "https://wallstreetcn.com/livenews/3114327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     },
     {
       "keyword_group": "农业",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "加快农业农村现代化",
@@ -130,6 +185,17 @@
           "time_info": "[03时56分 ~ 09时47分]"
         },
         {
+          "title": "如何评价中国农业大学学生毕业论文致谢列举吃过的饭店？你还见过哪些令人印象深刻的论文致谢？",
+          "url": "https://www.zhihu.com/question/2045530859814352162",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "美国农业部证实，在美国牛群中发现了致命的螺旋蝇。",
           "url": "https://wallstreetcn.com/livenews/3114096",
           "source": "华尔街见闻-快讯",
@@ -139,6 +205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "农业银行：Au（T+D）、Ag（T+D）合约的保证金比例从100%调整为120%",
+          "url": "https://wallstreetcn.com/livenews/3114331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     },
@@ -153,7 +230,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         }
