@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T20:12:18.417643+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-06-06T22:49:48.097848+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
@@ -17,8 +17,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 20时12分]"
+          "appearance_count": 6,
+          "time_info": "[12时10分 ~ 22时49分]"
         },
         {
           "title": "美国白宫：在120天内，国防部、国家情报总监办公室（DNI）以及所有包含情报体系（IC）部门的机构负责人，将审查并更新采购流程，以确保从多个供应商引入人工智能模型。",
@@ -49,9 +49,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
+        },
+        {
+          "title": "施一公在人民日报发文《人工智能时代，教育何为》，如何理解他的这篇文章？",
+          "url": "https://www.zhihu.com/question/2046182456277956497",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "据英国金融时报：Meta Platforms(META.O)正在考虑在与谷歌(GOOG.O)达成一项重大交易后，进行大规模股权融资。Meta可能出售数百亿美元的新股，以为其人工智能基础设施融资。",
