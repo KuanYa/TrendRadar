@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T13:45:49.786472+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2026-06-07T17:28:58.561927+08:00",
+  "total_titles_processed": 929,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时11分 ~ 13时45分]"
+          "appearance_count": 4,
+          "time_info": "[06时11分 ~ 17时28分]"
         },
         {
           "title": "特朗普首席人工智能顾问克里希南将于月底离职",
@@ -72,7 +73,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
