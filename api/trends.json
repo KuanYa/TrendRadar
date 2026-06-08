@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T05:57:50.311999+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-06-09T07:19:33.549387+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 05时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 07时19分]"
         },
         {
           "title": "OpenAI首席科学家：OpenAI致力追求的各项核心目标，均围绕着这一使命：确保通用人工智能造福全人类。人工智能应当增强人类的主体性，而非削弱人类在塑造未来中的作用与意义。",
@@ -26,7 +26,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         }
@@ -43,7 +43,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         },
@@ -54,7 +54,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         }
@@ -71,7 +71,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         }
