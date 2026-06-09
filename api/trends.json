@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-09T07:19:33.549387+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-06-09T12:15:11.823701+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-06-09）",
+          "url": "https://flash.jin10.com/detail/20260609115944450800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
         {
           "title": "事关数据赋能人工智能发展，国家层面首次系统部署",
           "url": "https://www.cls.cn/detail/2393777",
@@ -91,6 +102,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大豆",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
+          "url": "https://www.zhihu.com/question/2047324900080051711",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
         }
       ]
     }
