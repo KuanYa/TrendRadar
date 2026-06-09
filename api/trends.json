@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T05:55:22.697232+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-06-10T07:23:40.878346+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
@@ -47,9 +47,48 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国农业部在得州La Salle County新发现一例螺旋蝇（Screwworm）病例。",
+          "url": "https://wallstreetcn.com/livenews/3116938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "墨西哥农业部称，因美国出现螺旋蝇病例，暂停进口美国牲畜。",
+          "url": "https://wallstreetcn.com/livenews/3117076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "美国农业部（USDA）部长Rollins：首先，美国感染了螺旋蝇的牛是健康的，正在康复。 将在未来几个月启动全面消灭螺旋蝇的行动。",
+          "url": "https://wallstreetcn.com/livenews/3117065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         }
       ]
     },
@@ -62,11 +101,12 @@
           "url": "https://www.cls.cn/detail/2395125",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 07时23分]"
         },
         {
           "title": "紧跟福特步伐！通用汽车高调杀入数据中心储能赛道，携手Peak Energy抢占AI电力红利",
@@ -75,7 +115,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         },
@@ -86,26 +126,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国农业部在得州La Salle County新发现一例螺旋蝇（Screwworm）病例。",
-          "url": "https://wallstreetcn.com/livenews/3116938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时10分"
+          "time_info": "05时55分"
         }
       ]
     },
