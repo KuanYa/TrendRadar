@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T08:24:22.281494+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2026-06-11T13:59:26.198570+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
@@ -89,7 +89,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "5月我国汽车出口量同比增长68.7%",
@@ -138,6 +138,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时41分 ~ 08时24分]"
+        },
+        {
+          "title": "5月汽车出口延续快速增长态势",
+          "url": "https://www.douyin.com/hot/2530408",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "通用汽车(GM.N)电池业务负责人库尔特·凯尔蒂表示，公司未来的电动汽车产品可能不会采用低成本磷酸铁锂电池。田纳西州工厂将于本月开始生产用于储能系统的磷酸铁锂电池，而非用于电动汽车的磷酸铁锂电池。",
