@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T13:59:26.198570+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-06-11T18:56:19.156565+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
@@ -84,6 +84,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "路透社/益普索调查显示，77%的美国人担心人工智能将推高电价。",
+          "url": "https://flash.jin10.com/detail/20260611180150999800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
+          "title": "根据路透社/益普索调查，仅有33%的美国人支持快速建设人工智能数据中心，而64%的人表示反对。",
+          "url": "https://flash.jin10.com/detail/20260611180120531800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         }
       ]
     },
@@ -146,7 +168,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
