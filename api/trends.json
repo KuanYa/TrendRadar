@@ -1,7 +1,53 @@
 {
-  "generated_at": "2026-06-13T00:51:48.180373+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-13T03:13:44.620472+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据The Information：Meta Platforms(META.O)在一份内部备忘录中表示，随着人工智能成本飙升，公司计划加强对员工token使用量的管控。Meta内部人工智能使用成本预计将在2026年达到数十亿美元规模。",
+          "url": "https://flash.jin10.com/detail/20260613025928526800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "据知情人士称，SpaceX(SPCX.O)在利用孟菲斯的Colossus 1数据中心开发和运行Grok人工智能模型时遇到技术挑战后，决定将该数据中心的全部容量出租给Anthropic。",
+          "url": "https://flash.jin10.com/detail/20260613023941326800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国环境保护署：已向国会提交四项加州豁免规则。这些规则此前赋予加州制定自身排放标准的权限，其中包括针对汽车和卡车的排放标准。",
+          "url": "https://flash.jin10.com/detail/20260613023152352800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/KuanYa/TrendRadar/img/news.jpg"
 }
