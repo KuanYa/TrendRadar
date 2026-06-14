@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-06-14T13:58:53.525142+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2026-06-14T17:53:07.995554+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "农民",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "甘肃张掖回应平田整地要让农民还贷",
+          "url": "https://www.toutiao.com/trending/7651150005432074250/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 17时53分]"
+        },
+        {
+          "title": "网红树旁麦田的农民差点哭了",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E6%A0%91%E6%97%81%E9%BA%A6%E7%94%B0%E7%9A%84%E5%86%9C%E6%B0%91%E5%B7%AE%E7%82%B9%E5%93%AD%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 02时16分]"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能",
       "match_count": 2,
@@ -29,23 +57,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农民",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "网红树旁麦田的农民差点哭了",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E7%BA%A2%E6%A0%91%E6%97%81%E9%BA%A6%E7%94%B0%E7%9A%84%E5%86%9C%E6%B0%91%E5%B7%AE%E7%82%B9%E5%93%AD%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 02时16分]"
         }
       ]
     },
