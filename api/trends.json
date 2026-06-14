@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T17:53:07.995554+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-06-14T20:05:37.157872+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7651150005432074250/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 20时05分]"
         },
         {
           "title": "网红树旁麦田的农民差点哭了",
