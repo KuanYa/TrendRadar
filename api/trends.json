@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T05:14:01.950307+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-06-17T07:41:54.561862+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "中国5月社零同比下降0.6%，汽车下滑16.1%成最大拖累",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 07时41分]"
         },
         {
           "title": "周二（6月16日），彭博电动汽车价格回报指数跌0.87%，报3829.09点。",
@@ -26,7 +26,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         },
@@ -40,6 +40,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "市场消息：通用汽车与雷神科技、L3哈里斯就提升军火产量展开对话。",
+          "url": "https://flash.jin10.com/detail/20260617063335194800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "电动汽车用动力蓄电池安全新要求",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%94%A8%E5%8A%A8%E5%8A%9B%E8%93%84%E7%94%B5%E6%B1%A0%E5%AE%89%E5%85%A8%E6%96%B0%E8%A6%81%E6%B1%82%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "宝马汽车：预计全年汽车业务EBIT利润率将为1%-3%，之前预计4%-6%。 预计税前利润将较之前一年大幅下滑。",
@@ -64,11 +86,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 05时14分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 07时41分]"
         },
         {
           "title": "慧与科技：携手英伟达(NVDA.O)将代理式人工智能引入生产环境。",
@@ -94,7 +117,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
         }
