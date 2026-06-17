@@ -1,320 +1,61 @@
 {
-  "generated_at": "2026-06-17T21:53:21.542125+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-06-18T01:13:30.280189+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 13,
+      "match_count": 3,
       "titles": [
         {
-          "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
-          "url": "https://www.cls.cn/detail/2401236",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 07时41分]"
-        },
-        {
-          "title": "中缅联合声明：双方继续深化矿产、数字经济、人工智能等领域务实合作",
-          "url": "https://flash.jin10.com/detail/20260617213149936800",
+          "title": "据AXIOS网站：OpenAI创始人奥尔特曼与谷歌旗下Deepmind首席执行官哈萨比斯出席了人工智能会议。",
+          "url": "https://flash.jin10.com/detail/20260618005603439800",
           "source": "金十数据",
           "ranks": [
-            5
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时53分"
+          "time_info": "01时13分"
+        },
+        {
+          "title": "据AXIOS网站：美国总统特朗普与人工智能企业首席执行官在七国集团会议上讨论全球人工智能规则。",
+          "url": "https://flash.jin10.com/detail/20260618005222154800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
         },
         {
           "title": "中国正加紧筹建世界人工智能合作组织",
           "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
           "source": "澎湃新闻",
           "ranks": [
-            7,
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时58分 ~ 21时53分]"
-        },
-        {
-          "title": "中国正加紧筹建世界人工智能合作组织",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%8A%A0%E7%B4%A7%E7%AD%B9%E5%BB%BA%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时00分]"
-        },
-        {
-          "title": "中国将探索开展人工智能监管合作",
-          "url": "https://www.toutiao.com/trending/7652190242211905572/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 17时59分]"
-        },
-        {
-          "title": "人工智能拉动铜价飙升 10日元硬币金属价值已超过面值",
-          "url": "https://flash.jin10.com/detail/20260617173053528800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "G7领导人责成各国财政部长和央行行长讨论人工智能问题。",
-          "url": "https://wallstreetcn.com/livenews/3121041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "国务院：深入实施“人工智能+”行动，强化人工智能的就业创造效应",
-          "url": "https://wallstreetcn.com/livenews/3120894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "慧与科技：携手英伟达(NVDA.O)将代理式人工智能引入生产环境。",
-          "url": "https://flash.jin10.com/detail/20260617003153886800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "吴清：依法从严打击利用人工智能非法荐股等乱象",
-          "url": "https://wallstreetcn.com/livenews/3120716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时00分"
-        },
-        {
-          "title": "上交所邱勇：落实好新发布的人工智能领域配套规则 推动更多创新示范案例落地",
-          "url": "https://wallstreetcn.com/livenews/3120875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-06-17）",
-          "url": "https://flash.jin10.com/detail/20260617120429925800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时00分"
-        },
-        {
-          "title": "摩根士丹利Gokul LAROIA：中国市场人工智能相关投资机遇巨大",
-          "url": "https://wallstreetcn.com/livenews/3121013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "time_info": "01时13分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "中国5月社零同比下降0.6%，汽车下滑16.1%成最大拖累",
-          "url": "https://wallstreetcn.com/articles/3774759",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 07时41分]"
-        },
         {
           "title": "那些新能源汽车车主又换回了燃油车，是怎么想的？",
           "url": "https://www.zhihu.com/question/1918235574843729760",
           "source": "知乎",
           "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时58分 ~ 21时53分]"
-        },
-        {
-          "title": "英国伦敦市中心上演千人裸体骑行，反对对石油和汽车的依赖",
-          "url": "https://v.ifeng.com/c/8u0gy2v6z2m",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 17时59分]"
-        },
-        {
-          "title": "周二（6月16日），彭博电动汽车价格回报指数跌0.87%，报3829.09点。",
-          "url": "https://wallstreetcn.com/livenews/3120493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "据华尔街日报：美国电动汽车初创公司Rivian(RIVN.O)裁掉数百名服务和客户部门员工，此次裁员占员工总数的不到2%。",
-          "url": "https://flash.jin10.com/detail/20260617003630118800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "市场消息：通用汽车与雷神科技、L3哈里斯就提升军火产量展开对话。",
-          "url": "https://flash.jin10.com/detail/20260617063335194800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "大众交通：智能网联汽车目前尚处于实验阶段 对公司基本不产生收入",
-          "url": "https://flash.jin10.com/detail/20260617172526830800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "电动汽车用动力蓄电池安全新要求",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%94%A8%E5%8A%A8%E5%8A%9B%E8%93%84%E7%94%B5%E6%B1%A0%E5%AE%89%E5%85%A8%E6%96%B0%E8%A6%81%E6%B1%82%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "宝马汽车：预计全年汽车业务EBIT利润率将为1%-3%，之前预计4%-6%。 预计税前利润将较之前一年大幅下滑。",
-          "url": "https://wallstreetcn.com/livenews/3120417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "美国5月零售销售(除汽车与汽油)环比 0.5%，预期 0.3%，前值 0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3121017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "美国5月零售销售(除汽车)环比 0.8%，预期 0.6%，前值 0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3121015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "玉米",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "芝加哥大豆价格上涨0.7%，至每蒲式耳11.5475美元。 芝加哥小麦上涨1.4%。 巴黎玉米上涨2.5%，至每吨215欧元。",
-          "url": "https://wallstreetcn.com/livenews/3121047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大豆",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "芝加哥大豆期货涨超0.9%，咖啡豆涨超5.5%，纽约可可涨超6.5%",
-          "url": "https://wallstreetcn.com/livenews/3120469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
+          "time_info": "01时13分"
         }
       ]
     }
