@@ -1,282 +1,50 @@
 {
-  "generated_at": "2026-06-18T19:13:27.527778+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-06-19T00:16:48.771735+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 11,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "据AXIOS网站：OpenAI创始人奥尔特曼与谷歌旗下Deepmind首席执行官哈萨比斯出席了人工智能会议。",
-          "url": "https://flash.jin10.com/detail/20260618005603439800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
         {
           "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
           "url": "https://www.cls.cn/detail/2403573",
           "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "据AXIOS网站：美国总统特朗普与人工智能企业首席执行官在七国集团会议上讨论全球人工智能规则。",
-          "url": "https://flash.jin10.com/detail/20260618005222154800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "00时16分"
         },
         {
-          "title": "中国正加紧筹建世界人工智能合作组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 08时23分]"
-        },
-        {
-          "title": "金融监管总局：推进人工智能金融行业应用基础设施建设",
-          "url": "https://flash.jin10.com/detail/20260618183826256800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "金融监管总局：支持金融机构在风险可控的前提下，推进生成式人工智能技术的业务应用和配套能力体系建设",
-          "url": "https://flash.jin10.com/detail/20260618183804117800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "金融监管总局：加强人工智能安全开发应用治理",
-          "url": "https://flash.jin10.com/detail/20260618183716787800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "金融监管总局：推进人工智能金融行业应用基础设施建设",
-          "url": "https://wallstreetcn.com/livenews/3121641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "金融监管总局：支持金融机构在风险可控的前提下，推进生成式人工智能技术的业务应用和配套能力体系建设",
-          "url": "https://wallstreetcn.com/livenews/3121640",
+          "title": "【报道：亚马逊洽谈向其他公司出售英伟达竞品芯片】亚马逊正在洽谈出售其定制的人工智能芯片，以供其他公司的数据中心使用，这是其努力削弱英伟达公司主导地位的关键扩张举措。亚马逊AI业务负责人表示，公司已开始与潜在客户进行讨论，但拒绝透露具体名称，并认为AI基础设施正在快速演变。亚马逊第三代AI加速器Trainium已基本售罄，且预计明年推出的第四代产品已引起强烈兴趣。",
+          "url": "https://wallstreetcn.com/livenews/3121801",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "金融监管总局：加强人工智能安全开发应用治理",
-          "url": "https://wallstreetcn.com/livenews/3121639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "美联储主席沃什：美联储无法对特定价格产生显著影响。 美联储的工作是，确保不会出现第二轮价格效应。 对第二轮通胀效应有一系列的看法。 FOMC今天讨论了生产力，提到了人工智能（AI）。",
-          "url": "https://wallstreetcn.com/livenews/3121214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时25分"
+          "time_info": "00时16分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "那些新能源汽车车主又换回了燃油车，是怎么想的？",
-          "url": "https://www.zhihu.com/question/1918235574843729760",
-          "source": "知乎",
-          "ranks": [
-            7,
-            10,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 08时23分]"
-        },
-        {
-          "title": "五部门：开展2026年新能源汽车下乡活动 深入推进汽车以旧换新进乡村",
-          "url": "https://www.cls.cn/detail/2403340",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "我国将启动2026年新能源汽车下乡",
-          "url": "https://www.toutiao.com/trending/7652589530977517610/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "新能源汽车下乡服务平台发布2026年新能源汽车下乡车型目录，共155款车型。",
-          "url": "https://wallstreetcn.com/livenews/3121424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
         {
           "title": "五部门开展新能源汽车下乡活动",
           "url": "https://www.douyin.com/hot/2539139",
           "source": "抖音",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "五部门：开展2026年新能源汽车下乡活动",
-          "url": "https://wallstreetcn.com/livenews/3121419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "周三（6月17日），彭博电动汽车价格回报指数跌0.84%，报3797.43点。",
-          "url": "https://wallstreetcn.com/livenews/3121249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "玉米",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "女子晒自煮粽子被调侃像没消化的玉米",
-          "url": "https://www.toutiao.com/trending/7652224038789873706/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "中国5月份玉米及玉米粉进口6万吨，同比降69%；1-5月累计玉米及玉米粉进口88万吨，同比增39.4%。 5月份小麦及小麦粉进口29万吨，同比降48.2%；1-5月累计小麦及小麦粉进口272万吨，同比增68.8%。 5月份食糖进口21万吨，同比降36.8%；1-5月累计食糖进口86万吨，同比增39.9%。 5月份棉花进口11万吨，同比增214.7%；1-5月累计棉花进口83万吨，同比增89.9%。",
-          "url": "https://wallstreetcn.com/livenews/3121413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大豆",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "芝加哥小麦期货涨超2.8%，大豆油跌超1.1%",
-          "url": "https://wallstreetcn.com/livenews/3121240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大数据",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "陈冲马伊琍怒批靠大数据去投资影视作品是「极大的错误」，数据永远是过去式，艺术是例外，你怎么看？",
-          "url": "https://www.zhihu.com/question/2050661479452336889",
-          "source": "知乎",
-          "ranks": [
-            11,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时03分 ~ 19时13分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
         }
       ]
     }
