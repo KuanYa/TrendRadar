@@ -1,143 +1,33 @@
 {
-  "generated_at": "2026-06-19T22:17:34.032871+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2026-06-20T01:24:10.552498+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能",
-      "match_count": 6,
+      "keyword_group": "汽车",
+      "match_count": 2,
       "titles": [
         {
-          "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
-          "url": "https://www.cls.cn/detail/2403573",
+          "title": "郑州一汽车用品商城起火浓烟滚滚",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E4%B8%80%E6%B1%BD%E8%BD%A6%E7%94%A8%E5%93%81%E5%95%86%E5%9F%8E%E8%B5%B7%E7%81%AB%E6%B5%93%E7%83%9F%E6%BB%9A%E6%BB%9A%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 01时24分]"
+        },
+        {
+          "title": "占比超八成！香港国产电动汽车市场“一车难求”",
+          "url": "https://www.cls.cn/detail/2404243",
           "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "广东省人民政府印发《广东省推进服务业扩能提质实施方案》的通知，其中提到，抢抓人工智能发展机遇，建设具有国际竞争力的软件和信息技术服务业创新中心。培育引进更多具有核心竞争力的软件企业，打造一批全国领先的数字化转型服务商。",
-          "url": "https://flash.jin10.com/detail/20260619182004847800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
-          "title": "广东：抢抓人工智能发展机遇，建设具有国际竞争力的软件和信息技术服务业创新中心",
-          "url": "https://wallstreetcn.com/livenews/3122066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
-          "title": "Snap因成本问题而拆分人工智能视频（AI Video）团队为新公司Dotmo。（TechCrunch）",
-          "url": "https://wallstreetcn.com/livenews/3121892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "【报道：亚马逊洽谈向其他公司出售英伟达竞品芯片】亚马逊正在洽谈出售其定制的人工智能芯片，以供其他公司的数据中心使用，这是其努力削弱英伟达公司主导地位的关键扩张举措。亚马逊AI业务负责人表示，公司已开始与潜在客户进行讨论，但拒绝透露具体名称，并认为AI基础设施正在快速演变。亚马逊第三代AI加速器Trainium已基本售罄，且预计明年推出的第四代产品已引起强烈兴趣。",
-          "url": "https://wallstreetcn.com/livenews/3121801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "周四（6月18日），美股人工智能（AI）赢家指数涨4.57%，报457.59点，时隔一个交易日再创收盘历史新高。 成分股中，Bloom能源收涨15.41%，闪迪、Astera Labs、康宁公司、超微电脑涨11.54%-10.37%紧随其后，微软涨0.13%涨幅最小，天弘股份跌2.06%跌幅第三大，Lumentum跌2.30%，戴尔科技跌2.34%。",
-          "url": "https://wallstreetcn.com/livenews/3121914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "2026新能源汽车下乡车型目录公布",
-          "url": "https://www.douyin.com/hot/2539912",
-          "source": "抖音",
-          "ranks": [
-            12,
-            10,
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时52分 ~ 18时51分]"
-        },
-        {
-          "title": "五部门开展新能源汽车下乡活动",
-          "url": "https://www.douyin.com/hot/2539139",
-          "source": "抖音",
-          "ranks": [
-            8,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 07时53分]"
-        },
-        {
-          "title": "我国将启动2026年新能源汽车下乡",
-          "url": "https://www.toutiao.com/trending/7652589530977517610/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时26分 ~ 07时53分]"
-        },
-        {
-          "title": "新能源汽车下乡车型名单公布",
-          "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E4%B8%8B%E4%B9%A1%E8%BD%A6%E5%9E%8B%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
-          "title": "闪电落在行驶汽车附近 车受损人平安",
-          "url": "https://www.toutiao.com/trending/7652908527716302902/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时51分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 01时24分]"
         }
       ]
     },
@@ -146,32 +36,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美国贸易代表办公室：在美墨谈判期间，双方团队就某些工业品的原产地规则和经济安全问题进行了深入讨论。美已开始就农业、劳工和环境进行概念性讨论。第三轮谈判将于下月在墨西哥城举行。",
-          "url": "https://flash.jin10.com/detail/20260619071004710800",
+          "title": "俄罗斯农业部：自年初以来矿物肥料出口增长了7%",
+          "url": "https://flash.jin10.com/detail/20260620003134772800",
           "source": "金十数据",
           "ranks": [
-            16
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "01时24分"
         }
       ]
     },
     {
-      "keyword_group": "玉米",
+      "keyword_group": "人工智能",
       "match_count": 1,
       "titles": [
         {
-          "title": "周四（6月18日）纽约尾盘，彭博谷物分类指数跌0.92%，报29.7383点。 CBOT玉米期货跌1%，CBOT小麦期货跌跌1.19%。 CBOT大豆期货跌0.63%，报11.42美元/蒲式耳，豆粕期货跌0.88%，豆油期货跌1.75%。",
-          "url": "https://wallstreetcn.com/livenews/3121872",
-          "source": "华尔街见闻-快讯",
+          "title": "挪威首相周五表示，挪威将近乎全面禁止小学生使用生成式人工智能工具，同时限制其在年龄较大的儿童教育中的使用，以防止对学习产生负面影响。",
+          "url": "https://flash.jin10.com/detail/20260619234155159800",
+          "source": "金十数据",
           "ranks": [
-            27
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "01时24分"
         }
       ]
     }
