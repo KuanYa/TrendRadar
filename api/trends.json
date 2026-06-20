@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T12:22:58.310969+08:00",
-  "total_titles_processed": 680,
+  "generated_at": "2026-06-20T16:26:49.476298+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "郑州一汽车用品商城起火浓烟滚滚",
@@ -32,15 +32,65 @@
           "time_info": "[01时23分 ~ 07时07分]"
         },
         {
+          "title": "欧盟又谋划对中国车下黑手，这次针对混动汽车",
+          "url": "https://news.ifeng.com/c/8u6V0Fn7LXL",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "大众汽车集团将削减约5万个岗位",
           "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E4%BC%97%E6%B1%BD%E8%BD%A6%E9%9B%86%E5%9B%A2%E5%B0%86%E5%89%8A%E5%87%8F%E7%BA%A65%E4%B8%87%E4%B8%AA%E5%B2%97%E4%BD%8D",
           "source": "百度热搜",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "比亚迪向巴基斯坦警方交付电动汽车",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%90%91%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%AD%A6%E6%96%B9%E4%BA%A4%E4%BB%98%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "挪威将禁止小学生使用生成式人工智能",
+          "url": "https://flash.jin10.com/detail/20260620160408389800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "挪威首相周五表示，挪威将近乎全面禁止小学生使用生成式人工智能工具，同时限制其在年龄较大的儿童教育中的使用，以防止对学习产生负面影响。",
+          "url": "https://flash.jin10.com/detail/20260619234155159800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         }
       ]
     },
@@ -62,23 +112,6 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "挪威首相周五表示，挪威将近乎全面禁止小学生使用生成式人工智能工具，同时限制其在年龄较大的儿童教育中的使用，以防止对学习产生负面影响。",
-          "url": "https://flash.jin10.com/detail/20260619234155159800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "大数据",
       "match_count": 1,
       "titles": [
@@ -89,7 +122,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         }
