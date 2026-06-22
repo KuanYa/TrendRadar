@@ -1,59 +1,7 @@
 {
-  "generated_at": "2026-06-22T20:20:44.983007+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-06-23T01:45:49.181711+08:00",
+  "total_titles_processed": 294,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "农民",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国副总统万斯：（谈被冻结的伊朗资产）只会归伊朗人民所有。 如果伊朗的资产被解冻，美国农民会更富裕。",
-          "url": "https://wallstreetcn.com/livenews/3122803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中央财政下达农业生产防灾救灾资金2.19亿元",
-          "url": "https://wallstreetcn.com/livenews/3122815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "白宫国家经济委员会主任哈塞特：人工智能公司正在印钞。",
-          "url": "https://wallstreetcn.com/livenews/3122842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/KuanYa/TrendRadar/img/news.jpg"
 }
