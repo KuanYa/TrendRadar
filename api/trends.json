@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T23:57:53.308089+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2026-06-24T02:07:33.955907+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 5,
       "titles": [
         {
           "title": "我国汽车保有量达到3.7亿辆",
@@ -14,9 +14,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时57分"
+          "time_info": "02时07分"
+        },
+        {
+          "title": "全链条扩大汽车消费再推新举措",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%93%BE%E6%9D%A1%E6%89%A9%E5%A4%A7%E6%B1%BD%E8%BD%A6%E6%B6%88%E8%B4%B9%E5%86%8D%E6%8E%A8%E6%96%B0%E4%B8%BE%E6%8E%AA%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时07分"
         },
         {
           "title": "全链条扩大汽车消费再推新举措",
@@ -25,22 +36,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2052711074215081192",
-          "source": "知乎",
-          "ranks": [
-            15,
-            7,
-            6
-          ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时33分 ~ 23时57分]"
+          "appearance_count": 1,
+          "time_info": "02时07分"
         },
         {
           "title": "汽车后市场“新政”落地！六大板块、17条举措 改装、赛事等迎重大利好",
@@ -50,215 +48,53 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时12分 ~ 23时57分]"
+          "appearance_count": 1,
+          "time_info": "02时07分"
         },
         {
-          "title": "九部门：建立健全汽车改装管理制度",
-          "url": "https://www.toutiao.com/trending/7654460506027376703/",
-          "source": "今日头条",
+          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2052711074215081192",
+          "source": "知乎",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
-        },
-        {
-          "title": "九部门：构建多层次汽车赛事体系",
-          "url": "https://www.toutiao.com/trending/7654460199598161958/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
-        },
-        {
-          "title": "兆丰股份：拟募资不超14亿元用于具身智能机器人和汽车智驾高端精密部件产业化项目等",
-          "url": "https://flash.jin10.com/detail/20260623193805520800",
-          "source": "金十数据",
-          "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "周一（6月22日），彭博电动汽车价格回报指数跌0.34%，报3753.74点。 日内主要持稳于3760点附近，亚太时段，指数呈现出V形反转走势——北京时间10:00曾跌至3709.78点。",
-          "url": "https://wallstreetcn.com/livenews/3123014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "Baird分析师称，特斯拉第二季度预计将交付39.29万辆汽车",
-          "url": "https://wallstreetcn.com/livenews/3123540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时57分"
-        },
-        {
-          "title": "40城将迎汽车消费大变化",
-          "url": "https://www.baidu.com/s?wd=40%E5%9F%8E%E5%B0%86%E8%BF%8E%E6%B1%BD%E8%BD%A6%E6%B6%88%E8%B4%B9%E5%A4%A7%E5%8F%98%E5%8C%96",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "金十图示：2026年06月23日（周二）全球汽车制造商市值变化",
-          "url": "https://flash.jin10.com/detail/20260623110626638800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "六部门：加大人工智能等新技术在广告领域应用，培育数智广告新业态",
-          "url": "https://wallstreetcn.com/livenews/3123297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "IBM(IBM.N)盘后涨2%，此前宣布与OpenAI合作推出与企业网络安全防御相关的人工智能产品。",
-          "url": "https://flash.jin10.com/detail/20260623043807971800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "IBM(IBM.N)与OpenAI扩大网络安全合作，推出前沿人工智能能力，帮助企业抵御机器速度的网络威胁。",
-          "url": "https://flash.jin10.com/detail/20260623043203412800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "据Business Insider：在近期发生敏感数据泄露并可被全公司访问事件后，Meta公司暂停了一项内部人工智能培训项目。",
-          "url": "https://flash.jin10.com/detail/20260623043007263800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "港股人工智能板块走低，智谱跌超13%，曦智科技-P、群核科技跌超7%，MINIMAX-W跌超6%，澜起科技、兆易创新跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3123126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "阿布扎比的MGX融资约500亿美元，以加速人工智能交易。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3123407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "国家人工智能中试基地（工业软件）落地济南",
-          "url": "https://wallstreetcn.com/livenews/3123399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时12分"
+          "time_info": "02时07分"
         }
       ]
     },
     {
       "keyword_group": "农业",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "农业巨头北大荒需补缴税款及滞纳金 14 亿余元，超 2025 全年利润，背后反映了什么？",
           "url": "https://www.zhihu.com/question/2052696024381231523",
           "source": "知乎",
           "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时33分 ~ 23时57分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗央行行长称，德黑兰在现有协议下没有义务从美国购买农业投入品。",
-          "url": "https://flash.jin10.com/detail/20260623044637225800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时09分"
+          "time_info": "02时07分"
         }
       ]
     },
     {
-      "keyword_group": "玉米",
+      "keyword_group": "大数据",
       "match_count": 1,
       "titles": [
         {
-          "title": "周一（6月22日）纽约尾盘，彭博谷物分类指数跌0.89%，报29.4731点。 CBOT玉米期货跌1.13%，CBOT小麦期货跌1.14%。 CBOT大豆期货跌0.11%，报11.4150美元/蒲式耳，豆粕期货涨0.13%，豆油期货涨1.57%。",
-          "url": "https://wallstreetcn.com/livenews/3122992",
+          "title": "Grok融资6.5亿美元，旨在扩大数据中心算力，并成为一家AI计算供应商。",
+          "url": "https://wallstreetcn.com/livenews/3123591",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时09分"
+          "time_info": "02时07分"
         }
       ]
     }
