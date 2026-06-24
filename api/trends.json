@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T07:14:54.567822+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-06-24T12:15:05.526220+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "我国汽车保有量达到3.7亿辆",
@@ -28,6 +28,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时07分 ~ 07时14分]"
+        },
+        {
+          "title": "中国汽车保有量达到3.7亿辆",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%BF%9D%E6%9C%89%E9%87%8F%E8%BE%BE%E5%88%B03.7%E4%BA%BF%E8%BE%86",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "让汽车消费“跑”起来",
+          "url": "https://www.douyin.com/hot/2545491",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
         },
         {
           "title": "全链条扩大汽车消费再推新举措",
@@ -64,6 +86,17 @@
           "time_info": "[02时07分 ~ 07时14分]"
         },
         {
+          "title": "“新能源汽车第一省”迎来新挑战者",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%AC%AC%E4%B8%80%E7%9C%81%E2%80%9D%E8%BF%8E%E6%9D%A5%E6%96%B0%E6%8C%91%E6%88%98%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
           "title": "周二（6月23日），彭博电动汽车价格回报指数跌4.43%，报3591.03点，亚太盘初短暂地微幅上扬，随后持续走低，美股开盘后跌幅略微扩大。 成分股中，意法半导体法国巴黎股价收跌8.53%，安霸股份跌约7.4%，小马智行ADR跌约6.6%，特斯拉跌约5.7%，文远知行ADR跌约5%，港股雅迪集团控股、速腾聚创科技、中创新航科技集团、小米集团、地平线、理想收跌4.88%-4.32%，吉利汽车控股H股则收涨2.12%表现第二，Ola Electric Mobility Ltd.收涨2.61%。",
           "url": "https://wallstreetcn.com/livenews/3123630",
           "source": "华尔街见闻-快讯",
@@ -81,7 +114,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         }
@@ -89,7 +122,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "云端运算安全公司Zscaler与亚马逊云服务(AWS)达成协议，将在集成、参考架构和联合市场推广活动方面进行合作；双方将联手保障政府、医疗和教育领域的生成式人工智能安全。",
@@ -103,13 +136,24 @@
           "time_info": "05时05分"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-06-24）",
+          "url": "https://flash.jin10.com/detail/20260624115959990800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
           "title": "周二（6月23日），美股人工智能（AI）赢家指数跌6.74%，报431.58点，跳空低开后持续低位窄幅震荡，成分股Fluence Energy、闪迪、美光跌15.80%-13.18%领跌，在收涨的四只成分股中，微软涨1.8%，戴尔科技涨2.17%。",
           "url": "https://wallstreetcn.com/livenews/3123683",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -120,7 +164,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -131,7 +175,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         }
