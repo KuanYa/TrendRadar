@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T04:15:54.865493+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-06-28T06:11:02.424200+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "吉利将于7月将莲花电动汽车运往加拿大。（路透）",
@@ -28,8 +28,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时11分]"
         }
       ]
     },
@@ -45,8 +45,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 04时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 06时11分]"
         }
       ]
     }
