@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T04:20:02.461636+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-06-29T06:08:56.109824+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时08分]"
         },
         {
           "title": "特朗普政府质询美国纽约州在农业用地上的光伏项目",
@@ -27,8 +27,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时08分]"
         }
       ]
     },
@@ -45,8 +45,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时08分]"
         },
         {
           "title": "据以色列媒体报道，由于怀疑存在一辆炸弹汽车，特拉维夫火车站周围已进入安全警戒状态。",
@@ -55,7 +55,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         }
