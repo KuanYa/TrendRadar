@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T06:19:56.037637+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-07-01T08:16:53.246083+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
@@ -63,6 +63,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时09分 ~ 06时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "法国汽车行业组织PFA：法国6月份新车注册量同比增长11.37%，达到188,787辆。",
+          "url": "https://flash.jin10.com/detail/20260701075149502800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
         }
       ]
     }
