@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-07-01T13:47:11.079911+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-07-01T18:05:02.784922+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "电动汽车“最严国标”来了",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E2%80%9C%E6%9C%80%E4%B8%A5%E5%9B%BD%E6%A0%87%E2%80%9D%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 18时05分]"
+        },
+        {
+          "title": "6 月鸿蒙智行交付超 5 万台，小米汽车再破 3 万台，如何看待各家车企表现？行业下半年走势如何？",
+          "url": "https://www.zhihu.com/question/2055596626312541231",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 18时05分]"
+        },
         {
           "title": "汽车博主欧阳娜娜评测小鹏MONA",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B1%BD%E8%BD%A6%E5%8D%9A%E4%B8%BB%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E8%AF%84%E6%B5%8B%E5%B0%8F%E9%B9%8FMONA%23&t=31&band_rank=23&Refer=top",
@@ -36,7 +58,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -47,7 +69,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         }
@@ -78,6 +100,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
+          "url": "https://www.cls.cn/detail/2413957",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 18时05分]"
+        },
+        {
+          "title": "美国就业数据公司挑战者：美国科技公司在六月宣布裁员15,503人。人工智能成为美国雇主裁员的主要原因，连续第四个月居首。",
+          "url": "https://flash.jin10.com/detail/20260701173137860800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         }
       ]
     },
