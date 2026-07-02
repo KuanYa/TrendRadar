@@ -1,306 +1,39 @@
 {
-  "generated_at": "2026-07-02T22:22:44.223142+08:00",
-  "total_titles_processed": 1357,
+  "generated_at": "2026-07-03T00:57:09.096874+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 12,
+      "match_count": 1,
       "titles": [
         {
-          "title": "人工智能冲击婚纱影楼",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%86%B2%E5%87%BB%E5%A9%9A%E7%BA%B1%E5%BD%B1%E6%A5%BC&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            17,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 07时22分]"
-        },
-        {
-          "title": "英伟达通过收入分成的方式与人工智能云公司合作，该合作包括信用支持模式。",
-          "url": "https://wallstreetcn.com/livenews/3127793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "英伟达：将与人工智能云合作，采用收入分享和信用支持模式部署大规模多租户人工智能工厂。",
-          "url": "https://flash.jin10.com/detail/20260702113835039800",
+          "title": "市场消息：随着人工智能矿业热潮吸引投资目光，刚果（金）计划建立其首个证券交易所。",
+          "url": "https://flash.jin10.com/detail/20260703003409469800",
           "source": "金十数据",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "据了解讨论人工智能（AI）标准的知情人士透露，美国最快将于下周宣布所谓的自愿AI制度。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3127652",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "美国联邦贸易委员会（FTC）围绕人工智能（AI）准确率问题的政策声明征求意见。",
-          "url": "https://wallstreetcn.com/livenews/3127537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "马斯克否认《华尔街日报》报道，该报道称SpaceX(SPCX.O)曾向投资者展示新型人工智能设备的原型。",
-          "url": "https://flash.jin10.com/detail/20260702023511622800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "报道：Anthropic正与三星洽谈定制人工智能芯片",
-          "url": "https://wallstreetcn.com/livenews/3128092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "联合国秘书长呼吁各国加强人工智能治理",
-          "url": "https://wallstreetcn.com/livenews/3127526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "据华尔街日报：消息人士透露，该原型机将运行在集成SpaceX(SPCX.O)旗下xAI人工智能技术的专有操作系统上。该原型机设计时尚，比iPhone更纤薄。该设备将采用高通(QCOM.O)骁龙芯片组。",
-          "url": "https://flash.jin10.com/detail/20260702020102144800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "据华尔街日报：消息人士透露，SpaceX(SPCX.O)已开发一款类似手机的设备原型，旨在改变人们与人工智能的交互方式。SpaceX在IPO前夕向部分投资者展示了该原型机。",
-          "url": "https://flash.jin10.com/detail/20260702020034996800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "据The Information：Anthropic正与三星洽谈定制人工智能芯片事宜。Anthropic已启动自研人工智能芯片的早期开发工作。",
-          "url": "https://flash.jin10.com/detail/20260702215214467800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "恒生指数公司联同数码港推出主题指数探索计划 促进以人工智能驱动指数创新",
-          "url": "https://flash.jin10.com/detail/20260702110949991800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "00时57分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 1,
       "titles": [
         {
-          "title": "“新汽车”上半年收官：鸿蒙智行锁定200万辆目标 小米前6月交付超18万",
-          "url": "https://www.cls.cn/detail/2414363",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 07时22分]"
-        },
-        {
-          "title": "6 月鸿蒙智行交付超 5 万台，小米汽车再破 3 万台，如何看待各家车企表现？行业下半年走势如何？",
-          "url": "https://www.zhihu.com/question/2055596626312541231",
-          "source": "知乎",
-          "ranks": [
-            2,
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时43分]"
-        },
-        {
-          "title": "墨西哥经济部长：保护汽车行业一直是讨论的重点。",
-          "url": "https://flash.jin10.com/detail/20260702024848778800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "电动汽车“最严国标”来了",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E2%80%9C%E6%9C%80%E4%B8%A5%E5%9B%BD%E6%A0%87%E2%80%9D%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            27,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 07时22分]"
-        },
-        {
-          "title": "墨西哥经济部长：我们在钢铁和铝关税问题上未达成一致，在汽车零部件的区域性成分不被纳入考虑以及农产品季节性等问题存在分歧。",
-          "url": "https://flash.jin10.com/detail/20260702024838414800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "墨西哥经济部长：墨西哥汽车行业的原产地规则是世界上最复杂的规则之一。",
-          "url": "https://flash.jin10.com/detail/20260702024556028800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "周三（7月1日），彭博电动汽车价格回报指数涨0.21%，报3562.45点。 亚太早盘，指数于北京时间08:00-12:00出现V形反转行情、10:14刷新日低至3517.16点，剩余时间里主要处于上涨状态。",
-          "url": "https://wallstreetcn.com/livenews/3127609",
+          "title": "奕境汽车发布“天穹智盾”安全架构，新车将于三季度上市交付",
+          "url": "https://wallstreetcn.com/livenews/3128130",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "电动汽车需求下滑，通用汽车第二季度美国销量下滑4.2%",
-          "url": "https://wallstreetcn.com/livenews/3127516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "尽管面临压力，美国汽车销量仍保持平稳",
-          "url": "https://wallstreetcn.com/livenews/3127630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "福特汽车：第二季度美国汽车销量下降10.3%。 第二季度美国汽油-电动混合动力汽车销量下降20%。 第二季度美国电动汽车销量下降40.7%。 第二季度美国F系列皮卡销量下降11%。",
-          "url": "https://wallstreetcn.com/livenews/3128074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "美国高级政府官员声称： 美国不同意按当前形式续签美国墨西哥加拿大贸易协议（USMCA）。 总统特朗普的贸易政策已经取代了USMCA中的许多条款。 USMCA未能实现减少美国贸易逆差、以及在加拿大和墨西哥提供市场准入的承诺。 美国贸易代表办公室（USTR）将继续就USMCA的修改事宜与国会及公众进行磋商。 特朗普已经通过新的关税和贸易政策改变了USMCA的现状，但通过谈判仍有可能改善局面。 我们不希望将USMCA的问题拖延长达10年。 在特朗普本届任期的剩余时间内，可能会看到美国与加拿大和墨西哥分别达成单独的贸易协议。 7月20日当周与墨西哥的谈判将继续讨论原产地规则和经济安全问题。 我们需要针对汽车及其他工业产品制定更严格的北美原产地规则。 很难看出总统的目标如何能与调整行业关税的做法相一致。 政府正在继续分析航空航天供应链，以确定相关的关税政策。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3127561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "5月末国开行农业基础设施贷款发放同比增长57%",
-          "url": "https://wallstreetcn.com/livenews/3127776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "美国农业部（USDA）将投资5亿美元到新建设的、以及现有的那些化肥设施。",
-          "url": "https://wallstreetcn.com/livenews/3127512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "00时57分"
         }
       ]
     }
