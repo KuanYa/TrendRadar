@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T02:19:04.067840+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-07-04T04:20:21.204748+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 04时20分]"
         },
         {
           "title": "三部门调整节能汽车、新能源汽车车船税优惠政策，哪些信息值得关注？",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 04时20分]"
         },
         {
           "title": "新能源汽车车船税优惠政策调整",
@@ -39,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 04时20分]"
         }
       ]
     },
@@ -55,7 +55,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
@@ -66,7 +66,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         }
@@ -83,7 +83,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         }
