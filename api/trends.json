@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T16:16:19.601736+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-07-03T19:39:03.689040+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "市场消息：随着人工智能矿业热潮吸引投资目光，刚果（金）计划建立其首个证券交易所。",
@@ -94,13 +94,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
+        },
+        {
+          "title": "中电港：预计上半年净利润5亿元-5.3亿元，同比增长176.43%-193.01%；报告期内，人工智能、数据中心、先进计算等领域需求强劲，存储器等核心产品价格持续上升，带动公司营业收入大幅攀升。",
+          "url": "https://wallstreetcn.com/livenews/3128639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "新能源汽车车船税优惠政策调整",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BD%A6%E8%88%B9%E7%A8%8E%E4%BC%98%E6%83%A0%E6%94%BF%E7%AD%96%E8%B0%83%E6%95%B4",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 19时39分]"
+        },
         {
           "title": "中国电动汽车电池零部件制造商龙电华鑫申请美国IPO",
           "url": "https://wallstreetcn.com/livenews/3128215",
@@ -124,6 +146,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 06时14分]"
+        },
+        {
+          "title": "三部门调整节能汽车、新能源汽车车船税优惠政策",
+          "url": "https://www.cls.cn/detail/2416626",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 19时39分]"
         },
         {
           "title": "美国总统特朗普：马斯克对我在电动汽车强制令上的决定“并不高兴”。",
@@ -157,12 +190,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "1300台小鹏汽车批量交付给神州租车",
+          "url": "https://wallstreetcn.com/livenews/3128651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     },
     {
       "keyword_group": "农业",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "巴西农业部：6月上旬巴西中南部地区食糖产量下降3%，至230万公吨。乙醇产量增长21%，至21.6亿升。",
@@ -174,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "农业农村部召开农产品品质提升工作推进会",
+          "url": "https://wallstreetcn.com/livenews/3128642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     },
