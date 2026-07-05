@@ -1,71 +1,22 @@
 {
-  "generated_at": "2026-07-05T23:21:43.704230+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-07-06T01:21:47.749544+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
           "url": "https://wallstreetcn.com/livenews/3128984",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            13,
-            20,
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时18分 ~ 23时21分]"
-        },
-        {
-          "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长。",
-          "url": "https://flash.jin10.com/detail/20260705153708764800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大数据",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黑石集团放弃全球最大数据中心项目",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%91%E7%9F%B3%E9%9B%86%E5%9B%A2%E6%94%BE%E5%BC%83%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%A1%B9%E7%9B%AE&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "巴基斯坦一检查站遭汽车炸弹袭击 多人死伤",
-          "url": "https://wallstreetcn.com/livenews/3128941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 13时03分]"
+          "time_info": "01时21分"
         }
       ]
     }
