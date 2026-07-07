@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-07T16:30:41.023569+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-07-07T20:03:06.425215+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 8,
       "titles": [
+        {
+          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
+          "url": "https://www.cls.cn/detail/2418905",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 20时03分]"
+        },
         {
           "title": "初步预测今年我国人工智能相关产业规模将有30%以上增速",
           "url": "https://wallstreetcn.com/livenews/3129741",
@@ -29,17 +41,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 03时02分]"
-        },
-        {
-          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
-          "url": "https://www.cls.cn/detail/2418905",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时30分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-07-07）",
@@ -100,8 +101,19 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "江淮汽车：拟5000万-1亿元回购股份维护股东权益",
+          "url": "https://flash.jin10.com/detail/20260707193451001800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
         {
           "title": "据韩联社：特朗普重申，关税政策已促使韩国、日本等国汽车制造商赴美建厂。",
           "url": "https://flash.jin10.com/detail/20260707022859049800",
@@ -128,7 +140,7 @@
     },
     {
       "keyword_group": "玉米",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国总统特朗普称，沃尔玛将按我的要求（对商品）大幅降价。 沃尔玛是一家真正爱国的公司。 其他零售商应该效仿沃尔玛的做法。 该公司随后将牛肉降价大约15%，下调碎牛肉、甜玉米、红樱桃的价格。",
@@ -141,6 +153,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 07时15分]"
+        },
+        {
+          "title": "“甜玉米”为广西灾区筹款超68万元",
+          "url": "https://www.toutiao.com/trending/7659324760081301523/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
         }
       ]
     },
