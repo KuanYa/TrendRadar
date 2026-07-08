@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-09T01:46:58.307877+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-09T03:46:33.940738+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "玉米",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "芝加哥玉米期货跌2.1%，大豆油期货涨3.2%",
+          "url": "https://wallstreetcn.com/livenews/3130867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
         {
           "title": "暴雨来临前狗狗主动给玉米盖防水布",
           "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E9%9B%A8%E6%9D%A5%E4%B8%B4%E5%89%8D%E7%8B%97%E7%8B%97%E4%B8%BB%E5%8A%A8%E7%BB%99%E7%8E%89%E7%B1%B3%E7%9B%96%E9%98%B2%E6%B0%B4%E5%B8%83",
@@ -22,7 +33,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "我国人工智能产业加速发展壮大",
@@ -32,8 +43,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时46分]"
+        },
+        {
+          "title": "据CNBC：贝莱德全球固定收益首席投资官里德表示，已降低并重新调整对与人工智能直接相关公司的投资敞口。",
+          "url": "https://flash.jin10.com/detail/20260709032855855800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "03时46分"
         }
       ]
     }
