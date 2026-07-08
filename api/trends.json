@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T05:17:39.110664+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-07-09T07:17:25.937670+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 05时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时46分 ~ 07时17分]"
         }
       ]
     },
@@ -45,8 +46,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时46分 ~ 05时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时46分 ~ 07时17分]"
         },
         {
           "title": "据CNBC：贝莱德全球固定收益首席投资官里德表示，已降低并重新调整对与人工智能直接相关公司的投资敞口。",
@@ -72,7 +73,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         }
