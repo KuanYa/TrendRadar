@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T12:02:39.486265+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2026-07-09T19:14:47.778998+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "小鹏Robotaxi开启内测，何小鹏称Robotaxi是小鹏迈向“机器人汽车”的重要一步",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -47,9 +47,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "昆明一智己汽车门店爆雷",
+          "url": "https://www.baidu.com/s?wd=%E6%98%86%E6%98%8E%E4%B8%80%E6%99%BA%E5%B7%B1%E6%B1%BD%E8%BD%A6%E9%97%A8%E5%BA%97%E7%88%86%E9%9B%B7",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         }
       ]
     },
@@ -86,7 +97,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         }
@@ -120,6 +131,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时46分 ~ 07时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "《人类简史》里反复强调，狩猎采集者的食物、生活，比农业革命后的人、甚至比现代人还要好，这个说法准确吗？",
+          "url": "https://www.zhihu.com/question/41216771",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         }
       ]
     }
