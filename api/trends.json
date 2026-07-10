@@ -1,162 +1,55 @@
 {
-  "generated_at": "2026-07-10T23:36:40.409806+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2026-07-11T01:53:56.081012+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能",
-      "match_count": 7,
+      "keyword_group": "农业",
+      "match_count": 4,
       "titles": [
         {
-          "title": "工信部：将于7月16日至24日在四川成都举办数字和人工智能部长会议及数字周相关活动",
-          "url": "https://wallstreetcn.com/livenews/3131880",
+          "title": "美国农业部（USDA）：预计美国期末棉花库存410万捆，分析师预期377万捆，USDA之前预计370万捆。",
+          "url": "https://wallstreetcn.com/livenews/3132183",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时32分"
+          "time_info": "01时53分"
         },
         {
-          "title": "2026年APEC数字和人工智能部长会议将在成都举行",
-          "url": "https://wallstreetcn.com/livenews/3131874",
+          "title": "美国农业部（USDA）：预计美国期末小麦总库存7.22亿蒲式耳，分析师预期7.1836亿蒲式耳，USDA之前预计7.44亿蒲式耳。",
+          "url": "https://wallstreetcn.com/livenews/3132182",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "美联储半年度货币政策报告：美国劳动力市场大致稳定，生产率强劲。 由于移民放缓和人口结构转变，劳动力供给增长有所下降。 与人工智能（AI）相关的数据中心投资推动了强劲的工厂产出；美国的生产能力正以“稳健的步伐”提升。 2026年上半年，受中东冲突和美国关税的逆风影响，外国经济活动增长疲软，但部分被AI投资所抵消。 原本已经处于高位的通胀在春季进一步抬头。 高通胀在一定程度上反映了供给冲击。 通胀依然处于高位，主要受关税、中东战争相关因素以及AI的推动。 包括截尾均值在内的一些通胀指标有所下降。 尽管伊朗战争带来了较高的不确定性，经济活动仍以稳健的步伐扩张。 重申维持价格稳定的承诺。 准备动用一切工具来实现双重使命（实现充分就业+维持价格稳定）。",
-          "url": "https://wallstreetcn.com/livenews/3132157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        },
-        {
-          "title": "国家能源局：鼓励能源领域人工智能模型创新，探索数智化节能降碳解决方案",
-          "url": "https://wallstreetcn.com/livenews/3131743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "高盛：人工智能带来的内存、软件和电力价格综合上涨效应，正为美国核心PCE同比通胀贡献超过0.2个百分点，且到年底这一贡献将升至0.5个百分点。",
-          "url": "https://flash.jin10.com/detail/20260710231356546800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        },
-        {
-          "title": "SK主席Chey Tae Won：我们已经在美国IPO问题上等待了十五年。 如果回报不错，我们希望能扩大（SK海力士的）ADR规模。 人工智能（AI）扩张，意味着“这是我们的时机”。 AI agents繁荣，意味着人们需要大量的存储芯片。 在AI冲击到AGI之前，对存储芯片的需求不会正常化。 （我们）既定的扩张计划是不够的。 需求将会增长，我对此有一些信心。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3132144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-07-10）",
-          "url": "https://flash.jin10.com/detail/20260710115903293800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "据日经新闻：大众汽车正寻求与日产合作，在美国开发一款大型SUV。",
-          "url": "https://flash.jin10.com/detail/20260710232121996800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        },
-        {
-          "title": "周四（7月9日），彭博电动汽车价格回报指数涨0.33%，报3427.92点，整体呈现出长尾V形反转、亚太早盘显著下挫、北京时间11:21刷新日低至3365.86点。",
-          "url": "https://wallstreetcn.com/livenews/3131546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 06时38分]"
+          "appearance_count": 1,
+          "time_info": "01时53分"
         },
         {
-          "title": "仰望汽车亮相2026古德伍德速度节",
-          "url": "https://www.toutiao.com/trending/7660625252480761892/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国更新了关于药物残留和食品化学污染物的谅解备忘录。 美国农业部、卫生与公众服务部及环保署联合发布了关于食品污染物的更新版谅解备忘录。",
-          "url": "https://wallstreetcn.com/livenews/3132159",
+          "title": "美国农业部（USDA）：预计美国期末玉米库存17.90亿蒲式耳，分析师预期18.9855亿蒲式耳，USDA之前预计19.60亿蒲式耳。",
+          "url": "https://wallstreetcn.com/livenews/3132181",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "大豆",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "芝加哥小麦期货涨超1.8%，大豆油跌约1.3%，咖啡C涨超10.2%，纽约可可涨约5.2%",
-          "url": "https://wallstreetcn.com/livenews/3131521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时53分"
+          "time_info": "01时53分"
+        },
+        {
+          "title": "美国农业部（USDA）：预计美国期末大豆库存3.10亿蒲式耳，分析师预期3.3210亿蒲式耳，USDA之前预计3.10亿蒲式耳。",
+          "url": "https://wallstreetcn.com/livenews/3132180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
         }
       ]
     }
