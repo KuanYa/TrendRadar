@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-07-10T13:02:17.629512+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2026-07-10T16:32:46.864402+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "工信部：将于7月16日至24日在四川成都举办数字和人工智能部长会议及数字周相关活动",
+          "url": "https://wallstreetcn.com/livenews/3131880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "2026年APEC数字和人工智能部长会议将在成都举行",
+          "url": "https://wallstreetcn.com/livenews/3131874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
         {
           "title": "国家能源局：鼓励能源领域人工智能模型创新，探索数智化节能降碳解决方案",
           "url": "https://wallstreetcn.com/livenews/3131743",
@@ -14,7 +36,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -25,7 +47,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         }
