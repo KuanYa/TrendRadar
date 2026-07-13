@@ -1,7 +1,53 @@
 {
-  "generated_at": "2026-07-13T08:02:44.573167+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-07-13T12:36:23.938675+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-07-13）",
+          "url": "https://flash.jin10.com/detail/20260713120043549800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股午评：恒生指数早盘冲高回落 汽车、半导体板块走低",
+          "url": "https://flash.jin10.com/detail/20260713120305037800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/KuanYa/TrendRadar/img/news.jpg"
 }
