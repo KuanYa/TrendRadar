@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T04:19:39.605728+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-07-15T06:06:32.039567+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 06时06分]"
         },
         {
           "title": "美联储主席沃什：人工智能在短期内可能会对就业造成冲击，但也会创造新的就业机会。",
@@ -38,7 +38,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         },
@@ -77,7 +77,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         },
