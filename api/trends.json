@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T19:47:30.791156+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-07-16T22:11:30.856125+08:00",
+  "total_titles_processed": 1522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "5张图看懂中国人工智能进化之路",
@@ -44,6 +44,17 @@
           "time_info": "[11时23分 ~ 14时26分]"
         },
         {
+          "title": "世界人工智能合作组织协定签署仪式举行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33599928",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "联合国秘书长古特雷斯抵达上海 出席2026世界人工智能大会暨人工智能全球治理高级别会议",
           "url": "https://flash.jin10.com/detail/20260716110021303800",
           "source": "金十数据",
@@ -72,7 +83,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -106,7 +117,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -117,7 +128,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -139,7 +150,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -150,7 +161,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -221,13 +232,35 @@
           "time_info": "17时21分"
         },
         {
+          "title": "中方愿分享人工智能等技术",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E6%84%BF%E5%88%86%E4%BA%AB%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%AD%89%E6%8A%80%E6%9C%AF%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "世界人工智能大会前瞻",
+          "url": "https://www.toutiao.com/trending/7663024659046075940/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "月之暗面将在未来几天推出人工智能模型Kimi K3。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3135007",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         }
@@ -235,7 +268,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 3,
+      "match_count": 9,
       "titles": [
         {
           "title": "现代汽车集团将全资收购波士顿动力公司",
@@ -269,6 +302,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "小鹏汽车致歉 X9前空气弹簧系统质保延长至8年或16万公里",
+          "url": "https://wallstreetcn.com/livenews/3135092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "香格里拉一景区突发泥石流汽车被埋",
+          "url": "https://www.toutiao.com/trending/7662961403233861641/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "理想汽车(02015.HK)推出全新理想L6四轮驱动SUV，全国统一零售价24.98万元。",
+          "url": "https://flash.jin10.com/detail/20260716211434419800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "美国6月零售销售(除汽车与汽油)环比 0.4%，预期 0.4%，前值 0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3135083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "美国6月零售销售(除汽车)环比 -0.2%，预期 -0.1%，前值 0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3135079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "小鹏汽车：2027年将把IRON人形机器人推向全球市场。",
+          "url": "https://wallstreetcn.com/livenews/3135110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         }
       ]
     },
