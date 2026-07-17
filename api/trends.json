@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T20:18:05.009691+08:00",
-  "total_titles_processed": 1389,
+  "generated_at": "2026-07-17T22:50:48.368630+08:00",
+  "total_titles_processed": 1554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时24分 ~ 08时06分]"
+        },
+        {
+          "title": "高志凯：要对美国“人工智能霸凌”说“不”",
+          "url": "https://news.ifeng.com/c/8upHX3E0KP3",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 22时50分]"
         },
         {
           "title": "世界人工智能合作组织协定签署",
@@ -55,17 +66,6 @@
           "time_info": "[15时23分 ~ 20时18分]"
         },
         {
-          "title": "高志凯：要对美国“人工智能霸凌”说“不”",
-          "url": "https://news.ifeng.com/c/8upHX3E0KP3",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时23分 ~ 20时18分]"
-        },
-        {
           "title": "国家发改委发布《人工智能合作发展行动计划》",
           "url": "https://www.cls.cn/detail/2429332",
           "source": "财联社热门",
@@ -84,11 +84,25 @@
           "ranks": [
             2,
             5,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时14分 ~ 20时18分]"
+          "appearance_count": 7,
+          "time_info": "[12时14分 ~ 22时50分]"
+        },
+        {
+          "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+          "url": "https://wallstreetcn.com/articles/3777168",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时06分 ~ 22时50分]"
         },
         {
           "title": "人工智能合作发展行动计划发布",
@@ -115,16 +129,62 @@
           "time_info": "[15时23分 ~ 20时18分]"
         },
         {
-          "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
-          "url": "https://wallstreetcn.com/articles/3777168",
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://wallstreetcn.com/articles/3777174",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            9,
             7,
-            4
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时06分 ~ 20时18分]"
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 22时50分]"
+        },
+        {
+          "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33604314",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "首批人工智能终端智能化分级国标测试结果公布，涉及AI手机等品类",
+          "url": "https://wallstreetcn.com/livenews/3135802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33604109",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "2026世界人工智能大会亮点速览",
+          "url": "https://www.douyin.com/hot/2575352",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "美国达拉斯联储主席Lorie Logan（2026年FOMC票委）：即使油价维持高位，天然气输送能力等限制因素也可能阻碍生产商提高产量。 石油出口的增加主要来自库存的释放，而非新增产量。 即使采用最保守的估算，数据中心需求带来的电价上涨也很可能成为另一个温和通胀压力的来源。 对人工智能带来的长期生产力提升持非常乐观的态度。 目前对人工智能的投资需求是巨大且真实的，并已在短期内产生了通胀效应。",
@@ -147,19 +207,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
-        },
-        {
-          "title": "习近平宣布中国支持全球人工智能发展重大举措",
-          "url": "https://wallstreetcn.com/articles/3777174",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时23分 ~ 20时18分]"
         },
         {
           "title": "世界人工智能大会今天开幕",
@@ -274,6 +321,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "美联储哈玛克：商业领袖指出能源成本和供应链中断是因素，但也提到保险压力和人工智能数据中心建设的影响。",
+          "url": "https://flash.jin10.com/detail/20260717220828737800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "美联储副主席杰斐逊：如果人工智能基础设施建设和消费引发的需求效应先于人工智能带来的生产力红利显现，那么人工智能可能会给通胀带来上行压力。",
           "url": "https://flash.jin10.com/detail/20260717070316761800",
           "source": "金十数据",
@@ -365,7 +423,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "长城汽车 2026 年上半年净利润骤降近六成，是什么原因导致的？",
@@ -380,6 +438,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时24分 ~ 08时06分]"
+        },
+        {
+          "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
+          "url": "https://www.zhihu.com/question/2060791514276615811",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 22时50分]"
         },
         {
           "title": "周四（7月16日）纽约尾盘，彭博电动汽车价格回报指数维持下跌1%的状态，报3381.09点，北京时间刷新日高至3437.79点，随后持续走低。",
@@ -402,18 +473,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
-        },
-        {
-          "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
-          "url": "https://www.zhihu.com/question/2060791514276615811",
-          "source": "知乎",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时23分 ~ 20时18分]"
         },
         {
           "title": "小鹏汽车致歉",
@@ -479,7 +538,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -490,9 +549,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
+        },
+        {
+          "title": "成都一汽车被追尾瞬间腾起大火",
+          "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E6%B1%BD%E8%BD%A6%E8%A2%AB%E8%BF%BD%E5%B0%BE%E7%9E%AC%E9%97%B4%E8%85%BE%E8%B5%B7%E5%A4%A7%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "小鹏集团董事长兼首席执行官何小鹏周三在慕尼黑举行的Mona L03 SUV发布活动上表示，公司已在德国以及其他国家考察选址。小鹏还希望扩大与大众汽车的合作；双方目前已在联合开发面向中国市场的电动汽车。 “我们正在与很多潜在合作方洽谈，”何小鹏表示，“我们当然希望进一步拓展与大众汽车的合作。” 随着小鹏在欧洲扩张，德国是一个尤为关注的重点。不过，他不愿透露小鹏是否会收购大众工厂。",
@@ -509,8 +579,30 @@
     },
     {
       "keyword_group": "农业",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "农业农村部组织开展强田管抗灾害夺秋粮丰收行动",
+          "url": "https://flash.jin10.com/detail/20260717222649944800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "农业农村部组织开展强田管抗灾害夺秋粮丰收行动",
+          "url": "https://wallstreetcn.com/livenews/3135796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
         {
           "title": "六部门联合印发《土壤、地下水和农业农村生态环境保护“十五五”规划》",
           "url": "https://flash.jin10.com/detail/20260717194733966800",
@@ -518,7 +610,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         }
