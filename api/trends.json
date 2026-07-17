@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T18:06:58.148967+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2026-07-17T20:18:05.009691+08:00",
+  "total_titles_processed": 1389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 18时06分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 20时18分]"
         },
         {
           "title": "经纬度：在上海，WAIC见证人工智能改变未来",
@@ -43,18 +43,6 @@
           "time_info": "[00时24分 ~ 08时06分]"
         },
         {
-          "title": "2026世界人工智能大会有哪些不同",
-          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 18时06分]"
-        },
-        {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
           "url": "https://www.cls.cn/detail/2429309",
           "source": "财联社热门",
@@ -63,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 18时06分]"
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 20时18分]"
         },
         {
           "title": "高志凯：要对美国“人工智能霸凌”说“不”",
@@ -74,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 18时06分]"
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 20时18分]"
         },
         {
           "title": "国家发改委发布《人工智能合作发展行动计划》",
@@ -86,8 +74,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 18时06分]"
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 20时18分]"
+        },
+        {
+          "title": "2026世界人工智能大会有哪些不同",
+          "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时14分 ~ 20时18分]"
         },
         {
           "title": "人工智能合作发展行动计划发布",
@@ -99,6 +100,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时23分 ~ 15时24分]"
+        },
+        {
+          "title": "2026世界人工智能大会何以圈粉",
+          "url": "https://s.weibo.com/weibo?q=%232026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E4%BD%95%E4%BB%A5%E5%9C%88%E7%B2%89%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            21,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 20时18分]"
+        },
+        {
+          "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+          "url": "https://wallstreetcn.com/articles/3777168",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 20时18分]"
         },
         {
           "title": "美国达拉斯联储主席Lorie Logan（2026年FOMC票委）：即使油价维持高位，天然气输送能力等限制因素也可能阻碍生产商提高产量。 石油出口的增加主要来自库存的释放，而非新增产量。 即使采用最保守的估算，数据中心需求带来的电价上涨也很可能成为另一个温和通胀压力的来源。 对人工智能带来的长期生产力提升持非常乐观的态度。 目前对人工智能的投资需求是巨大且真实的，并已在短期内产生了通胀效应。",
@@ -123,17 +149,17 @@
           "time_info": "02时13分"
         },
         {
-          "title": "2026世界人工智能大会何以圈粉",
-          "url": "https://s.weibo.com/weibo?q=%232026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E4%BD%95%E4%BB%A5%E5%9C%88%E7%B2%89%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://wallstreetcn.com/articles/3777174",
+          "source": "华尔街见闻",
           "ranks": [
+            10,
             9,
-            21,
-            3
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 18时06分]"
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 20时18分]"
         },
         {
           "title": "世界人工智能大会今天开幕",
@@ -148,16 +174,27 @@
           "time_info": "[12时14分 ~ 15时23分]"
         },
         {
-          "title": "习近平宣布中国支持全球人工智能发展重大举措",
-          "url": "https://wallstreetcn.com/articles/3777174",
-          "source": "华尔街见闻",
+          "title": "习近平在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话（全文）",
+          "url": "https://www.cls.cn/detail/2429345",
+          "source": "财联社热门",
           "ranks": [
             10,
-            9
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时23分 ~ 18时06分]"
+          "time_info": "[18时06分 ~ 20时18分]"
+        },
+        {
+          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主席声明（全文）",
+          "url": "https://www.cls.cn/detail/2429383",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 20时18分]"
         },
         {
           "title": "知乎 2026 年 Tech Club 大会与 WAIC 世界人工智能大会同期落地，有什么新看点？",
@@ -169,6 +206,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时23分 ~ 18时06分]"
+        },
+        {
+          "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
+          "url": "https://www.zhihu.com/question/2059240244864611894",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时17分 ~ 20时18分]"
         },
         {
           "title": "直击世界人工智能大会现场",
@@ -204,17 +252,6 @@
           "time_info": "08时06分"
         },
         {
-          "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
-          "url": "https://wallstreetcn.com/articles/3777168",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
           "title": "市场消息：英特尔(INTC.O)将整合先进的Gemini驱动的生成式人工智能，覆盖其全球员工。",
           "url": "https://flash.jin10.com/detail/20260717000518313800",
           "source": "金十数据",
@@ -235,28 +272,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "习近平在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话（全文）",
-          "url": "https://www.cls.cn/detail/2429345",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主席声明（全文）",
-          "url": "https://www.cls.cn/detail/2429383",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
         },
         {
           "title": "美联储副主席杰斐逊：如果人工智能基础设施建设和消费引发的需求效应先于人工智能带来的生产力红利显现，那么人工智能可能会给通胀带来上行压力。",
@@ -287,7 +302,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -350,7 +365,7 @@
     },
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "长城汽车 2026 年上半年净利润骤降近六成，是什么原因导致的？",
@@ -389,6 +404,18 @@
           "time_info": "04时08分"
         },
         {
+          "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
+          "url": "https://www.zhihu.com/question/2060791514276615811",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 20时18分]"
+        },
+        {
           "title": "小鹏汽车致歉",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E8%87%B4%E6%AD%89",
           "source": "百度热搜",
@@ -402,16 +429,15 @@
           "time_info": "[00时24分 ~ 06时10分]"
         },
         {
-          "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
-          "url": "https://www.zhihu.com/question/2060791514276615811",
-          "source": "知乎",
+          "title": "默茨：不反对中国车企接手德汽车工厂",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%98%E8%8C%A8%EF%BC%9A%E4%B8%8D%E5%8F%8D%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E6%8E%A5%E6%89%8B%E5%BE%B7%E6%B1%BD%E8%BD%A6%E5%B7%A5%E5%8E%82",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            6
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 18时06分]"
+          "appearance_count": 2,
+          "time_info": "[20时17分 ~ 20时18分]"
         },
         {
           "title": "大众汽车劳资委员会宣布，将在夏季休假结束后与首席执行官布鲁姆（Blume）共同召开特别员工大会。",
@@ -447,6 +473,28 @@
           "time_info": "00时24分"
         },
         {
+          "title": "印度拟出台新规提升汽车燃油效率，以减少石油进口",
+          "url": "https://flash.jin10.com/detail/20260717200637128800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
+          "title": "尚界汽车否认脱离鸿蒙智行",
+          "url": "https://wallstreetcn.com/livenews/3135693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "小鹏集团董事长兼首席执行官何小鹏周三在慕尼黑举行的Mona L03 SUV发布活动上表示，公司已在德国以及其他国家考察选址。小鹏还希望扩大与大众汽车的合作；双方目前已在联合开发面向中国市场的电动汽车。 “我们正在与很多潜在合作方洽谈，”何小鹏表示，“我们当然希望进一步拓展与大众汽车的合作。” 随着小鹏在欧洲扩张，德国是一个尤为关注的重点。不过，他不愿透露小鹏是否会收购大众工厂。",
           "url": "https://wallstreetcn.com/livenews/3135276",
           "source": "华尔街见闻-快讯",
@@ -456,6 +504,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "六部门联合印发《土壤、地下水和农业农村生态环境保护“十五五”规划》",
+          "url": "https://flash.jin10.com/detail/20260717194733966800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         }
       ]
     },
