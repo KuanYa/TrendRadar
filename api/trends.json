@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T06:10:21.101832+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-07-17T08:06:00.233761+08:00",
+  "total_titles_processed": 677,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
@@ -15,20 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 06时10分]"
-        },
-        {
-          "title": "世界人工智能合作组织协定签署",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E5%8D%8F%E5%AE%9A%E7%AD%BE%E7%BD%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 08时06分]"
         },
         {
           "title": "经纬度：在上海，WAIC见证人工智能改变未来",
@@ -38,8 +26,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 08时06分]"
+        },
+        {
+          "title": "世界人工智能合作组织协定签署",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E5%8D%8F%E5%AE%9A%E7%AD%BE%E7%BD%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 08时06分]"
         },
         {
           "title": "美国达拉斯联储主席Lorie Logan（2026年FOMC票委）：即使油价维持高位，天然气输送能力等限制因素也可能阻碍生产商提高产量。 石油出口的增加主要来自库存的释放，而非新增产量。 即使采用最保守的估算，数据中心需求带来的电价上涨也很可能成为另一个温和通胀压力的来源。 对人工智能带来的长期生产力提升持非常乐观的态度。 目前对人工智能的投资需求是巨大且真实的，并已在短期内产生了通胀效应。",
@@ -64,6 +65,28 @@
           "time_info": "02时13分"
         },
         {
+          "title": "2026世界人工智能大会太火了",
+          "url": "https://s.weibo.com/weibo?q=%232026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E5%A4%AA%E7%81%AB%E4%BA%86%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "美联储副主席杰斐逊：低招聘、低裁员的环境是由不确定性驱动的，尤其是对人工智能的担忧。",
+          "url": "https://flash.jin10.com/detail/20260717074158186800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
           "title": "市场消息：英特尔(INTC.O)将整合先进的Gemini驱动的生成式人工智能，覆盖其全球员工。",
           "url": "https://flash.jin10.com/detail/20260717000518313800",
           "source": "金十数据",
@@ -86,6 +109,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "美联储副主席杰斐逊：如果人工智能基础设施建设和消费引发的需求效应先于人工智能带来的生产力红利显现，那么人工智能可能会给通胀带来上行压力。",
+          "url": "https://flash.jin10.com/detail/20260717070316761800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
           "title": "泰国总理阿努廷抵达上海，出席2026世界人工智能大会暨人工智能全球治理高级别会议",
           "url": "https://wallstreetcn.com/livenews/3135167",
           "source": "华尔街见闻-快讯",
@@ -95,6 +129,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "美联储副主席杰斐逊：如果人工智能生产力的提升能更早降低生产成本，则通胀可能会面临下行压力。",
+          "url": "https://flash.jin10.com/detail/20260717070315372800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "美联储副主席杰斐逊：人工智能带来的经济冲击可能对供需产生持久影响。",
+          "url": "https://flash.jin10.com/detail/20260717070221875800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "美联储副主席杰斐逊：目前正在关注两个事情的重要发展（中东冲突以及人工智能的普及）。",
+          "url": "https://flash.jin10.com/detail/20260717070149396800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         }
       ]
     },
@@ -102,6 +169,20 @@
       "keyword_group": "汽车",
       "match_count": 6,
       "titles": [
+        {
+          "title": "长城汽车 2026 年上半年净利润骤降近六成，是什么原因导致的？",
+          "url": "https://www.zhihu.com/question/2060421321046205380",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 08时06分]"
+        },
         {
           "title": "周四（7月16日）纽约尾盘，彭博电动汽车价格回报指数维持下跌1%的状态，报3381.09点，北京时间刷新日高至3437.79点，随后持续走低。",
           "url": "https://wallstreetcn.com/livenews/3135257",
@@ -123,19 +204,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
-        },
-        {
-          "title": "长城汽车 2026 年上半年净利润骤降近六成，是什么原因导致的？",
-          "url": "https://www.zhihu.com/question/2060421321046205380",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 06时10分]"
         },
         {
           "title": "小鹏汽车致歉",
@@ -168,7 +236,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         }
