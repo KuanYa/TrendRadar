@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T06:01:46.751125+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-07-19T07:04:04.068432+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 07时04分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
@@ -25,11 +25,12 @@
           "ranks": [
             20,
             23,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 07时04分]"
         },
         {
           "title": "世界人工智能大会有何看点",
@@ -57,8 +58,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 07时04分]"
         }
       ]
     }
