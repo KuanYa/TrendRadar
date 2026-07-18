@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T07:02:23.149243+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-07-18T11:16:13.605670+08:00",
+  "total_titles_processed": 779,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 11时16分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
@@ -26,19 +26,33 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 11时16分]"
         },
         {
           "title": "高志凯：要对美国“人工智能霸凌”说“不”",
           "url": "https://news.ifeng.com/c/8upHX3E0KP3",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 11时16分]"
+        },
+        {
+          "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+          "url": "https://wallstreetcn.com/articles/3777168",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 11时16分]"
         },
         {
           "title": "2026世界人工智能大会亮点速览",
@@ -52,28 +66,17 @@
           "time_info": "[00时21分 ~ 07时02分]"
         },
         {
-          "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
-          "url": "https://wallstreetcn.com/articles/3777168",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 07时02分]"
-        },
-        {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
           "url": "https://wallstreetcn.com/articles/3777174",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 11时16分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
@@ -85,8 +88,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 11时16分]"
+        },
+        {
+          "title": "感受人工智能的“智”与“志”",
+          "url": "https://www.baidu.com/s?wd=%E6%84%9F%E5%8F%97%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E2%80%9C%E6%99%BA%E2%80%9D%E4%B8%8E%E2%80%9C%E5%BF%97%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
         },
         {
           "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
@@ -124,6 +138,28 @@
           "time_info": "[06时01分 ~ 07时02分]"
         },
         {
+          "title": "世界人工智能大会超全攻略",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E8%B6%85%E5%85%A8%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
+          "title": "首届世界人工智能大会·学术正式亮相",
+          "url": "https://wallstreetcn.com/livenews/3135948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
           "title": "美国法官在一宗新型人工智能歧视案件中，拒绝叫停Meta Platforms(META.O)的裁员计划。",
           "url": "https://flash.jin10.com/detail/20260718012747898800",
           "source": "金十数据",
@@ -133,6 +169,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
+        },
+        {
+          "title": "工信部原副部长王江平：建议加大对优质人工智能终端消费的补贴",
+          "url": "https://wallstreetcn.com/livenews/3135943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "首届世界人工智能大会·学术正式亮相",
+          "url": "https://flash.jin10.com/detail/20260718094434762800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "据华尔街日报：SpaceX(SPCX.O)正在洽谈为五角大楼的人工智能推进计划提供计算能力。",
@@ -158,7 +216,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
