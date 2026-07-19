@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T19:15:49.908001+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-07-19T21:41:44.323217+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "世界人工智能大会超全攻略",
@@ -118,7 +118,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -143,6 +143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时10分"
+        },
+        {
+          "title": "毕马威中国主席：人工智能正加速转变为经济增长的核心引擎",
+          "url": "https://flash.jin10.com/detail/20260719203737137800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "中国平安亮相世界人工智能大会，发布医疗、保险、支付领域最新AI成果",
@@ -214,7 +225,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         }
