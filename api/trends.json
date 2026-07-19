@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T07:04:04.068432+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-07-19T11:36:45.477554+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "世界人工智能大会超全攻略",
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 07时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 11时36分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
@@ -33,6 +33,28 @@
           "time_info": "[01时05分 ~ 07时04分]"
         },
         {
+          "title": "看见中国人工智能创新力量",
+          "url": "https://www.douyin.com/hot/2576845",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "不筹量子发布原子量子人工智能基座“量筹一号”",
+          "url": "https://wallstreetcn.com/livenews/3136133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
           "title": "世界人工智能大会有何看点",
           "url": "https://www.douyin.com/hot/2575956",
           "source": "抖音",
@@ -42,12 +64,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "人工智能全球治理高级别会议在上海召开",
+          "url": "https://wallstreetcn.com/livenews/3136110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         }
       ]
     },
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
@@ -60,6 +93,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时05分 ~ 07时04分]"
+        },
+        {
+          "title": "安徽上半年汽车出口量达100.6万辆",
+          "url": "https://wallstreetcn.com/livenews/3136137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         }
       ]
     }
