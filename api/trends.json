@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T06:05:10.411821+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-07-20T08:04:38.583656+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
@@ -25,22 +25,24 @@
           "ranks": [
             13,
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时05分]"
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 08时04分]"
         },
         {
           "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
           "url": "https://m.thepaper.cn/newsDetail_forward_33614666",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 06时05分]"
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 08时04分]"
         },
         {
           "title": "《人工智能发展与安全倡议书》发布：为构建安全、可信、可控的人工智能共同奋斗",
