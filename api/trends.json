@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T02:16:21.832233+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-22T03:43:58.109859+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3137706",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 03时43分]"
         },
         {
           "title": "河北农民撒药护苗毒死邻居家 15 只羊获刑 4 年，这一判决合理吗？自家地撒药为何构成投放危险物质罪？",
@@ -26,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 03时43分]"
         }
       ]
     },
@@ -43,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 03时43分]"
         }
       ]
     },
@@ -57,11 +58,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E4%BB%A3%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%8F%98%E2%80%9C%E7%A7%BB%E5%8A%A8%E5%85%85%E7%94%B5%E5%AE%9D%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 03时43分]"
         }
       ]
     }
