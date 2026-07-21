@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T08:04:28.703459+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2026-07-21T12:21:19.564048+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
@@ -49,7 +49,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -71,7 +71,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -90,7 +90,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "今天为什么需要世界人工智能大会",
@@ -104,13 +104,24 @@
           "time_info": "[00时38分 ~ 08时04分]"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-07-21）",
+          "url": "https://flash.jin10.com/detail/20260721115253032800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "韩国《人工智能基本法》修订案落地，AI产业迎监管“大考”",
           "url": "https://flash.jin10.com/detail/20260721074234055800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -132,7 +143,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         }
@@ -149,7 +160,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         }
