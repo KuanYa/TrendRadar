@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T20:28:00.362568+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2026-07-21T23:10:24.035025+08:00",
+  "total_titles_processed": 1527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "贝莱德(BLK.N)、Carhartt、福特汽车(F.N)、谷歌(GOOG.O)联合推出新联盟，旨在扩大技能劳动力培训。",
@@ -43,6 +43,17 @@
           "time_info": "[04时37分 ~ 06时07分]"
         },
         {
+          "title": "联合汽车工人联合会将与通用汽车(GM.N)展开谈判。",
+          "url": "https://flash.jin10.com/detail/20260721223143902800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "美国总统特朗普：加拿大对从美国进口的汽车征收特定关税并实施配额限制，但未对其他国家采取此类措施。",
           "url": "https://flash.jin10.com/detail/20260721051526286800",
           "source": "金十数据",
@@ -74,6 +85,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "现代电动汽车变“移动充电宝”",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E4%BB%A3%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%8F%98%E2%80%9C%E7%A7%BB%E5%8A%A8%E5%85%85%E7%94%B5%E5%AE%9D%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "独库公路一辆汽车自燃致拥堵",
@@ -115,7 +137,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         },
@@ -126,7 +148,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         }
@@ -155,8 +177,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时27分 ~ 20时28分]"
+          "appearance_count": 3,
+          "time_info": "[20时27分 ~ 23时10分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-07-21）",
@@ -206,8 +228,19 @@
     },
     {
       "keyword_group": "农民",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "河北农民撒药护苗毒死邻居家 15 只羊获刑 4 年，这一判决合理吗？自家地撒药为何构成投放危险物质罪？",
+          "url": "https://www.zhihu.com/question/2062659274120098235",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
         {
           "title": "加拿大总理卡尼：面对（美国）这些措施及对加拿大主权的威胁，加拿大各省、各地区以及全国各地的民众团结一致，采取必要行动以支持本国经济，并捍卫加拿大工人、农民、企业及家庭的利益。",
           "url": "https://flash.jin10.com/detail/20260721075212659800",
