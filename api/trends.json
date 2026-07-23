@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-24T01:39:56.796584+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-07-24T03:38:38.150959+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33635920",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 03时38分]"
         },
         {
           "title": "AMD CEO苏姿丰在AMD Advancing AI大会上表示：预计人工智能（AI）加速器市场到2030年将达到1.4万亿美元规模。 预计数据中心CPU市场到2030年将达到2200亿美元规模。 整体而言，计算市场到2030年料将达到2万亿美元规模。 MI450 AI加速器是业内速度最快的。 全速生产Helios，即将发货。",
@@ -28,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "人工智能热潮提振市场 对冲基金资产增速创历史新高",
+          "url": "https://flash.jin10.com/detail/20260724025420081800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时38分"
         },
         {
           "title": "AMD(AMD.O)发布Helios人工智能服务器整机架。",
@@ -58,17 +70,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "新能源车跨境自驾遭远程锁车，车主称「事前未提醒出境会被锁车」，汽车售出后厂商该不该保留「控制权」？",
-          "url": "https://www.zhihu.com/question/2063532260934907357",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
-        },
-        {
           "title": "中国汽车加速全球化布局",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%8A%A0%E9%80%9F%E5%85%A8%E7%90%83%E5%8C%96%E5%B8%83%E5%B1%80%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -76,8 +77,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 03时38分]"
+        },
+        {
+          "title": "新能源车跨境自驾遭远程锁车，车主称「事前未提醒出境会被锁车」，汽车售出后厂商该不该保留「控制权」？",
+          "url": "https://www.zhihu.com/question/2063532260934907357",
+          "source": "知乎",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 03时38分]"
         },
         {
           "title": "汽车未礼让,女骑手敲窗警告",
@@ -87,8 +100,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 03时38分]"
         }
       ]
     },
@@ -101,11 +114,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E5%A8%81%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%B8%9C%E5%8C%97%E5%86%9C%E4%B8%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            18,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 03时38分]"
         }
       ]
     }
