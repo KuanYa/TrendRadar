@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T19:48:25.648394+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2026-07-24T22:02:48.595029+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             10,
             12,
             19,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时39分 ~ 19时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时39分 ~ 22时02分]"
         },
         {
           "title": "中国汽车加速全球化布局",
@@ -50,9 +51,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 22时02分]"
         },
         {
           "title": "【小鹏人形机器人正小批量试生产，量产产线进入最后联调阶段】小鹏人形机器人已在广州工厂正式开启小批量试生产，同时量产产线进入最后联调阶段，量产冲刺正式进入倒计时。此前，小鹏集团内部召开机器人量产动员大会，明确了关键时间节点：2026年实现人形机器人量产，预计2027年起将陆续进驻全球小鹏门店及商业场景，承担导购、讲解等服务。据悉，小鹏机器人业务整合集团在硬件、AI大模型、供应链及营销等模块能力，并将汽车业务积累的软硬件协同研发、智能制造与全球化渠道经验，系统性地复用于机器人领域，加速高阶人形机器人的量产与商业化进程。（新浪科技）",
@@ -119,7 +120,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -138,7 +139,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "据华尔街日报：消息人士称，Stripe正在洽谈收购人工智能模型聚合平台OpenRouter。",
@@ -150,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美国科技公司发布关于开放权重模型的公开信。该信件指出，开源权重模型对健康的AI生态系统至关重要。仅依赖封闭的人工智能模型并不安全。美国在人工智能领域面临开放权重的选择。",
+          "url": "https://flash.jin10.com/detail/20260724214133553800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
