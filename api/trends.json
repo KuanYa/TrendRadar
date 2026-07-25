@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T17:57:30.210923+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-07-25T19:20:07.568399+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 17时57分]"
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 19时20分]"
         },
         {
           "title": "美国农业部部长Rollins：美方将恢复从墨西哥进口牛。（华尔街日报）",
@@ -171,6 +171,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大数据",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "携程公布19项整改措施：全面、坚决防范“大数据杀熟”行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33658118",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
         }
       ]
     }
