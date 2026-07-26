@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T00:09:34.578328+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-27T02:07:21.246386+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时07分]"
         },
         {
           "title": "甘肃景区山洪冲走多辆汽车",
           "url": "https://www.baidu.com/s?wd=%E7%94%98%E8%82%83%E6%99%AF%E5%8C%BA%E5%B1%B1%E6%B4%AA%E5%86%B2%E8%B5%B0%E5%A4%9A%E8%BE%86%E6%B1%BD%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时07分]"
         },
         {
           "title": "德国内政部长：柏林汽车撞人事件疑似恐怖袭击",
@@ -51,11 +52,12 @@
           "url": "https://www.cls.cn/detail/2437146",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时07分]"
         }
       ]
     }
