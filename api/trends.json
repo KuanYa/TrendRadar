@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T05:19:36.189809+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-07-28T07:12:58.121533+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
@@ -72,7 +72,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -129,8 +129,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时49分 ~ 05时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时49分 ~ 07时12分]"
         },
         {
           "title": "据The Information：美国总统特朗普政府正在最终确定人工智能模型提交框架。",
@@ -139,7 +139,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         }
@@ -154,11 +154,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%86%9C%E4%B8%9A%E8%B0%88%E6%81%B6%E6%84%8F%E4%BB%85%E9%80%80%E6%AC%BE",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时49分 ~ 05时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时49分 ~ 07时12分]"
         }
       ]
     }
