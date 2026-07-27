@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T20:34:03.406907+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-07-27T23:55:30.530971+08:00",
+  "total_titles_processed": 1366,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时09分 ~ 06时06分]"
+        },
+        {
+          "title": "为什么现在的汽车都要宣传百公里加速多少，我要开那么快干什么？",
+          "url": "https://www.zhihu.com/question/2024602270579323820",
+          "source": "知乎",
+          "ranks": [
+            15,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时33分 ~ 23时55分]"
         },
         {
           "title": "崔东树：2026年1-6月汽车行业利润率3.8%",
@@ -44,17 +56,6 @@
           "time_info": "[00时09分 ~ 04时16分]"
         },
         {
-          "title": "为什么现在的汽车都要宣传百公里加速多少，我要开那么快干什么？",
-          "url": "https://www.zhihu.com/question/2024602270579323820",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时33分 ~ 20时34分]"
-        },
-        {
           "title": "德国内政部长：柏林汽车撞人事件疑似恐怖袭击",
           "url": "https://flash.jin10.com/detail/20260726230106866800",
           "source": "金十数据",
@@ -72,9 +73,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
+        },
+        {
+          "title": "女子脚卡汽车方向盘缝隙中 消防救援",
+          "url": "https://www.toutiao.com/trending/7666875365784240191/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "乘联分会秘书长崔东树：2026年1-6月汽车行业利润率3.8%",
@@ -105,7 +117,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         }
@@ -120,11 +132,12 @@
           "url": "https://www.cls.cn/detail/2438053",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时33分 ~ 20时34分]"
+          "appearance_count": 3,
+          "time_info": "[20时33分 ~ 23时55分]"
         },
         {
           "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
@@ -171,6 +184,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "央视农业谈恶意仅退款",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%86%9C%E4%B8%9A%E8%B0%88%E6%81%B6%E6%84%8F%E4%BB%85%E9%80%80%E6%AC%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         }
       ]
     },
