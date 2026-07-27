@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T16:39:25.082616+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2026-07-27T20:34:03.406907+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
@@ -44,6 +44,17 @@
           "time_info": "[00时09分 ~ 04时16分]"
         },
         {
+          "title": "为什么现在的汽车都要宣传百公里加速多少，我要开那么快干什么？",
+          "url": "https://www.zhihu.com/question/2024602270579323820",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
+        {
           "title": "德国内政部长：柏林汽车撞人事件疑似恐怖袭击",
           "url": "https://flash.jin10.com/detail/20260726230106866800",
           "source": "金十数据",
@@ -53,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "2026世界智能网联汽车大会将于10月举办",
+          "url": "https://wallstreetcn.com/livenews/3140304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "乘联分会秘书长崔东树：2026年1-6月汽车行业利润率3.8%",
@@ -75,13 +97,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "工信部：加快编制出台智能网联新能源汽车产业发展“十五五”规划",
+          "url": "https://wallstreetcn.com/livenews/3140281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
+          "url": "https://www.cls.cn/detail/2438053",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
         {
           "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
           "url": "https://www.cls.cn/detail/2437146",
@@ -94,6 +138,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时09分 ~ 08时08分]"
+        },
+        {
+          "title": "中方回应美拟制裁中国人工智能企业",
+          "url": "https://www.toutiao.com/trending/7667153251594145331/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
+        },
+        {
+          "title": "中方回应美方拟制裁中国人工智能企业",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E6%8B%9F%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BC%81%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 20时34分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-07-27）",
