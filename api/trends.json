@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T14:35:07.624799+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2026-07-28T17:54:45.988000+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "金十图示：2026年07月28日（周二）全球汽车制造商市值变化",
@@ -88,6 +88,28 @@
           "time_info": "05时19分"
         },
         {
+          "title": "智驾汽车自动泊车频繁调整仍失败",
+          "url": "https://www.toutiao.com/trending/7666818715241807935/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "雷军回应小米汽车第二张牌还能不能赢",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%AC%AC%E4%BA%8C%E5%BC%A0%E7%89%8C%E8%BF%98%E8%83%BD%E4%B8%8D%E8%83%BD%E8%B5%A2%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
           "title": "女子脚卡汽车方向盘缝隙中 消防救援",
           "url": "https://www.toutiao.com/trending/7666875365784240191/",
           "source": "今日头条",
@@ -102,7 +124,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
@@ -116,27 +138,29 @@
           "time_info": "[01时49分 ~ 07时12分]"
         },
         {
+          "title": "我国启动人工智能大模型IPv6能力提升专项行动",
+          "url": "https://www.cls.cn/detail/2438712",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 17时54分]"
+        },
+        {
           "title": "如何评价大连理工 2026 在陕招生，普通批仅 10 人全部为计算机人工智能？",
           "url": "https://www.zhihu.com/question/2063239728175043416",
           "source": "知乎",
           "ranks": [
             17,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 14时35分]"
-        },
-        {
-          "title": "我国启动人工智能大模型IPv6能力提升专项行动",
-          "url": "https://www.cls.cn/detail/2438712",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 14时35分]"
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 17时54分]"
         },
         {
           "title": "据The Information：美国总统特朗普政府正在最终确定人工智能模型提交框架。",
@@ -159,6 +183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "新加坡央行行长：市场将越来越关注人工智能商业收入增长，以证明相关金融风险是合理的。",
+          "url": "https://flash.jin10.com/detail/20260728173124184800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         }
       ]
     },
@@ -213,11 +248,12 @@
             7,
             6,
             28,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时49分 ~ 14时35分]"
+          "appearance_count": 8,
+          "time_info": "[01时49分 ~ 17时54分]"
         }
       ]
     }
