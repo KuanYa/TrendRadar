@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T20:08:20.815993+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2026-07-29T23:13:43.638759+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
@@ -19,17 +19,6 @@
           "time_info": "[01时42分 ~ 07时08分]"
         },
         {
-          "title": "新能源汽车智驾小蓝灯将禁用",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356616&amp;topic_name=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E5%B0%8F%E8%93%9D%E7%81%AF%E5%B0%86%E7%A6%81%E7%94%A8",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时08分"
-        },
-        {
           "title": "港股恒生科技指数盘中涨超3%，恒生指数涨1.66%，MiniMax(00100.HK)涨超12%，理想汽车(02015.HK)涨超10.5%，小米集团(01810.HK)、零跑汽车(09863.HK)均涨超8%，腾讯控股(00700.HK)涨超4.5%。",
           "url": "https://flash.jin10.com/detail/20260729111323767800",
           "source": "金十数据",
@@ -39,6 +28,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "新能源汽车智驾小蓝灯将禁用",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356616&amp;topic_name=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E5%B0%8F%E8%93%9D%E7%81%AF%E5%B0%86%E7%A6%81%E7%94%A8",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 23时13分]"
         },
         {
           "title": "10家中国汽车相关企业进入世界500强",
@@ -91,7 +92,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         }
@@ -99,7 +100,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "浙江：聚焦集成电路、智能物联、高端软件 推动人工智能与信息技术产业深度融合",
@@ -111,6 +112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
+        },
+        {
+          "title": "资管公司Aberdeen Investments：人工智能可能在短期内加大通胀压力。",
+          "url": "https://flash.jin10.com/detail/20260729225256887800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "黄仁勋呼吁支持开源权重人工智能模型",
@@ -135,6 +147,17 @@
           "time_info": "11时23分"
         },
         {
+          "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33672802",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "法国建筑商圣戈班与微软签署框架协议，进一步巩固在建筑领域的人工智能领导地位。",
           "url": "https://flash.jin10.com/detail/20260729022019074800",
           "source": "金十数据",
@@ -152,7 +175,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         }
