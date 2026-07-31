@@ -1,123 +1,22 @@
 {
-  "generated_at": "2026-07-31T21:03:07.944595+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-08-01T00:06:56.584890+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "白宫顾问哈塞特：人工智能（AI）并没有给美国造成通货膨胀。 如有必要，我们将继续降低油价。",
-          "url": "https://wallstreetcn.com/livenews/3142656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-07-31）",
-          "url": "https://flash.jin10.com/detail/20260731115746440800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "日本央行行长植田和男：人工智能支出本身推高了价格。",
-          "url": "https://flash.jin10.com/detail/20260731152600329800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
-          "title": "【谷歌发布Gemini机器人AI模型，旨在解决机器人“灵巧性”难题】Alphabet旗下的谷歌DeepMind发布了一款名为Gemini Robotics 2的新型机器人人工智能模型，该模型使类人机器能够协调全身运动。这一新系统使机器人能够在推理任务的同时进行行走、蹲下和操纵物体，并能自上而下地指挥整个类人机器人。谷歌DeepMind还发布了另外两款机器人AI模型——Gemini Robotics ER 2和On-Device 2。它们可以协同工作或独立运行，以规划多步骤任务并协调多个机器人。",
-          "url": "https://wallstreetcn.com/livenews/3142550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "国家发展改革委：上半年人工智能相关行业保持30%以上高增长",
-          "url": "https://wallstreetcn.com/livenews/3142887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "欧盟8月2日起执行《人工智能法》相关规定 新增AI透明度要求",
-          "url": "https://wallstreetcn.com/livenews/3143245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "男子用汽车放电功能帮父亲浇地",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8%E6%B1%BD%E8%BD%A6%E6%94%BE%E7%94%B5%E5%8A%9F%E8%83%BD%E5%B8%AE%E7%88%B6%E4%BA%B2%E6%B5%87%E5%9C%B0",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 06时15分]"
-        },
-        {
-          "title": "周四（7月30日），彭博电动汽车价格回报指数涨1.78%，报3315.10点，亚太早盘冲高回落、北京时间13:03刷新日低至3250.10点之后持续上扬。",
-          "url": "https://wallstreetcn.com/livenews/3142640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
       "match_count": 1,
       "titles": [
         {
-          "title": "农业农村部：要持续推进生猪产能综合调控，统筹抓好“菜篮子”产品生产",
-          "url": "https://wallstreetcn.com/livenews/3143248",
+          "title": "欧盟宣布扩大实施《人工智能法》",
+          "url": "https://wallstreetcn.com/livenews/3143349",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时03分"
+          "time_info": "00时06分"
         }
       ]
     }
