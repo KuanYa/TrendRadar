@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T12:26:51.902204+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-08-01T15:33:15.158712+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "岚图汽车：2026年7月交付13189辆，1-7月累计交付89453辆，同比增长31%。",
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
@@ -25,9 +25,45 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
+        },
+        {
+          "title": "零跑汽车7月交付突破10万台，创造车新势力单月交付新高",
+          "url": "https://wallstreetcn.com/livenews/3143549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 15时33分]"
+        },
+        {
+          "title": "深蓝汽车：7月全球销量29213辆，同比增长7.52%",
+          "url": "https://wallstreetcn.com/livenews/3143543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 15时33分]"
+        },
+        {
+          "title": "理想汽车2026年7月交付30468辆",
+          "url": "https://wallstreetcn.com/livenews/3143542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 15时33分]"
         },
         {
           "title": "周五（7月31日），彭博电动汽车价格回报指数涨0.16%，报3320.82点，本周累计上涨2.80%，7月份累计下跌6.80%，整体持续走低。",
@@ -52,15 +88,15 @@
           "time_info": "08时07分"
         },
         {
-          "title": "零跑汽车7月交付突破10万台，创造车新势力单月交付新高",
-          "url": "https://wallstreetcn.com/livenews/3143549",
-          "source": "华尔街见闻-快讯",
+          "title": "起亚汽车美国公司7月销量创纪录，达75,857辆，同比增长7%。",
+          "url": "https://flash.jin10.com/detail/20260801145745700800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时26分"
+          "time_info": "15时33分"
         },
         {
           "title": "极狐汽车：7月交付23,517台，同比增长150.45%，1-7月累计交付超10万台。",
@@ -69,31 +105,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
         {
-          "title": "深蓝汽车：7月全球销量29213辆，同比增长7.52%",
-          "url": "https://wallstreetcn.com/livenews/3143543",
+          "title": "小鹏汽车：7月交付车辆38027辆。",
+          "url": "https://wallstreetcn.com/livenews/3143557",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "理想汽车2026年7月交付30468辆",
-          "url": "https://wallstreetcn.com/livenews/3143542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "time_info": "15时33分"
         },
         {
           "title": "监拍男子盗割汽车充电桩电缆线",
@@ -113,7 +138,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
@@ -124,7 +149,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         },
@@ -135,7 +160,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         }
@@ -179,11 +204,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33691591",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 15时33分]"
         }
       ]
     }
