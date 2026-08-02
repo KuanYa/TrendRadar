@@ -1,150 +1,22 @@
 {
-  "generated_at": "2026-08-02T22:41:35.098677+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2026-08-03T00:07:36.780150+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
         {
-          "title": "电动汽车开了5年 电池应该在啥水平",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%BC%80%E4%BA%865%E5%B9%B4+%E7%94%B5%E6%B1%A0%E5%BA%94%E8%AF%A5%E5%9C%A8%E5%95%A5%E6%B0%B4%E5%B9%B3",
+          "title": "近120万辆特斯拉汽车遭调查",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%91120%E4%B8%87%E8%BE%86%E7%89%B9%E6%96%AF%E6%8B%89%E6%B1%BD%E8%BD%A6%E9%81%AD%E8%B0%83%E6%9F%A5",
           "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "长安汽车宣布，7月交付20.71万辆，其中，新能源交付96500辆，同比增长28.8%。",
-          "url": "https://wallstreetcn.com/livenews/3143656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 20时10分]"
-        },
-        {
-          "title": "比亚迪7月销售41.9万辆汽车",
-          "url": "https://www.toutiao.com/trending/7668443476165623850/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 04时13分]"
-        },
-        {
-          "title": "现代和起亚上半年在欧洲的电动汽车销量超过10万辆",
-          "url": "https://flash.jin10.com/detail/20260802111250104800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "吉利宣布成立吉利汽车集团销售总公司",
-          "url": "https://flash.jin10.com/detail/20260802144547809800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时37分"
-        },
-        {
-          "title": "比亚迪：2026年7月新能源汽车产量超42万辆",
-          "url": "https://flash.jin10.com/detail/20260802163133049800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "长安汽车：7月交付20.71万辆，其中新能源交付96500辆，同比增长28.8%。",
-          "url": "https://flash.jin10.com/detail/20260802141956200800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时37分"
-        },
-        {
-          "title": "长城汽车：2026年7月汽车产销量同比均实现增长",
-          "url": "https://flash.jin10.com/detail/20260802154419810800",
-          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "人工智能助力直肠癌个性化化疗",
-          "url": "https://wallstreetcn.com/livenews/3143612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 08时04分]"
-        },
-        {
-          "title": "Visa(V.N)计划裁员2600人，因人工智能应用和成本削减推动重组。",
-          "url": "https://flash.jin10.com/detail/20260802094512188800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "大米、蔗糖与三文鱼：厄尔尼诺现象如何加剧全球农业危机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33691591",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 08时04分]"
+          "time_info": "00时07分"
         }
       ]
     }
