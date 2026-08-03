@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T12:37:05.830928+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2026-08-03T16:36:45.806641+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "近120万辆特斯拉汽车遭调查",
@@ -30,14 +30,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 12时37分]"
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 16时36分]"
+        },
+        {
+          "title": "许勤梁惠玲会见李书福：进一步深化汽车研发生产等方面务实合作",
+          "url": "https://wallstreetcn.com/livenews/3143972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-08-03）",
@@ -46,9 +57,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
+        },
+        {
+          "title": "阿里巴巴(BABA.N)盘前涨超4%，此前发布千问3.8-MAX人工智能模型。",
+          "url": "https://flash.jin10.com/detail/20260803160818204800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         }
       ]
     }
