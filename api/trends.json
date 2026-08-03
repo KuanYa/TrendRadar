@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-08-03T16:36:45.806641+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-08-03T20:33:19.792647+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国信通院：2025年我国人工智能产业规模超1.2万亿元",
+          "url": "https://flash.jin10.com/detail/20260803201044238800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时33分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-08-03）",
+          "url": "https://flash.jin10.com/detail/20260803120029547800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "阿里巴巴(BABA.N)盘前涨超4%，此前发布千问3.8-MAX人工智能模型。",
+          "url": "https://flash.jin10.com/detail/20260803160818204800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        }
+      ]
+    },
     {
       "keyword_group": "汽车",
       "match_count": 3,
@@ -40,35 +79,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-08-03）",
-          "url": "https://flash.jin10.com/detail/20260803120029547800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        },
-        {
-          "title": "阿里巴巴(BABA.N)盘前涨超4%，此前发布千问3.8-MAX人工智能模型。",
-          "url": "https://flash.jin10.com/detail/20260803160818204800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "16时36分"
         }
