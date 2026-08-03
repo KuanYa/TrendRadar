@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T06:02:36.067711+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-08-03T08:05:27.457065+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "近120万辆特斯拉汽车遭调查",
@@ -14,11 +14,23 @@
           "ranks": [
             16,
             8,
-            9
+            9,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 06时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 08时05分]"
+        },
+        {
+          "title": "方程豹 7 月销量超 4 万辆，这对新能源汽车市场意味着什么？越野市场需求被打开了吗？",
+          "url": "https://www.zhihu.com/question/2066988587279718231",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         }
       ]
     }
