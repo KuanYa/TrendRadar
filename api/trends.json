@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T11:23:08.283342+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2026-08-06T14:40:30.208984+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -94,6 +94,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股农业板块再度拉升，秋乐种业涨超15%，神农种业、敦煌种业、康农种业纷纷上扬。",
+          "url": "https://wallstreetcn.com/livenews/3145844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "澎湃回声｜汕头农业农村局：初步核实，涉事企业牛蛙货源来自长沙和湛江",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33727891",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "A股农业板块异动拉升，秋乐种业涨超10%，金健米业涨停，神农种业、京粮控股、新赛股份、敦煌种业等纷纷走高。",
+          "url": "https://wallstreetcn.com/livenews/3145814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         }
       ]
     },
