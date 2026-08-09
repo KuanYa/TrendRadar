@@ -1,8 +1,82 @@
 {
-  "generated_at": "2026-08-09T15:07:38.120268+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2026-08-09T16:54:49.403438+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "汽车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
+          "url": "https://www.zhihu.com/question/2068266947939153909",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时37分 ~ 07时36分]"
+        },
+        {
+          "title": "雪佛兰正式停售中国市场，如何评价这个汽车品牌在华的 21 年？",
+          "url": "https://www.zhihu.com/question/2069357693840667744",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时24分 ~ 16时54分]"
+        },
+        {
+          "title": "恒大汽车还剩最后一口气",
+          "url": "https://www.baidu.com/s?wd=%E6%81%92%E5%A4%A7%E6%B1%BD%E8%BD%A6%E8%BF%98%E5%89%A9%E6%9C%80%E5%90%8E%E4%B8%80%E5%8F%A3%E6%B0%94",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "玉米",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "潜逃10天被抓嫌犯疑靠吃玉米维生",
+          "url": "https://www.baidu.com/s?wd=%E6%BD%9C%E9%80%8310%E5%A4%A9%E8%A2%AB%E6%8A%93%E5%AB%8C%E7%8A%AF%E7%96%91%E9%9D%A0%E5%90%83%E7%8E%89%E7%B1%B3%E7%BB%B4%E7%94%9F",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            9,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 07时36分]"
+        },
+        {
+          "title": "萌娃帮爷爷脱玉米 卖力干活超可爱",
+          "url": "https://www.baidu.com/s?wd=%E8%90%8C%E5%A8%83%E5%B8%AE%E7%88%B7%E7%88%B7%E8%84%B1%E7%8E%89%E7%B1%B3+%E5%8D%96%E5%8A%9B%E5%B9%B2%E6%B4%BB%E8%B6%85%E5%8F%AF%E7%88%B1",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能",
       "match_count": 2,
@@ -30,62 +104,12 @@
             1,
             3,
             6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时18分 ~ 15时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
-          "url": "https://www.zhihu.com/question/2068266947939153909",
-          "source": "知乎",
-          "ranks": [
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时37分 ~ 07时36分]"
-        },
-        {
-          "title": "雪佛兰正式停售中国市场，如何评价这个汽车品牌在华的 21 年？",
-          "url": "https://www.zhihu.com/question/2069357693840667744",
-          "source": "知乎",
-          "ranks": [
             7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时24分 ~ 15时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "玉米",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "潜逃10天被抓嫌犯疑靠吃玉米维生",
-          "url": "https://www.baidu.com/s?wd=%E6%BD%9C%E9%80%8310%E5%A4%A9%E8%A2%AB%E6%8A%93%E5%AB%8C%E7%8A%AF%E7%96%91%E9%9D%A0%E5%90%83%E7%8E%89%E7%B1%B3%E7%BB%B4%E7%94%9F",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            9,
-            12,
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时36分]"
+          "appearance_count": 5,
+          "time_info": "[10时18分 ~ 16时54分]"
         }
       ]
     },
