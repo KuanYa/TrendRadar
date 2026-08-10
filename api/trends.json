@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T19:54:32.428528+08:00",
-  "total_titles_processed": 1424,
+  "generated_at": "2026-08-10T21:26:10.725298+08:00",
+  "total_titles_processed": 1554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "市场消息：Meta Platforms CEO扎克伯格在一篇6500字的文章中阐述了新的人工智能愿景。",
@@ -17,6 +17,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "据The Information：微软将大幅提高人工智能芯片产量。",
+          "url": "https://flash.jin10.com/detail/20260810210320250800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "据The Information：微软计划于9月发布其下一代MAIA 300人工智能芯片。",
+          "url": "https://flash.jin10.com/detail/20260810210202456800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "据The Information：微软(MSFT.O)自主研发的人工智能芯片项目在经历了缓慢的起步阶段后，展现出复苏迹象。",
+          "url": "https://flash.jin10.com/detail/20260810210139889800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-08-10）",
@@ -39,6 +72,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "农业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "农业“变酷”只是第一步",
+          "url": "https://www.baidu.com/s?wd=%E5%86%9C%E4%B8%9A%E2%80%9C%E5%8F%98%E9%85%B7%E2%80%9D%E5%8F%AA%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AD%A5",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 21时26分]"
+        },
+        {
+          "title": "农业农村部和中国气象局继续发布农田渍涝风险预警",
+          "url": "https://wallstreetcn.com/livenews/3147441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "国家人工智能应用中试基地（农业领域农作物种植方向）启动",
+          "url": "https://wallstreetcn.com/livenews/3147514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         }
       ]
     },
@@ -67,23 +139,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "农业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "农业农村部和中国气象局继续发布农田渍涝风险预警",
-          "url": "https://wallstreetcn.com/livenews/3147441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
         }
       ]
     },
