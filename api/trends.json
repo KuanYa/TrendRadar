@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T04:57:59.835090+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-12T05:57:51.904372+08:00",
+  "total_titles_processed": 365,
   "failed_sources": [],
   "trends": [
     {
@@ -23,22 +23,24 @@
           "url": "https://wallstreetcn.com/livenews/3148241",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时57分]"
         },
         {
           "title": "周二（8月11日），彭博电动汽车价格回报指数跌1.27%，报3478.39点，亚太时段持续下跌、北京时间14:00以来低位窄幅震荡、交投于3480点附近。",
           "url": "https://wallstreetcn.com/livenews/3148234",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时57分]"
         }
       ]
     }
