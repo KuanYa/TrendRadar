@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T10:14:47.413657+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2026-08-11T12:27:18.005257+08:00",
+  "total_titles_processed": 910,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "英伟达(NVDA.O)CEO黄仁勋：人工智能实验室和人工智能初创公司需要计算能力。",
@@ -82,15 +82,76 @@
           "time_info": "[05时51分 ~ 06时47分]"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-08-11）",
+          "url": "https://flash.jin10.com/detail/20260811115144518800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
           "title": "原字节跳动机器人一号位加入小米，负责基座模型研发，这透露出小米在人工智能领域的哪些战略意图？",
           "url": "https://www.zhihu.com/question/2069868469005326051",
           "source": "知乎",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "汽车",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美国联邦航空管理局（FAA）：预计将于当地时间8月23日上午10:15至下午1:15暂停里根国家机场航班运行，以支持“Freedom250”汽车赛事。",
+          "url": "https://flash.jin10.com/detail/20260811014801581800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        },
+        {
+          "title": "知情人士称，通用汽车公司准备将其位于印第安纳州、计划投资35亿美元的电动汽车电池合资项目中的一半股权出售给合作伙伴三星SDI。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3147820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "周一（8月10日）纽约尾盘，彭博电动汽车价格回报指数涨1.44%，报3523.01点。 亚太盘初显著走高，北京时间14:00以来持续高位窄幅震荡。",
+          "url": "https://wallstreetcn.com/livenews/3147675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "金十图示：2026年08月11日（周二）全球汽车制造商市值变化",
+          "url": "https://flash.jin10.com/detail/20260811111058055800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         }
       ]
     },
@@ -116,37 +177,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国联邦航空管理局（FAA）：预计将于当地时间8月23日上午10:15至下午1:15暂停里根国家机场航班运行，以支持“Freedom250”汽车赛事。",
-          "url": "https://flash.jin10.com/detail/20260811014801581800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "周一（8月10日）纽约尾盘，彭博电动汽车价格回报指数涨1.44%，报3523.01点。 亚太盘初显著走高，北京时间14:00以来持续高位窄幅震荡。",
-          "url": "https://wallstreetcn.com/livenews/3147675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
         }
       ]
     }
