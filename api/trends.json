@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T03:04:45.738305+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-15T04:38:14.754479+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
+          "appearance_count": 3,
+          "time_info": "[03时04分 ~ 04时38分]"
         },
         {
           "title": "美联储古尔斯比表示，支持7月维持利率不变的决定。他指出，近期两次生产率数据表现不理想，若生产率继续走低，美联储可能需要重新审视市场对人工智能（AI）的预期。 古尔斯比表示，最新CPI数据令人鼓舞，但仍需观察更多数据才能作出判断；持续的消费疲软令人担忧，不过零售销售疲弱目前仅是单月表现。与此同时，美国GDP和劳动力市场整体保持基本稳定。",
@@ -60,8 +60,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
+          "appearance_count": 3,
+          "time_info": "[03时04分 ~ 04时38分]"
         }
       ]
     }
